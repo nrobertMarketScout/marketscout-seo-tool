@@ -1,0 +1,1 @@
+# marketscout-seo-tool
