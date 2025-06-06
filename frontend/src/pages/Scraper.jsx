@@ -1,71 +1,59 @@
-// frontend/src/pages/Scraper.jsx
-import React, { useState } from 'react';
-import axios from 'axios';
+// src/pages/Scraper.jsx
+import React, { useState } from 'react'
+import { runScrape } from '../api/run'
 
-export default function Scraper () {
-  const [file, setFile] = useState(null);
-  const [log, setLog] = useState('');
-  const [loading, setLoading] = useState(false);
-  const [downloadUrl, setDownloadUrl] = useState(null);
+const Scraper = () => {
+  const [file, setFile] = useState(null)
+  const [status, setStatus] = useState('')
+  const [isLoading, setIsLoading] = useState(false)
 
   const handleFileChange = (e) => {
-    setFile(e.target.files[0]);
-    setLog('');
-    setDownloadUrl(null);
-  };
+    setFile(e.target.files[0])
+    setStatus('')
+  }
 
-  const handleUpload = async () => {
-    if (!file) return;
-    setLoading(true);
-    setLog('Uploading file and starting scrape...');
+  const handleSubmit = async () => {
+    if (!file) {
+      setStatus('❌ Please select a CSV file.')
+      return
+    }
 
-    const formData = new FormData();
-    formData.append('file', file);
+    setIsLoading(true)
+    setStatus('⏳ Uploading and starting scrape...')
 
     try {
-      const res = await axios.post('/api/scrape', formData, {
-        headers: { 'Content-Type': 'multipart/form-data' },
-      });
-      setLog(res.data.log || 'Scrape completed.');
-      setDownloadUrl(res.data.zipUrl || null);
+      const response = await runScrape(file)
+      setStatus(`✅ Scrape complete. ${response.message || 'Results generated.'}`)
     } catch (err) {
-      setLog('❌ Failed to start scrape.');
+      console.error('Scrape failed:', err)
+      setStatus(`❌ Error: ${err.message}`)
     } finally {
-      setLoading(false);
+      setIsLoading(false)
     }
-  };
+  }
 
   return (
-    <div className="space-y-4">
-      <h2 className="text-xl font-bold">🛠️ Scrape Engine</h2>
+    <div className="p-6 max-w-xl mx-auto">
+      <h1 className="text-2xl font-bold mb-4">🗂️ Upload Input CSV</h1>
+
       <input
         type="file"
+        accept=".csv"
         onChange={handleFileChange}
-        className="block w-full file:mr-4 file:px-4 file:py-2 file:border-0 file:rounded-md file:bg-blue-500 file:text-white hover:file:bg-blue-600"
+        className="mb-4"
       />
+
       <button
-        onClick={handleUpload}
-        disabled={!file || loading}
-        className="px-4 py-2 bg-green-600 text-white rounded disabled:opacity-50"
+        onClick={handleSubmit}
+        disabled={isLoading}
+        className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded"
       >
-        {loading ? 'Running...' : 'Start Scrape'}
+        {isLoading ? 'Running...' : 'Start Scrape'}
       </button>
 
-      {log && (
-        <pre className="bg-gray-900 text-green-300 text-sm p-3 rounded overflow-auto max-h-64 whitespace-pre-wrap">
-          {log}
-        </pre>
-      )}
-
-      {downloadUrl && (
-        <a
-          href={downloadUrl}
-          download
-          className="inline-block mt-2 px-4 py-2 bg-purple-600 text-white rounded hover:bg-purple-700"
-        >
-          📦 Download Results (ZIP)
-        </a>
-      )}
+      {status && <p className="mt-4 text-sm">{status}</p>}
     </div>
-  );
+  )
 }
+
+export default Scraper
