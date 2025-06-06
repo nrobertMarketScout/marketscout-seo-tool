@@ -16,6 +16,9 @@ const PORT = process.env.PORT || 3001
 app.use(cors())
 app.use(express.json())
 
+import runRoute from './api/run.js' // ← adjust path if in different folder
+app.use('/api/run', runRoute)
+
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
 const encoder = encoding_for_model('gpt-4')
 
