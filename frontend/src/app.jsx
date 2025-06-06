@@ -20,6 +20,8 @@ export default function App () {
           <NavLink to="/heatmap" className={navClass}>🗺️ Heatmap</NavLink>
           <NavLink to="/scraper" className={navClass}>🛠️ Scraper</NavLink>
           <NavLink to="/bot" className={navClass}>🤖 Rank & Rent Bot</NavLink>
+          <NavLink to="/memory">🧠 Memory</NavLink>
+
         </nav>
         <main className="p-4 max-w-screen-xl mx-auto">
           <Routes>
@@ -27,6 +29,7 @@ export default function App () {
             <Route path="/heatmap" element={<Heatmap />} />
             <Route path="/scraper" element={<Scraper />} />
             <Route path="/bot" element={<Bot />} />
+            <Route path="/memory" element={<MemoryArchive />} />
             <Route path="*" element={<p>Select a tool from the navigation bar.</p>} />
           </Routes>
         </main>
