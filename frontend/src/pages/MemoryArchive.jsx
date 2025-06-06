@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import { Button } from '@/components/ui/button'
 
 export default function MemoryArchive () {
   const [archive, setArchive] = useState([])
@@ -65,7 +64,12 @@ export default function MemoryArchive () {
               <p className="text-sm text-gray-500">{new Date(selected.timestamp).toLocaleString()}</p>
               <h2 className="text-lg font-semibold mb-2">{selected.question}</h2>
               <pre className="whitespace-pre-wrap text-sm bg-gray-50 p-2 rounded max-h-[60vh] overflow-auto">{selected.response}</pre>
-              <Button className="mt-4" onClick={download}>⬇️ Export</Button>
+              <button
+                onClick={download}
+                className="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+              >
+                ⬇️ Export
+              </button>
             </>
           ) : (
             <p className="text-gray-400 italic">Select an entry to view it</p>

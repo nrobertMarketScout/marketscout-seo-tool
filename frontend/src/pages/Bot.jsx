@@ -1,6 +1,7 @@
 // Bot.jsx (Enhanced with full Rank & Rent Expert integration)
 
 import React, { useEffect, useState, useRef } from 'react';
+import { askQuestion } from '../api/ask'
 
 const LOCAL_STORAGE_KEY = 'rankrent_chat_memory';
 
@@ -37,13 +38,8 @@ export default function Bot () {
     setExamplesVisible(false);
 
     try {
-      const res = await fetch('http://localhost:11434/ask', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ question: userMsg.text, history: messages })
-      });
-      const data = await res.json();
-      const botMsg = { sender: 'bot', text: data.answer };
+      const answer = await askQuestion(userMsg.text);  // ✅ Uses helper
+      const botMsg = { sender: 'bot', text: answer };
       const updated = [...messages, userMsg, botMsg];
       setMessages(updated);
       localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(updated));

@@ -1,64 +1,80 @@
 // server.js
+import dotenv from 'dotenv'
+dotenv.config()
 
 import express from 'express'
 import cors from 'cors'
 import fs from 'fs'
 import path from 'path'
-import dotenv from 'dotenv'
 import { OpenAI } from 'openai'
-import { RecursiveCharacterTextSplitter } from 'langchain/text_splitter'
-import { MemoryVectorStore } from 'langchain/vectorstores/memory'
-import { OpenAIEmbeddings } from 'langchain/embeddings/openai'
-import { ConversationChain } from 'langchain/chains'
-import { BufferMemory } from 'langchain/memory'
-import { ChatOpenAI } from 'langchain/chat_models/openai'
+import { cosineSimilarity } from './utils/math.js'
+import { encoding_for_model } from 'tiktoken'
 
-dotenv.config()
 const app = express()
-const port = 5001
+const PORT = process.env.PORT || 3001
 
 app.use(cors())
-app.use(express.json({ limit: '50mb' }))
+app.use(express.json())
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
-const dataDir = path.resolve('data')
-const chunksPath = path.join(dataDir, 'chunks.json')
-const embeddingsPath = path.join(dataDir, 'embeddings.json')
+const encoder = encoding_for_model('gpt-4')
 
-let vectorStore = null
-let memory = new BufferMemory({ returnMessages: true, memoryKey: 'chat_history' })
-
-async function loadVectorStore() {
-  const chunks = JSON.parse(fs.readFileSync(chunksPath, 'utf-8'))
-  const embeddings = JSON.parse(fs.readFileSync(embeddingsPath, 'utf-8'))
-  vectorStore = new MemoryVectorStore(new OpenAIEmbeddings(), { similarityThreshold: 0.7 })
-  await Promise.all(
-    chunks.map(async (chunk, i) => {
-      await vectorStore.addDocuments([{ pageContent: chunk.text, metadata: { source: chunk.source } }], [embeddings[i]])
-    })
-  )
-}
-
-await loadVectorStore()
-console.log(`✅ Vector store loaded with ${vectorStore.memoryVectors.length} items.`)
-
-const chain = new ConversationChain({
-  llm: new ChatOpenAI({ modelName: 'gpt-4', temperature: 0 }),
-  memory,
-})
+const CHUNK_PATH = path.join(process.cwd(), 'data', 'chunks.json')
+const EMBEDDING_PATH = path.join(process.cwd(), 'data', 'embeddings.json')
+const LOG_PATH = path.join(process.cwd(), 'data', 'rank_and_rent_bot_log.json')
 
 app.post('/ask', async (req, res) => {
   const { question } = req.body
+  if (!question) return res.status(400).json({ error: 'Missing question' })
+
   try {
-    const relevant = await vectorStore.similaritySearch(question, 5)
-    const context = relevant.map(doc => doc.pageContent).join('\n\n')
-    const prompt = `Context:\n${context}\n\nQuestion: ${question}`
-    const result = await chain.call({ input: prompt })
-    res.json({ answer: result.response })
+    const chunks = JSON.parse(fs.readFileSync(CHUNK_PATH, 'utf-8'))
+    const embeddings = JSON.parse(fs.readFileSync(EMBEDDING_PATH, 'utf-8'))
+
+    const embeddingResponse = await openai.embeddings.create({
+      model: 'text-embedding-3-large',
+      input: question
+    })
+    const questionEmbedding = embeddingResponse.data[0].embedding
+
+    const similarities = embeddings.map((emb, i) => ({
+      score: cosineSimilarity(questionEmbedding, emb),
+      chunk: chunks[i]
+    }))
+
+    const top = similarities
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 5)
+      .map(({ chunk }) => `- ${chunk.text}`)
+
+    const context = top.join('\n\n')
+    const prompt = `Use the context below to answer the question. If it isn't relevant, say so.\n\nContext:\n${context}\n\nQuestion:\n${question}`
+
+    const chat = await openai.chat.completions.create({
+      model: 'gpt-4',
+      messages: [
+        { role: 'system', content: 'You are a helpful SEO and rank & rent business expert.' },
+        { role: 'user', content: prompt }
+      ]
+    })
+
+    const answer = chat.choices[0].message.content.trim()
+
+    // Save memory log
+    const log = fs.existsSync(LOG_PATH)
+      ? JSON.parse(fs.readFileSync(LOG_PATH, 'utf-8'))
+      : []
+
+    log.push({ timestamp: new Date().toISOString(), question, response: answer })
+    fs.writeFileSync(LOG_PATH, JSON.stringify(log, null, 2))
+
+    res.json({ answer })
   } catch (err) {
-    console.error('Error handling /ask:', err)
-    res.status(500).json({ error: 'Internal Server Error' })
+    console.error('❌ /ask failed:', err)
+    res.status(500).json({ error: 'AI request failed' })
   }
 })
 
-app.listen(port, () => console.log(`🟢 Server ready at http://localhost:${port}`))
+app.listen(PORT, () => {
+  console.log(`✅ Server listening on http://localhost:${PORT}`)
+})
