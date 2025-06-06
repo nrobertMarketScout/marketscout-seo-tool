@@ -1,0 +1,37 @@
+How do we determine how a campaign is doing or why is it not doing well?
+So on the screen here I brought up this is a this is a good one to look at because this is one where
+Nick has a good website that's ranking well and SEO wise it's bringing in enough leads so we've
+we've kind of supplemented with a little bit of ad spend during the colder months
+and so I want to show you what the numbers that we're seeing here so you can kind of get an idea
+of what to look at so your your the answer to the question is going to be in the data
+so in the data here what I like to do is I like to pull up where my keywords are
+you can also pull this up in in the ads and the assets I like to look at what keywords are landing
+where they're landing and you can see here you know this this ad itself has had three total
+conversions it's had a little bit more than that but we're going to we're going to look at those
+ones that got they got tagged what they're getting tagged for we're looking at the total
+impressions here the big thing I'm looking for here is that am I getting impressions
+and am I getting a CTR which is the click through rate so in general about five you know four to
+four to six percent is considered decent and and you're doing a good job above that is is a really
+good job there's people that make millions of dollars a year selling at two to three percent
+CTR okay so a lot of it is just about volume but for us for our purposes if you're hitting in the
+above six percent on the CTR you're probably doing something good the other the other way to
+look at this too is another way to look at it is this search impression rate and if you go to
+columns if you don't have that on yours you can go to modify columns here you go to the competitive
+metrics right here and you'll see that top left search impression share and then you click apply
+and that brings that column up for you and so if this search if this search impression share is
+in the higher range or above 50 you're doing really really well and what you can do is you
+can use that data if I'm not getting the impressions that I want then I need to look at my my daily
+budget and what I'm bidding cpc wise and that's the first place to look the second place to look
+is where my CTR is my CTR is in the four percent range then I need to understand why typically
+that's going to be a budget issue and or possibly an ad copy issue but if your budget looks good and
+the cpc looks good if you go back and look at google google keyword planner and and that is
+where it needs to be then I would look at my ad copy next and then after that we look at
+search impression share and that tells us how we're doing to our competitors and then we have
+the conversion rate after that the conversion rate I'm not too worried about because most of
+you are not setting up the conversion tag so it's something you don't really need to worry about
+right now but that those are the things that I look at if my impressions are good I have good CTR
+I'm doing favorable with the search impression share now I start looking at my landing page
+only then do I start looking at my landing page after I've checked my ad copy is my ad
+copyright is my ad copy landing for the search terms that I want for the services I'm providing
+and you know there's everything working does the number work on it and all those things
+and then you want now you want to go start addressing your landing page issue

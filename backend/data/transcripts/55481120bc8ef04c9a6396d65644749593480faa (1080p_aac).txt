@@ -1,0 +1,658 @@
+All right. There we go. All right, guys. Welcome to the call. November 5th election day. Wow.
+Here we go. Got two months left in the year. First and foremost, just to get really, we're
+going to get right into it today. But one thing I wanted to say is I wanted to thank
+everybody who was part of our beta test group. We appreciate you guys. I'm going to be bringing
+Ryan on here in a second. We appreciate you guys putting trust in the product and knowing
+we'll make sure that it's a great product. We're trying to implement. I'm giving Ryan feedback. I
+hear you guys. I have my team working on it. We're trying to get as much feedback as possible.
+It's not going to be perfect, but we're going to work our way towards it. We're going to allow you
+guys to help us build this tool. And I'm going to be able to help take your feedback, give it to
+Ryan, and create the best rank and rent tool on the internet. Okay? So anyway, I wanted to
+let you guys know that we appreciate you guys being part of that beta test group.
+And yeah, that's basically all I wanted to say before I bring Ryan on. I'm going to bring Ryan
+Dalton, Mr. $87,000 per month. If you guys do not know Ryan Dalton, maybe you just joined the group.
+Ryan joined back a little over two years ago and has scaled up to $87,000 per month. He is a master
+of systems. He's a master of organization. And this was a perfect project for him to take all
+of his skill sets and put it into creating the perfect tool, the only tool that you need.
+And today, specifically, we're going to be talking about search volume and what the minimum search
+volume needs to be for you to have confidence to go into a city, any niche. And on top of that,
+we're also going to be answering questions, going into more of the tool itself for any of you guys
+that had questions. I know we had the call earlier. I guess it was last night for you guys. It was
+earlier today for me, and we had a bunch of really, really good questions. So any questions that you
+have related to the software we want to answer, clear up, et cetera. We're going to talk about
+search volume. And then if we have any time for anything else, we'll do that as well. So let me
+bring Ryan on really quick and we will get going. Hold on. Three, two, one, admits.
+And apparently, oh, there we go. We're working.
+Yo. Can you hear me? Yeah, I got you. Beautiful. Okay. Ryan Dalton. Welcome to the call, dude.
+Hey, everybody. Yeah, I know some people that they were on the call that was for me this morning.
+This has been the longest day of my life. I got two hours and 11 minutes of sleep, exactly per
+the watch here, per the whoop, two hours, 11 minutes. But I did get a little nappy on the couch.
+Good to be back. We had Ryan on a few times and you guys should know who he is. If not, then you
+guys need to be a little more active in the group. Mr. $87,000 per month joined a little over two
+years ago, full-time job, family, kids, the entire thing, all the objections that people used to have
+don't have time. I've got kids, blah, blah, blah. Ryan basically ruined that for all of you guys
+because he's got all of those objections and he still did it. So anytime anyone tells me any of
+these things, I just send them the interview with Ryan. I'm like, well, this guy did it. So it's
+possible, which means it's possible for you. So what we're going to do today, guys, as I mentioned,
+I want to get right into this. I want to specifically talk about search volume because
+it's something that we've been talking about. We haven't been putting it off, but I've really
+wanted to make sure we get it dialed in so that we don't give you guys bad advice or something
+I'm not a hundred percent confident in. So over the past few weeks, since we launched this tool,
+what's it been, Ryan, four and a half weeks, something like that? Yeah, about four and a half
+weeks. I've been going in looking at not just one of my projects, but I've looked at like four or
+five, six of my projects that are ranking very well consistently for years, looking at how many
+leads they have. They're ranked really high, looking at what the tool says to them and then
+saying, okay, if I was to make a guess, what's the minimum search volume that a city and niche has to
+have? Okay. So anyway, Ryan, anything that you want to cover before we get started on that front
+or anything that you want to chat on other than that? I just think it's a super important call.
+This stuff is not static. I mean, it changes over time. So revisiting some of the fundamentals of
+local lead generation is always a great way to spend some time. Search volume I've found
+more and more with my agency is king, right? Where everything for me begins with search volume. So
+having conversations about what people see as working and what isn't is very useful.
+And search volume, guys, it's part of due diligence. And I will stand by this forever.
+Due diligence is the most important step in the process, right? Because no matter how good you
+are at sales, if you do a bad job on picking an area and there's no hungry business owners,
+your life becomes very difficult. If you pick a really good city that's low competition,
+great search volume, lots of hungry business owners, you could be a mediocre at best salesman,
+not even a good salesperson, and you're going to get deals. So I truly believe that due diligence
+is actually the most important step in the process. And this is part of due diligence. Now,
+I did notice that there was a couple other questions like what about this, that, and the
+rest. Some of those things, if we don't know the exact, we don't have a very solid answer yet per
+the tool, because this is going to be our staple tool going forward, then I'm going to let you guys
+know that. But specifically on search volume, we are going to address that today. Okay? So
+really quick, though, just to welcome people in the call, we've got Simon, we've got Nicholas
+Kudlick, we've got Beau, we've got Kevin Mijo, we've got Corey Gilbert, Mr. St. George Utah,
+Ryan Martez, we've got JC Crozier, what's going on? We've got Jason Allred, Mr. Utah, Ryan,
+the best example of F your excuses, a hundred percent. Corey says, Ryan Dalton, I have that
+same safe. If you want to go shoot some Tannerite, let me know. Dude, let's go. Let's go, man. I put
+some 556s and Tannerite with you. You guys and your Tannerite, dude. You know, it's funny. I
+actually met Corey in person and we actually had the same conversation about Tannerite. So
+I have a feeling he's got a few stacks of that stuff. It's good to have someone stand by. Yeah,
+you have to. You have to. Okay. So guys, let's start with this. I want to start with how we
+used to recommend the search volume. Okay. Now I want to go very basic. Search volume. And Ryan,
+I know that for you, you do look at population a little bit. You've kind of kind of a slightly
+different process. But for me, I kind of just go sheer like basically almost exclusively off of
+search volume, because in my mind, it doesn't really matter. I do think population matters
+to an extent because the bigger the population, typically the more competitive. Would you agree
+with that? Yeah. I mean, certainly there's a correlation. I pay attention to population
+insofar as I'm interested in if it's a growth area, right? Where maybe other people are not
+looking because I'm able to look there and see like, all right, two years ago, this was the
+population. Now it's this population. If it continues at this rate, it's this population.
+And if there's people moving there, people building homes or whatever, that's going to
+increase search volume over time and I can get in early. But aside from that, search volume is king
+for sure. That's a good point. And when I disregard search or population, it's in the sense of like
+I've been in other programs where they don't even talk about search volume. It's just like
+go into a city with this kind of a population and that's it. I like what Ryan's saying and I'll give
+you guys a good example. Bentonville, Arkansas, Bentonville concrete. You guys have heard me
+share this example many, many times. Bentonville concrete was a very low population when I started.
+The reason I was confident going into that city, guys, is because I had lived in that city for
+three summers in a row and I had watched every summer that we came back. There was new
+neighborhoods popping up everywhere and I had heard that Walmart had implemented this rule
+that said if you want to sell to Walmart, if you are a vendor, if you are somebody that sells
+jerky, for example, to Walmart, you have to have somebody from your office living in that city.
+I'm like, okay, that means that if people are going to keep selling to Walmart, they have to
+have somebody that lives in the city, naturally the city is going to keep growing. That was just like
+an intuition gut instinct type of a decision that I made and I knew the area. I think that's really
+important and we may end up adding that to the training. Real quick, how do you look at,
+do you just go ahead and search population growth over the past five years for the specific city?
+Yeah, so I'll use chat GPT and prompt it with a question about population growth and it'll
+give me instances of cities that are growing. Then I also do what you do where I live in Tennessee
+and I know which areas are growing because I know my area and then I know areas where friends live
+and I just listen. I'm always thinking about local lead generation. They're talking about their new
+you know move to some area in Tennessee and they're talking about how everyone's moving
+there and how it's the new like little darling hotspot. I think probably a good spot for a site
+and so I'll go look at that and see like, okay, the numbers are not quite what I want them to be
+just on its face but I know this area is growing so I'm going to see what happens and usually turns
+out pretty good. I like that. Give us an example. You don't have to give us too much your secret
+sauce but when you say a prompt with chat GPT, what do you mean? Do you say, hey, what are some
+of the areas, what cities in the US, what cities in the Midwest have a 200% increase in population
+over the past five years like something like that? Yeah, you can't really go wrong with your prompt
+if you're trying to get it population growth. I start pretty wide. I start just in the United
+States and I say give me the suburbs in the United States that have the greatest population
+growth over the last, over the previous two years and it'll think for a second and then it'll spit
+out you know however many, right? I can tap it and say give me the most recent 20 and that's where
+I'll start my due diligence, right? Where I'll look at, okay, these are growing and maybe these
+are off the radar of other lean generators. They're not looking at these yet and that can
+also filter by population size. So if I think that you know the population is too big and it's growing,
+I could say give me populations under you know 100,000 and then I'll take that and plug it into
+search volume tools and look at, okay, what is the actual search volume? Because I don't really care
+like you said about population being like the metric. I want it to be what is the actual search
+volume but I will start with is this an area that is trending because trending growth means
+that there's people that are buying things. They have to build. They have to you know refurbish
+homes. There's people that are probably going to invest in those markets that are looking to
+replace their driveways and their brick and those kinds of things. So genius. I think that's really,
+really smart. So anyway that's just something to think about guys. One other little wrinkle
+and guys, the answer that we're going to come give you here in just a moment on the search volume
+side per what RankinRent Engine says, there are going to be some caveats to it, okay?
+So let's, I'm trying to think. I don't think we necessarily need to show this on the RankinRent.
+So what I'll do, maybe I'll just discuss what I think is going to be the, I'm trying to think
+what would be the best way if I could, do we think we need to show this or we could just kind of
+discuss it and then we can get into the tool after? Yeah, let's talk through it and then we
+can show it. Okay. So I'm going to pull up some of the metrics that I found. Let's see. Let me go to,
+so here's what I did guys. All right there. So as I told you was I was coming up with this
+and again, the thing that we're addressing is what, when you're doing your due diligence,
+what is the minimum search volume that can give you the, at least in that area that says, hey,
+I know at the very least there's going to be enough volume because some of the issues that
+people run into is they go into a city, it looks good, it's low competition, it's the right niche,
+you know, whatever, and they start running ads and they get a couple leads and then it's like,
+it just dies, right? Or I don't know, have you ever had this happen, Ryan? You build a website,
+you rank it and you're still only getting like 10 leads and you're like the number one person.
+Have you ever had that happen or have you never gone to a city that has that low search? Many
+times, many times. And the mistake, the number one mistake that I made when that's happened
+is I get impatient and I need it. I did that in, I'll just say, I did that in Selena, Texas,
+the suburb of, I think it's the Dallas, Fort Worth area. And it was not getting what I wanted. I
+thought it's going to go great. And I just got impatient and I was like, I'm not renewing this
+domain. I'm getting rid of this domain. I don't just nuke the site, just get rid of it, right?
+I don't want a bunch of riffraff in my site portfolio. The mistake I made is that that city
+is still growing, right? It's still like, there's only so much space in the Dallas, Fort Worth area.
+And so it's going to eventually be within my parameters, right? And it might go from,
+10 leads to 20 leads over the course of the next couple of years per month. And I should have kept
+it, right? So I just let those sit because all that's going to happen is that domain is going to
+age. It's going to get hit with some more backlinks. It's going to, and it'll be number one forever.
+You can't beat that very easily. That's so hyper local that you're glued to the top at that point.
+Glued, glued. So that's a good point. And I actually have a situation like that as well.
+And just because I don't check it long enough, it was kind of pissing me off. It wasn't getting
+enough leads. We got a deal, but it was very low. And then the city just started growing. It's a
+city in Utah. And it's kind of like, over the past, this year, I'll give you an example,
+looking at the data right now, this is a city of the population of 35,000. And it's averaged,
+there isn't concrete. It's averaged 13.1 calls per month. This is through October 30th. And it's
+averaged another 3.7 per month with the quote form. So I'm averaging close to 18 leads per month.
+And I almost ripped the city. It's not making me a ton of money. It's making me like 600 bucks
+a month. But dude, 500, 600 bucks a month, go find that on a real estate deal right now.
+You know what I'm saying? Yeah. And where else is that business owner going to get leads?
+Exactly. What other option do they have? If you're getting 18 leads a month in that area,
+and you're number one, and you're running ads, and you're doing everything right,
+what other options do they have at that point? You're locked in with that business owner.
+100%. 100%. So here's the projects I looked at. I want to give you guys kind of a range.
+I looked at, let me see. We got one, two, three, four. I looked at five different projects.
+And when I did the training before version one and version two, I basically just took one project
+because it was ranking really well. That was Bentonville Concrete. And I said, okay,
+I know how many leads this is getting. It's ranking in the GMB. It's ranking in the maps.
+And I want to compare that with what the tool says. Well, one thing that happened that I didn't
+even think about is as we start to talk about Bentonville Concrete, the people in the group,
+and maybe even in the free group, are searching Bentonville Concrete. So I think, I personally
+think it had an effect and kind of skewed the numbers a little bit on that city. It drove the
+cost up significantly on the cost per click and everything else. So I ended up looking at five
+different projects. Of those, one, two, three of those are in concrete. One of them is in towing
+and one of them is in duct cleaning. I kind of wanted to get a little bit of a mix.
+We had a ranging population. One of them was a 35,000 population. All the way up to the highest
+was a 95,000 population. So nothing that's too big, okay? But here's what I came up with. And
+this is what Ryan and I, after discussing with his research, my research, is that we don't have
+an exact, exact, exact, but we have a range. And what we mean by that is if you go into a city
+that is very low-hanging fruit, very non-competitive, low CPC, not much competition,
+that you can just tell the people that are in the, that are ranking for those keywords,
+brand new websites, or they're not very old, they don't have much content, they don't have
+much backlinks. It looks like just a bunch of hillbilly freaking people ranking against you.
+In those situations, we can safely say 50 on it, again, using the rank and rent engine search tool,
+due diligence tool. If it says 50, you're in good hands. That's on a low competition
+area. If it's on a medium competition area where, okay, a couple of your competitors on,
+you know, for your main keywords, they have a pretty good website. Maybe you're going up
+against a rank and rent person that's a medium competition. You could still rank,
+but it's going to be a bit more difficult. Maybe the CPC is tipping closer to five,
+maybe even slightly over. You want to make sure you're at least 70, okay? And again,
+this is on your main keyword, your main keyword. What was the other thing? Oh,
+then the last thing I was going to say, and on those cities that are high competition,
+you shouldn't be going into anyway, you freaking dummies. No, I'm just kidding.
+But if it's high competition, you shouldn't be going into it. So if it's medium competition,
+make sure it's 70. If it's low competition, 50 you can get away with. And that's good. I
+feel pretty dang confident about saying that. Now, keep in mind, if you're running ads,
+the ads during the winter, during certain times of the year, it's going to be up and down a bit.
+But we know that if we can get the ads going, if we can get ranked organically,
+and you know, in some cases, maybe grab a GMB if you get lucky, then you're going to be in
+great shape. So anything you want to add to that, Ryan, I know that's like a bit anticlimactic. Maybe
+you guys expect it to be something different, but again, this is not with any tool because we're not
+before it was use any tool. We're specifically talking about rank and rent engine with this.
+And that's why we wanted to wait to come out with this. So go ahead, Ryan.
+Totally. I think Nick nailed it. I agree with this. This is my assessment as well.
+These things change over time. This is why Nick's group, Digital Landlords, you know, why you're
+staying on the cutting edge of the trade craft of this industry is really important because these
+are not, it's not static. These are things to revisit and these things to look at. But there
+are some things that are like timeless principles. One of them being that search volume is going to be
+the largest like driver for success for what a market looks like. And so really paying attention
+to what's succeeding and what isn't matters a lot. Those numbers are, I totally agree with those
+numbers. The only little thing that I would add to that is that, and I think I saw a question kind
+of getting to this in the chat, that the search volume for the primary keyword should include
+variants of that keyword. So for example, concrete contractor, contractor near me, right? Those are
+going to, if you have like 40 for one and 20 for the other, that's showing 60 between the two of
+those. That's like, that's your primary keyword and a variant of it. That's going to get you the
+results that you're looking for. Okay. I have a question for you. I'm curious your thoughts.
+Let's say I go into rank and run engine. I'm doing concrete. I have concrete contractor,
+concrete, concrete sidewalk, concrete driveway, concrete company, all the main keywords of our
+keyword list. My main keyword has 50 and all my other keywords show zero. What are you going into
+this? Low competition. If it's low competition, I'd try it and see what happens. It's generally
+not a good sign if the core keyword list has zero as search volume, because I found that those are
+likely often true. However, the caveat that I give on this is that if it shows zero for those and you
+go into it and try it, there are examples I found where it has turned out awesome. So it's worth
+trying is what I would say, especially with you guys that do the pre-selling method. It's worth
+trying because what do you have to lose, right? A little bit of ad spend to know if it works or
+it doesn't, and it's a place that others will overlook, right? Because they're saying like,
+oh, this is too low, whatever. But these tools, even the very best like rank and run engine pulls
+directly in from Google. Google Keyword Planner is the best, right? That is Google saying, here's what
+we're seeing in our search ecosystem. And that is the standard, right? And so we're pulling in API
+data from them. And so if Google is saying that, sometimes they don't always know perfectly. And
+if Google doesn't know, these other tools sure don't know. So you might be able to find one where
+you're going to be able to win and you're not going to have anyone that's going to come in and try to
+catch you before you can close the business owner. So I've had that happen before as well. So it
+doesn't deter me. That's another thing that I like. When I was using SEMrush before, it seemed
+for whatever reason I would type in, let's say Bentonville concrete, it would show nothing. And
+then I type in concrete Bentonville AR, and it would show 50. And it was so confusing. But the
+way that I kind of went after it, I was always like, I was guessing a bit, but I was like, well,
+if I see at least two keywords, two variations, and I have all these different variations I would
+try, okay, then I'm good. Like with St. George, for example, St. George, people spell it S-T
+George. Some people spell it S-A-I-N-T George. So I'd have to try all these variations. So anyway,
+it's just nice because I'm able to just go and look at all the keywords at once if I'm like,
+okay, I want to try just a slight difference. Yeah, I can go change it all at once and run them
+instantly. But I definitely agree, guys. That's the beautiful thing about doing the pre-song.
+I was just going to say, Ryan, if I were to ask you, hey, with that same scenario, 50 search volume,
+zero on the other keywords, would you go and build a website there by the domain, do the whole thing?
+I bet you your answer would be no, because you're not 100% confident. But I'd be willing to try it
+for 100 bucks, right? Throw 100 bucks ads out. Yeah. Yeah. I mean, I don't think there's a wrong
+answer there. Some people will put up sites just to put up a site and see what happens and then
+let it sit. And then the worst case scenario is, is two years later, you've got a domain age
+of two years that no one can touch you on if they try to come in there, at least on that,
+on your domain age. But it makes way more sense if you're optimizing for speed and just trying
+to see which one is going to land to, hey, throw something up there, run some ads to it. If it
+doesn't work, move on. 100%. And I would argue, guys, if you are going into a niche like a concrete
+and you find a city that's really low-hanging fruit and it's questionable, you know that this
+example I'm giving you guys with the 35,000 population, it's slowly started to grow.
+You know people need concrete. So even if you build it and there's not a ton of leads,
+there's always a deal to be had. But because I believe in pre-selling, because I only sell
+using the pre-selling method, I know that some of you guys have been frustrated in the past
+because you go in, it looks good. It's low-hanging fruit. It's kind of on that teetering edge
+of volume. You do the ads and then all of a sudden you start like, it goes like a week and
+you don't see anything. So if you want to be very, very, very, very conservative,
+I would say 70 and above, as long as it's medium competition or less, you're good to go. But again,
+if it's low competition, I think you could go as low as 50 and be pretty safe. But again,
+there's variables. It's hard to just give a black and white. If there's no volume for the
+ancillary keywords, that could be a red flag. If there's just all kinds of different little
+tiny factors that you need to consider. So a couple of questions I want to address really quick.
+Gina says, I know a city near us in Georgia, but there is not a great search volume.
+Do you still go into it? I think she's referring to probably a city that's growing.
+She said there's not great search volume. I think in that case, just like what you just said,
+you can kind of get an age domain going, kind of make a long-term play, but you're probably not
+going to see a lot right out the gates, even if you run ads, if there's not much search volume.
+What are your thoughts? Yeah. It depends on your perception of that city, I think. So I've got a
+city in Tennessee that is really small on the search volume numbers, do not look good. But I
+know that that city is growing. I know that there are people moving there, that people want to live
+there, that it's got a upward trajectory that is unmatched by any other city really in Tennessee
+right now. So I put one there and that site kills it. It's doing great. So Gina, I'd say like, look,
+it depends on the way that you build your agency and your own personal approach to
+your risk assessment, right? Are you willing to see what happens if you put a hundred bucks
+of ads into it? Because it could mean that you find something that no one else is looking at
+and no one else is going to find. And if you do, that's a win, right? In my agency, I tend to go
+for those things. I tend to just say, hey, let's try it out. Let's see what happens and experiment.
+A lot of this business model I've found is try it, right? Just see what happens. And if it works,
+you've got a winner. And if it doesn't work, at least now you know, and you're not going to
+just always be wondering about it. Right. I think that's solid advice. Richard says,
+for the main keyword question mark, what about the long tail keyword? I think we addressed that,
+right? Maybe he said that before we got into it, but we kind of addressed that, correct?
+Yeah. Yeah. I think it's helpful to understand why would someone search for a long tail keyword?
+In your own search habits, why would a person search habits? Why would they search for a
+long tail keyword? And think about if I'm living in Memphis and I want a concrete contractor,
+I'm just going to search concrete contractor, right? Because I don't need to search. Google
+knows where I live. It's going to pull up local search. If someone searches the long tail keyword,
+concrete contractor in Memphis, Tennessee, they probably do not live in the Memphis area. So
+they're looking from outside. Who looks from outside of a city? General contractors, builders,
+investors, people that are looking to do projects in the city, commercial, people looking for
+commercial work that manage a commercial facility in the city. So I found that if the
+long tail keyword has search volume, it probably is a high growth area because it means that people
+from outside the city who have money, who want to invest in properties in that city by doing some
+kind of project related to that keyword are searching for it, right? That's kind of the
+psychology behind long tail keywords that I found has been indicative of a growth area.
+Okay, let's keep moving along. And guys, if you have any questions related to the search volume
+topic before we get into more of the software side. By the way, I didn't even mention this
+at the beginning, which is bad, but we're going to be, again, I said this at the beginning,
+we appreciate everyone that did the beta stuff. We're like one month, our original deal, we gave
+everybody two months of free beta, right? Was that what it was? Or two months of 20% off.
+And anyway, we just appreciate that feedback. And I know we've implemented, you've implemented
+quite a few of the changes already, haven't you, Ryan? Yeah. Yeah. So thanks to everyone that did
+beta. Some of these are here. So Richard particularly has been super helpful. He submitted
+a bunch of tickets. You guys, this is made by the people that do this business model. This isn't
+made by some corporation that's sitting in Silicon Valley. This is made by people that are doing
+rank and rent, people that are industry leaders in this area that have built agencies that are
+successful, what works, what doesn't. That's how this tool was created. So we're continuing that
+approach in the way that we build rank and rent engine, right? If you're a user and you're like,
+hey, be cool if it did this, be cool if it did this. We have a feature request that you could
+put in and that goes straight to my inbox. And I look at those and I'm like, you know what?
+That'd be great. Let's do that. And then I just task out the developers and they go and they create
+it, right? We add it to the product roadmap. So over the course of beta, we found edge cases
+and things like that that were important for you guys to have it in the platform.
+And we made those updates. And so it's been really, really useful. And part of the,
+there was a discount for the first two months for people that were the early signups for beta.
+And we really appreciate you guys. Yeah. Quick question, just a clarification, Ryan.
+The people that did do beta, if they want to, are they able to tap into an extended
+discount based on what we set up or do we have to, or is it just, is it done?
+Yeah. If they've already made an account and they took advantage of the beta pricing,
+that was for early access for the folks in the beta. And so they've got that.
+We'll have deals and things like that in the future. They'll get access to things that come
+out later on just as a gesture of saying, thank you. But they got locked into that early pricing
+from the job. Also for you guys that are in this, we're going to make sure that we take care of you
+guys above everybody. So just keep that in mind. And again, we just want to say we appreciate the
+feedback. Okay. Bo says, okay, this one I'm going to read the question. You can give your feedback.
+I'm going to give my feedback and I'm going to tell you what my answer is. But he says,
+can you touch on CPC on Rare? Before I read the whole question, I'm going to let you know this,
+Bo, is that I have a pretty solid answer because of course we're looking at this. There's another
+question that's related to the backlinks. There's a couple different components of due diligence.
+We're just making sure that we're dialed in. On the CPC, I'm at the same place I was a few weeks
+ago with the search volume, which is I'm in, this campaign's performing well. How does it look
+inside of RankinRen Engine? Okay. Now I can confidently say this is what it should be. So
+I don't have a solid answer. Do this every time. Is it the average of this for you just yet? But I
+just will answer by saying that's what I'm working on now. Now that we have the search volume piece,
+now we're working on what the CPC should be according to Rare, as well as the backlinks
+as well. So I don't know, Ryan, do you have anything else you want to add on that?
+Yeah. I'd say that you're trying to get on the high top of page to get the most leads,
+but it's not the end of the world if you don't. This goes back into like, this is a little bit
+squishy, right? You're going to have to try it out. You're going to have to see what works for you.
+And then see what kind of results that you're actually getting. So if I see a high top of page
+bid that is like 20 bucks, I'm not going to even fool with it, right? But if I see one that's $10
+and then the low top of page bid is $1 and it's averaging at five, I'm totally comfortable with
+that, right? Because what I'll do is also run ads that are a little bit off hours as well. So starting
+at 7.30 in the morning through, I don't know, 7 p.m. at night where others are not running ads,
+I'm going to take advantage of that high top of page bid when others are not running ads. Maybe
+there's end at 5 p.m. and mine runs until 7 p.m. I'm going to get cheaper ad clicks in that two
+hour delta between those times. So there's strategies and tactics that you can deploy to
+take advantage of the less expensive clicks. But I don't worry about the high top of page bid if I
+think that on an average across my keywords that I'm going to do okay for my campaign forecasting.
+Beautiful. So yeah, Bo, stay tuned. We'll have more details on that. I would rather let you know,
+say that to you than give you some random answer. I have to come back and correct. So anyway,
+so guys, that's search volume, okay? 50 on the low end, low competition, 50, medium competition,
+70. If you want to be extra safe, do 70 and above. To be honest, if it's your first project,
+maybe make sure it's 70 and above. But at the end of the day, guys, make sure that we're following
+the exact recipe, right? I've given you the recipe of how to bake the perfect cake.
+Can you deviate from it and still have success? Yeah, some of you guys have probably done that on
+accident and still have success. And then you get in your head, oh my gosh, this is untrue, but
+that's an anomaly. And we've done this a lot of times. I've lost a lot of money. I've made the
+mistakes. So the closer you can get to the advice that we're giving you, it's because we've tried
+it, we've tested it, and that is what we've seen to work. Can it still work if you deviate slightly?
+Yes. But every time you deviate, you're running the risk of messing up that recipe that actually
+works. All right. That is, I think, all the questions that we had so far on search volume.
+We've nailed that. I know you guys have been waiting on that. If anyone has any clarifications,
+keep going. Other than that, Ryan, why don't we open back the tool? I know last time,
+I'm going to give you co-host, I know last time we literally only got to talk about
+due diligence. We got to talk about the Explorer website, kind of do the metrics on that.
+We didn't get a ton into the project stuff, the list of projects, the CRM, that kind of stuff. So
+let me give you co-host real quick, sir. Let me see why this doesn't work. Hold on.
+All right. Beautiful. Okay, done.
+Cool. Fire it up. Where do you want to go with it? Where do you want to take this train today?
+I just want you to give them a bit more. Last time when we talked, I always get hung up talking
+and talking and talking about the due diligence, because to me, that's the easiest way that I could
+just see how valuable this is, because that's how much time it took me to do due diligence
+when I was coming up and doing them literally on sheets of paper. But there's so much more
+that this does. I think more of the project management, show them more on what they can
+do with the CRM, just some of that stuff, especially for the people that maybe weren't
+on the call last time. I don't think we had a ton of people on the last time we did it. We
+didn't promote it super hard because we were just doing a beta anyway. I think we could also talk
+about the Keyword Planner, but let's just get into this. Guys, for those that have no idea what
+that we're talking about, this is Rank and Run Engine. This is something that Ryan's been working
+on for 15 months. It's the version 2.0 of what he's used to scale his agency. It's our go-to
+standard tool that we are going to be using exclusively because it's getting data directly
+from Google and because we can control it and we can give Ryan feedback and a host of different
+reasons. It's super affordable. It's less than the price of a tool of it, like SEMrush, et cetera.
+But that is what this is, and we're just going to be talking about that a bit today. For those of
+you that did not get the beta code, you can message me and I have a code that you guys can use as a
+launch code that you guys can access as well. If you were not part of the beta and you're
+interested, message me. I'll send you a code. We can go from there. Ryan, let's go into some
+of these different features, some of these different benefits that this tool has.
+For sure. Let's talk about Bo's question. Bo asked about the difference between the low
+top of page bid and the high top of page bid. This is Keyword Planner. We're going to do the
+keyword masonry and we're doing it in Knoxville. You guys that are building your agencies need to,
+one of the most important things you can understand about this keyword tool is some of them are going
+to have local cities that are smaller. Some of them have DMA regions, which are much larger.
+You can go into bigger markets sometimes if you know that your search volume is good and your cost
+per click is really low. This is an example. Brick related things in the Knoxville area.
+I'm not saying that this meets the population requirements. I'm not saying that it's low
+hanging fruit. I'm just using this as an example to answer Bo's question. I had this pulled up.
+He was asking about the difference with low top of page bid and high top of page bid.
+Google's saying, hey, it's $1.43 per click for the low and $3.92 for the high. That's awesome.
+That's a great keyword. Some of these, though, guys are more expensive. I'm going to do masonry
+and masonry contractor near me. You can see that the difference between four bucks and $33 almost
+is pretty significant. There's other keywords in here that are going to be gold mines. Let me just
+do bricks, veneers. This goes to Gene's question a little bit about building a good keyword list.
+Look at this. 140 search volume and less than $2. Just because an industry has those really,
+really high dollar amounts doesn't mean that it's not viable. You can find these keywords
+that people look for brick veneers. That's a really high ticket service. You get to re-brick
+a whole house with brick veneers and it's going to be really expensive. You can get that click
+for less than two bucks. Until you and I talk, I didn't even know what that was.
+If somebody's searching brick veneers, they are buying the service. They are in buy mode. That
+means you've gone down the rabbit hole a little bit in your research. Am I correct in that?
+Yeah, man. Yeah. They're looking for ... Brick veneers is a specialty brick service that
+it's not a DIY thing, man. You're not doing DIY brick veneers usually unless you're
+Bob Villa, right? It's just not happening. Another is tuck pointing.
+Hold on. Is brick veneering just like doing veneers on your teeth? Do they whittle your
+teeth down so you look like a gremlin and then they put the caps on?
+Yeah. Yeah. They do that to your house. That's crazy, dude.
+They put brick veneers on the outside of the house to give that timeless brick look. It's
+really popular. You can see just on the search volume here how popular this is.
+That's another money keyword that ... There's these variations here, right? Brick paneling.
+People that search this don't know to call it brick veneers, but they know what it is.
+Thin brick, brick veneers. You can see that even though if you do masonry contractor and you're
+mean, it's 30 bucks a click. The people that are looking for brick veneers are looking brick
+paneling and these other brick-related overlay type keywords. They're looking for a masonry
+contractor. You don't have to get totally hung up on, oh, it's $30. This isn't going to work.
+This is just another way to search for that primary keyword.
+I have a question, Ryan. Let's say that we were looking that up. Let's say we're in masonry.
+We find out masonry is 30 bucks a click top, the high end. You're like, okay, I could go and target
+terms like this on my ads. On your SEO side, would you still be targeting the term masonry
+as your H1 on your page title, that kind of thing, or would you change that strategy at all?
+100%. This is still going to be masonry near me. They're looking for a brick masonry contractor.
+That's the expensive one. It's $18. It's a cost per click average. This is still what I'm targeting.
+This is still my primary keyword. It's still going to my H1. It's still going to my landing page,
+but if I run ads to it, it is probably not going to make the mix.
+The reason I wanted to bring that up, guys, is that the thing that's interesting is when you see
+high CPC, it's terrible for ads, but nothing's better than when you have organic
+leads coming in for those high CPC terms. That usually means that they're very highly sought
+after. The good strategy is get your clicks for the low cost terms, start ranking for the high
+cost terms, and between the two, you have a freaking smasher of a website. It also looks
+like the freaking hooptie of websites, the Geo Metro of websites while you're at it.
+Yeah, absolutely. That's a great strategy. You're able to take advantage of these other
+keywords that are overlooked. Let's see. Did I misspell that? Tuck, oink, ding.
+Okay. Spelling is hard when I'm doing it live. All right. This one is another good example of
+a keyword that between tuck pointing and tuck pointing near me and some of these others,
+there might be 40 or 50 searches a month, but it's going to be super cheap clicks.
+That's not a DIY thing. Someone's paying a mason to come out and do that. Be mindful of,
+just because you see that high top of page bid doesn't mean that it's not a viable market.
+Look for some of these keywords that they're looking for a specialist to do. They're just
+not using the specialist primary keyword that has that high cost per click.
+Gina had a really interesting suggestion. I don't know if you want to wrap up this thought,
+or if you're done, but maybe you could show ... You don't have to show a full,
+but maybe we could pick a niche and you could show us how you go about building a keyword list
+using rank and run engine, coming up with ideas, seeing what's highly searched,
+that kind of thing. I don't know if that's something you could show us.
+Yeah, dude. Let's do it live. What do you got? Give me a niche. What do you want to do?
+Let's stay away from the regulars, but let's keep it still. Let's ask Gina. Gina, what do you got?
+Give us something that's not concrete, tree service, spray foam insulation, and we'll do it.
+If it is one of those, then let's keep going. I love those niches. I still make money in those
+niches. We're still closing deals in those niches, but I guess I'm just a little tired of talking
+about concrete, personally. It's only because I've been doing it for three years. I'm still
+going to do it. I just am tired of talking about it. I love some demo.
+Yeah, exactly. If you're watching this car right now, demo, I've got some demo clients and they do
+not bat an eye at $1,500 a month. They don't think twice about it because the demo jobs,
+entry-level demo jobs are high ticket, but they'll get jobs that are like,
+I had a demo job come in for one of my clients that was a quarter million dollars.
+Crazy. Yeah. Let's do some demo. Let's do demo.
+Just to answer Gina's question really quick, she says, are we not using the Google Trends?
+No, guys. We want to see how Ryan's using this to build his keyword list. Remember, we're redoing
+the training 3.0. In the meantime, you can still follow everything the exact same. The training is
+still how I build my keyword list. You got to remember, this tool just came out three,
+four weeks ago. I'm still taking my strategy using how I used to and then how am I going to
+use it here, looking at what Ryan's doing. But no, for anybody that's confused, just keep following
+the training. It still works as how I've continually made thousands and thousands of dollars, but we
+want to see how Ryan's using Rare because we want to utilize and just beat the heck out of this tool
+as much as possible if we're going to have it. Let's do demolition and let's build a keyword
+list. But anyone else that's confused, keep doing what you're doing. This is just to see how Ryan's
+doing. This could also be a good way to generate additional ideas if you're hung up trying to find
+and build that keyword list. Let's see how you do it, man. Yeah, 100%. Guys, we're showing you a
+part of the keyword analysis process, Nick, and the training starts with Google Trends.
+You can look at the national, are we in the right ballpark for the cities we're looking at?
+That's very similar to talking about the chat GPT approach, looking nationally at what our
+search volume is. We're a little bit further along in that part, and we've got some areas
+that we're looking at now. This is not removing that part of the training. That's still essential,
+but we're just zoomed in a little bit here. Let's say that we see demolition is trending
+in Tennessee, and demolition is interesting, guys, because there's only so much real estate
+in a city, and there's only so much good real estate in a city. If there's old properties that
+are in a blight district or there's an area that is growing, but there's old properties there that
+people are buying up, they have to demolish those old properties to build new ones. It's required.
+There's only got so much space. Demolition is a really, really good one to go into. I'm a big fan
+of demolition. Demolition, let's do Tennessee. Let's just see what happens with some Knoxville.
+Just already in here, so let's just search it and see what happens.
+You guys can see 260 searches, probably three bucks a click.
+3F357 for demolition. Let's see what happens. That's more expensive. Demolition companies near me,
+though, is a good one. That's six bucks. What I'll do is I'll go through demolition-related
+keywords, demolition, demolition contractor, demolition company, demolition services,
+and I'll start looking at what these look like. As I build up my keyword list, I'm going to have
+my core, my primary keyword is going to be demolition or demolition contractor,
+and then I'm going to start adding these in as part of my core keyword list. It's also going
+to depend on what my vision is for this actual site. Do I want other services related demolition,
+because demolition guys will often also do excavation and trenching. It just depends on
+how you want to eventually build out the site. If you're wanting to just specialize in just straight
+up demolition, there's a lot of good keywords here that when you add all these up, there's
+probably another 100 or plus or more searches per month in this market just for demolition.
+Let's do another city. Let's do some nationals growing. These are bigger areas, but you can see
+that there's a lot of opportunity in these areas. Six bucks a click, six bucks a click,
+demolition companies near me. I will go and I'll build up my keyword list by looking at the primary
+keyword, making sure that it's got solid search volume standards that Nick and I talked about a
+second ago. Then I'll add in all these additional ones as part of my secondary keyword list where
+these are not primary, but they're variants of the primary. When you add all these up,
+you're going to get calls where other people are not optimizing for these keywords, and you're
+going to get the call for house demolition companies near me or pool removal contractors,
+because the guys that do demolition will also do some of these specialty services
+related to demolition. You can add these in commercial demolition contractors. That is a
+great keyword, and people are probably not looking for it. Build these out right into a sheet,
+and just add these in, or I'll go straight to my due diligence tab and I'll make a due diligence
+record where I'll add in these keywords that I see coming up over and over with good search volume.
+Yeah, what's up, Nick? I know a couple of different ideas that I would find this,
+but for somebody that may be asking, let's say that Gina thinks of a brand new service. She's
+like, I'm going to go into excavation or demolition. How do you go about finding out what's the main
+keyword? Do you just go off of what it's called and use your intuition and say, well, if it's
+excavation, it's probably excavation. Let me look at the difference between excavation and
+excavation contractor, excavation company. How do you determine that main keyword? I'm curious
+how you do it. I'll let you guys know how I would do it and how I would find it really quickly.
+Yeah, I would love to hear Nick's answer to this. I think this requires just a little bit of
+speculation, but making just sort of informed guesses. For example, there's a difference
+as in industries. If I just type in concrete, that is not going to give me the results that I want.
+If I just do straight up concrete, if we just use a tried and true example, there's 1900 searches,
+but that's not what I want because people are going to use that to find ready mix and delivery
+by the yard or whatever. But if I do demolition, and I know this because I've had campaigns that
+run ads and I've seen my organic clicks, demolition is likely going to, you can't buy just a demolition
+product. You know what I'm saying? It's not a product and a service. It's an action. It's a
+service. You're doing demolition. Now, what do they mean by that? Do they mean interior
+remodeling demo? That's very different than destroying a structure, removing it away,
+and then clearing the land. That's going to be more likely to be a demolition contractor.
+But in this case, that keyword or demolition company is a good one. In that case, I will look
+at the keyword and I will make a judgment about, okay, this is not a product. Concrete is the
+product, but it's also a keyword that is going to be used in concrete contractor. I want to make
+an assessment about whether this is going to be likely someone calling for someone to do this
+specialty service. In this case, demolition would be one that I would add. A demolition contractor
+very often would add that to. Concrete would not add that. Concrete contractor would be a great
+one. It varies by industry. I just really make a judgment call about really what the search volume
+looks like and how I would search for it, frankly. What would you do, Nick?
+I would be lazy and just tick-tapping other people's work. I'd go to some major cities,
+type in what I think it is, type in demolition. I'd look at the top three results in the organic,
+and I would look at the page title because those guys most likely are paying SEO companies. Make
+sure it's big cities, competitive cities, Atlanta, L.A., whatever. I guarantee the page title, the
+thing that shows up in the SERPs, the first word or the first two words is going to be demolition
+service, demolition service. That would be an interesting one to look at right there, demolition
+contractor. I would look at three, four cities and then I would come up with two, three ideas.
+Then I would go pump it into RankinRent engine and I would see which one. Again, this is just when
+you go into a new niche. This is why it's so important to stay in the same niche because
+concrete, me and you, we can just go off the top of our head and know our keyword list.
+I'm curious to see what demolition service is.
+It's going to pull up 10, but let's do a bigger...
+So it's going to pull up these related keywords and there's...
+And that's just to generate ideas. I would go in and do that in like three, four cities and I'd
+look, okay, I keep seeing demolition service, I keep seeing demolition contractor and then I would
+just look at that inside of this tool and go, all right, this is probably my target keyword.
+You could also go to the website, look at the H1, look at the page title, that kind of stuff
+right there. Full service demolition. Is that a Legion?
+I don't know, man.
+It almost looks like it, but then it's, I mean, it's kind of got a brand. They did a good job
+with it is. So again, these are just some ideas, but once again, this is the reason why you guys,
+if you go and you take the time to learn a niche, you don't have to keep... There you go.
+That's a Legion site.
+Yeah, we've built that for one of my students.
+Oh, there you go.
+This is a lead generator in Atlanta and you can see that he's made it in, right? So look how...
+Then that's a good looking site. Go up again, it's best demolition service.
+Oh, you're looking at the...
+The headline, yeah, right there. Demolition contractor, sorry. Yeah, that's another good
+thing. If you could find a lead generator, it doesn't necessarily mean they know what
+they're doing, but usually they know what they're doing more than everybody else. And if they're
+ranking, they probably know what they're doing. So these are just ideas. You could also ask in
+the group if you want. That's another idea, you know? But these are just when you're going
+into a new niche. And I just wanted to bring that up because she asked to build a keyword
+list from scratch. So again, guys, you could stick with how we do it until I'm continuing
+to do it, but I might, based on this, now that we're using rank and run engine, the version 3.0
+might have a slightly different way that we do it if it's faster, if it's more accurate, et cetera.
+So that's why I was curious to see your process.
+Totally, man. Yeah, it's great being on this call with you guys. Looking at the
+the fundamentals and constantly revisiting the fundamentals. I think that there's a lot
+of entrepreneurs that are very, very successful that I listen to that talk about, you know,
+revisiting your business model from first principles over and over and over and over again,
+right? Because there's people that are not doing that. They're getting left in the dust because
+the world changes, search changes, search volume changes. And I love that Digital Landlords is
+always thinking about like, how do we make sure that we're going to consistently get results for
+students? It's cool talking about this with you guys today.
+Gina, just to clarify Gina's question before we end this, she said, I'm just a little thrown off
+by her searching for it, I guess. Do you always search for Tennessee or do you choose a large
+city? I think it kind of goes back to the whole concept of like, people are people are people.
+The thinking with the Google Trends is that you can kind of cast a wider net.
+And so I think for now, I still like the, let me ask this, can you search on rank and
+rent without putting in a city and just go globally or nationwide? Or do you have to put
+in a city? It's made for local search. Okay. So maybe what you could do, Gina,
+to start to start to get ideas is just use trends to find those main terms and then come
+into rank and rent in the city you're looking at and then start going from there.
+Yeah. Yeah. I think, again, let's talk about earlier, like we were zoomed out
+and we were looking at trends, we were talking about JetCheap ET and prompting it for search.
+And then we zoom in the next part and we look at, you know, at the city level, right? The state
+city level and see like, okay, what is it actually? We know what the trend is and saying, hey, here's
+the trend, but what is in reality, right? Because we got to make a decision about whether it's a
+Bible market based on the very specific data as we have it for that area. Yeah.
+Yeah. Anyway, beautiful. Well, Jahil just joined and then Corey helped him out. He said 50th low
+competition. If you want to be very conservative, Jahil 70 is the very bottom of the list if you
+want to be very conservative. But, you know, this is what we found right now. As we roll out version
+3.0, I'm going to keep testing. I'm going to keep looking at this. Now I can go into rank and rent
+engine, refresh it and see if anything changed right before I release it and see if those numbers
+are any different. But as of right now, standing November 5th, 2024, 50 with a low competition
+and 70 with a medium competition. And that is that. So I also want to just mention one more thing.
+I do appreciate, I see those of you that post your wins and share your success and everything,
+I know it takes time. But I know, I don't know about you, Ryan, but when I was in these groups,
+like just learning the ropes, dude, I would feed off of these posts. When I saw people, even if
+they just got their first lead in, they just got their first website up, they just, you know,
+sometimes hearing about somebody's like failure even gave me encouragement. Like, hey, I just
+cold called this business owner. I got kicked in the teeth and whatever. So anyway, I just want
+to let you guys know, I really appreciate you guys sharing those wins in this group and the free group
+and that it's complete social proof. It helps us a ton. And just to want you guys know that I
+noticed that. So anything else you want to add, Ryan? Thanks for having me on, man. I am always
+happy to be with you guys and Digital Landlords. I love this group and I agree with what Nick said.
+You know, I think that I have my failures. I have, you know, to get to $87,000 a month was a bumpy
+road. I screwed up so many things, made so many mistakes, got told no so many times, lost Bo's.
+This is part of what we do, right? Like you're going to have success look like this, you know,
+and it's fun to watch people getting closes and wins and things like that. But behind every one
+of those, there's no's and there's, you know, people that are, you know, laser focused and
+don't give up and then they post their wins. So it's fun to be on this journey with you guys. And
+I'm glad to be on the call today. Well, Ryan, appreciate you, bro. And guys, again, for those
+of you that did not get the beta discount, if you guys want to give RankinRant Engine a try with,
+again, just for, just so everybody knows, you do not have to use this tool. It is just the tool
+that I'm going to be using exclusively. You're going to see it at the training. You're going to
+see me referencing it in every single aspect of this because we actually have Ryan who can control
+this tool. But you don't have to use it. If you guys want to, you know, throw some stuff together,
+use the sheets and the whole deal, I did that. But what I'm telling you is from experience,
+it's better to just start and build a proper foundation and scale it up than throw together
+a duct tape business and try to retroactively fix it. That is very, very difficult. It's so
+much easier if you build it from the ground up, you have your projects lined out, you have your
+tasks lined out, you have your freaking due diligence. It's all in one place. You log in,
+boom, boom, boom. You have one tool you need, done. But again, I don't want anyone to feel like they
+have to. But if you guys are interested, message me. I have a coupon code for you guys. Those of
+you that didn't get the beta discount, we have something for you. And with that said, we'll see
+you on the next call, Ryan. Cool. Thanks for having me on. Go close and flash. Go get some deals. It's
+only freaking Tuesday. We got time, man. It's Tuesday morning for you guys. We got time to go
+sling some freaking deals this week, man. By the way, let me mention one more thing.
+Today's Election Day, everyone's kind of been weird because it's like, I don't know what's going
+to happen. Well, hopefully after today, maybe by Saturday. I know I was reading earlier, like
+the George Bush Al Gore one took a couple weeks. But it seems like after this, whatever happens,
+people at least have some clarity. And I feel like that things start to become a little bit normal,
+at least until the holidays. And then it gets a little weird. But I know that the economy's weird,
+people are uncertain. So I'm super optimistic because no matter what, people are always anxious.
+After today, tomorrow, this week, we should start seeing things normalize a little bit. So
+I'm kind of looking forward to that. A hundred percent. A hundred percent.
+Okay guys, talk soon. Appreciate it, Ryan. Thanks for having me on, man. See you.

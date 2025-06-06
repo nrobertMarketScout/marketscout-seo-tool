@@ -1,0 +1,448 @@
+Thank you.
+All right, guys.
+I think we are hopefully live.
+Let me know if you guys can hear me.
+I'm going to do the everyone tag.
+Boom.
+There's that.
+All right.
+Let me bring.
+All right.
+Hey, guys.
+All right.
+Awesome.
+Okay.
+Let me know if you guys can hear me.
+Um,
+And.
+There we go.
+There it is.
+All right.
+Waiting for, um,
+Give me a few seconds here.
+I want to get you guys set up.
+Um,
+This is going to be our new search.
+Um, campaign.
+That we've been talking about doing.
+This is going to be a website traffic one.
+Not a call one.
+Um,
+Okay.
+Okay.
+There's Francesca.
+Hey, Francesca.
+Are you coming on?
+Let me know if you can hear me.
+Hello.
+Hello.
+Okay.
+Okay.
+Okay.
+Yeah.
+Yes.
+I know.
+Aren't they all.
+Okay.
+Um,
+All right.
+I think I got us on here.
+Let me check.
+Um,
+The group, make sure there's nobody with any questions.
+Um,
+Josh is asking and can't tune in for this stream. Yes.
+This is going to be penned hopefully to the top or one of the other
+websites.
+Um,
+And then, um,
+We'll be building on this again.
+I kept told everybody.
+We're going to be, uh, making.
+Uh, like better, more polished versions for this,
+that we can dive deeper into things on.
+That'll eventually get added to the backside of the website.
+But for right now, we're just putting this up here so you guys can get
+going.
+And you don't have to wait on us and things getting edited and
+Um,
+I think that's kind of where we're at.
+Um,
+Just give me one quick second here.
+I find that the, um,
+Well, I think the last time I told you,
+it's like super delayed between Facebook and us.
+It's weird.
+Yeah.
+So questions come in later.
+Yeah.
+Yeah.
+So I, I'm going to pull this up on my phone.
+And this silence it, but it's just, uh,
+It's weird.
+Right.
+That was like 10 seconds ago.
+I know it's weird.
+It's super weird.
+Okay.
+I'm just going to leave this off to the side.
+So if I see.
+Uh, chats come in, they can pick them up.
+All right.
+Um, okay. So today we're going to set up.
+Uh, another search campaign.
+Uh, earlier today I went on and I made the changes to the call
+only ad that we did for the new Orleans duck work.
+Um, so I set those up.
+And we're going to be, um,
+Doing the same thing to this one in like a week or two, right?
+Cause those are, as you know, with your experience,
+like that's just a common thing.
+And it's one of the negative drawbacks of the search campaigns for
+sure.
+Um, okay. So with that, we're going to do.
+Screen share.
+I'm so slow at this stuff today. All right.
+I feel like I've been like on the phone or zooms all day today.
+And I feel like I've done nothing.
+So, um,
+I'm sure you've done a lot.
+My checking account does not agree.
+Um,
+Anyways, it's been maintenance day.
+I feel like today's been maintenance day, but that's, that's just happens.
+All right. Um,
+Okay. So before we dive into this one,
+Let's see, Jason has a question and I have a new question.
+I just joined the group about two weeks ago for unpaid balance.
+The appeal date times.
+You know,
+Yeah, Jason, that's totally normal. Oh no. Unpaid balance. Oh,
+Uh,
+My experience with the unpaid balance thing is, um,
+If you search the group,
+you'll see a bunch of chats about it like from like a year or two ago.
+But typically what's like,
+there's something that's tied to your Gmail or a credit card or something
+like deep inside the world that Google could be store music,
+YouTube or something.
+So if you, if you're looking for unpaid balance,
+like you're looking for something that's like,
+I'm looking for something, um,
+getting you a gift card,
+something that's like got a weird balance on it.
+And that's what's holding you up.
+So just check that go back through your history.
+And, um, eventually you'll be able to find it. Okay.
+Hopefully that helps, but.
+It does happen. You just gotta go find it.
+I've had stuff for like 72 cents.
+But I don't know.
+So.
+All right.
+So we'll, we'll hop in. If you have anything, you know, the rules, just yell, scream, stop me.
+If I start getting too nerdy or not into something like make sure we,
+we bring it back around. So, all right. Okay. Let's get started. Okay, guys. So we're going
+to set up a, it's a different type of search campaign. The first one that we set up is a call
+only ad. So today we're going to set up one. That's going to be a website traffic ad, but it's
+good. It still has the options to get calls. It's just, it's just displayed a little differently.
+They're both valuable in a perfect world. I would set up call only and the website traffic, but
+sometimes when you do that, you like double your ad spend. So for today, today we're going to do,
+we're going to set up a one for an Atlanta towing site. This is a one pager,
+right? Super simple. We only one pager for towing. Obviously like call only would be better
+for towing, but we're going to set this up with website traffic. And then I can always change
+this later on the other end of it, but for display purposes, we're going to do this. So
+we've created the campaign, right? We do that just like in the, in the original training,
+you go to your MCC, you set up your sub account, and then you go from there.
+Okay. So we're going to set up new campaign. Okay. We're going to come to here. It's going
+to ask us like what our guidance is, right? So we're going to select website traffic.
+And then it's going to ask us what platform we want to be on. And we're going to say search.
+Okay. Now it's going to ask our website. We're going to go here.
+We're going to copy that. We're going to paste that in. We're going to say, yeah, man,
+page view for sure. Then we're going to put here.
+This stuff right here, like I'm not a huge fan of giving Google all my data
+because we're doing Legion, but you do you.
+Okay. Bidding. You could do conversions or clicks. I prefer to do max clicks, especially
+at the beginning as I'm getting data. I'm then a fan at like month three or four moving into
+conversions, because there's going to be all of this data that Google's compiled. And then it's
+going to help me do better conversion rates. If my experience, my opinion is if you set
+conversions up in the beginning, Google's going to waste more of your money. So I'm not a fan.
+So I go here. I go to clicks. Okay. Now what I want to do is I want to set a maximum cost per
+click because Google is going to always want to spend my money. It'll give me $30 clicks,
+$40 clicks or whatever. So in this campaign, I have several keywords that Francesca provided me.
+I just did Mangles. I set it up over Atlanta. You can use SEMrush. I just prefer Mangles for local
+because I use Ahrefs for like other stuff. So the one I put in was towing. That's right here.
+You can see the CPC, the search volume, and then these are some of my other keywords that we're
+going to use. And you can see search volume and CPC. Now this is what Mangles says. This has been
+a question I've seen a couple of times. SEMrush says this. Mangles says that. But then it's actually
+this. Okay. But remember, this is used as a guidance. This tells us if it's good or not
+or if we want to, you know, kind of what to expect or budget for. But when I'm actually here,
+okay, when I'm actually in here, what I'm going to do is I'm going to go to my tools and settings.
+I'm going to click it. I'm going to go to my keyword planner. I'm going to right click that.
+I'm going to open it in a new link. Okay. I'm going to hit discover new keywords and then I'm going to
+do a couple of different. What was one? Keys locked in car? Locked keys. Oh yeah. Locked car keys.
+Something like that. And then I'm going to change this to Atlanta.
+I have specific like areas in Atlanta. Do you want me to tell you or we can go back and do that later?
+We will do that, but let's do that a little later. Because what this step is, that's a good
+question. This step is just trying, we're trying to like get what Google is going to tell us our
+high and low range of CPC so we can set our max limit. And so we don't have to be as specific as
+unless you're like going to go completely outside of the metro area, then we don't necessarily need
+that. Does that make sense? It's like if we were going to run it in like Stone Mountain, but call
+it Atlanta, then we would definitely want to look over that area. But if we're going to be in and
+around this area, that's fine. It's like the New Orleans one where we like, we just use New Orleans
+because that's going to have the most data, right? Yeah. Okay. So we hit save and then we hit get
+results. Okay. And then here we go. So remember like that 1,600, like those are similar
+results on what I saw here, maybe a little bit more, a little bit. Yeah, similar, close enough,
+not totally off. Okay. And then I'm going to go here and it's going to be a little bit more
+high and top of page bid low. In a perfect world, we always want to be higher than the high bid,
+but you can see like, these are like $2 higher than what we got from Mangles right now for some of
+these keywords. It's not that one's better or one's worse. It's just, these are just differences in
+the tools. And then we're going to go ahead and hit save and then we're going to go ahead and hit
+it. It's not that one's better or one's worse. It's just, these are just differences in the tools.
+But I like to go here and just see what CPC is like, I want to spend $15 for locked car keys.
+Maybe, maybe not. I don't know what the customer makes on it. So, but I also see how low that is.
+And then I look at these at being like $8, $7, $8. What's this one, another car locksmith. Okay. So
+the locksmith ones are higher. That's fine. We want to get those, the tow jobs, mostly these
+guys like doing the tow jobs. Sometimes there's people that are specific about getting keys out
+and all that. So what we'll do is we look around here. So it looks like $8, $7, I see $9 record
+service. That's, that's going to be typically like that term is typically like a bigger tow service
+or bigger tow truck. So just looking around, let's see.
+Okay. So I'm going to kind of use like this one. So we're going to choose $8.75 as our max click,
+because that's about, that'll put me a penny higher than a majority of what these main keywords are.
+Okay. So I'm going to go back to here and then hit and that's that. Okay. So I hope that's,
+hope you guys understand why we're doing that. And, and we'll go from there.
+Eman Coles asks, can we do an analytics and GTM conversion tracking overview for calls and forms?
+Yeah, I, yeah, we can set that up for a future office hours. I'm not going to do it today though.
+Okay. Now with towing, like this is one that's interesting for like towing,
+you can set up only bid for new customers, but I always figure like if someone's like looking
+and then they go to look and they come back, like you don't want that ad to not be displayed to them
+when they're going to make the call. So I kind of leave it off. It becomes an issue. Then we'll,
+we'll change it. Then you go here. So the next step it's going to remember it's going to be on
+the search network, but look at this, even here, they want to automatically put you on the search
+partners and display network, but we were going to get off of those. So we uncheck those and then
+it's going to ask us for our locations. Okay. So here we're going to hit enter location
+and then Francesca, you have a few sites for us, right? Yes. Let me pull it up.
+It's in my email. Just give me one second.
+Okay. So I have
+Lake city, which I have no idea what it's at.
+Does it exist?
+Yep. There it is. Funny how as I typed it in, it gave me a zip code.
+Yeah. Then there's east point.
+There it is. East point, Georgia. Then I have union city.
+Okay. And then he just said college. I wonder if,
+if it's that college park that I saw earlier, when you type the union city.
+That's it. Yeah. Okay. All right. Okay.
+Okay. We could definitely run it. I mean, we have some good, we have some,
+we have some good numbers there. Like there's some stretches here of like the interstate.
+I'm trying to remember. It's been so long since I've done anything in Atlanta.
+Can you do it by, should we do it by radius or not really?
+Well, we could, but like, you know, there's areas of Atlanta he may not want to serve or go into,
+because it's kind of a pain in the butt getting around there. So
+um, there's no way for us to like,
+and dry. Um, well, yeah, we can. It's just, we don't know where he wants to go. That's specific
+where he wants to go, but like, we can make like, um, yeah, if you, I'll tell you what, um,
+maybe after this call, if you want to like, maybe talk to him or met tomorrow or something and just,
+just ask, like, do you want those specific locations or is there like a radius you want
+to set up? You can just tell them like, Hey, like something like, Hey, we're, we want to set up
+getting some ads going just to like, get you some quick wins while we're ranking stuff. Like, you
+know, I got these areas, but is there like a certain like region or, or, you know, maybe give
+them some of these other names that you see and see if he's cool with that. Cause sometimes people
+are like, Oh, I don't want to go into that neighborhood at all. Um, so you can hit them up.
+Yeah. And they will make changes on that. Is that okay? Yeah. Okay. Cause this is a pretty
+good population with right now. So, um, okay, we go to there. So we set that up everybody. Um,
+and then we go to location options. And now towing is an interesting one because like,
+we want to do like typically like presence of like people in or regularly in the targeted area,
+but a towing, like, especially near an airport, like you could have tourists,
+you can have people there for business. You can have, you know, uh, family members watching
+people play sports, like playoffs are coming up, like all sorts of stuff. So like in this particular
+one, typically like for our like home service technicians, we want to have the presence one
+right here. We want that one targeted because we don't want that, but for towing, cause those
+people want it now. We don't really care where they're at. We just want them in our area.
+So this one, we might want to try this presence or interest. So people that are like,
+like here and they're interested in that, that might be something to play with on a towing niche.
+But for right now, I'm just going to turn this on and we'll see if we need to switch it later.
+Okay. And languages, English, the audience segment, like we're not really getting involved with that
+with what we're doing. Okay. We want this off and we go here. Um, Francesca, 24 hour towing.
+Yeah. Cool. All right. And then we hit next. Okay. I'm going to go up here and we're going
+to add our keywords and stuff. Okay. And now it's going to add, it's going to add that one.
+Here's all of Google's keywords that they want to, that they want to do. Um, those are interesting.
+Okay. All right. So I've put in, um, the main ones here that Francesca gave me, um, into this
+website, add this AdWords wrapper. And this helps me do a proper format that I don't have to
+like, um, go into here and like Adam and put the quotations or the brackets or whatever.
+And just as a reminder, when I have like a word that has nothing around it, that's called the
+broad match. When I have it with the quotation marks around it, that's called the phrase match.
+And when I have these brackets around it, that's called an exact match. Um, broad match means like
+anything closely related to that. It's going to show an ads on. That's like what we saw
+with the search campaigns. If I put quotations around it,
+what that's saying is like, let's say I typed in, like, what is the best 24 seven roadside
+assistance near me? My ads going to show, because that phrase is included in the search query.
+If I put the bracket around it, it's only going to show up for that exact search query. Okay.
+I prefer for lead gen and what we're trying to do and getting some data is the phrase match.
+You can always make tweaks later. Um, you can do broad match, but I only do that if I just have
+zero idea what's going to work or not. And I just want to see what sticks. Okay. But typically
+that's going to be a big waste of ad spend. Um, okay. So we're going to go here. I go here and
+click wrap keywords, wraps, my keywords. I go here where it says phrase match. I'm going to
+click wrap keywords, wraps, my keywords. I go here where it says phrase match. It's
+formatted in for me. I select it. I copy it. I go back. I go back here. Um, I'm going to
+do this real quick before I delete those other ones. Um, and Francesca with this, like these
+24 hour ones, were you guys getting any, um, like 24 hour stuff on your search terms?
+I just want to make sure that we have. Yeah. Yeah. I'm going to try. I'm going to add like
+road service. That's, that's probably a decent one. Um, maybe keys locked in car.
+So sometimes Google doesn't give you good suggestions, but for something like this,
+it's like, that might be, might be helpful. Um, especially like the overnight hour,
+someone's going to be looking for like that all day one, you know? Um,
+okay. So you guys can see like, right, we're just kind of adding them. You can see that I'm
+putting these quotations on them. Right. And so like road service, keys locked in car, like,
+you know, that'll, that phrase match will cover 24 hour, 24 seven. Um, you know,
+who can get my keys locked in my car? Like type of thing, you know, those type of phrases,
+roadside assistance. I think we already got roadside. Do you have roadside? Let's do roadside.
+Yeah, we have roadside. All right. Cool. Okay. Now I'm going to delete all these
+Google suggested ones because Google likes money.
+Okay. So we're going to set those up. Okay. And now
+I'm going to hit, I can have that set. I'm going to go down here real quick. I'm just going to hit
+done. It's just like my stupid way of saving it. Okay. All right. Um, okay. So now we're going to
+go up here. We got towing Atlanta. We believe, and we can just put, um, like towing services.
+Okay. And now it's going to ask for headlines. And just like in the last time we want to try
+to get this to like good or to excellent good is going to be about three fourths of the way
+around the circle. Excellent. It's going to be all the way around the circle. Um, we definitely
+want those to be there and we add headlines that are, um, that are geared towards our
+main keywords and or services. Um, sometimes if you're not sure, like, um, Google will make
+some suggestions for you. Okay. And you can use some of those and, um, and then get that going
+for you. So, um. May not allow that, but we're going to see if it'll let me keep the 24 seven
+that.
+Okay.
+Remember how we were doing this the other day? Like they give you these,
+like they give you some of these to use, which are great
+if they coincide with your website, your web headlines and your keywords. It's great.
+Um, do they do gas service, gas fuel? Like, do they bring gasoline?
+I don't know if that's the actual search term used, but that's what Google picked up. So I'm
+just going to go with it now and we'll double check it. As you know, like once we set this up
+a couple, two, three days later, it'll tell us something. It'll make different suggestions
+for us, but we'll try to do that. Um, let's see. Okay. That's awesome. You guys hear the
+gardener? Go inside and listen to kids. Can you hear the gardener next door?
+I don't. Oh, good. Okay. Maybe these headphones work. Awesome.
+Is this person a AAA roadside? Do they take AAA? Do you know?
+No, no. Okay. I'll put it on the list of things to ask.
+Okay.
+Okay.
+Okay.
+Let's see what other keywords can we throw in there?
+I'll leave space for like the AAA. If you can find that out, that'd be cool.
+Um, maybe like affordable towing. That's not really a big one to trick service.
+Do you know if they have like heavy equipment, like heavy wreckers or like are they just doing
+cars? Do you know? Um, well, like accidents. Yeah. Sometimes like, like some, some local areas,
+like a wrecker will be like certain type of tow trucks. Sometimes they're the bigger ones or
+like they have the cranes on them or the booms or something. I have to ask. Okay.
+Okay. I would, yeah, I would leave it if you want.
+Yeah. Okay. Let's see. What else can we do here?
+Boom.
+We'll see if I can get one.
+There you go. Um,
+like did you already put flat tire, um, like repair or something like that? So I think you put.
+I think I did. I put something. I put flat tire replacement. I'll put flat tire repair.
+And I'm going to leave this one open in case we do AAA or like an insurance brand or something.
+I'll leave that one open, but we're already at excellent. So that's good.
+Um, and we didn't even try a description yet. Um, okay. Do you guys have, I know you guys have used
+towing before. Do you guys have some descriptions that you've used in the past that you're aware of?
+The only, um, till we know we do, we actually don't even run ads anymore.
+But I can.
+That's okay. I'm going to stop the share real quick and I'm going to go through my computer.
+Fine. Some stuff that I've written down. Well, we may have.
+I'll bring my screen back up. Everybody. I'm just moving stuff around in my window. So,
+and then I'll share it again.
+Like when I don't know, I just use Nick's stuff because it works.
+Don't know why it works, but it works. Right. Okay.
+Okay. Okay. Here we are. We are back. Okay. So we just, I just copied, uh,
+what we use right with the group. So, um, that's fine. Uh, we specialize and
+and towing
+not keys,
+but tire repair
+and more call for free quote, the local, affordable
+professional, the truck company
+and the Atlanta area. Okay. So we'll call those good for right now. We'll come up with some other
+ones later, um, and do that. Okay. So for everyone following along. So, so far, we've set everything
+up. Um, we spent the time to put in the headlines. It showed you how like Google will help you
+sometimes. Sometimes it doesn't, but a lot of times it does. But you want to remember, like we
+also went into keyword planner, where I looked at some volume and stuff and I'm able to see some of
+the main keywords and I just use some variants. And just by doing that, I'm going to be able to
+keywords and I just use some variants. And just by doing that, like I already started off my ad
+strength into excellent, which is good in three, four days, it's going to be different, but it's
+always helpful to start off there. And then you can always change it from there. The descriptions
+that just stick with the simple one that works. You don't have to get too fancy, but you can do
+that. Um, so because this is a, a single, um, uh, a single one pager, we're not going to do site
+links. Um, we're not going to do call outs. Okay. But one thing we're going to add here,
+so we're going to, so I went here, it says more assets. I'm going to scroll down and I'm going
+to add a phone number and add calls. So I'm going to add that to this, right? I'm going to go to the
+website, copy that, put that in there, like, give us a call. Right. Okay. And I can now
+this part, because it's a 24 hour service, I can leave this on for the calls. But let's say that
+like I was setting up, setting this up for like, um, you know, like Francesca's tree trimming site,
+um, like maybe she doesn't want to get calls all night and all day. So like I will,
+I will set her, her, um, maybe set up the call part, like this little call add-on. I only let
+this run during like maybe 30 to 45 minutes before and after close of business. Um, and then
+everything else will be running other than that. So then we'll hit save. We'll say, cool. We hit
+apply. It applies that to that. You don't have to worry about snippets, lead forms, any of that
+other stuff at this point. We hit done. We hit next. Now it's going to ask for our daily budget.
+Um, so it doesn't, let me see if I can do this here. So sometimes,
+sometimes it gives us estimates. A lot of times it doesn't.
+Okay. Um, but knowing that like Atlanta, it was like eight something. So, um, there's definitely
+a lot of money in, in towing. Um, so what we're going to do is we're going to start off with like
+$55 a day. Um, and then as soon as I type that in, I haven't agreed to this yet, but you can see
+right here, like it given me an idea of how many weekly clicks I can get, what the weekly cost is,
+and then what the average CPC is. Like, I don't know how accurate that is right away, but it gives
+you a good starting point. Okay. So we're going to start off with that. And only cause this is
+towing and it's in the Atlanta area. So it's going to be, and, and, and Francesca can,
+can chime in on this. Like you make your money and a lot of volume and towing. And so you want
+their phones ringing all the time. That's how they pay you. And that's why they keep paying more.
+Right. Okay. And you guys are working on going to probably, you guys have a full website coming up
+and doing the SEO and all that stuff. I'm sure at some point. Yeah. Yeah. Okay. So we'll go ahead and
+hit next.
+Okay. So you guys see up here, you'll see in the video I made earlier today,
+I talked about how we want this to be up to a hundred. Don't worry about that right now,
+because Google's like wanting to add all these things that just going to take your money away.
+But remember, like we're going to hit publish. It's going to take two days of policy review
+and then five days of learning before anything really like good happens. So we're not, I don't
+mess with them. When I first set it up, I set it up, I let it sit for two or three days. And then
+I come in and then I make some of the recommendation changes to increase my optimization score.
+And then we do that with this one. We'll pop on and we'll either record it and post it,
+or I'll pop in live like I did earlier and show you the changes and how to get it back up to a
+hundred on this site. And let's go through here. I just kind of overview what I'm seeing. Yeah.
+Okay. And you can see up here guys, like this is one of the things like it wants me to add
+site links to get my optimization score up, but I don't have any other web pages because it's a
+single pager. So it makes no sense to do site links. Right. And I'll show you how to get around
+that. And we hit publish. And there we go. So we are now under review. Here you go. We got policy
+review and it'll give us some impressions and some clicks. And then it'll kick us into the
+learning right here. Eligible learning. That's a five day, that's a five day process post
+passing policy review. And then it just gives you a summary of everything.
+And then I think that's it. Francesca, is there anything that I can
+go over that you think I missed or didn't explain well enough or anything like that?
+I think you did really good. The only thing that I can think of, maybe people will be like,
+wow, that's a lot of money per day. But it is a little different because I usually will keep in
+mind the first one or two days, obviously it's not really doing anything. And even afterwards,
+but I do keep checking it to see how much we're actually spending. We just want to set it high
+enough that it will produce, especially at first. Yeah. Yeah. And also re-emphasize on that point,
+this is Atlanta. It's a large metro area. So this is not something that you want to do as a beginning
+student. This is not where you want to set up your first Legion app, right? Nick and Francesca have
+been doing this for a few years. They got a lot of experience. They get clients that come to them
+from big areas because they know they can do big stuff. So when you do that, you get people,
+you have to run bigger budgets for them. You can't run a $15 a day budget and expect results for
+Atlanta for Tony. This is not going to happen. But that's a great point. We've had some other areas
+where like, you know, just because you put $55 a day doesn't mean it's going to spend $55 a day.
+This campaign may because there's a lot of volume and we'll make those adjustments,
+but like we have the, there's the landscape or yeah, there's a landscape one we were working on
+and we've had to adjust the budget higher to a lot for more potential clicks per day. But I don't
+think we've hit the budget once, like the daily budget. We haven't even come close to it, right?
+Yeah. So, okay. I think that's it. Okay. We're going to look at the group and see if there's
+been any questions and then we'll get out of here for the day. We'll call it a day.
+We have one person watching. So big, probably me. I think it's me watching me and you right now.
+So that's cool. All right, guys, does anybody have any comments? Because we're going to,
+we're going to kill this in a minute if nobody does. So we tried.
+It will be pinned anyway. So I know it exists. I see that they watch this. I see the comments.
+Yeah. It's funny. All right. We'll give them. Yeah. Thank you. I'm going to give them like
+15 seconds and then we're going to kick out. So just because of the delay. Yeah. The delay is weird.
+I always laugh at Nick because like, he's like, okay, bye. And you're like,
+what? He just, where'd he go? He doesn't even finish the by when he sits out. I think it's funny.
+And my videos are probably the same. I have to say, I've never watched one of my videos to the end.
+So I don't know. All right. Okay. I'm not seeing any comments come in. So we're going to,
+we're going to end it. Thank you again for hopping on and helping. Thank you. Everyone
+appreciate your experience and expertise in it. So, all right. We'll talk to you later. All right.
+Bye. Okay. Bye.

@@ -1,0 +1,216 @@
+1
+00:00:00,000 --> 00:00:09,160
+Guys, welcome to module four and we're going to talk about the finish work.
+
+2
+00:00:09,160 --> 00:00:13,880
+We're going to talk about on page SEO and we're using the metaphor or we're using the
+
+3
+00:00:13,880 --> 00:00:16,720
+example of doing this with physical real estate.
+
+4
+00:00:16,720 --> 00:00:23,320
+So if we had a house or let's say that we had two houses, exact same square footage,
+
+5
+00:00:23,320 --> 00:00:30,160
+exact same bedrooms, exact same everything and one of these homes had nice finishes.
+
+6
+00:00:30,160 --> 00:00:37,520
+One of them had, you know, upgraded tile, upgraded fixtures, maybe it had heated floors,
+
+7
+00:00:37,520 --> 00:00:40,360
+maybe it had like a sauna inside.
+
+8
+00:00:40,360 --> 00:00:45,880
+That house, even though it's the same structure, could potentially sell for a lot more.
+
+9
+00:00:45,880 --> 00:00:50,360
+So though I think it's kind of a funny example because our websites are not that pretty,
+
+10
+00:00:50,520 --> 00:00:54,480
+I'm just giving you an example because what we do with our on page SEO, we can have two
+
+11
+00:00:54,480 --> 00:01:00,640
+different websites, one with spectacular on page SEO that can generate way more calls
+
+12
+00:01:00,640 --> 00:01:06,280
+than the exact same website that looks basically the same, almost identical, that does not
+
+13
+00:01:06,280 --> 00:01:09,000
+have the on page SEO done correctly.
+
+14
+00:01:09,000 --> 00:01:13,960
+And therefore the first one would generate almost infinitely more leads.
+
+15
+00:01:13,960 --> 00:01:17,560
+And why is that for those of you that are still wrapping your head around this?
+
+16
+00:01:17,560 --> 00:01:21,880
+Because if we do the on page SEO correctly, we're going to rank our website and if we
+
+17
+00:01:21,880 --> 00:01:25,520
+rank our website, we're going to get organic traffic as long as it converts.
+
+18
+00:01:25,520 --> 00:01:28,720
+But I know it's going to convert because I'm showing you guys exactly what these websites
+
+19
+00:01:28,720 --> 00:01:29,720
+need to look like.
+
+20
+00:01:29,720 --> 00:01:35,280
+Long story short, guys, SEO, there are two different sections or two different parts
+
+21
+00:01:35,280 --> 00:01:36,280
+to SEO.
+
+22
+00:01:36,280 --> 00:01:38,320
+There's the on page and then there's the off page.
+
+23
+00:01:38,320 --> 00:01:42,520
+And we are going to talk about the on page SEO, which is exactly as it sounds, the things
+
+24
+00:01:42,520 --> 00:01:44,640
+that you do on the page.
+
+25
+00:01:44,640 --> 00:01:48,120
+So a couple of those things, and I'm just going to mention a few, and then we're going
+
+26
+00:01:48,120 --> 00:01:53,760
+to have individual sections, individual lessons talking about each one and showing you exactly
+
+27
+00:01:53,760 --> 00:01:55,480
+how to do each one.
+
+28
+00:01:55,480 --> 00:01:59,120
+Some of the elements to on page SEO.
+
+29
+00:01:59,120 --> 00:02:00,120
+Page titles.
+
+30
+00:02:00,120 --> 00:02:03,680
+And we're going to go into that, but that is what we actually title the page when you
+
+31
+00:02:03,680 --> 00:02:08,600
+are on your browser and you hover over the tab, what is that thing that pops up?
+
+32
+00:02:08,600 --> 00:02:09,600
+What is the page title?
+
+33
+00:02:09,600 --> 00:02:14,240
+Or when you go to Google and you type in concrete near me, what is that title that's underlined?
+
+34
+00:02:14,720 --> 00:02:16,320
+That's the page title.
+
+35
+00:02:16,320 --> 00:02:19,120
+We're also going to talk about the descriptions.
+
+36
+00:02:19,120 --> 00:02:20,180
+What do we put in the description?
+
+37
+00:02:20,180 --> 00:02:21,800
+How do we get people to click?
+
+38
+00:02:21,800 --> 00:02:23,400
+How many characters can we do?
+
+39
+00:02:23,400 --> 00:02:25,400
+We're going to talk about H1s.
+
+40
+00:02:25,400 --> 00:02:26,400
+We're going to talk about image optimization.
+
+41
+00:02:26,400 --> 00:02:30,000
+We're going to talk about a lot of different elements of on page optimization.
+
+42
+00:02:30,000 --> 00:02:35,160
+For some of you that might be junkies with this stuff, we're not going to go into every
+
+43
+00:02:35,160 --> 00:02:38,600
+little teeny thing, but we're going to talk about the most important things, the things
+
+44
+00:02:38,600 --> 00:02:42,360
+that have helped us and they have worked again and again and again and again.
+
+45
+00:02:42,520 --> 00:02:48,440
+These are the things that we do, always keeping in mind that if we do the job correctly with
+
+46
+00:02:48,440 --> 00:02:53,640
+what we talked about in module one of part one, looking for layups, we can eliminate
+
+47
+00:02:53,640 --> 00:02:56,640
+competition.
+
+48
+00:02:56,640 --> 00:03:00,480
+That is why I stress so much that we choose the right city and the right niche because
+
+49
+00:03:00,480 --> 00:03:07,000
+if the competition is not that great, we don't have to do all this stuff perfect.
+
+50
+00:03:07,000 --> 00:03:12,240
+We're going to do it as best we can and you're going to get better as you go, as you do this.
+
+51
+00:03:12,240 --> 00:03:15,800
+We're going to show you step by step exactly what to do in future videos.
+
+52
+00:03:15,800 --> 00:03:18,200
+Guys, get ready.
+
+53
+00:03:18,200 --> 00:03:23,840
+Let's figure out how we can master the elements of on page SEO and we'll see you in the next
+
+54
+00:03:23,840 --> 00:03:24,340
+video.
+

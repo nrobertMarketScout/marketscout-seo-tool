@@ -1,0 +1,188 @@
+1
+00:00:00,000 --> 00:00:22,320
+Hey, guys, we're shooting this extra video clip to go over using keyword planner, a Google keyword planner to set your CPC limit for your bids in the original video that you saw when we did it for whatever reason, it was showing really not a lot of great data for Bentonville, Arkansas for concrete, even though we all know that there is CPC and we can see it.
+
+2
+00:00:22,320 --> 00:00:30,320
+So we want to just make an extra one just to show you what you'll more likely see so you understand what to do when that is happening.
+
+3
+00:00:30,320 --> 00:00:39,320
+Okay, so in this example, I just did Val Dosta, Georgia tree service tree removal and tree trimming ran it and you can see here.
+
+4
+00:00:39,320 --> 00:00:42,320
+These are my metrics that I'm getting.
+
+5
+00:00:42,320 --> 00:00:47,320
+We have our three main keywords tree service tree removal and tree trimming.
+
+6
+00:00:47,320 --> 00:00:50,320
+We have some search term here tree service near me.
+
+7
+00:00:50,320 --> 00:00:56,320
+We have some search term and you can see here you have top of page bid and low range and the high range.
+
+8
+00:00:56,320 --> 00:00:57,320
+Okay.
+
+9
+00:00:57,320 --> 00:01:02,320
+And then when I go through here, I look at my CPC for my main keywords and I have 781.
+
+10
+00:01:02,320 --> 00:01:05,320
+I have eleven dollars that have eight forty seven.
+
+11
+00:01:05,320 --> 00:01:11,320
+I have five seventy five eight eight twelve eleven ninety one.
+
+12
+00:01:11,320 --> 00:01:12,320
+That's for land clearing.
+
+13
+00:01:12,320 --> 00:01:19,320
+So that may not be relevant to my my my customer or my client stump grinding is really cheap.
+
+14
+00:01:19,320 --> 00:01:23,320
+And tree pruning as well eight forty seven tree stump removal.
+
+15
+00:01:23,320 --> 00:01:25,320
+That's eight eight twelve.
+
+16
+00:01:25,320 --> 00:01:29,320
+So you can see most things are in that eight to nine dollar range, which isn't too bad for tree service.
+
+17
+00:01:29,320 --> 00:01:30,320
+Okay.
+
+18
+00:01:30,320 --> 00:01:33,320
+You have a few bump ups into eleven dollars.
+
+19
+00:01:33,320 --> 00:01:42,320
+So some of this is going to be when you have this kind of variance in your limits, you you kind of have to decide what you want to do.
+
+20
+00:01:42,320 --> 00:01:48,320
+And my advice is always going to be I take my my highest top of page bid on the high range.
+
+21
+00:01:48,320 --> 00:01:50,320
+And I bid one penny more.
+
+22
+00:01:50,320 --> 00:01:55,320
+Now, here I have eleven dollars and down here I have eleven ninety one.
+
+23
+00:01:55,320 --> 00:01:56,320
+But this is for land clearing.
+
+24
+00:01:56,320 --> 00:02:01,320
+And I don't really want to get into that unless I have a client that specifically wants that.
+
+25
+00:02:01,320 --> 00:02:03,320
+So I'm not going to use that into my factory in here.
+
+26
+00:02:03,320 --> 00:02:08,320
+But everything else is in this eight dollar nine dollar range, a few that are a little smaller.
+
+27
+00:02:08,320 --> 00:02:12,320
+And then I get to the eleven dollars for tree removal near me.
+
+28
+00:02:12,320 --> 00:02:15,320
+Now, again, that's a very valuable keyword.
+
+29
+00:02:16,320 --> 00:02:18,320
+So Google's telling you that's a premium keyword, right?
+
+30
+00:02:18,320 --> 00:02:24,320
+So if I was setting this up, I would set up my max CPC bid to eleven oh one.
+
+31
+00:02:24,320 --> 00:02:29,320
+If for some reason you said that's way too expensive for me and I'm not going to do it, that's OK.
+
+32
+00:02:29,320 --> 00:02:33,320
+You can see that you still have potential to win a bid here in the range.
+
+33
+00:02:33,320 --> 00:02:35,320
+The low range is three twenty.
+
+34
+00:02:35,320 --> 00:02:37,320
+The high range is eleven.
+
+35
+00:02:37,320 --> 00:02:43,320
+OK, I can tell you from most of my experience, you rarely see a top of page high.
+
+36
+00:02:43,320 --> 00:02:51,320
+The high range of the top of page bid, unless you're in a very competitive competitive niche and a competitive area.
+
+37
+00:02:51,320 --> 00:02:56,320
+But with that, if you wanted to take out the eleven dollar one, then I would just drop down to my next highest one,
+
+38
+00:02:56,320 --> 00:02:59,320
+which I think might be this tree trimming one at eight forty seven.
+
+39
+00:02:59,320 --> 00:03:01,320
+Let me verify that.
+
+40
+00:03:03,320 --> 00:03:04,320
+And that would be that.
+
+41
+00:03:04,320 --> 00:03:06,320
+So I would bid eight forty eight.
+
+42
+00:03:06,320 --> 00:03:10,320
+OK, and that would give you most of these main keywords that you want.
+
+43
+00:03:10,320 --> 00:03:15,320
+You may lose out on some of these premium ones right here, but you're going to be in the hunt for them.
+
+44
+00:03:15,320 --> 00:03:17,320
+OK, so that's how I would deal with that.
+
+45
+00:03:17,320 --> 00:03:18,320
+That's a common question we get.
+
+46
+00:03:18,320 --> 00:03:21,320
+So we want to just make this video to address it for you guys.
+
+47
+00:03:21,320 --> 00:03:22,320
+Thanks.
+

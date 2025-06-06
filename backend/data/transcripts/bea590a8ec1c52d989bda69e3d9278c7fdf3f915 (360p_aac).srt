@@ -1,0 +1,4460 @@
+1
+00:00:00,000 --> 00:00:07,120
+All right, guys, let's jump into, I'm gonna get my notes here because I don't want to
+
+2
+00:00:07,120 --> 00:00:08,120
+miss anything.
+
+3
+00:00:08,120 --> 00:00:14,760
+Okay, so first and foremost, last week it was interesting and I don't want this to come
+
+4
+00:00:14,760 --> 00:00:15,880
+across wrong.
+
+5
+00:00:15,880 --> 00:00:21,600
+I used to be the screaming the mic guy and I realized that was just not me.
+
+6
+00:00:21,600 --> 00:00:23,920
+Actually it is me sometimes, but not always.
+
+7
+00:00:23,920 --> 00:00:28,760
+But last week was interesting because I was, you know, I woke up in the morning, I forgot,
+
+8
+00:00:28,760 --> 00:00:31,000
+I'm in Dubai so I forgot it was that even Labor Day.
+
+9
+00:00:31,000 --> 00:00:35,120
+It's weird some holidays that you kind of forget when you're traveling.
+
+10
+00:00:35,120 --> 00:00:38,720
+But I remembered eventually because my brother Porter, if you guys might know him, he's in
+
+11
+00:00:38,720 --> 00:00:39,720
+the free group.
+
+12
+00:00:39,720 --> 00:00:42,600
+He's about, he's at like 6,400 bucks a month.
+
+13
+00:00:42,600 --> 00:00:44,600
+It's his birthday, always on Labor Day.
+
+14
+00:00:44,600 --> 00:00:48,280
+So I remembered and I started thinking back to like previous Labor Days and I don't remember
+
+15
+00:00:48,280 --> 00:00:52,200
+any of them, like actually none of them except for one.
+
+16
+00:00:52,200 --> 00:00:57,680
+And that was in 2017 and I posted about this and I put 18, I think I said six years ago
+
+17
+00:00:57,680 --> 00:00:59,440
+but it was actually seven.
+
+18
+00:00:59,440 --> 00:01:08,440
+This is 2017 and this is literally about five weeks after I failed my first business.
+
+19
+00:01:08,440 --> 00:01:13,840
+I got started into RankinRent, I got a couple deals and then I got shiny penny syndrome
+
+20
+00:01:13,840 --> 00:01:18,320
+and I thought, man, I think I'm going to start a software company because that sounds cool.
+
+21
+00:01:18,320 --> 00:01:23,160
+I swear to you, if you think I'm lying, I promise you that when I say that, I literally
+
+22
+00:01:23,160 --> 00:01:26,320
+just didn't think it sounded cool to tell people I did marketing.
+
+23
+00:01:26,320 --> 00:01:28,480
+That was one of the main determining factors.
+
+24
+00:01:28,480 --> 00:01:33,320
+That's how stupid I was as a, how old did I have been, eight years?
+
+25
+00:01:33,320 --> 00:01:36,000
+I was like 25 and I was still dumb.
+
+26
+00:01:36,000 --> 00:01:40,680
+I thought it sounded cool to say I had a software company but now I realize it's cool, no matter
+
+27
+00:01:40,680 --> 00:01:44,040
+what you're doing, to make money because that's what really matters, that's what we're here
+
+28
+00:01:44,040 --> 00:01:45,040
+for.
+
+29
+00:01:45,040 --> 00:01:51,480
+Anyway, I had got shiny penny syndrome, I chased this software idea, I failed, I lost
+
+30
+00:01:51,480 --> 00:01:52,480
+tons of money.
+
+31
+00:01:52,640 --> 00:01:59,160
+I wasted nine months and it came to this boiling point on, it was either July 27th or July
+
+32
+00:01:59,160 --> 00:02:00,160
+28th.
+
+33
+00:02:00,160 --> 00:02:03,080
+I think it was the 28th because that would be, yeah, I think it was the 28th and I'm
+
+34
+00:02:03,080 --> 00:02:07,720
+in my living room and I'm telling my wife for the fifth, sixth, seventh time, she's
+
+35
+00:02:07,720 --> 00:02:10,400
+like, so what's going on with the business?
+
+36
+00:02:10,400 --> 00:02:16,400
+I was so annoyed at this point because nothing, at least for men, I don't know for you ladies
+
+37
+00:02:16,400 --> 00:02:21,040
+if it's the same, but when my wife would ask me about money, it's like she was questioning
+
+38
+00:02:21,600 --> 00:02:28,240
+me as a person and my abilities and it was really, really hurtful and she again was like,
+
+39
+00:02:28,240 --> 00:02:32,760
+so what's going on, give me an update and I didn't have one.
+
+40
+00:02:32,760 --> 00:02:37,920
+I was like, well, the developer said that we're like two weeks away from beta and he'd
+
+41
+00:02:37,920 --> 00:02:40,480
+been saying this for like six months.
+
+42
+00:02:40,480 --> 00:02:45,760
+She finally looked at me and she's like, you know this guy is scamming you, right?
+
+43
+00:02:45,760 --> 00:02:49,400
+You know that this is not happening.
+
+44
+00:02:49,440 --> 00:02:54,080
+I knew as she said it that she was right and essentially without going into too much detail,
+
+45
+00:02:54,080 --> 00:02:59,320
+I paid this guy 60 grand, 50 grand and we'd split it, me and a partner, but then I had
+
+46
+00:02:59,320 --> 00:03:01,400
+bought him out because I found some stuff out.
+
+47
+00:03:01,400 --> 00:03:07,280
+So now I was 50, 60 grand in of my own money plus nine months of my time plus the opportunity
+
+48
+00:03:07,280 --> 00:03:09,480
+cost of not going and doing door to door sales.
+
+49
+00:03:09,480 --> 00:03:10,480
+I had no money.
+
+50
+00:03:10,480 --> 00:03:16,760
+Like I literally had no money and we had bills due at the first of the month and she's like,
+
+51
+00:03:16,760 --> 00:03:19,720
+she basically was like, it's time for you to start taking care of this family and it
+
+52
+00:03:19,720 --> 00:03:24,600
+was like one of those like, my goodness, I needed to hear that and it took me a long
+
+53
+00:03:24,600 --> 00:03:27,720
+time to even be able to say that out loud, but it was very embarrassing.
+
+54
+00:03:27,720 --> 00:03:33,240
+It was, it killed my confidence, but it was that day that I realized like I have to change
+
+55
+00:03:33,240 --> 00:03:34,600
+and I have a failed business.
+
+56
+00:03:34,600 --> 00:03:36,840
+My first one's I'm all for one.
+
+57
+00:03:36,840 --> 00:03:42,200
+I have to make a change and so I went and did the only thing that I knew how was I was
+
+58
+00:03:42,200 --> 00:03:46,480
+like, dude, where's that program that I bought like a year ago?
+
+59
+00:03:46,480 --> 00:03:49,600
+Let me just go start selling something and I started watching the training and I was
+
+60
+00:03:49,600 --> 00:03:53,560
+like, what's the easiest thing to sell and I was like, I'm going to go sell a couple
+
+61
+00:03:53,560 --> 00:03:54,560
+of websites.
+
+62
+00:03:54,560 --> 00:04:01,080
+Let me go sell a couple of websites with SEO and I, so I told my wife, I said, you know,
+
+63
+00:04:01,080 --> 00:04:03,960
+she's like, I need, you need to call this person, this person, like maybe it's time
+
+64
+00:04:03,960 --> 00:04:07,320
+you just go get a job and I was like, I can't, like I've talked too much crap.
+
+65
+00:04:07,320 --> 00:04:11,160
+I'm not going back to my job and which was a door to door salesperson and I'm not going
+
+66
+00:04:11,160 --> 00:04:13,400
+to get a 95.
+
+67
+00:04:13,400 --> 00:04:17,520
+So I said, give me till the first of the month, which was three days from that day and I will
+
+68
+00:04:17,520 --> 00:04:21,920
+have however much we need and we needed $3,000 to basically cover our bills and she's like,
+
+69
+00:04:21,920 --> 00:04:22,920
+okay, sounds good.
+
+70
+00:04:22,920 --> 00:04:24,160
+I'll give you three days.
+
+71
+00:04:24,160 --> 00:04:28,920
+No chance I'm getting it and guys in three days out of desperation and it's funny how
+
+72
+00:04:28,920 --> 00:04:32,280
+humans are like this when our backs up against the wall, we are so creative.
+
+73
+00:04:32,280 --> 00:04:37,200
+We are so resourceful and in three days I came up with $3,000 cash, sold three websites
+
+74
+00:04:38,200 --> 00:04:44,880
+and was able to buy myself another 30 days and then so essentially I used SEO to kind
+
+75
+00:04:44,880 --> 00:04:48,280
+of get me out of that situation and then I transitioned and I just did it too slow and
+
+76
+00:04:48,280 --> 00:04:49,280
+I didn't do it correctly.
+
+77
+00:04:49,280 --> 00:04:52,840
+So whoever it was that said, you know, they're doing SEO, there's nothing wrong with SEO.
+
+78
+00:04:52,840 --> 00:04:56,000
+There's just a proper way to do it and there's a wrong way to do it and it's very easy to
+
+79
+00:04:56,000 --> 00:05:01,840
+get stuck in the wrong way and to chase the money only to end up in a year with nothing,
+
+80
+00:05:01,840 --> 00:05:05,780
+with no assets, with nothing that you can tie the clients to.
+
+81
+00:05:05,780 --> 00:05:09,660
+So anyway, the reason I'm telling this whole story, five weeks after this because that
+
+82
+00:05:09,660 --> 00:05:15,140
+would have been, you know, September, beginning of September, I just remember on Labor Day,
+
+83
+00:05:15,140 --> 00:05:20,020
+I'd been working my butt off like truly, truly, truly I'd been working my butt off and I made
+
+84
+00:05:20,020 --> 00:05:21,020
+good money.
+
+85
+00:05:21,020 --> 00:05:26,260
+I made $3,000 in three days and I made 10,000 bucks my very first month going all in on
+
+86
+00:05:26,260 --> 00:05:29,620
+SEO and that was cash collected because I needed to.
+
+87
+00:05:29,620 --> 00:05:34,780
+I had kids, I had bills, all this stuff and Labor Day, I remember it was Sunday night
+
+88
+00:05:34,780 --> 00:05:39,980
+going into Monday and I thought to myself, like, I want to spend time with my kids.
+
+89
+00:05:39,980 --> 00:05:44,740
+I was at my parents' house and I was like, I want to go to the parade and, you know,
+
+90
+00:05:44,740 --> 00:05:49,300
+like spend some time with them because I haven't spent much time but I was like, I need to
+
+91
+00:05:49,300 --> 00:05:54,260
+like, I got stuff to do and I just remember I woke up, I needed to write 3,000 words of
+
+92
+00:05:54,260 --> 00:05:55,260
+content.
+
+93
+00:05:55,260 --> 00:05:56,420
+Yes, I used to write my own content.
+
+94
+00:05:56,420 --> 00:06:02,340
+I wrote my first 300,000 words of content just for the record and I woke up at 4 a.m.
+
+95
+00:06:02,340 --> 00:06:07,140
+And I sat in my parents' kitchen with it completely quiet and I picked away the keyboard
+
+96
+00:06:07,140 --> 00:06:12,100
+and I wrote 3,000 words of content before I went to the gym and I showered and went
+
+97
+00:06:12,100 --> 00:06:13,420
+to the parade.
+
+98
+00:06:13,420 --> 00:06:19,860
+And I remember that because I was so tired, of course, because I woke up at 4 a.m., but
+
+99
+00:06:19,860 --> 00:06:24,060
+I was so excited to be making money.
+
+100
+00:06:24,060 --> 00:06:29,980
+I was so, it was so refreshing to know that like even if it was a thousand bucks, it was
+
+101
+00:06:29,980 --> 00:06:30,980
+my money.
+
+102
+00:06:30,980 --> 00:06:36,900
+It wasn't, it wasn't relying on somebody else and I was actually making money and it was
+
+103
+00:06:36,900 --> 00:06:37,900
+so exciting.
+
+104
+00:06:37,900 --> 00:06:44,180
+So, I had that whole, whatever, I made a post about it and then I got on the call and I,
+
+105
+00:06:44,180 --> 00:06:48,220
+you know, I was going to share this training and there was two people on.
+
+106
+00:06:48,220 --> 00:06:51,380
+And again, guys, you don't have to work on Labor Day.
+
+107
+00:06:51,380 --> 00:06:54,340
+Some of you guys aren't in that, most of you guys hopefully aren't in that situation but
+
+108
+00:06:54,340 --> 00:06:59,340
+I think that the rhetorical question I wanted to ask was like, you know, if you're not where
+
+109
+00:06:59,340 --> 00:07:03,740
+you want to be, should you be taking Labor Day off?
+
+110
+00:07:03,740 --> 00:07:09,180
+Like if you're not where you want to be, should you be, you know, taking off the Friday, whatever?
+
+111
+00:07:09,180 --> 00:07:14,240
+And so, I guess rhetorically, I want you guys just to be thinking about this as like either
+
+112
+00:07:14,240 --> 00:07:18,180
+stop complaining about where you're at or do something about it.
+
+113
+00:07:18,180 --> 00:07:22,460
+And my dad always used to say this quote to me, if you always do what you've always done,
+
+114
+00:07:22,460 --> 00:07:23,460
+you always get what you've always got.
+
+115
+00:07:23,460 --> 00:07:26,980
+And I know it's stupid, it's cliche, and I've heard it a million different times, a million
+
+116
+00:07:26,980 --> 00:07:29,620
+different ways, but it's so freaking true.
+
+117
+00:07:29,620 --> 00:07:30,620
+I do the same thing.
+
+118
+00:07:30,620 --> 00:07:32,100
+We sit and we do the same thing again and again.
+
+119
+00:07:32,100 --> 00:07:34,200
+We keep coming on these lives.
+
+120
+00:07:34,200 --> 00:07:37,340
+We keep getting our pencil and our paper and we keep saying, well, I'm going to start that
+
+121
+00:07:37,340 --> 00:07:40,780
+business but we keep coming up with a reason why we're not going to do it today.
+
+122
+00:07:40,780 --> 00:07:44,220
+You know, well, we're going to do it once so-and-so graduates.
+
+123
+00:07:44,220 --> 00:07:47,900
+We're going to do it once, you know, we finish the backyard.
+
+124
+00:07:47,900 --> 00:07:50,260
+We're going to do it when my job slows down.
+
+125
+00:07:50,260 --> 00:07:56,580
+You have no idea how many people have almost started this business, have almost done it
+
+126
+00:07:56,740 --> 00:07:58,380
+and then something happens and they don't.
+
+127
+00:07:58,380 --> 00:08:02,060
+And I just had a friend recently, he's been telling me over and over, I'm so bored at
+
+128
+00:08:02,060 --> 00:08:03,060
+my job.
+
+129
+00:08:03,060 --> 00:08:07,100
+Like, whatever, I don't, it's not, I can make so much more money complaining, complaining,
+
+130
+00:08:07,100 --> 00:08:10,580
+every single time I see him and I'm like, dude, do this.
+
+131
+00:08:10,580 --> 00:08:14,160
+And he's like, okay, let me move some money around, let me get into your program, whatever.
+
+132
+00:08:14,160 --> 00:08:16,340
+He pulls money out of his 401k.
+
+133
+00:08:16,340 --> 00:08:18,460
+He does the whole deal.
+
+134
+00:08:18,460 --> 00:08:22,900
+And when it comes down to it, I message him and he's like, it should be deposited on Wednesday.
+
+135
+00:08:22,900 --> 00:08:25,900
+I'm like, so like, are you joining or like, what's the deal?
+
+136
+00:08:25,900 --> 00:08:30,500
+He's like, he sent me this long text, something came up and I got to just spend some time
+
+137
+00:08:30,500 --> 00:08:31,500
+on this person.
+
+138
+00:08:31,500 --> 00:08:35,620
+And again, it's my friend, but and I didn't say a word back to him because it's my friend
+
+139
+00:08:35,620 --> 00:08:37,860
+and I just said, hope everything's good, man.
+
+140
+00:08:37,860 --> 00:08:38,860
+And good luck.
+
+141
+00:08:38,860 --> 00:08:40,940
+You know, I'm not going to chase you or whatever.
+
+142
+00:08:40,940 --> 00:08:43,980
+But it was just, it was a reminder that this is how we are as humans.
+
+143
+00:08:43,980 --> 00:08:48,860
+So rhetorically, I think about this to myself, like I complain that I'm not in a million
+
+144
+00:08:48,860 --> 00:08:49,860
+dollars a month.
+
+145
+00:08:49,860 --> 00:08:53,340
+I don't complain, but I said, why am I not a million dollars a month?
+
+146
+00:08:53,340 --> 00:08:59,660
+And then I'm doing the same stupid stuff that I was doing when I like that I've been doing
+
+147
+00:08:59,660 --> 00:09:03,060
+and if nothing's going to change and I'm still staying up, like I'll tell you guys, I'll
+
+148
+00:09:03,060 --> 00:09:04,060
+be honest with you guys.
+
+149
+00:09:04,060 --> 00:09:08,780
+Last night, you know, my most productive, when I go to bed early on Sunday and I plan
+
+150
+00:09:08,780 --> 00:09:13,620
+my son on Sunday for my week and I go to bed early, I wake up and I get so much done.
+
+151
+00:09:13,620 --> 00:09:15,700
+Like I start Monday so strong.
+
+152
+00:09:15,700 --> 00:09:19,740
+And yesterday I slept in, I didn't plan and I pushed it.
+
+153
+00:09:19,740 --> 00:09:20,740
+I'll do it later.
+
+154
+00:09:20,740 --> 00:09:21,740
+I'm going to get some food.
+
+155
+00:09:21,740 --> 00:09:23,780
+I didn't plan until this morning.
+
+156
+00:09:23,780 --> 00:09:24,780
+I did plan.
+
+157
+00:09:24,780 --> 00:09:26,340
+It's not till this morning.
+
+158
+00:09:26,340 --> 00:09:28,660
+And because of that, I didn't have any momentum.
+
+159
+00:09:28,660 --> 00:09:34,120
+So last night somebody sent something to me and all of a sudden I'm on x.com on just looking
+
+160
+00:09:34,120 --> 00:09:35,120
+at these threads.
+
+161
+00:09:35,120 --> 00:09:36,940
+I didn't go to bed till 3 a.m. last night.
+
+162
+00:09:36,940 --> 00:09:38,220
+That's so bad.
+
+163
+00:09:38,220 --> 00:09:39,220
+It's so embarrassing.
+
+164
+00:09:39,220 --> 00:09:41,420
+And I'm telling you guys because number one, I'm not going to lie to you.
+
+165
+00:09:41,420 --> 00:09:44,620
+Number two, I do the same stupid stuff you guys do.
+
+166
+00:09:44,620 --> 00:09:48,060
+And number three, it's like, how can I expect to be at a million dollars a month if I'm
+
+167
+00:09:48,060 --> 00:09:52,860
+still spending two hours of time that I can't get back?
+
+168
+00:09:52,860 --> 00:09:58,220
+So painful to say on stupid x.com on meaningless threads that I could have read.
+
+169
+00:09:58,220 --> 00:10:00,980
+I could have written a book or started a book.
+
+170
+00:10:00,980 --> 00:10:02,060
+I could have made posts.
+
+171
+00:10:02,060 --> 00:10:03,060
+I could read content.
+
+172
+00:10:03,060 --> 00:10:04,060
+I could have slept.
+
+173
+00:10:04,060 --> 00:10:05,060
+I could have called.
+
+174
+00:10:05,060 --> 00:10:06,900
+I mean, it was so dumb.
+
+175
+00:10:06,900 --> 00:10:12,260
+So again, guys, I just wanted you guys to understand it and maybe just to like relay
+
+176
+00:10:12,260 --> 00:10:14,500
+or to share my frustration.
+
+177
+00:10:14,500 --> 00:10:20,060
+And what I'm thinking about is if you're not where you want to be, are you doing anything
+
+178
+00:10:20,060 --> 00:10:21,060
+different than you've been doing?
+
+179
+00:10:21,060 --> 00:10:23,540
+And if not, then how do you expect anything to change?
+
+180
+00:10:23,540 --> 00:10:26,780
+It's actually, it's asinine.
+
+181
+00:10:26,780 --> 00:10:27,780
+Nothing's going to change.
+
+182
+00:10:27,780 --> 00:10:30,140
+So that's just a little quick thought.
+
+183
+00:10:30,140 --> 00:10:34,060
+And with that said, guys, I want to get into what we're going to share today.
+
+184
+00:10:34,060 --> 00:10:38,140
+Now, again, Jason, if you see comments that are pertinent, cut me off.
+
+185
+00:10:38,140 --> 00:10:41,580
+Aaron, if you need to cut me off, let me know as well.
+
+186
+00:10:41,580 --> 00:10:43,060
+And then at the end, we're going to do Q&A.
+
+187
+00:10:43,060 --> 00:10:44,060
+Okay?
+
+188
+00:10:44,060 --> 00:10:45,060
+How's it going so far, guys?
+
+189
+00:10:47,060 --> 00:10:48,060
+Going great.
+
+190
+00:10:48,060 --> 00:10:49,060
+I think it's going pretty good.
+
+191
+00:10:49,060 --> 00:10:50,060
+Beautiful.
+
+192
+00:10:50,060 --> 00:10:51,060
+Okay.
+
+193
+00:10:51,060 --> 00:10:52,060
+So when do you pull the plug on the city?
+
+194
+00:10:52,060 --> 00:10:55,660
+That's what we're going to talk about today.
+
+195
+00:10:55,660 --> 00:11:02,220
+My goal, by the way, is that with this specific call, is that by the end of this live, you're
+
+196
+00:11:02,220 --> 00:11:06,860
+going to have an understanding of my specific criteria for when it's time to pull out of
+
+197
+00:11:06,860 --> 00:11:09,140
+a city and niche.
+
+198
+00:11:09,140 --> 00:11:13,260
+But you have to remember that you're only going to perfect this through repetition,
+
+199
+00:11:13,740 --> 00:11:14,820
+by doing.
+
+200
+00:11:14,820 --> 00:11:15,820
+And so you can read about it.
+
+201
+00:11:15,820 --> 00:11:17,860
+You can listen to hundreds of hours of stuff.
+
+202
+00:11:17,860 --> 00:11:23,980
+But until you go in to an area and you lose some money on ads and you feel what it's like
+
+203
+00:11:23,980 --> 00:11:30,140
+to see that money going out the door and, oh my gosh, I might get zero return.
+
+204
+00:11:30,140 --> 00:11:31,680
+Should I pull?
+
+205
+00:11:31,680 --> 00:11:36,780
+Until you've done that a ton of times, you're not going to be able to perfect this.
+
+206
+00:11:36,780 --> 00:11:38,020
+And that's just kind of the reality.
+
+207
+00:11:38,020 --> 00:11:44,820
+So that is my goal with this live, guys, is to have you guys know this criteria doesn't
+
+208
+00:11:44,820 --> 00:11:47,060
+mean that you have to believe it.
+
+209
+00:11:47,060 --> 00:11:51,080
+And I don't want you to believe anything that I say without testing it, okay?
+
+210
+00:11:51,080 --> 00:11:54,540
+So here's the plan, kind of the outline I want to talk about.
+
+211
+00:11:54,540 --> 00:12:00,020
+Number one is I'm going to talk about how picking the right city and niche is the key.
+
+212
+00:12:00,020 --> 00:12:06,020
+We're going to be talking about, you know, deciding when to actually pull out is an art,
+
+213
+00:12:06,020 --> 00:12:07,940
+not a science.
+
+214
+00:12:07,940 --> 00:12:11,600
+We're going to be talking about if you are actually generating leads, there's always
+
+215
+00:12:11,600 --> 00:12:13,140
+a deal to be had.
+
+216
+00:12:13,140 --> 00:12:17,940
+We're going to talk about the fact that you don't lose money until you quit.
+
+217
+00:12:17,940 --> 00:12:21,900
+We're going to be talking about my criteria for winning areas put on the chopping block
+
+218
+00:12:21,900 --> 00:12:27,100
+and then my motto in life, but especially in business, okay?
+
+219
+00:12:27,100 --> 00:12:28,300
+So that said, let's get into it.
+
+220
+00:12:28,300 --> 00:12:37,620
+Number one, man, I always use like the number 17 or I don't know, something about seven,
+
+221
+00:12:37,620 --> 00:12:42,820
+I always use some random number for the number of times I've said something.
+
+222
+00:12:42,820 --> 00:12:45,740
+But guys, I have said this so many times.
+
+223
+00:12:45,740 --> 00:12:52,480
+The key to every part of this business, the make or break with this business is picking
+
+224
+00:12:52,480 --> 00:12:56,220
+the right city and niche combo.
+
+225
+00:12:56,220 --> 00:13:00,980
+If you do not, if you do not pick the right city niche combo, I don't care how good you
+
+226
+00:13:00,980 --> 00:13:06,420
+are at SEO, I don't care how good you are at ads, I don't care how good you are at sales,
+
+227
+00:13:06,420 --> 00:13:12,100
+I don't care how quick you can transfer leads, everything is harder.
+
+228
+00:13:12,100 --> 00:13:19,100
+On the other hand, if you get that right, if you get into a juicy freaking right, low
+
+229
+00:13:19,100 --> 00:13:27,340
+hanging fruit, you can do almost everything wrong and still win and it feels light and
+
+230
+00:13:27,340 --> 00:13:32,180
+it feels exciting and it feels, I don't say easy, but it doesn't feel heavy.
+
+231
+00:13:32,180 --> 00:13:36,060
+And it's like it's motivating because it happened and you did it quickly.
+
+232
+00:13:36,620 --> 00:13:42,620
+So I just want to stress guys that if you guys are, if you guys do not have the criteria
+
+233
+00:13:42,620 --> 00:13:47,180
+and you are not confident in what that looks like, you are going to be spinning your wheels
+
+234
+00:13:47,180 --> 00:13:51,140
+because you're going to, it's going to be hard for you to pull out of a city because
+
+235
+00:13:51,140 --> 00:13:54,460
+you're going to go, I don't know if that was the right city, maybe I just picked the wrong
+
+236
+00:13:54,460 --> 00:13:55,460
+city.
+
+237
+00:13:55,460 --> 00:13:59,700
+But if you know you're in the right city, then you're like, I know this is right because
+
+238
+00:13:59,700 --> 00:14:01,220
+of this, this, this and this.
+
+239
+00:14:01,220 --> 00:14:03,260
+It's like these other ones that I was in.
+
+240
+00:14:03,260 --> 00:14:08,340
+So obviously it's got to be my ads or my landing page or the way that I'm handling these leads
+
+241
+00:14:08,340 --> 00:14:10,420
+or my cold calling.
+
+242
+00:14:10,420 --> 00:14:13,940
+But it's so frustrating when you don't know if it's the right city, if you're not getting
+
+243
+00:14:13,940 --> 00:14:18,180
+leads or you're not having any success to know what the heck is freaking going on.
+
+244
+00:14:18,180 --> 00:14:24,020
+So really quick, what I want to ask, I'm going to have Jason, this is completely, I didn't
+
+245
+00:14:24,020 --> 00:14:27,260
+tell you I was going to ask this, but do you want to speak on that a little bit?
+
+246
+00:14:27,780 --> 00:14:34,620
+Tell these, I mean, maybe, maybe I'm completely in my own field here, but have you seen that
+
+247
+00:14:34,620 --> 00:14:35,620
+to be true?
+
+248
+00:14:35,620 --> 00:14:40,780
+Have you seen that, you know, certain areas it's like, dude, I could do a hundred of these
+
+249
+00:14:40,780 --> 00:14:44,860
+tomorrow and other areas, everything you do, it seems like you just can't move, you know,
+
+250
+00:14:44,860 --> 00:14:45,860
+can't move the needle.
+
+251
+00:14:45,860 --> 00:14:46,860
+Yeah, for sure.
+
+252
+00:14:46,860 --> 00:14:52,820
+And every time I try to go against that, then I end up losing that campaign.
+
+253
+00:14:52,820 --> 00:14:55,260
+So just stick to what works.
+
+254
+00:14:55,260 --> 00:15:00,180
+Don't, what is it, what's the, what they say in the South, if it ain't broke, don't fix
+
+255
+00:15:00,180 --> 00:15:01,180
+it.
+
+256
+00:15:01,180 --> 00:15:05,620
+I've heard that about a thousand times over the course of my door-to-door sales days and
+
+257
+00:15:05,620 --> 00:15:07,620
+it is so freaking true.
+
+258
+00:15:07,620 --> 00:15:09,820
+Okay, now next question.
+
+259
+00:15:09,820 --> 00:15:11,580
+How do I get the perfect framework?
+
+260
+00:15:11,580 --> 00:15:15,500
+Well, you can go develop your own or you can pay to get mine.
+
+261
+00:15:15,500 --> 00:15:16,500
+It's really easy.
+
+262
+00:15:16,500 --> 00:15:17,500
+Okay.
+
+263
+00:15:17,500 --> 00:15:21,460
+There's one that, there's 1.8 thousand YouTube videos you could go watch.
+
+264
+00:15:21,460 --> 00:15:22,460
+And how many live?
+
+265
+00:15:23,100 --> 00:15:26,260
+Aaron, how many lives do you think we've done inside the free group before we stopped doing
+
+266
+00:15:26,260 --> 00:15:27,260
+them in the free group?
+
+267
+00:15:27,260 --> 00:15:29,820
+It was like a solid three years straight.
+
+268
+00:15:29,820 --> 00:15:34,980
+So like every week, I think I missed two and I was, I was literally in a jungle in Africa
+
+269
+00:15:34,980 --> 00:15:38,460
+and physically couldn't get on and I didn't plan well.
+
+270
+00:15:38,460 --> 00:15:44,260
+Uh, there, there's probably a hundred, there's gotta be 150 of those things, right?
+
+271
+00:15:44,260 --> 00:15:45,260
+Cause I did it.
+
+272
+00:15:45,260 --> 00:15:46,260
+Yeah.
+
+273
+00:15:46,260 --> 00:15:52,420
+Three, like now maybe like 125, 130, 130 times, there's 130 times an hour and 15 minutes
+
+274
+00:15:53,380 --> 00:15:54,380
+I mean, do the math.
+
+275
+00:15:54,380 --> 00:15:55,380
+Plus all the posts.
+
+276
+00:15:55,380 --> 00:15:58,540
+So you either pay with your time or you pay with your money.
+
+277
+00:15:58,540 --> 00:15:59,540
+That's it.
+
+278
+00:15:59,540 --> 00:16:01,460
+There's no, you pay the piper.
+
+279
+00:16:01,460 --> 00:16:02,780
+That's how you get the perfect formula.
+
+280
+00:16:02,780 --> 00:16:04,020
+So I have it.
+
+281
+00:16:04,020 --> 00:16:05,180
+You want to buy it.
+
+282
+00:16:05,180 --> 00:16:08,380
+If you don't, you can go through all the material.
+
+283
+00:16:08,380 --> 00:16:10,340
+If you think that I know what I'm talking about.
+
+284
+00:16:10,340 --> 00:16:11,340
+Okay.
+
+285
+00:16:11,340 --> 00:16:12,340
+That's really simple.
+
+286
+00:16:12,340 --> 00:16:15,940
+Um, the other option is you go and just do what I did, but you guys have to remember,
+
+287
+00:16:15,940 --> 00:16:20,740
+even though I did all that I did, I spent four hours, four years, sorry, developing
+
+288
+00:16:21,140 --> 00:16:25,140
+and trying and testing the perfect due diligence formula.
+
+289
+00:16:25,140 --> 00:16:32,180
+What I think people forget is I also paid, I bought over $23,000 in programs on top of
+
+290
+00:16:32,180 --> 00:16:35,780
+the four years, four years.
+
+291
+00:16:35,780 --> 00:16:40,060
+So the fact that some people like, I'm just going to go, I'm just going to go, I'm at
+
+292
+00:16:40,060 --> 00:16:41,260
+the perfect formula.
+
+293
+00:16:41,260 --> 00:16:44,100
+That's like thinking that you're going to be like some of these investing companies
+
+294
+00:16:44,100 --> 00:16:49,820
+that look at a 500 deals a week and know exactly what metrics and exactly what the market should
+
+295
+00:16:49,820 --> 00:16:56,340
+look like and exactly, um, what the, uh, what the cap rate needs to be, the minimum cap
+
+296
+00:16:56,340 --> 00:17:01,540
+rate and the growth of the city and thinking that you're even going to play ball.
+
+297
+00:17:01,540 --> 00:17:02,540
+Absolutely not.
+
+298
+00:17:02,540 --> 00:17:03,540
+Okay.
+
+299
+00:17:03,540 --> 00:17:06,420
+So anyway, I just have to stress to you the importance of picking the right city in the
+
+300
+00:17:06,420 --> 00:17:07,420
+niche.
+
+301
+00:17:07,420 --> 00:17:09,740
+Cause you guys, I'm going to tell you all this stuff, but if you're in the wrong city,
+
+302
+00:17:09,740 --> 00:17:11,620
+it doesn't matter what you do.
+
+303
+00:17:11,620 --> 00:17:12,620
+You're screwed.
+
+304
+00:17:12,620 --> 00:17:13,620
+Okay.
+
+305
+00:17:13,620 --> 00:17:14,620
+So that's all I want to say.
+
+306
+00:17:14,620 --> 00:17:18,060
+Um, also I want to give you a little pro tip and I know I've talked about this before,
+
+307
+00:17:18,060 --> 00:17:21,500
+but I saw some of you guys said you were new, uh, in the comments.
+
+308
+00:17:21,500 --> 00:17:26,060
+If you aren't looking at CPC, which for the brand, brand, brand new people, that is the
+
+309
+00:17:26,060 --> 00:17:31,260
+cost per click, the cost that it costs you to go to Google and say, put me on page one
+
+310
+00:17:31,260 --> 00:17:36,180
+and I'll pay every time someone clicks on my ad instead of waiting for him to rank.
+
+311
+00:17:36,180 --> 00:17:42,180
+If you're not looking at the cost, the CPC guys, if you're not factoring that into your
+
+312
+00:17:42,180 --> 00:17:45,620
+decision of going into an area, that's your business.
+
+313
+00:17:45,620 --> 00:17:46,620
+Okay.
+
+314
+00:17:46,740 --> 00:17:50,660
+I've never been advised this from any other course and I've bought a lot.
+
+315
+00:17:50,660 --> 00:17:53,500
+I've been, I'm in all of them, all the ones that you guys have heard of.
+
+316
+00:17:53,500 --> 00:17:54,500
+I bought them all.
+
+317
+00:17:54,500 --> 00:17:56,900
+I'm in, I'm in friends with most of them.
+
+318
+00:17:56,900 --> 00:17:59,380
+Um, the ones I'm not, they don't like me.
+
+319
+00:17:59,380 --> 00:18:00,380
+That's fine.
+
+320
+00:18:00,380 --> 00:18:04,620
+But if you're not looking at CPC, then that's your business, but you should be.
+
+321
+00:18:04,620 --> 00:18:05,620
+Okay.
+
+322
+00:18:05,620 --> 00:18:08,500
+Even if you're not going to run ads, you should be looking at CPC and I don't have time to
+
+323
+00:18:08,500 --> 00:18:11,500
+explain all that, but that is just a pro tip.
+
+324
+00:18:11,500 --> 00:18:12,500
+Okay.
+
+325
+00:18:12,500 --> 00:18:15,500
+Next, this is an art, not a science.
+
+326
+00:18:15,500 --> 00:18:16,500
+Okay.
+
+327
+00:18:16,500 --> 00:18:19,060
+I, I've tried to make this as scientific as possible.
+
+328
+00:18:19,060 --> 00:18:25,220
+I've tried my best with, you know, okay, when do we pull out of an area?
+
+329
+00:18:25,220 --> 00:18:30,500
+Because guys, when I, in 2020, when we went from eight to $10,000 up to a hundred thousand
+
+330
+00:18:30,500 --> 00:18:34,060
+dollars a month in an eight month window, we were running campaigns.
+
+331
+00:18:34,060 --> 00:18:35,820
+We were spending money on ads.
+
+332
+00:18:35,820 --> 00:18:41,020
+We were hustling and bustling and shuffling and we had how many in the queue and how many
+
+333
+00:18:41,020 --> 00:18:45,180
+getting set up and we, I knew to the second, it was like, I think it was like four minutes
+
+334
+00:18:45,180 --> 00:18:47,300
+and 32 seconds or five minutes and 32 seconds.
+
+335
+00:18:47,300 --> 00:18:51,940
+I could set up an ad and it was exactly the same copy and paste the keyword.
+
+336
+00:18:51,940 --> 00:18:57,300
+I knew exactly what I was doing to, to a freaking team.
+
+337
+00:18:57,300 --> 00:19:05,700
+And even then, even then I was always surprised here and there, even knowing every single
+
+338
+00:19:05,700 --> 00:19:07,380
+factor that I did.
+
+339
+00:19:07,380 --> 00:19:11,620
+I want you guys to understand that this is an art, not a science.
+
+340
+00:19:11,620 --> 00:19:12,620
+Okay.
+
+341
+00:19:13,500 --> 00:19:17,220
+When you spend X amount, then you pull out.
+
+342
+00:19:17,220 --> 00:19:21,900
+But the problem is, is it's like, well, maybe you spent X amount of dollars on ads in the
+
+343
+00:19:21,900 --> 00:19:26,500
+wrong city or in the right city, but the wrong time of year, or in the wrong right city and
+
+344
+00:19:26,500 --> 00:19:33,540
+the right time of year, but you didn't do the right ad, like there's so many factors
+
+345
+00:19:33,540 --> 00:19:35,420
+that you just have to understand.
+
+346
+00:19:35,420 --> 00:19:39,660
+This is an art, not a science and instead of being frustrated by that, I think you should
+
+347
+00:19:39,700 --> 00:19:46,060
+be excited by that because this is how I always think about things that are hard or that take
+
+348
+00:19:46,060 --> 00:19:52,260
+time and effort and thought and creativity and whatever.
+
+349
+00:19:52,260 --> 00:19:56,420
+Like when Google comes out with a GMB update, everyone's like, oh my gosh, I get excited
+
+350
+00:19:56,420 --> 00:19:57,420
+about it.
+
+351
+00:19:57,420 --> 00:20:02,540
+And I don't want to try and, I don't want this to sound like I'm regurgitating information
+
+352
+00:20:02,540 --> 00:20:08,100
+that people are saying online, but if you really think about it, if it's hard, it's
+
+353
+00:20:08,100 --> 00:20:11,860
+just pushing people away that aren't willing to go through it.
+
+354
+00:20:11,860 --> 00:20:16,060
+And so the fact that this is an art and a lot of this business is an art, there's a
+
+355
+00:20:16,060 --> 00:20:20,040
+reason we call the Facebook group the art of digital real estate.
+
+356
+00:20:20,040 --> 00:20:24,140
+And we call it the art of pre-selling is because no one wants an art.
+
+357
+00:20:24,140 --> 00:20:28,980
+Everyone wants to have an exact, perfect, when this happens, then do this.
+
+358
+00:20:28,980 --> 00:20:31,020
+Guys, that's just not life.
+
+359
+00:20:31,020 --> 00:20:34,580
+And if you need those answers and you want to live a life that's like, if this happens
+
+360
+00:20:35,580 --> 00:20:40,860
+then you're more going to be more comfortable, more secure in a nine to five type of a setting.
+
+361
+00:20:40,860 --> 00:20:44,500
+And I don't mean that in any disrespectful way because that's okay.
+
+362
+00:20:44,500 --> 00:20:46,640
+But this might not be for you.
+
+363
+00:20:46,640 --> 00:20:48,700
+This is an art, not a science.
+
+364
+00:20:48,700 --> 00:20:53,040
+And it's just like with stock market, guys, there's no exact science for how long you
+
+365
+00:20:53,040 --> 00:20:54,700
+should stay in a stock.
+
+366
+00:20:54,700 --> 00:20:59,340
+Guys, I invested in 2014.
+
+367
+00:20:59,340 --> 00:21:07,140
+I worked the entire summer door to door sales, sweat buckets of sweat, got rejected thousands
+
+368
+00:21:07,140 --> 00:21:12,740
+of times, all kinds of different stuff, lost sleep, got in fights with my wife because
+
+369
+00:21:12,740 --> 00:21:15,660
+of this, that and the rest and how tired I was, whatever, right?
+
+370
+00:21:15,660 --> 00:21:20,420
+Missed time with my kids, spent that entire summer doing door to door sales.
+
+371
+00:21:20,420 --> 00:21:22,100
+And Jason did some of that as well.
+
+372
+00:21:22,100 --> 00:21:23,100
+So he knows my pain.
+
+373
+00:21:23,100 --> 00:21:24,780
+Some of you guys might have as well.
+
+374
+00:21:24,780 --> 00:21:30,700
+And I made that year, I think it was $130,000, okay, basically.
+
+375
+00:21:30,700 --> 00:21:31,700
+That's gross.
+
+376
+00:21:31,700 --> 00:21:33,020
+And I think I probably put like one 10 in my pocket.
+
+377
+00:21:33,020 --> 00:21:36,180
+Didn't have a ton of expenses, but I did have some.
+
+378
+00:21:36,180 --> 00:21:44,340
+And I spent of that, I spent, I put 40 or 50, I think it was 50, no, it was 50, not
+
+379
+00:21:44,340 --> 00:21:45,340
+40.
+
+380
+00:21:45,340 --> 00:21:46,340
+$50,000.
+
+381
+00:21:46,340 --> 00:21:47,340
+So I lived on part of it.
+
+382
+00:21:47,340 --> 00:21:49,800
+Keep in mind, I lived on part of it.
+
+383
+00:21:49,800 --> 00:21:56,080
+And then I spent the majority of the money I had left and I put it on a stock, on one
+
+384
+00:21:56,080 --> 00:21:57,440
+stock that was going to IPO.
+
+385
+00:21:57,440 --> 00:22:01,660
+And it was the company I worked for, Vivint, it's called Vivint Solar.
+
+386
+00:22:01,660 --> 00:22:07,600
+And Vivint Solar, just before that, Alibaba had, if you guys are familiar with that, it's
+
+387
+00:22:07,600 --> 00:22:11,240
+like the Chinese Amazon, they had gone public.
+
+388
+00:22:11,240 --> 00:22:13,960
+And literally, I don't know, their stock like 13X or something.
+
+389
+00:22:13,960 --> 00:22:14,960
+And I started doing the math.
+
+390
+00:22:14,960 --> 00:22:19,160
+I was like, yo, if I put in 10,000 bucks in this team, 13Xs.
+
+391
+00:22:19,160 --> 00:22:27,040
+And if it does half of that, then that six, how can I lose?
+
+392
+00:22:27,040 --> 00:22:32,720
+And to be fair, our bosses, our regional managers, they were telling all of us, get all the money
+
+393
+00:22:32,720 --> 00:22:36,480
+you can get, put your entire back end of check into this company.
+
+394
+00:22:36,480 --> 00:22:38,880
+If you got to go to your dad and borrow money.
+
+395
+00:22:38,880 --> 00:22:45,240
+Anyway, I put $50,000 in the stock and this thing, I put it in and not only did it not
+
+396
+00:22:45,400 --> 00:22:51,020
+go up, it literally the day after it was down, it would have been better for me to buy in
+
+397
+00:22:51,020 --> 00:22:52,760
+at the regular price.
+
+398
+00:22:52,760 --> 00:23:00,080
+And for the entire time, guys, that I was in the stock, I was losing the money.
+
+399
+00:23:00,080 --> 00:23:04,000
+But the crappy part is, I didn't know when to pull out.
+
+400
+00:23:04,000 --> 00:23:07,960
+I didn't know if I should keep it in, whatever.
+
+401
+00:23:07,960 --> 00:23:10,840
+And I pulled out, this is so, it's embarrassing.
+
+402
+00:23:10,840 --> 00:23:16,760
+I pulled out at the beginning of 2020 and it was, instead of being worth 50,000, which
+
+403
+00:23:16,760 --> 00:23:21,020
+it had gone down to being worth about 10, it had bumped up to like 25.
+
+404
+00:23:21,020 --> 00:23:26,720
+So I swelled up a bit and I was like, dude, I'm going to take half my money and just get
+
+405
+00:23:26,720 --> 00:23:27,720
+out of this thing.
+
+406
+00:23:27,720 --> 00:23:28,720
+And I did.
+
+407
+00:23:28,720 --> 00:23:31,400
+I cashed out and I promised you guys like two months later, that thing was not only
+
+408
+00:23:31,400 --> 00:23:36,520
+worth what I originally bought in, but it was worth like 50% more.
+
+409
+00:23:36,520 --> 00:23:41,120
+If I would have waited two more months, I waited six years.
+
+410
+00:23:41,120 --> 00:23:45,600
+And if I would have waited six years and two months, I would have made money, like enough
+
+411
+00:23:45,600 --> 00:23:50,360
+that it would have been worth my money being in there the entire time, okay?
+
+412
+00:23:50,360 --> 00:23:52,940
+My point being, that's an art.
+
+413
+00:23:52,940 --> 00:23:54,260
+This is an art.
+
+414
+00:23:54,260 --> 00:23:56,640
+Some of the best things in life are art.
+
+415
+00:23:56,640 --> 00:23:57,640
+Life is art.
+
+416
+00:23:57,640 --> 00:23:59,560
+And you just got to get comfortable with that, okay?
+
+417
+00:23:59,560 --> 00:24:00,560
+All right.
+
+418
+00:24:00,560 --> 00:24:05,760
+Number three thing I want to say, if you guys are generating leads in an area, if you have
+
+419
+00:24:05,760 --> 00:24:13,000
+a website that's organically getting leads from the GMB, from the organic rankings, from
+
+420
+00:24:13,000 --> 00:24:20,160
+whatever it is, if you are getting leads, there is always a deal to be made.
+
+421
+00:24:20,160 --> 00:24:25,000
+If you're running ads and that ad campaign and that landing page is producing consistent
+
+422
+00:24:25,000 --> 00:24:30,600
+leads, there is always a deal to be had.
+
+423
+00:24:30,600 --> 00:24:36,840
+And in the same way that my stock, with my stock example, you do not lose money until
+
+424
+00:24:36,840 --> 00:24:38,880
+you pull out.
+
+425
+00:24:38,880 --> 00:24:40,640
+You do not lose money until you quit.
+
+426
+00:24:40,640 --> 00:24:44,560
+And what I mean by that is, let's say in a hypothetical situation that Aaron goes and
+
+427
+00:24:44,560 --> 00:24:49,160
+sets up a campaign for minneapolisconcrete.com.
+
+428
+00:24:49,160 --> 00:24:52,360
+And Aaron, he spends 150 bucks, right?
+
+429
+00:24:52,360 --> 00:24:53,360
+And he has no business owner.
+
+430
+00:24:53,360 --> 00:24:54,360
+He's gotten some leads.
+
+431
+00:24:54,360 --> 00:24:56,020
+He's hooked a couple of business owners.
+
+432
+00:24:56,020 --> 00:24:57,560
+He's tried to get on the Zoom with two of them.
+
+433
+00:24:57,560 --> 00:24:59,460
+He's 0 for 2.
+
+434
+00:24:59,460 --> 00:25:02,100
+Or maybe he's only, he's 0 for 1.
+
+435
+00:25:02,100 --> 00:25:07,020
+If Aaron quits and he's like, dude, this doesn't work, Nick's full of crap, digital real estate
+
+436
+00:25:07,020 --> 00:25:11,820
+is a baloney, I'm going to do drop shipping, I'm going to do freaking e-com, whatever,
+
+437
+00:25:11,820 --> 00:25:14,120
+I'm going to go to my 95, that's fine.
+
+438
+00:25:14,120 --> 00:25:16,440
+That is the only way that Aaron could lose money.
+
+439
+00:25:16,440 --> 00:25:20,740
+Because Aaron, let's say he's at $250 spent, he has no deal.
+
+440
+00:25:20,740 --> 00:25:22,540
+But he's like, dude, I'm going to double down.
+
+441
+00:25:22,540 --> 00:25:24,440
+This area is producing leads.
+
+442
+00:25:24,440 --> 00:25:26,540
+I know I'm going to get a business owner.
+
+443
+00:25:26,540 --> 00:25:27,540
+I just got to get creative.
+
+444
+00:25:27,620 --> 00:25:29,460
+I just got, it's just that next one.
+
+445
+00:25:29,460 --> 00:25:30,460
+And he spends $500.
+
+446
+00:25:30,460 --> 00:25:32,780
+He doubles his spend, okay?
+
+447
+00:25:32,780 --> 00:25:35,980
+But on the last person, he gets the deal.
+
+448
+00:25:35,980 --> 00:25:39,080
+It's $1,500 a month or even $1,000 a month.
+
+449
+00:25:39,080 --> 00:25:41,060
+He gets the deal, signs a six-month contract.
+
+450
+00:25:41,060 --> 00:25:42,060
+Guess what?
+
+451
+00:25:42,060 --> 00:25:49,400
+Every single dollar that he spent to get to that deal, he recouped instantly.
+
+452
+00:25:49,400 --> 00:25:50,940
+And he's positive.
+
+453
+00:25:50,940 --> 00:25:53,100
+And that doesn't mean he had to stay in Minneapolis.
+
+454
+00:25:53,100 --> 00:25:55,820
+That could mean he was in Minneapolis.
+
+455
+00:25:55,820 --> 00:25:57,700
+He determined, yes, indeed, this is too competitive.
+
+456
+00:25:57,700 --> 00:25:58,700
+I didn't listen to Nick.
+
+457
+00:25:58,700 --> 00:25:59,980
+The CPC was too high.
+
+458
+00:25:59,980 --> 00:26:06,460
+I'm going to shift to a smaller city in Minnesota or I'm going to shift states because this
+
+459
+00:26:06,460 --> 00:26:07,460
+isn't a great state.
+
+460
+00:26:07,460 --> 00:26:09,900
+I'm going to go to Tampa and I'm going to set it up.
+
+461
+00:26:09,900 --> 00:26:11,700
+And he spends $250 in Tampa.
+
+462
+00:26:11,700 --> 00:26:17,620
+As long as he doesn't decide to quit and he keeps doing it until he gets that first deal,
+
+463
+00:26:17,620 --> 00:26:18,620
+he doesn't lose his money.
+
+464
+00:26:18,620 --> 00:26:19,620
+Okay?
+
+465
+00:26:19,620 --> 00:26:25,680
+And the way I view it, guys, is you're spending money that you're spending the customer's
+
+466
+00:26:25,680 --> 00:26:26,680
+money.
+
+467
+00:26:26,680 --> 00:26:27,680
+Right?
+
+468
+00:26:27,680 --> 00:26:33,000
+Every time I turn on ads, I'm spending my customer that's about to sign with me is the
+
+469
+00:26:33,000 --> 00:26:35,320
+way I do it.
+
+470
+00:26:35,320 --> 00:26:36,320
+Why?
+
+471
+00:26:36,320 --> 00:26:39,040
+Because I'm not stopping until I get a deal.
+
+472
+00:26:39,040 --> 00:26:40,600
+Guys, I'll spend $1,000.
+
+473
+00:26:40,600 --> 00:26:44,320
+I'll go 0 for 20 because I know eventually I'm going to get a deal.
+
+474
+00:26:44,320 --> 00:26:47,320
+And even if I spend, by the way, I don't think I've ever spent $1,000.
+
+475
+00:26:47,320 --> 00:26:49,360
+I think the most I've ever spent is a couple hundred.
+
+476
+00:26:49,360 --> 00:26:51,000
+But I'm just using an extreme example.
+
+477
+00:26:51,000 --> 00:26:57,080
+I'll spend $1,000 because I know that even if I do get the deal, month one, I break even
+
+478
+00:26:57,080 --> 00:26:58,800
+and now I'm making money.
+
+479
+00:26:58,800 --> 00:26:59,800
+Okay?
+
+480
+00:26:59,800 --> 00:27:03,240
+So you guys have to remember that you get in and you start putting a little bit of money
+
+481
+00:27:03,240 --> 00:27:06,560
+on a credit card and you're like, oh my gosh, oh my gosh, I'm losing money.
+
+482
+00:27:06,560 --> 00:27:08,920
+No, you don't lose money until you quit.
+
+483
+00:27:08,920 --> 00:27:09,920
+Okay?
+
+484
+00:27:09,920 --> 00:27:11,320
+You don't lose money until you walk away.
+
+485
+00:27:11,320 --> 00:27:14,800
+Just like I wouldn't have lost that money until I pulled out.
+
+486
+00:27:14,800 --> 00:27:18,460
+If I would have waited until it, hey, just fix your head, dude.
+
+487
+00:27:18,460 --> 00:27:20,520
+It's got to come back up or you're leaving it in.
+
+488
+00:27:20,520 --> 00:27:21,520
+I would have made money.
+
+489
+00:27:21,520 --> 00:27:22,520
+Okay?
+
+490
+00:27:22,520 --> 00:27:23,520
+So that's the deal.
+
+491
+00:27:23,520 --> 00:27:24,520
+Okay.
+
+492
+00:27:24,520 --> 00:27:26,240
+So now we're going to get into the juicy stuff.
+
+493
+00:27:26,240 --> 00:27:30,760
+We're going to talk about my criteria for winning areas, put on the chopping block.
+
+494
+00:27:30,760 --> 00:27:35,640
+But what I'm going to do really, really quick, Jason, do we have any comments?
+
+495
+00:27:35,640 --> 00:27:36,640
+We don't have any comments yet.
+
+496
+00:27:36,640 --> 00:27:37,640
+Nope.
+
+497
+00:27:37,640 --> 00:27:38,640
+Okay.
+
+498
+00:27:38,640 --> 00:27:42,280
+So what I'm going to do, just one, give me, I just have to plug my computer in.
+
+499
+00:27:42,280 --> 00:27:43,280
+I'm at a nice 2%.
+
+500
+00:27:43,280 --> 00:27:44,280
+Hold on.
+
+501
+00:27:44,280 --> 00:27:46,280
+It's going to kick off one of my lights.
+
+502
+00:27:46,280 --> 00:27:47,280
+My bad.
+
+503
+00:27:47,280 --> 00:27:48,280
+Hold on.
+
+504
+00:27:49,280 --> 00:27:54,600
+Just a thought on why Nick has been saying this.
+
+505
+00:27:54,600 --> 00:27:58,360
+What he's saying is it's so important to actually find the right business owner.
+
+506
+00:27:58,360 --> 00:28:03,600
+So he's willing to spend extra money to find the right business owner and not just take
+
+507
+00:28:03,600 --> 00:28:09,960
+the first person who's going to pay him.
+
+508
+00:28:09,960 --> 00:28:11,000
+Very good point.
+
+509
+00:28:11,000 --> 00:28:12,000
+Very good point.
+
+510
+00:28:12,000 --> 00:28:16,400
+Just because you can get money, just because someone's willing to give you money doesn't
+
+511
+00:28:16,400 --> 00:28:19,000
+mean you should take it.
+
+512
+00:28:19,000 --> 00:28:22,760
+And I say this, this is just like, just because something's free doesn't mean you should accept
+
+513
+00:28:22,760 --> 00:28:24,760
+it.
+
+514
+00:28:24,760 --> 00:28:28,720
+Specifically inside the free group, when I see people, we try to get rid of all the clowns,
+
+515
+00:28:28,720 --> 00:28:31,720
+but like I see people like, oh, I have this genius landing page.
+
+516
+00:28:31,720 --> 00:28:32,720
+DM me.
+
+517
+00:28:32,720 --> 00:28:36,720
+It's like, bro, do you even make money?
+
+518
+00:28:36,720 --> 00:28:38,200
+And I call these people out.
+
+519
+00:28:38,200 --> 00:28:39,200
+I don't know.
+
+520
+00:28:39,200 --> 00:28:40,200
+Was it Aaron?
+
+521
+00:28:40,200 --> 00:28:44,080
+Were you on that thread with that kid that was like going ballistic on me because I called
+
+522
+00:28:44,080 --> 00:28:45,080
+him out on the group?
+
+523
+00:28:45,320 --> 00:28:46,320
+Was that you or that Kyle?
+
+524
+00:28:46,320 --> 00:28:49,320
+Must have been Kyle.
+
+525
+00:28:49,320 --> 00:28:50,320
+Okay.
+
+526
+00:28:50,320 --> 00:28:55,360
+Anyway, some kid, he did something like that and I called him out publicly and then he's
+
+527
+00:28:55,360 --> 00:28:56,360
+like, you're being a dick.
+
+528
+00:28:56,360 --> 00:28:58,680
+I'm like, don't come in my group.
+
+529
+00:28:58,680 --> 00:28:59,680
+Says right there.
+
+530
+00:28:59,680 --> 00:29:00,680
+Don't be a dick.
+
+531
+00:29:00,680 --> 00:29:05,760
+Anyway, let's talk about my criteria for when I put an area on the chopping block.
+
+532
+00:29:05,760 --> 00:29:07,140
+Again, guys, this is me.
+
+533
+00:29:07,140 --> 00:29:09,600
+This is my criteria.
+
+534
+00:29:09,600 --> 00:29:10,600
+What do I know?
+
+535
+00:29:10,600 --> 00:29:11,680
+Well, I know that real quick.
+
+536
+00:29:11,680 --> 00:29:12,680
+I know how to make.
+
+537
+00:29:12,680 --> 00:29:13,680
+Sorry, bro.
+
+538
+00:29:13,680 --> 00:29:19,920
+I was just going to say real quick, the audio is fine, but the video is really lagging choppy.
+
+539
+00:29:19,920 --> 00:29:23,840
+Just on a side note, you know, you know what, I don't know if that's what I think it is.
+
+540
+00:29:23,840 --> 00:29:25,840
+I think it's what I'm charging.
+
+541
+00:29:25,840 --> 00:29:29,480
+I just kind of said again, pretty rough.
+
+542
+00:29:29,480 --> 00:29:30,840
+How's the audio now?
+
+543
+00:29:30,840 --> 00:29:33,160
+What if I just turn the camera off for a second?
+
+544
+00:29:33,160 --> 00:29:34,160
+How's the audio?
+
+545
+00:29:34,160 --> 00:29:35,160
+Fine.
+
+546
+00:29:35,160 --> 00:29:36,160
+Yeah, it's fine.
+
+547
+00:29:36,160 --> 00:29:40,680
+You know, I think it's I think it's when I plug in my computer to charge it at the same
+
+548
+00:29:40,680 --> 00:29:41,680
+time.
+
+549
+00:29:41,680 --> 00:29:42,680
+We're just going to go with the camera off for a second.
+
+550
+00:29:43,160 --> 00:29:44,160
+Everyone can hear me.
+
+551
+00:29:45,680 --> 00:29:48,360
+OK, so, yeah, my computer is at two percent.
+
+552
+00:29:48,360 --> 00:29:49,360
+Otherwise, I do.
+
+553
+00:29:49,360 --> 00:29:52,920
+It's got to be some weird thing with because I got like a power converter and just all
+
+554
+00:29:52,920 --> 00:29:53,920
+kinds of stuff going on.
+
+555
+00:29:53,920 --> 00:29:54,920
+I got it's quite a mess here.
+
+556
+00:29:54,920 --> 00:29:57,920
+I'm going to start a fire in my in my apartment.
+
+557
+00:29:57,920 --> 00:29:59,560
+So guys, let's talk about my criteria.
+
+558
+00:29:59,560 --> 00:30:03,000
+What I was about to say, though, is I was saying, you know, these are my criteria.
+
+559
+00:30:03,000 --> 00:30:04,000
+What do I know?
+
+560
+00:30:04,000 --> 00:30:07,120
+And I was going to say, I know how to make a million dollars a year doing this.
+
+561
+00:30:07,120 --> 00:30:08,640
+So that could be important.
+
+562
+00:30:08,640 --> 00:30:09,640
+So here's my criteria.
+
+563
+00:30:10,280 --> 00:30:13,680
+I've got a couple criteria, but I think you guys are going to be a little bit surprised
+
+564
+00:30:13,680 --> 00:30:14,680
+by this.
+
+565
+00:30:14,680 --> 00:30:19,640
+OK, so and again, we didn't even announce this at the beginning.
+
+566
+00:30:19,640 --> 00:30:25,120
+But what we're going to do is, well, I think we've already created this, Aaron.
+
+567
+00:30:25,120 --> 00:30:29,840
+I don't know if you've included this in it, but typically what we do on these calls is
+
+568
+00:30:29,840 --> 00:30:34,280
+if you stay till the end with your camera on, we're going to screenshot everybody here
+
+569
+00:30:35,240 --> 00:30:41,280
+And we're going to send you the digital resource that we've created from this training.
+
+570
+00:30:41,280 --> 00:30:45,800
+So but just in case this wasn't put, I would I would write these things down.
+
+571
+00:30:45,800 --> 00:30:49,720
+OK, I just create that link, a Google Drive link.
+
+572
+00:30:49,720 --> 00:30:51,480
+So I'll drop it in the comments at the end of the column.
+
+573
+00:30:51,480 --> 00:30:53,880
+People can just download the PDF.
+
+574
+00:30:53,880 --> 00:30:55,080
+That's amazing. That's amazing.
+
+575
+00:30:55,080 --> 00:31:00,040
+And also, I think what we are going to do, too, is anyone that stays on, we were going
+
+576
+00:31:00,280 --> 00:31:07,880
+to do the the we were going to give them the early access to the next podcast episode,
+
+577
+00:31:07,880 --> 00:31:10,160
+which is going to is going to drop on Thursday.
+
+578
+00:31:10,160 --> 00:31:13,920
+So Aaron, if you want to grab that Vimeo link, make it unlisted.
+
+579
+00:31:13,920 --> 00:31:15,960
+We can drop that at the end as well.
+
+580
+00:31:15,960 --> 00:31:17,160
+Sounds good.
+
+581
+00:31:17,160 --> 00:31:20,800
+So if you guys stay till the end, I don't even know what how many of you have on 10,
+
+582
+00:31:20,800 --> 00:31:24,640
+15, 5, I see 21, including us.
+
+583
+00:31:24,640 --> 00:31:25,640
+How many?
+
+584
+00:31:25,640 --> 00:31:28,160
+21, including us.
+
+585
+00:31:28,640 --> 00:31:31,600
+Beautiful. OK, so there's 18 people, basically.
+
+586
+00:31:31,600 --> 00:31:32,440
+You guys stay to the end.
+
+587
+00:31:32,440 --> 00:31:36,040
+We're going to give you guys the digital resource and early access, three days early
+
+588
+00:31:36,040 --> 00:31:41,720
+access to the latest podcast, which what was the name of the latest podcast we did?
+
+589
+00:31:41,720 --> 00:31:48,280
+It was the oh, the perfectly the the the perfectly broken business model.
+
+590
+00:31:48,280 --> 00:31:49,200
+I think it was titles like that.
+
+591
+00:31:49,200 --> 00:31:52,840
+It's just recorded like two days ago.
+
+592
+00:31:52,840 --> 00:31:54,840
+So, guys, here's my criteria.
+
+593
+00:31:54,840 --> 00:31:57,240
+These are things I would consider writing down.
+
+594
+00:31:57,240 --> 00:32:03,720
+And this is when when these things happen, this puts the area on a chopping block for me.
+
+595
+00:32:03,720 --> 00:32:13,240
+OK, number one is I have spent at least one hundred and fifty to two hundred dollars on ads.
+
+596
+00:32:13,240 --> 00:32:16,960
+I've made adjustments to the ads.
+
+597
+00:32:16,960 --> 00:32:22,200
+And or the landing page, and I'm still not generating leads.
+
+598
+00:32:22,200 --> 00:32:26,760
+So I go, I spend 50 bucks, I got nothing, I'm still going.
+
+599
+00:32:26,760 --> 00:32:28,720
+I spent 100 bucks, I got nothing, I'm still going.
+
+600
+00:32:28,720 --> 00:32:33,080
+Even if I spent 150 bucks, if I see that there's a lot of impressions and whatever,
+
+601
+00:32:33,080 --> 00:32:37,120
+and it just looks like there's going to be there should be, you know,
+
+602
+00:32:37,120 --> 00:32:39,720
+like logically, there should be leads in that area.
+
+603
+00:32:39,720 --> 00:32:41,440
+I know there's volume.
+
+604
+00:32:41,440 --> 00:32:43,560
+So there's something that's off.
+
+605
+00:32:43,560 --> 00:32:46,320
+Well, you know, I'm going to keep going.
+
+606
+00:32:46,320 --> 00:32:49,760
+OK, so if I'm not getting leads and I've spent that kind of money.
+
+607
+00:32:49,800 --> 00:32:53,520
+And guys, remember.
+
+608
+00:32:53,520 --> 00:32:59,080
+This is like a totally separate training, but just be logic, be use your intuition.
+
+609
+00:32:59,080 --> 00:33:05,080
+If you're getting impressions on your ads, that means it's being shown to people.
+
+610
+00:33:05,080 --> 00:33:10,000
+But if you're getting impressions and you're not getting clicks, your ads either suck
+
+611
+00:33:10,000 --> 00:33:14,000
+or they're getting shown to the wrong people because no one's clicking on them.
+
+612
+00:33:14,000 --> 00:33:19,520
+If you're getting clicks, that means you're spending money, but nobody's calling.
+
+613
+00:33:19,520 --> 00:33:20,920
+You're not getting leads.
+
+614
+00:33:20,920 --> 00:33:26,320
+That means you're getting clicks from the wrong people, the wrong traffic or your landing page sucks.
+
+615
+00:33:26,320 --> 00:33:31,440
+And I want to say this because for me, when I say I'll spend 150 to 200 dollars,
+
+616
+00:33:31,440 --> 00:33:35,640
+I know that my landing page is going to convert because I've just tested it so many times.
+
+617
+00:33:35,640 --> 00:33:38,520
+I've spent over a million dollars testing it.
+
+618
+00:33:38,520 --> 00:33:40,160
+I know that it's going to convert.
+
+619
+00:33:40,160 --> 00:33:42,200
+I know what to what my audience looks like.
+
+620
+00:33:42,200 --> 00:33:44,840
+So it's very rare for me.
+
+621
+00:33:44,840 --> 00:33:48,080
+And I also know I've chosen the right area because I know how to choose an area
+
+622
+00:33:48,080 --> 00:33:50,120
+because I've done it so many times wrong.
+
+623
+00:33:50,120 --> 00:33:55,560
+But if I spend 150 to 200 bucks and I'm not getting leads, something ain't right.
+
+624
+00:33:55,560 --> 00:33:59,720
+OK, that's a situation where I would move to a new area.
+
+625
+00:33:59,720 --> 00:34:01,320
+OK, I ain't quitting. I'm not stopping.
+
+626
+00:34:01,320 --> 00:34:04,160
+I'm going to keep going, but I'm going to choose a new area.
+
+627
+00:34:04,160 --> 00:34:08,800
+Maybe I choose a different city that's near there, you know, that kind of thing.
+
+628
+00:34:08,800 --> 00:34:12,480
+Let's say I'm targeting Vegas or let's say I'm targeting Henderson, Nevada.
+
+629
+00:34:12,480 --> 00:34:15,520
+That might be a situation where I'm like, all right, I didn't want to target Vegas,
+
+630
+00:34:15,560 --> 00:34:20,760
+but maybe I need to target Vegas because Henderson's not producing any leads type of a situation.
+
+631
+00:34:20,760 --> 00:34:26,120
+But 150 to 200 dollars, I've made adjustments to my ads and I'm still not getting leads.
+
+632
+00:34:26,120 --> 00:34:29,600
+That thing's going on the chopping block and it's getting ready to get plugged.
+
+633
+00:34:29,600 --> 00:34:33,720
+They're getting ready to get pulled. OK.
+
+634
+00:34:33,720 --> 00:34:35,840
+OK, that's number one.
+
+635
+00:34:35,840 --> 00:34:39,480
+Let's see. Number two.
+
+636
+00:34:39,480 --> 00:34:42,240
+OK, that's it. That's it. That's basically my rule.
+
+637
+00:34:42,240 --> 00:34:44,440
+These other things, I'm going to go over them.
+
+638
+00:34:44,440 --> 00:34:49,440
+But like this is what this is the notes that I have outside of that, guys,
+
+639
+00:34:49,440 --> 00:34:55,000
+outside of me spending 150 to 200 dollars on ads and, you know,
+
+640
+00:34:55,000 --> 00:34:58,120
+tweaking the leads or tweaking the ads, you know, whatever.
+
+641
+00:34:58,120 --> 00:35:00,920
+I know I've got the right city because I know my process.
+
+642
+00:35:00,920 --> 00:35:03,680
+Unless that happens.
+
+643
+00:35:03,680 --> 00:35:05,760
+I am going to get a deal.
+
+644
+00:35:05,760 --> 00:35:08,240
+I like I just know and that was one of the things I said at the beginning.
+
+645
+00:35:08,240 --> 00:35:10,880
+If you are getting leads, there's always a deal to be had.
+
+646
+00:35:10,880 --> 00:35:12,720
+You might have to, you know, get creative.
+
+647
+00:35:12,720 --> 00:35:16,120
+You might have to go find somebody on a Facebook Facebook group.
+
+648
+00:35:16,120 --> 00:35:18,080
+You might have to go find somebody in a neighboring town.
+
+649
+00:35:18,080 --> 00:35:20,400
+You might have to go find somebody in a different business,
+
+650
+00:35:20,400 --> 00:35:23,000
+but that also does that service.
+
+651
+00:35:23,000 --> 00:35:28,600
+OK, you might have to make a post on Facebook and make a post on your story.
+
+652
+00:35:28,600 --> 00:35:31,800
+There is always a deal. If there are leads coming in,
+
+653
+00:35:31,800 --> 00:35:33,960
+there is always a deal to be had.
+
+654
+00:35:33,960 --> 00:35:37,680
+So for me, I ain't pulling out of no area because I can't get a deal.
+
+655
+00:35:37,680 --> 00:35:40,400
+If there's leads coming in, I am going to go there.
+
+656
+00:35:40,400 --> 00:35:44,120
+OK, now there is a small caveat because I know sometimes you do something,
+
+657
+00:35:44,120 --> 00:35:46,640
+you do something, you do something, and it's just like, gosh, dang it.
+
+658
+00:35:46,640 --> 00:35:48,440
+I need to just take a break.
+
+659
+00:35:48,440 --> 00:35:50,960
+I'm not if I'm getting leads, that area is mine.
+
+660
+00:35:50,960 --> 00:35:52,000
+I'm not giving up on it.
+
+661
+00:35:52,000 --> 00:35:54,320
+There have been occasions where I'm like, all right,
+
+662
+00:35:54,320 --> 00:35:55,920
+I feel like I pitched everybody.
+
+663
+00:35:55,920 --> 00:35:57,640
+I need a new set of eyeballs on this.
+
+664
+00:35:57,640 --> 00:36:00,200
+Let me go ahead and pause this campaign.
+
+665
+00:36:00,200 --> 00:36:03,520
+I'll set up another one in a neighboring city
+
+666
+00:36:03,520 --> 00:36:05,760
+or turn on one of my other ones because I've already got one ready.
+
+667
+00:36:05,760 --> 00:36:09,080
+I'll go and run that, get a deal, and I'll come back to that first one.
+
+668
+00:36:09,080 --> 00:36:11,520
+OK, maybe I'll wait for a different time of the year.
+
+669
+00:36:11,520 --> 00:36:16,200
+Maybe I'll wait for, you know, the election to finish or some big news
+
+670
+00:36:16,200 --> 00:36:18,760
+or tax, but I am not giving up on the area.
+
+671
+00:36:18,760 --> 00:36:21,480
+I am getting leads in an area with ads, with organic.
+
+672
+00:36:22,360 --> 00:36:23,760
+I'm going to get a deal.
+
+673
+00:36:24,760 --> 00:36:26,600
+And that's just the mentality that I have.
+
+674
+00:36:26,600 --> 00:36:29,320
+So there is there is one rule that I have, and that is that if I've spent
+
+675
+00:36:29,320 --> 00:36:32,960
+one hundred fifty to two hundred dollars and I know that I'm in the right city,
+
+676
+00:36:33,320 --> 00:36:37,280
+I have my landing page is good and I'm not getting leads.
+
+677
+00:36:37,320 --> 00:36:38,920
+Something ain't right.
+
+678
+00:36:38,920 --> 00:36:43,720
+OK, and and that's the only time I'm pulling out. Period.
+
+679
+00:36:43,800 --> 00:36:46,520
+OK, so the truth is, guys, is that
+
+680
+00:36:47,880 --> 00:36:51,920
+if it's if if I'm getting leads, there is always a deal to be had. OK.
+
+681
+00:36:53,200 --> 00:36:56,560
+That that's it. And if not, guys, if I'm getting no clicks
+
+682
+00:36:56,560 --> 00:37:00,080
+and only impressions, like I told you guys, if you're only getting impressions,
+
+683
+00:37:00,280 --> 00:37:02,800
+it's probably getting shown to the wrong people or your ads suck.
+
+684
+00:37:03,040 --> 00:37:05,880
+And if you're getting clicks, but no leads, then you're probably getting
+
+685
+00:37:06,160 --> 00:37:09,320
+the wrong people clicking on it or your your landing page sucks.
+
+686
+00:37:09,840 --> 00:37:13,040
+And you just need to start making adjustments. OK, that's it.
+
+687
+00:37:13,200 --> 00:37:19,240
+So, guys, like for me, if you find the mentality, there is always a deal.
+
+688
+00:37:19,840 --> 00:37:20,720
+I will always get a deal.
+
+689
+00:37:20,720 --> 00:37:22,960
+There was one of my first projects.
+
+690
+00:37:23,200 --> 00:37:25,720
+In fact, my very first one was towing huntsville.com.
+
+691
+00:37:25,760 --> 00:37:27,680
+I've since sold the website.
+
+692
+00:37:27,680 --> 00:37:30,040
+I got a deal. I got it's like 700 bucks a month.
+
+693
+00:37:30,120 --> 00:37:32,400
+And it was like two, three months. They paid me.
+
+694
+00:37:32,760 --> 00:37:33,960
+They wanted to pay me in a check.
+
+695
+00:37:33,960 --> 00:37:36,360
+I didn't really know how to do stripe, whatever.
+
+696
+00:37:36,640 --> 00:37:38,760
+And it was kind of cool to get a check instead of a stripe.
+
+697
+00:37:38,760 --> 00:37:41,160
+I liked getting them in the mail, which was stupid.
+
+698
+00:37:41,160 --> 00:37:42,320
+But that's just how it was.
+
+699
+00:37:42,320 --> 00:37:43,600
+I didn't want to spend three percent.
+
+700
+00:37:43,600 --> 00:37:45,360
+All that stuff. Two point nine seven or whatever.
+
+701
+00:37:47,240 --> 00:37:48,400
+Client cancels.
+
+702
+00:37:48,400 --> 00:37:50,520
+And I had to find somebody else.
+
+703
+00:37:50,800 --> 00:37:52,280
+And I did find somebody else for a minute.
+
+704
+00:37:52,280 --> 00:37:55,600
+And then I couldn't after that, I could not for the life of me find someone.
+
+705
+00:37:55,600 --> 00:37:58,720
+Guys, I went through every single business owner.
+
+706
+00:37:58,720 --> 00:38:00,000
+I was given every I could.
+
+707
+00:38:00,000 --> 00:38:02,480
+It's like I couldn't give away leads fast enough.
+
+708
+00:38:02,480 --> 00:38:04,320
+I was trying everybody and anybody.
+
+709
+00:38:04,640 --> 00:38:06,760
+And I almost just gave up on this thing.
+
+710
+00:38:06,760 --> 00:38:08,960
+I was like, dude, I'm getting leads.
+
+711
+00:38:08,960 --> 00:38:10,800
+Why? Why is no one taking these?
+
+712
+00:38:10,800 --> 00:38:12,520
+You know, this area just must not be good.
+
+713
+00:38:13,080 --> 00:38:19,680
+And finally, I I was in this cash crunch and a friend of mine offered.
+
+714
+00:38:19,680 --> 00:38:20,920
+He's like, do you have any websites you want to sell?
+
+715
+00:38:20,920 --> 00:38:22,640
+I was like, well, I have this one that's producing a bunch of leads.
+
+716
+00:38:22,640 --> 00:38:25,320
+He's like, yeah, but if you don't have a client, it's not really valuable to me.
+
+717
+00:38:25,320 --> 00:38:26,840
+And I was like, yeah, he's right.
+
+718
+00:38:26,840 --> 00:38:30,080
+So I just I remember it was December of 2019.
+
+719
+00:38:30,240 --> 00:38:34,720
+The same December of 2019 that I decided to frickin go all in on this
+
+720
+00:38:34,720 --> 00:38:37,680
+and to stay in this as I went.
+
+721
+00:38:38,800 --> 00:38:42,320
+And I went into a Facebook group and I just started cold calling people.
+
+722
+00:38:42,440 --> 00:38:44,600
+I didn't even I didn't give I was so done.
+
+723
+00:38:44,600 --> 00:38:47,080
+I was if there was a name and a phone number,
+
+724
+00:38:47,480 --> 00:38:49,320
+I didn't even I didn't even need to know the company name.
+
+725
+00:38:49,320 --> 00:38:51,480
+And I saw this one comment.
+
+726
+00:38:51,480 --> 00:38:52,840
+I remember it was a December day.
+
+727
+00:38:52,840 --> 00:38:55,720
+It was so bloody cold outside, because I just went for a run.
+
+728
+00:38:55,960 --> 00:38:59,280
+I came inside and I called this number.
+
+729
+00:38:59,840 --> 00:39:02,160
+And I didn't know the company name, and I just pitched them.
+
+730
+00:39:02,600 --> 00:39:06,240
+And I ended up frickin closing this guy for 500 bucks a month.
+
+731
+00:39:06,240 --> 00:39:08,640
+Put him in a six month contract.
+
+732
+00:39:08,640 --> 00:39:11,600
+And I flipped the site and sold it for nine thousand bucks to a friend of mine,
+
+733
+00:39:11,600 --> 00:39:14,840
+which, by the way, he's made way more than that.
+
+734
+00:39:14,840 --> 00:39:16,480
+So it was a win win for everybody.
+
+735
+00:39:16,480 --> 00:39:21,280
+But the point is, there is always a deal to be had.
+
+736
+00:39:21,400 --> 00:39:26,400
+OK, if I'm getting leads and I'm not hooking business owners, that's on me.
+
+737
+00:39:26,440 --> 00:39:28,560
+If you're getting leads and you're not hooking business owners
+
+738
+00:39:28,680 --> 00:39:31,280
+or closing business owners, that's on you.
+
+739
+00:39:31,480 --> 00:39:34,320
+If I'm getting leads and hooking business owners, but I'm not closing,
+
+740
+00:39:34,320 --> 00:39:36,520
+that's on me. OK.
+
+741
+00:39:36,520 --> 00:39:39,520
+And guys, to just wrap up on that point.
+
+742
+00:39:41,080 --> 00:39:44,760
+My motto is always either yes.
+
+743
+00:39:45,840 --> 00:39:48,640
+Or not now, maybe later.
+
+744
+00:39:49,440 --> 00:39:52,080
+OK, I don't let people tell me no.
+
+745
+00:39:53,040 --> 00:39:55,040
+Yes, or not now, maybe later.
+
+746
+00:39:55,040 --> 00:39:57,120
+We've done an entire training on this inside digital landlords.
+
+747
+00:39:57,160 --> 00:40:00,320
+But if I go if I if I cold call somebody.
+
+748
+00:40:01,360 --> 00:40:02,760
+I do not let them tell me no.
+
+749
+00:40:02,760 --> 00:40:06,120
+I have a way that I can I can leave that door open.
+
+750
+00:40:06,120 --> 00:40:07,920
+I never close doors. I never slam doors.
+
+751
+00:40:07,920 --> 00:40:10,000
+I never burn bridges. I try my best not to, at least,
+
+752
+00:40:10,360 --> 00:40:12,080
+because I know that this is a long game.
+
+753
+00:40:12,080 --> 00:40:15,480
+And guys, if you guys are in this to make legit real money,
+
+754
+00:40:16,520 --> 00:40:21,600
+do not get knows, do not burn bridges, do not freaking blaze through areas.
+
+755
+00:40:21,920 --> 00:40:24,520
+Because the people that tell, you know, today
+
+756
+00:40:25,240 --> 00:40:29,520
+that are going through something tragic or in the middle of a divorce
+
+757
+00:40:29,520 --> 00:40:33,920
+or in a financial in three years, those same people will surprise you.
+
+758
+00:40:34,080 --> 00:40:35,920
+They're in a completely different situation,
+
+759
+00:40:35,920 --> 00:40:39,080
+maybe in a completely different business, and they will buy leads from you.
+
+760
+00:40:39,160 --> 00:40:42,680
+And I've had this happen not once, not twice, but probably five different times
+
+761
+00:40:42,680 --> 00:40:45,120
+where today I almost had the deal.
+
+762
+00:40:45,120 --> 00:40:48,240
+They were interested and they said no, or they they weren't interested today.
+
+763
+00:40:48,240 --> 00:40:50,120
+And I said, OK, let's talk down the road.
+
+764
+00:40:50,120 --> 00:40:52,800
+And I followed up three years later or they saw my post
+
+765
+00:40:52,960 --> 00:40:55,640
+or they reached out to me and said, hey, can I get some leads?
+
+766
+00:40:55,640 --> 00:40:57,240
+And I got the freaking deal.
+
+767
+00:40:57,240 --> 00:41:01,360
+So my motto in life in general is I don't I don't take knows, man.
+
+768
+00:41:01,680 --> 00:41:03,200
+I don't I never take those.
+
+769
+00:41:03,200 --> 00:41:05,520
+I leave every single door open
+
+770
+00:41:05,520 --> 00:41:08,400
+because it's either yes or not now, maybe later.
+
+771
+00:41:08,400 --> 00:41:09,680
+And that's that's the truth.
+
+772
+00:41:09,680 --> 00:41:12,200
+So, guys, my my criteria for the chopping block.
+
+773
+00:41:14,240 --> 00:41:18,880
+Is basically unless unless I've spent 150 to 200 bucks,
+
+774
+00:41:19,360 --> 00:41:21,760
+made some adjustments on ads
+
+775
+00:41:21,800 --> 00:41:24,640
+and I'm not getting leads and I am getting clicks.
+
+776
+00:41:26,080 --> 00:41:27,880
+Then I'm I'm in that area.
+
+777
+00:41:27,880 --> 00:41:30,080
+And why why can I be this confident?
+
+778
+00:41:30,080 --> 00:41:32,240
+Because I know what a good area looks like.
+
+779
+00:41:32,240 --> 00:41:36,040
+I know what what it needs to look like.
+
+780
+00:41:36,040 --> 00:41:37,800
+I know what kind of search volume needs to have.
+
+781
+00:41:37,800 --> 00:41:39,800
+I know what the CPC needs to be.
+
+782
+00:41:39,800 --> 00:41:42,320
+I know those things, and that gives me the confidence
+
+783
+00:41:42,520 --> 00:41:45,000
+to stay in an area until I get a deal.
+
+784
+00:41:45,000 --> 00:41:47,240
+OK, Jason, let's go through at nine minutes.
+
+785
+00:41:47,240 --> 00:41:48,520
+Do we have any questions, any comments?
+
+786
+00:41:48,520 --> 00:41:50,400
+If not, we'll wrap it up.
+
+787
+00:41:51,160 --> 00:41:54,120
+Yeah, Kirk was just agreeing with the business owners.
+
+788
+00:41:54,120 --> 00:41:56,960
+He said he's one thousand dollars.
+
+789
+00:41:57,800 --> 00:42:00,000
+Looks like he's one thousand euros in on ads
+
+790
+00:42:00,680 --> 00:42:03,440
+for business owners, and he's still in it.
+
+791
+00:42:03,440 --> 00:42:06,120
+So he says spot on with the business owners.
+
+792
+00:42:06,680 --> 00:42:09,120
+I didn't validate mine and lost money on all of them.
+
+793
+00:42:09,720 --> 00:42:12,600
+Be good. He says it would be good to get tips
+
+794
+00:42:12,600 --> 00:42:16,120
+on validating the business owners.
+
+795
+00:42:16,120 --> 00:42:18,440
+So Kirk, maybe mean you can just jump on a call, man,
+
+796
+00:42:18,680 --> 00:42:21,160
+and I can just show you some tips on that.
+
+797
+00:42:21,160 --> 00:42:23,440
+So just reach out to Donnie Dre after this call.
+
+798
+00:42:24,360 --> 00:42:25,000
+That's a good idea.
+
+799
+00:42:25,000 --> 00:42:27,000
+And Kirk, you're crazy if you don't take him up on that.
+
+800
+00:42:28,160 --> 00:42:29,840
+By the way, I appreciate you doing that.
+
+801
+00:42:29,840 --> 00:42:32,440
+Yeah, that's so just real quick tips on that.
+
+802
+00:42:34,240 --> 00:42:37,000
+I'd need more context, but don't be afraid
+
+803
+00:42:37,600 --> 00:42:39,920
+to do a pullback on the initial call.
+
+804
+00:42:40,120 --> 00:42:41,200
+That's my tip.
+
+805
+00:42:41,200 --> 00:42:44,040
+I think sometimes we get in, we want to get some free leads.
+
+806
+00:42:44,040 --> 00:42:46,040
+If I'll give you some free leads, we'll do a call.
+
+807
+00:42:46,120 --> 00:42:48,920
+And we're so excited that they didn't like yell at us
+
+808
+00:42:49,160 --> 00:42:51,640
+and we're so excited, they're showing a little bit of interest.
+
+809
+00:42:52,000 --> 00:42:54,880
+We're like that person in high school that never went on a date.
+
+810
+00:42:54,880 --> 00:42:56,760
+And then the first person out, they like go bananas
+
+811
+00:42:56,760 --> 00:42:57,720
+because they show him some attention.
+
+812
+00:42:57,720 --> 00:43:00,400
+It's pathetic. OK, don't don't do that.
+
+813
+00:43:00,400 --> 00:43:04,520
+Like at the end of the call, if you're unsure, say that say,
+
+814
+00:43:05,200 --> 00:43:07,720
+Mr. Business Owner, real quick, I'll give you some free leads.
+
+815
+00:43:07,760 --> 00:43:09,560
+Like, shoot me straight, man.
+
+816
+00:43:09,560 --> 00:43:11,800
+Are you just looking for free leads?
+
+817
+00:43:11,800 --> 00:43:13,640
+Because if you're just looking for free leads, like, let me know.
+
+818
+00:43:13,640 --> 00:43:15,400
+I'll give you a free or you want to grow your company.
+
+819
+00:43:16,080 --> 00:43:18,120
+Like, are you going to answer my call when I call you?
+
+820
+00:43:18,120 --> 00:43:18,800
+Are you going to?
+
+821
+00:43:18,800 --> 00:43:20,920
+Because I'm trying to I'm trying to run a business here.
+
+822
+00:43:20,920 --> 00:43:22,600
+I'm going to let you try this for free.
+
+823
+00:43:22,600 --> 00:43:26,400
+There's no absolutely no strings attached yet.
+
+824
+00:43:26,960 --> 00:43:28,080
+But I am here to earn your business.
+
+825
+00:43:28,080 --> 00:43:29,480
+And if you're not interested in talking
+
+826
+00:43:29,480 --> 00:43:31,600
+and you're just telling me what I want to hear, dude, I'm a big boy.
+
+827
+00:43:31,880 --> 00:43:33,960
+I'm a big girl. Just tell me right now.
+
+828
+00:43:33,960 --> 00:43:35,520
+And that terrifies some of you to say that.
+
+829
+00:43:35,520 --> 00:43:38,400
+But guys, say it, because if they're interested, they're going to go,
+
+830
+00:43:38,400 --> 00:43:40,240
+no, no, no, no, no, no, no, I'm super interested.
+
+831
+00:43:40,240 --> 00:43:41,680
+Sorry, I'm busy.
+
+832
+00:43:41,680 --> 00:43:44,160
+Or if they're not, you're going to give them an opportunity to just
+
+833
+00:43:45,000 --> 00:43:49,360
+freaking walk away and go call somebody else, because that's as Jason said.
+
+834
+00:43:51,280 --> 00:43:52,960
+The right business owner is so important.
+
+835
+00:43:52,960 --> 00:43:54,720
+And you guys are going to it's going to happen to you.
+
+836
+00:43:54,720 --> 00:43:56,800
+You're going to get business owners that give you their money today.
+
+837
+00:43:57,520 --> 00:43:59,440
+And they're just not the right fit.
+
+838
+00:43:59,440 --> 00:44:00,480
+And you want to get that money.
+
+839
+00:44:00,480 --> 00:44:02,080
+You want to take it so bad.
+
+840
+00:44:02,080 --> 00:44:04,520
+But it's not the right decision, because if you get that deal today,
+
+841
+00:44:04,520 --> 00:44:06,200
+you're locked in a six month contract with somebody
+
+842
+00:44:06,200 --> 00:44:08,200
+who's not going to be with you in a year.
+
+843
+00:44:08,200 --> 00:44:10,400
+And then in six months, you're going to have to get somebody new.
+
+844
+00:44:10,560 --> 00:44:11,720
+And that might be the time.
+
+845
+00:44:11,720 --> 00:44:12,800
+It's like winter.
+
+846
+00:44:12,800 --> 00:44:15,200
+And you have to make these big boy, big girl decisions of
+
+847
+00:44:15,600 --> 00:44:18,000
+even though I can take money today, it's not the right money.
+
+848
+00:44:18,000 --> 00:44:19,040
+It's not the long term money.
+
+849
+00:44:19,040 --> 00:44:20,280
+It's not the big money.
+
+850
+00:44:20,280 --> 00:44:23,240
+And that's a hard, mature thing that you have to you have to learn.
+
+851
+00:44:23,240 --> 00:44:26,800
+OK, so anything else?
+
+852
+00:44:26,800 --> 00:44:31,120
+Um, John Fahm, he shared one of his areas with the CBC.
+
+853
+00:44:32,280 --> 00:44:34,600
+And then, yeah, so I just recommended that, you know,
+
+854
+00:44:34,600 --> 00:44:36,760
+if you do find a good area,
+
+855
+00:44:36,760 --> 00:44:39,720
+I would encourage you to kind of keep it to yourself also,
+
+856
+00:44:39,800 --> 00:44:42,840
+especially with like sharing it with people publicly.
+
+857
+00:44:44,840 --> 00:44:47,840
+It's a Jamesville, Wisconsin.
+
+858
+00:44:47,840 --> 00:44:50,840
+Does he say what what niche concrete?
+
+859
+00:44:50,840 --> 00:44:52,800
+Yeah, beautiful.
+
+860
+00:44:52,800 --> 00:44:54,120
+I'm going to text my team right now and get it.
+
+861
+00:44:54,120 --> 00:44:56,480
+No, I'm just kidding, bro.
+
+862
+00:44:56,480 --> 00:44:57,520
+But he says he doesn't really mind.
+
+863
+00:44:57,520 --> 00:45:00,440
+But to be honest, like, I like to keep my areas to myself
+
+864
+00:45:00,800 --> 00:45:04,120
+just because that area has potential making you money.
+
+865
+00:45:04,920 --> 00:45:08,000
+So personally, I like to keep my areas to myself.
+
+866
+00:45:08,320 --> 00:45:10,680
+I don't share with people because people jump on that and try and take it.
+
+867
+00:45:11,080 --> 00:45:13,600
+A lot of people are lazy about doing their their due diligence.
+
+868
+00:45:14,760 --> 00:45:17,000
+So just be aware of that.
+
+869
+00:45:17,000 --> 00:45:19,040
+Yeah, I know that.
+
+870
+00:45:19,040 --> 00:45:20,520
+I would just pop in real quick.
+
+871
+00:45:20,520 --> 00:45:22,400
+You said concrete in Wisconsin.
+
+872
+00:45:22,400 --> 00:45:25,000
+Just the thought that might not be great
+
+873
+00:45:25,280 --> 00:45:27,480
+because I think it gets pretty cold in Wisconsin.
+
+874
+00:45:27,720 --> 00:45:31,240
+And so if you are to go there, you might just possibly want to plan
+
+875
+00:45:31,240 --> 00:45:34,120
+on it being more of a nine months, a year deal,
+
+876
+00:45:34,560 --> 00:45:38,760
+assuming that concrete business is like practically shut down
+
+877
+00:45:39,040 --> 00:45:40,480
+during the winter month period.
+
+878
+00:45:40,480 --> 00:45:43,120
+You can I mean, still, like if you have a deal going like six
+
+879
+00:45:43,120 --> 00:45:44,720
+to nine months out of the year, that's awesome.
+
+880
+00:45:44,720 --> 00:45:47,480
+Obviously, even if it's only a thousand bucks a month, I'm just
+
+881
+00:45:48,280 --> 00:45:50,600
+that's just a thought as well.
+
+882
+00:45:50,600 --> 00:45:51,520
+It's a good point.
+
+883
+00:45:51,520 --> 00:45:53,920
+And I think there's a way you could do it for the year,
+
+884
+00:45:53,920 --> 00:45:55,560
+but you just need to go in with the right intention.
+
+885
+00:45:55,560 --> 00:45:58,120
+And what I would do, I'd still do a 12 month deal,
+
+886
+00:45:58,400 --> 00:46:00,040
+but I'd just pitch it really hard.
+
+887
+00:46:00,040 --> 00:46:01,920
+Like, hey, this is a year thing.
+
+888
+00:46:01,920 --> 00:46:03,840
+Like, I only sell a year contract.
+
+889
+00:46:03,840 --> 00:46:07,320
+It is going to be really slow during the year during December.
+
+890
+00:46:07,560 --> 00:46:08,960
+So I can either do one of two things
+
+891
+00:46:08,960 --> 00:46:10,840
+and you can make the one thing seem way better than the others.
+
+892
+00:46:10,840 --> 00:46:14,160
+I can either pause you for three months and charge you, you know,
+
+893
+00:46:14,680 --> 00:46:18,480
+fifteen hundred bucks a month for the other nine months.
+
+894
+00:46:18,520 --> 00:46:21,960
+Or we could just do a thousand bucks a month and you pay year round.
+
+895
+00:46:21,960 --> 00:46:23,440
+And there's a couple of months you're going to be shut down.
+
+896
+00:46:23,440 --> 00:46:26,840
+So now they have a perceived savings of a couple of thousand bucks.
+
+897
+00:46:27,040 --> 00:46:28,440
+They stay with you year round.
+
+898
+00:46:28,440 --> 00:46:30,320
+You've let them know up front that that's going to happen
+
+899
+00:46:30,320 --> 00:46:31,560
+and that is going to happen.
+
+900
+00:46:31,600 --> 00:46:34,600
+And they're just going to be somebody else.
+
+901
+00:46:35,880 --> 00:46:38,120
+So very important point.
+
+902
+00:46:38,120 --> 00:46:39,840
+Doesn't mean you can't go into these states, guys.
+
+903
+00:46:39,840 --> 00:46:41,080
+Doesn't mean you can't go to these areas.
+
+904
+00:46:41,080 --> 00:46:44,240
+But if you can, I would keep looking, looking to something that's,
+
+905
+00:46:44,400 --> 00:46:48,560
+you know, Wisconsin's probably good for something that's not that's not concrete.
+
+906
+00:46:48,800 --> 00:46:54,480
+But again, this comes from experience and nothing sucks more.
+
+907
+00:46:54,840 --> 00:46:58,240
+And as soon as it starts to get cold, people start calling you, hey, bro,
+
+908
+00:46:58,600 --> 00:47:00,320
+let's go ahead and pause this bad boy.
+
+909
+00:47:00,320 --> 00:47:01,400
+And you're like, dude, I can't pause.
+
+910
+00:47:01,400 --> 00:47:02,440
+Well, OK, I'm sorry.
+
+911
+00:47:02,560 --> 00:47:03,880
+So good point, Aaron.
+
+912
+00:47:05,160 --> 00:47:05,520
+Awesome.
+
+913
+00:47:05,520 --> 00:47:07,320
+And I'm just dropping in the chat right now, the link.
+
+914
+00:47:07,320 --> 00:47:09,040
+I know we're going to be wrapping it up here in a few minutes.
+
+915
+00:47:09,400 --> 00:47:14,000
+That's just a link to the Google Drive that's housing the PDF
+
+916
+00:47:14,000 --> 00:47:16,400
+for the cheat sheet for today's live.
+
+917
+00:47:17,360 --> 00:47:21,480
+And for those of you that are still on, let me put in the Vimeo link
+
+918
+00:47:21,480 --> 00:47:24,520
+for early access to these podcasts.
+
+919
+00:47:25,600 --> 00:47:26,720
+So that's kind of cool.
+
+920
+00:47:26,720 --> 00:47:29,760
+I've never been part of a when people leave review.
+
+921
+00:47:29,920 --> 00:47:32,520
+Can we see the name of the person that left a review on the podcast?
+
+922
+00:47:33,840 --> 00:47:37,560
+It depends on what I think you can only leave reviews on Spotify,
+
+923
+00:47:37,840 --> 00:47:40,280
+but I'm not too sure.
+
+924
+00:47:40,280 --> 00:47:43,880
+Well, I'll just let you guys know reviews help.
+
+925
+00:47:43,880 --> 00:47:44,600
+We appreciate it.
+
+926
+00:47:44,600 --> 00:47:47,800
+If you guys do leave a review, send me a screenshot posted in the group.
+
+927
+00:47:48,240 --> 00:47:50,640
+I'll try to hook you guys up with some swag on the next live.
+
+928
+00:47:51,720 --> 00:47:53,440
+Because those things mean a lot to us.
+
+929
+00:47:53,440 --> 00:47:55,480
+That's only if you like the podcast and you've actually listened.
+
+930
+00:47:55,480 --> 00:47:56,200
+I don't want you lying.
+
+931
+00:47:56,200 --> 00:47:58,240
+I don't want you saying it's good if you don't think it's good.
+
+932
+00:47:58,280 --> 00:47:59,960
+But we really, really appreciate that.
+
+933
+00:47:59,960 --> 00:48:02,680
+But yeah, that podcast, that that the one you just shared.
+
+934
+00:48:03,480 --> 00:48:06,520
+Do you guys go to Spotify or Apple type in digital realistic secrets?
+
+935
+00:48:07,640 --> 00:48:11,520
+That one is not out and it's not going to be released until Thursday
+
+936
+00:48:12,720 --> 00:48:16,040
+7 a.m. or 5 a.m. or something like that.
+
+937
+00:48:16,040 --> 00:48:18,040
+Awesome. Yeah, I just I'm editing.
+
+938
+00:48:18,040 --> 00:48:19,560
+I put in it was from last week's.
+
+939
+00:48:19,560 --> 00:48:21,320
+Let me put in the other link.
+
+940
+00:48:21,320 --> 00:48:22,640
+There we go. It's been edited now.
+
+941
+00:48:22,640 --> 00:48:24,760
+So you can just save that. That's kind of cool.
+
+942
+00:48:25,920 --> 00:48:27,120
+And get going with that one.
+
+943
+00:48:27,120 --> 00:48:30,400
+Yeah, it's why the rank and rent digital real estate model is broken.
+
+944
+00:48:30,640 --> 00:48:31,960
+Not sure where you're going with that, Nick.
+
+945
+00:48:31,960 --> 00:48:33,800
+But I will definitely give it a listen.
+
+946
+00:48:33,800 --> 00:48:35,640
+Yeah, it's it's click bait.
+
+947
+00:48:35,640 --> 00:48:38,560
+But I follow. I actually come through on the click bait for real.
+
+948
+00:48:38,760 --> 00:48:40,320
+It makes sense when you listen to it.
+
+949
+00:48:40,320 --> 00:48:42,640
+So any other questions?
+
+950
+00:48:43,720 --> 00:48:46,520
+So Kirk just says he has a not now.
+
+951
+00:48:47,200 --> 00:48:49,320
+Pause the ads was thinking of finding a new bio.
+
+952
+00:48:49,520 --> 00:48:51,960
+He's asking if you should do that, Kirk.
+
+953
+00:48:52,040 --> 00:48:54,280
+Yeah, go find a new business owner.
+
+954
+00:48:54,280 --> 00:48:57,480
+You know, if somebody asks you for a lead, you say not now.
+
+955
+00:48:57,760 --> 00:49:00,080
+Do you think they want to continue work with you down the road?
+
+956
+00:49:00,080 --> 00:49:04,200
+Probably not. Yeah, so I agree.
+
+957
+00:49:04,200 --> 00:49:05,600
+And not now.
+
+958
+00:49:05,600 --> 00:49:07,280
+Again, I've talked about this.
+
+959
+00:49:07,280 --> 00:49:09,400
+I've trained about this in digital landlords, guys.
+
+960
+00:49:09,400 --> 00:49:13,360
+We it's we think that it's like we go to a city and it's yes or no.
+
+961
+00:49:13,400 --> 00:49:14,960
+Right. It's not.
+
+962
+00:49:14,960 --> 00:49:17,120
+It's yes or not now, maybe later.
+
+963
+00:49:17,120 --> 00:49:19,080
+And I view it like an entire city like that.
+
+964
+00:49:19,080 --> 00:49:23,240
+So if I'm looking, if I'm working Las Vegas, I'm working Los Angeles,
+
+965
+00:49:23,240 --> 00:49:24,240
+which would be terrible to work.
+
+966
+00:49:24,240 --> 00:49:26,160
+But I'm going to use that in Phoenix. Right.
+
+967
+00:49:26,160 --> 00:49:28,840
+I might be working those areas and I might find out that like,
+
+968
+00:49:29,120 --> 00:49:32,240
+you know, dude,
+
+969
+00:49:32,240 --> 00:49:35,440
+Las Vegas right now, it's just it's a it's a weird time of year.
+
+970
+00:49:35,440 --> 00:49:36,880
+And I'm just not getting any traction.
+
+971
+00:49:36,880 --> 00:49:40,680
+And so I'm not going to quit on the area because I've done all the homework.
+
+972
+00:49:40,680 --> 00:49:42,480
+I know that's a good area.
+
+973
+00:49:42,480 --> 00:49:46,560
+But I am going to pause it and go look at other stuff
+
+974
+00:49:47,120 --> 00:49:50,320
+and maybe try to get a deal in L.A., try to get a deal in Phoenix.
+
+975
+00:49:50,320 --> 00:49:52,920
+Then I'll come back to it and come back with a fresh set of eyes.
+
+976
+00:49:52,920 --> 00:49:57,360
+Some new confidence, a new maybe another case study, whatever the case is.
+
+977
+00:50:02,240 --> 00:50:03,600
+Got it. OK.
+
+978
+00:50:03,600 --> 00:50:06,360
+Nadine says, Nick, I sent a guy leads this morning.
+
+979
+00:50:06,600 --> 00:50:08,920
+He seems keen. When do I follow up?
+
+980
+00:50:12,400 --> 00:50:15,200
+Nadine, are you is she in does that name?
+
+981
+00:50:15,480 --> 00:50:17,640
+Is she in digital landlords or she not?
+
+982
+00:50:17,640 --> 00:50:20,120
+I can check. It doesn't sound familiar.
+
+983
+00:50:20,800 --> 00:50:21,200
+You know.
+
+984
+00:50:22,200 --> 00:50:23,440
+It does sound familiar.
+
+985
+00:50:23,440 --> 00:50:25,240
+Nadine, are you in digital landlords?
+
+986
+00:50:25,240 --> 00:50:27,400
+Because if you are, I'm going to just refer you to a module
+
+987
+00:50:27,400 --> 00:50:29,760
+which will answer every single one of your questions in two seconds.
+
+988
+00:50:32,920 --> 00:50:33,760
+Well, we'll see what you answer.
+
+989
+00:50:33,760 --> 00:50:35,320
+Let's see another. Well, I get that.
+
+990
+00:50:35,320 --> 00:50:37,240
+Yeah, I don't know if you want to answer for the group still.
+
+991
+00:50:37,240 --> 00:50:39,560
+Just a quick synopsis summary.
+
+992
+00:50:41,200 --> 00:50:43,400
+So Nadine's not in deal.
+
+993
+00:50:43,400 --> 00:50:45,560
+Oh, OK. So just in the free group, then.
+
+994
+00:50:45,560 --> 00:50:47,440
+So a little summary, Nick.
+
+995
+00:50:47,440 --> 00:50:50,440
+Yeah, you want to, you're saying?
+
+996
+00:50:50,440 --> 00:50:51,800
+Yeah, you got it. You want to do that?
+
+997
+00:50:51,800 --> 00:50:52,960
+Yeah, you do it for the group.
+
+998
+00:50:52,960 --> 00:50:56,040
+Yeah, this would be the last thing that I'll answer, guys, is.
+
+999
+00:50:58,480 --> 00:51:01,280
+So it's again, it's an art.
+
+1000
+00:51:01,320 --> 00:51:06,560
+It's it's first of all, when you say follow up, this is this is tough, right?
+
+1001
+00:51:06,800 --> 00:51:10,680
+Like we're not talking face to face, but like you mean follow up?
+
+1002
+00:51:10,680 --> 00:51:11,440
+Are you just sending it?
+
+1003
+00:51:11,440 --> 00:51:13,560
+Because I'm I'm live transfer in all my leads.
+
+1004
+00:51:13,560 --> 00:51:17,640
+So like I'm never not following up from the time that I call you.
+
+1005
+00:51:18,280 --> 00:51:21,040
+Dude, I'm I'm freaking me and you are buds.
+
+1006
+00:51:21,040 --> 00:51:22,560
+I'm calling you. I'm texting you.
+
+1007
+00:51:22,560 --> 00:51:23,360
+I'm not being annoying.
+
+1008
+00:51:23,360 --> 00:51:25,800
+I mean, every time I call you, you're going to you're going to salivate.
+
+1009
+00:51:25,800 --> 00:51:28,320
+You know, I got leads, but you're going to be talking to me a lot.
+
+1010
+00:51:28,320 --> 00:51:30,400
+I'm going to be sending you live transfers.
+
+1011
+00:51:30,400 --> 00:51:32,040
+I'm going to be fine. Did you get that one scheduled?
+
+1012
+00:51:32,040 --> 00:51:34,080
+Did you get that one hooked? Hey, can I call you?
+
+1013
+00:51:34,080 --> 00:51:36,600
+Like me and you are like, I'm sending these free jobs.
+
+1014
+00:51:36,600 --> 00:51:38,360
+They're lit. They're they're digital gold.
+
+1015
+00:51:38,360 --> 00:51:39,800
+I'm not just going to send them and forget.
+
+1016
+00:51:39,800 --> 00:51:43,320
+So the answer, if you haven't talked to him, was yesterday.
+
+1017
+00:51:43,840 --> 00:51:45,280
+You're talking to this person.
+
+1018
+00:51:45,280 --> 00:51:49,520
+You're like you are trying to get this deal
+
+1019
+00:51:49,520 --> 00:51:52,200
+from the second you call until the second you close.
+
+1020
+00:51:52,200 --> 00:51:56,520
+So I don't know what you mean when you say how soon to follow up.
+
+1021
+00:51:56,520 --> 00:51:58,440
+Like you don't ever stop following up.
+
+1022
+00:51:58,440 --> 00:52:00,880
+You're in constant contact until you get the deal.
+
+1023
+00:52:01,960 --> 00:52:04,080
+That's the reality. OK.
+
+1024
+00:52:04,080 --> 00:52:06,560
+Now, when to go for the close.
+
+1025
+00:52:06,560 --> 00:52:08,160
+That's another art thing.
+
+1026
+00:52:08,160 --> 00:52:10,120
+We teach that as I did to landlords to a T.
+
+1027
+00:52:10,120 --> 00:52:14,280
+It's it's also something that you learn and it's there's not an exact answer.
+
+1028
+00:52:15,080 --> 00:52:16,800
+But we have some criteria that we follow as well.
+
+1029
+00:52:16,800 --> 00:52:18,920
+So maybe let's answer one more question if there is one.
+
+1030
+00:52:21,880 --> 00:52:24,080
+Are we good? I think we're good.
+
+1031
+00:52:24,080 --> 00:52:26,560
+Beautiful. Guys, thank you for being on the call.
+
+1032
+00:52:26,560 --> 00:52:27,920
+I appreciate you guys being on the call.
+
+1033
+00:52:27,920 --> 00:52:30,760
+I think we had 20 people, 18 people.
+
+1034
+00:52:30,760 --> 00:52:33,760
+And I I really do enjoy doing these.
+
+1035
+00:52:33,760 --> 00:52:36,920
+I don't care, to be honest with you, if there's two.
+
+1036
+00:52:37,080 --> 00:52:39,040
+Last week, it really frustrated me.
+
+1037
+00:52:39,040 --> 00:52:41,200
+There was two people and it was a Labor Day.
+
+1038
+00:52:42,200 --> 00:52:45,160
+So I told the people that were on, I would make sure to hook them up
+
+1039
+00:52:45,160 --> 00:52:46,520
+and we would run it with more people.
+
+1040
+00:52:46,520 --> 00:52:51,600
+But like I love having 18 people that really want to try.
+
+1041
+00:52:51,600 --> 00:52:54,080
+They really want to do this now to speak to a couple of you guys
+
+1042
+00:52:54,080 --> 00:52:56,880
+that I keep seeing your face again and again and again.
+
+1043
+00:52:56,880 --> 00:53:00,400
+I guess I'm going to ask you, like, what's it going to take for something to change?
+
+1044
+00:53:00,400 --> 00:53:03,160
+Right. Like Jason's on this call.
+
+1045
+00:53:03,160 --> 00:53:05,280
+He's at over thirteen thousand dollars a month right now.
+
+1046
+00:53:05,280 --> 00:53:08,400
+He started in January. I've been seeing some of you guys for way longer
+
+1047
+00:53:08,400 --> 00:53:09,720
+than I've known Jason.
+
+1048
+00:53:10,120 --> 00:53:12,120
+And you're still doing nothing.
+
+1049
+00:53:12,120 --> 00:53:18,240
+You're still refusing to to either take your own, you know, your own action,
+
+1050
+00:53:18,240 --> 00:53:20,440
+spend your own money and pay the piper.
+
+1051
+00:53:20,440 --> 00:53:21,840
+But you also don't want to spend money.
+
+1052
+00:53:21,840 --> 00:53:24,080
+So I don't understand what you think.
+
+1053
+00:53:24,080 --> 00:53:26,320
+Like, do you think that you're just going to wake up
+
+1054
+00:53:26,320 --> 00:53:29,400
+and you're just going to get this business dropped to your lap
+
+1055
+00:53:29,400 --> 00:53:31,720
+that's making you, you know, fifteen, twenty thousand bucks a month?
+
+1056
+00:53:31,720 --> 00:53:33,320
+You're not going to have to work. You're not going to have to suffer.
+
+1057
+00:53:33,320 --> 00:53:34,840
+You're not going to spend any money. You don't have to take it.
+
+1058
+00:53:34,840 --> 00:53:36,280
+Like, I just don't get it.
+
+1059
+00:53:36,280 --> 00:53:38,880
+So there's a couple of you I keep seeing you.
+
+1060
+00:53:38,920 --> 00:53:42,080
+And I love you to death. But for the love,
+
+1061
+00:53:42,080 --> 00:53:43,840
+let's go do something with the knowledge.
+
+1062
+00:53:43,840 --> 00:53:47,000
+Let's quit taking notes and let's go do.
+
+1063
+00:53:47,000 --> 00:53:49,920
+Like, if you're going to choose the path, you have two paths to choose.
+
+1064
+00:53:49,920 --> 00:53:52,560
+Go spend your own money or pay me and get in my program.
+
+1065
+00:53:52,560 --> 00:53:53,760
+That's your two paths.
+
+1066
+00:53:53,760 --> 00:53:56,440
+OK, go spend your own money. Do it today.
+
+1067
+00:53:56,440 --> 00:53:58,280
+And it's a win-win for me, because if you spend it today,
+
+1068
+00:53:58,280 --> 00:54:00,960
+you're going to realize that, holy crap, I just spent a thousand bucks.
+
+1069
+00:54:00,960 --> 00:54:04,160
+I could have just, you know, gone into Nick's program.
+
+1070
+00:54:04,160 --> 00:54:07,040
+I could have paid, you know, started getting into it.
+
+1071
+00:54:07,040 --> 00:54:09,920
+Like, and if you don't, then you're going to get all the information.
+
+1072
+00:54:09,920 --> 00:54:15,320
+So whatever it is, guys, just start, just start.
+
+1073
+00:54:15,320 --> 00:54:16,280
+Go spend some money.
+
+1074
+00:54:16,280 --> 00:54:18,720
+And so you actually see that this isn't as easy as you think it is,
+
+1075
+00:54:18,720 --> 00:54:20,520
+but it's also not as complicated as you think it is.
+
+1076
+00:54:20,520 --> 00:54:23,560
+OK, and that's just for the people I keep seeing.
+
+1077
+00:54:23,560 --> 00:54:24,600
+I love you guys showing up.
+
+1078
+00:54:24,600 --> 00:54:27,960
+But like I said at the beginning, if you don't change anything,
+
+1079
+00:54:27,960 --> 00:54:29,640
+nothing's going to change.
+
+1080
+00:54:29,640 --> 00:54:32,160
+OK, so let's stop getting on these calls and doing nothing.
+
+1081
+00:54:32,160 --> 00:54:33,720
+And I'm going to start.
+
+1082
+00:54:33,720 --> 00:54:35,960
+Aaron, do we have a way to tracking who's on these calls?
+
+1083
+00:54:35,960 --> 00:54:38,800
+Do we have any kind of a thing that shows us in the past
+
+1084
+00:54:38,800 --> 00:54:40,080
+who's been on these calls?
+
+1085
+00:54:40,080 --> 00:54:42,560
+I wouldn't know unless we just manually check the live recordings,
+
+1086
+00:54:42,560 --> 00:54:44,280
+which we could do.
+
+1087
+00:54:44,280 --> 00:54:45,160
+And we might do that.
+
+1088
+00:54:45,160 --> 00:54:46,240
+I would love to see.
+
+1089
+00:54:46,240 --> 00:54:49,360
+And I'm going to start being like, you can get on like three.
+
+1090
+00:54:49,360 --> 00:54:53,400
+And then if you don't have a deal, I'm kicking you out of the entire group
+
+1091
+00:54:53,400 --> 00:54:56,160
+and blocking you from anything I ever create,
+
+1092
+00:54:56,160 --> 00:54:58,840
+because that's time, or at least show me you've spent some money on ads.
+
+1093
+00:54:58,840 --> 00:55:00,120
+At least some of you doing something.
+
+1094
+00:55:00,120 --> 00:55:01,520
+You know what I mean?
+
+1095
+00:55:02,640 --> 00:55:05,400
+That's what I think. OK, guys, thanks for being on the call.
+
+1096
+00:55:05,440 --> 00:55:07,680
+It's a beautiful September 9th.
+
+1097
+00:55:07,680 --> 00:55:09,440
+Live in the laptop lifestyle.
+
+1098
+00:55:09,440 --> 00:55:12,720
+We got we got we got people from Aaron.
+
+1099
+00:55:12,720 --> 00:55:14,200
+Tell these guys where you're at.
+
+1100
+00:55:14,200 --> 00:55:16,160
+I'm in Virginia.
+
+1101
+00:55:16,160 --> 00:55:19,560
+No, what city? It's it's it's.
+
+1102
+00:55:19,560 --> 00:55:22,600
+What's it called? Colonial Heights, Colonial Heights.
+
+1103
+00:55:22,600 --> 00:55:26,560
+I'm going to do a couple of projects, digital real estate in that area today.
+
+1104
+00:55:27,760 --> 00:55:30,200
+Just right in Aaron's backyard, just for fun.
+
+1105
+00:55:30,200 --> 00:55:32,080
+Just kidding. Jason is in.
+
+1106
+00:55:32,080 --> 00:55:35,080
+Are you in Lehigh, Jason, Lehigh, Utah?
+
+1107
+00:55:35,120 --> 00:55:36,320
+Southern Utah County.
+
+1108
+00:55:36,320 --> 00:55:37,920
+Basically the same place.
+
+1109
+00:55:37,920 --> 00:55:39,400
+OK, Utah County. OK, beautiful.
+
+1110
+00:55:39,400 --> 00:55:40,760
+And I am in Dubai.
+
+1111
+00:55:40,760 --> 00:55:42,640
+And there's people all over the world.
+
+1112
+00:55:42,640 --> 00:55:44,800
+And guess what? That's the beauty of the laptop lifestyle.
+
+1113
+00:55:44,800 --> 00:55:46,640
+So, guys, thanks for being on the call.
+
+1114
+00:55:46,640 --> 00:55:48,080
+Grab those resources.
+
+1115
+00:55:48,080 --> 00:55:49,160
+We'll see you next week. Thanks, guys.
+

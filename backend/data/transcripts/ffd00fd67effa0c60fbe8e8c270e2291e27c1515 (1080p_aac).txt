@@ -1,0 +1,356 @@
+Alright, now we are doing the images for the website.
+So we talked a little bit about images in our previous module.
+We have said that the best practice is to ask your client for pictures.
+If you do not have pictures from your clients, I am going to show you how to get some free
+images.
+My favorite one is actually Adobe stock images.
+You are more than welcome if you know none of your clients are going to give you images
+and you need to buy some.
+It is definitely worth to get a subscription there.
+If you only need a couple, I would do the free trial.
+The free trial usually up to this day, it includes 10 images.
+Because we need 25 images, you do need to create 3 accounts just to get those 25 images.
+It can be time consuming to use the free trial.
+That is why this is up to you if you want to pay for them or not.
+But there is a free trial option, especially for the first site.
+I already went ahead and made an account.
+Right here, if you are making the free 10 photos account, I am only going to show you.
+Keep in mind that you need 25 pictures, but we are only doing the header one and we will
+do 4 more pictures underneath just to show you what the rest is going to look like.
+Right here, it will tell you how many assets, so how many pictures you have left to use.
+Right here, again, when we are looking for pictures, you want to make sure that you are
+looking, especially when you are getting stock photos, that they look not stocky.
+You want them to look like you are a local company, you actually took those photos.
+Make sure you are familiar with what the area looks like.
+Obviously, we are located in St. George, so it is very similar to Arizona.
+But I am still going to look at what homes and residential properties look in Queen Creek,
+Arizona, which is the area that we are focusing on for our website.
+I want to make sure that the images that I am putting on the website look like they are local.
+So make sure you are going on Zello or anything like that to look at houses or whatever niche
+you are going into.
+So, let's start with something more broad.
+Concrete driveway.
+And keep in mind, you can use any other, you don't have to use Adobe Stock.
+If you just go into Google and type free stock images, you will get Shutterstock, which has
+some good ones, you will get iStock, Pexels, Unsplash, anything really.
+So go ahead and use whatever you want as long as you follow those guidelines that we have
+said before.
+So, let's see.
+The header picture is usually the hardest one because the header picture, you really
+need to pick one that is looking good because it is going right here.
+So, let's see.
+This could be in Arizona.
+Ok, let's go ahead and download this.
+So, just click on license right here.
+Ok, it's going to download it right here.
+And if you really like the photo up here, it's actually going to give you some other
+ones that are similar.
+This could be in Arizona too.
+It's not a great driveway, but it may work.
+Ok, I think this one is pretty, could be, this looks pretty general.
+We have three.
+I don't know if I like any of those to be my header photo, so I would like my header
+photo.
+And your header photo could even be a picture of Queen Creek, like a city or a neighborhood.
+Let's see, maybe if we type Queen Creek, Arizona.
+Let's see if they have any good ones.
+Alright.
+Ok, maybe Arizona.
+Get creative with how you're searching.
+Like for example, if you're going into, I don't know, Alabama and you know that in your
+city that you're going after, there's a lot of brick homes, you can actually just search
+brick home.
+If you know the exact type of house that you're looking for, you can just type that.
+This actually looks perfect.
+I'm pretty sure there's a stamped concrete.
+So, that would actually work.
+Let's see, this one would be a good one.
+Ok, we already have four.
+I think that's stamped concrete.
+Um.
+But because I'm not sure, just do a quick stamped concrete driveway.
+This is when you want to be careful.
+Make sure that what you're putting up is exactly what you're looking for.
+Ok, yeah, I think that's stamped concrete.
+Ok, this would be a really good header photo.
+Ok, let's download and we should have all the images that we need.
+Ok, let's go back to our website.
+There's the header photo right here.
+Now we need to optimize the images.
+So we need to make them SEO friendly because even images are important when it comes to
+ranking, when it comes to optimizing your website to be Google friendly.
+So one thing that we want to do is when it comes to optimization of your images, there's
+two very important things.
+One is resizing the images.
+The other one is renaming the images.
+See how right now they're called Adobe stock?
+Well, nobody that is Googling for your website will see that that photo is called Adobe stock.
+Google will and they don't usually like that.
+So they want to know exactly what that photo is instead of being an Adobe photo.
+And so we're going to rename them.
+Now let's, we resize every picture except for the header one.
+Usually the header one we don't need to resize because the header picture needs to be at
+least 1200 pixels to even look not blurry.
+So let's Google a free image resizer.
+And again, there are so many options out there.
+Just pick one that works for you.
+I've used this one before.
+A simple image resizer.
+So select image.
+Download.
+Okay.
+Let's resize this one.
+Usually I want to do it by dimension.
+And I would keep them under a thousand pixels.
+But usually I like it to do between like 300 and 400.
+Let's see, 450.
+Okay, that looks silly.
+So maybe let's try the percentage because this is not a square picture.
+It's hard to make it look natural.
+So maybe let's do 30% smaller.
+Oops.
+We need to select it again.
+This one right here.
+Okay.
+Okay, but we don't really know how many pixels that is.
+So let's try different free image resizer.
+Okay, let's try this one.
+Drop it there.
+This should work better because he tells you exactly this is way too much.
+So let's make it.
+Okay.
+And he already tells you this is perfect because you want to keep it max 400
+and he already automatically picks a hyphen.
+That won't make it look funky.
+Let's download the image.
+Perfect.
+Now I like to open the image immediately.
+Now let's go ahead and change the name.
+So click here.
+And the name of the image really just can be a keyword.
+So have your keyword list on hand, whatever you're doing on page SEO
+because you're really going to use the keyword list.
+So have your keyword list on hand, whatever you're doing on page SEO
+because you're really going to use it.
+And it's really easy when you have an image pulled up
+because all you need to do is look at what the image is and describe it.
+So this is a concrete driveway and that is going to be the name of the image.
+You can even put the location that you're trying to target.
+So Queen Creek.
+And I'm going to save this on my desktop.
+You can say whatever you want.
+Just make sure you know what it is when you need to add it to your website.
+Perfect.
+Now let's go back
+to our images.
+Let's do the next one.
+OK, 400.
+OK, I'm going to name this.
+Because the driveway does not look like it's concrete,
+but the sidewalk does.
+So I'm going to name this concrete sidewalk.
+Perfect.
+Let's do
+let's do another one.
+I should do this one.
+OK, this could be the concrete walkway.
+It looks like it's stamped concrete.
+We can even put the cord of concrete.
+Image.
+Rename it and do not use the same names or the same images.
+Always be creative and use a different name for each image.
+So, um, the cord of
+concrete.
+OK, let's do the next one.
+Concrete.
+Perfect.
+And
+so far we have three.
+OK, we need another small image,
+which I believe is this one.
+And then we're going to work with our header photo.
+Oops.
+OK, right here.
+OK, let's see.
+OK, this one.
+And let's do the same thing.
+So for 100,
+you can even do 300 if you want to be extra safe.
+The reason why we make them smaller
+is because
+if you have very large images, they look very nice,
+but the website takes a longer time to load.
+And these people are calling themselves
+a contractor.
+They want things done.
+So if if you
+I mean, think about the times that you have searched something
+on the Internet and the website was really, really slow to load.
+You have probably clicked out of it and clicked a different one.
+So that's the reason why we want to optimize things
+to make the website load fast.
+OK, and we can actually name this stamp to concrete.
+So let's download
+so let's download
+rename
+stamped concrete.
+Make sure you're spelling everything correctly
+and don't leave spacers, by the way, when you're renaming.
+So how I have a space right here, that won't be good.
+So have everything put together.
+OK, and now, lastly, we're going to worry about our header photo.
+So let's click out of here, select image.
+Make sure it's this one.
+Awesome.
+So it's four point three.
+It's a little big.
+So I would probably do two thousand.
+That should be better.
+You can also crop it, but you can do that in Weebly as well.
+So let's try it.
+If it doesn't work exactly how we want it,
+we can always go back here and edit it.
+And how I like to name the header photo is usually the company's name,
+not the client name, but our company that we have created with this website.
+So in my case, that would be Queen Creek Concrete.
+OK, I'm going to save this on my desktop where I have all my other ones.
+OK, now back to Weebly.
+So we have optimized images.
+We have resized, renamed.
+OK, let's go back to Weebly.
+Right here, let's do the header first.
+See how that looks.
+So you're going to click on replace header layout.
+Oops, just kidding.
+You're going to click on edit background.
+Click out of color, click on image and replace.
+OK, upload image, upload a photo from your computer.
+OK, right here is our header image.
+Let's click on open.
+OK, that looks good.
+So you can actually, if you hold on to the mouse, you can actually move this around.
+I know the house is really nice, but you also want to make sure that people can see the driveway.
+So let's keep it that.
+Click save usually gets a little bigger.
+Perfect.
+So you can, if you click here, this little dot, you can make it larger.
+OK, that should work.
+I think there's a space here.
+There's not.
+OK, let's go ahead and add our phone number here.
+What we like to do, if you have a very colorful image, sometimes it's hard to read.
+So we like to do something.
+Whatever we have done right here with the color block, we put in the header.
+So go ahead and add that up here and let's drag the title in here and the phone number.
+OK, let's actually add the company's phone number.
+So go ahead and copy that.
+Either go on call real, make sure that everything is very detail oriented.
+So make sure the phone number double, triple check that it's the exact one that you want
+it to be.
+Make sure that it's linked to a click to call to the same phone number so people can actually
+click and call.
+Let's make this smaller.
+A little bigger.
+All right.
+We don't need the color block to be that big.
+And Weebly doesn't allow you to make things skinnier.
+So a trick to doing by doing that is to put a spacer outside the color block and see how
+now you can make it more skinny to fit in there.
+So put it outside of the color block and you can actually fix it to fit in there.
+And then we can make the color block less of a block by clicking on it under background
+transparency.
+You can make this less so you can actually still see through the picture behind it.
+But it's you can see the letters more and you can make the color block like you can
+round the corners.
+This is up to you.
+I like to round them a little bit so it's not so harsh, but you can do whatever you
+want.
+And then I usually like to put a divider in between so I have a nice line.
+OK, let's make see what this looks like on the mobile.
+OK, I don't love I usually like everything to be in a line.
+So just switch things up.
+If you see this, just go into the theme, change the fonts to make something that looks
+better and more aligned.
+OK, and now you can also I'm pretty sure if we put a spacer above, it should screen.
+No, that won't work that way.
+So let's get rid of that.
+OK, let's see.
+Let's make this a different color.
+OK, that looks better.
+OK, that looks better.
+And then let's change this to be.
+OK, let's change the and now that we know what the header looks like, it's easier to
+make a form for it.
+So we can even do you can round the corners of the form as well.
+OK.
+Let's do let's just see what a yellow would look like.
+Don't really like that yellow.
+So let's grab.
+Maybe we just need to do a gray.
+OK, now that it's really hard to see the font.
+This is a little annoying.
+Whenever you're going with a dark color in the form, you just have to click on theme,
+click on fonts and then paragraph text.
+You're going to have to make that white and then it's going to be invisible here.
+So you have to manually make that black.
+But that's OK.
+I don't love.
+That.
+Don't love you, neither of them.
+OK, we want to make this white.
+You can actually see it.
+You probably want to make this yellow.
+Like the phone number.
+And obviously, this is not I mean, there's no rule in this.
+It's whatever you think looks decent.
+I would probably go with it.
+There.
+You can also make the form like a little smaller.
+I feel like that looks better.
+OK, now let's highlight every piece of content.
+Make sure and this is can be annoying.
+But it's important that you are paying attention to the font.
+You can also make the font smaller.
+I feel like that looks better.
+OK, now let's highlight every piece of content.
+Make sure and this is can be annoying.
+But it's important that you are paying attention to.
+This is already black.
+OK, so the rest of the content is good to go.
+Now, let's add the corner image right here.
+So just click on here.
+Upload a photo from your computer and.
+Let's do this one.
+I don't know if you remember when we were putting this into the desktop
+into the mobile phone.
+Look, this content would actually be disappearing.
+So well, when you add an image, as I said, in the module in the second
+module, this comes back.
+So OK, go back to desktop and you're going to do the same down here
+with the other three images that we downloaded.
+So one.
+Two.
+Three.
+All right, make sure the pictures are looking good.
+One thing that I like to do, and this is totally up to you, just giving
+you ideas where the pictures are.
+You can put it like a dark gray.
+You can match the same dark gray as the quote form.
+And then one last thing you need to do to optimize your images
+to be SEO friendly is click on the image right here.
+Go all the way to advanced and make sure you have an alt text.
+An alt text is pretty much another description of what the image is.
+So I'm pretty sure if you are.
+Like have some kind of disability and you can't see the image,
+there is a way that you can see the description of the image.
+And that's what the alt text is also used for is for people to identify
+whatever is on the image.
+So just be descriptive about it.
+For example, this could be stamped.
+Concrete for house.
+Walkway.
+And you're going to do this for these three images
+and all the other images as well.
+And then make sure you're always publishing after you're done.
+And that's all you have to do.
+So do that for all 25 images and you're good to go.

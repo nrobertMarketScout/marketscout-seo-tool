@@ -1,0 +1,274 @@
+All right, let's build a killer keyword list. Now, what does that mean? Why are we doing
+this so early? I'm going to go over all of those things, but first of all, I want to
+cover why we are taking the time at this stage of the game. All we've done at this point
+is pick the niche, and if you haven't picked the niche, you pick a niche, and if you don't
+know what to pick, pick concrete, okay, just to recap from our last lesson. But we've picked
+the niche, you're like, why are we already doing the keyword list? Okay, so there's many
+reasons to this, and I'm going to go over a couple of them, but guys, it's very, very,
+very crucial that you stop what you're doing and you do this step. Don't just watch this
+module, or sorry, don't just watch this lesson, watch this lesson and do what I'm asking,
+okay? All right, so why does this matter? Why does it matter to have our keyword list
+dialed in? And what I mean by that is these are the keywords that we're going to be targeting
+for our SEO, for our ads, for everything within that niche. So let's just assume that we're
+doing concrete, because I've said if you don't know what to do, you're going to do concrete.
+So the number one thing, the first thing that I think you need to understand is that in
+order for us to run ads, which is going to be part of this game, now for some of you
+that already have sites that are producing leads, this process works just the same and
+you're going to use your leads that are already coming in organically, that's fine. But for
+everybody else that wants to pre-sell and is just starting, and this niche is starting
+from scratch, you are going to need to run ads, okay? That's how we're going to speed
+this deal up. And as such, we're going to have to set up keyword themes, or we're going
+to have to pick our keyword inside of our ads. So what keywords do we pick? Well, if
+we do the keyword list correctly from the beginning, that becomes very simple, okay?
+Also, what kind of ad copy do we want to include? Well, we're going to want to include some
+keywords into our ad copy. So, you know, it's very, very crucial. The second thing, so number
+one is we're going to need these keywords for the ads. Number two, remember that the
+long-term game here, unless you're somebody who's just going to come in and, you know,
+sell, and by the way, you could do this, but if you're somebody that's going to come in
+and sell a deal for a thousand bucks a month, run $500 in ads and just take the difference
+and never build out a website, that's totally fine. But I completely, completely, completely
+recommend that once you do that and you get the deal, you then take the money from the
+deal and build out the actual website. And when you build out the actual website, you're
+going to need to know what kind of content to write. And you're going to want to look
+at your keywords for that. And you're going to want to know what H1 tags, and we're going
+to, by the way, if you have questions on this, we're going to get into that. It's fine. But
+if you want to know what type of, you know, heading to use, you want to know what to put
+as your page title and your meta description and what to name your images, it all ties
+back to the keyword list. Okay. So it's super, super, super crucial that you spend the time
+to do this correctly. Also, guys, one thing that I made a huge mistake, and you've heard
+me talk about having to get rid of 125 sites. One of the things I made a huge mistake with
+is when I was doing my due diligence, my market research, whatever you want to call it, I
+used to just use one keyword. So if I was doing concrete, I would go type in concrete
+Orlando Florida, and I would look at the metrics and I would base it on one keyword. Okay.
+And guys, if you base a decision on one keyword, you are rolling the dice, man. It's like going
+and buying a piece of real estate and literally basing it off of one thing, basing it off
+what the rents are. That's like, okay, well, the rents are 2000 bucks a month. Great.
+That's not looking at how much capital expenditure you're going to need into the roof. It's not
+looking at HOA fees. It's not looking at, you know, is that a desirable area? Is the
+area growing? It's like looking at one factor of a real estate deal and putting money down.
+That's the same as using one keyword to analyze a deal. Okay. So I did this incorrectly and
+I didn't know what I was doing. So we're going to take this keyword list and we are going
+to use at least five of the keywords that we, that we derive from this keyword list
+to analyze the deal. So you need to make sure this is done correctly. Okay. I'm telling
+you, this is so, so important. I've done this the wrong way and it is a nightmare.
+All right, guys, the cool part about this too is you only have to do this once per niche.
+So if you're going to do concrete, you do this correctly. You do it once. Now, if you
+build five, 10, 15 more concrete sites, you don't have to keep doing it over and over
+you just need to build a keyword list once. Okay. And what I'm going to do is I'm going
+to show you guys an example of what happens when you don't do this correctly. You don't
+look at the keyword research. You don't analyze the competition correctly because you only
+look at one keyword. And I'm going to show you what happens. All right, guys. So I went
+into this niche called foundation repair and I will tell you right now, this is one of
+those niches that is very high ticket. I thought it was going to be a home run. It ended up
+being, oh my gosh, I don't even want to get into, I spent a lot of money thinking I was
+going to just crush it in this niche. But that's neither here nor there. What I wanted
+to show you is this site has been live for, I kid you not, multiple years. We've been
+running SEO on this site and it hasn't been done perfectly. But typically based on the
+way that I now teach it and the way that I now pick cities and niches, even without doing
+much, I would be ranking or I would at least be close to ranking. And I'm showing you right
+now at the time of recording, this site has been live for at least three years. At least
+three years. And for the main term, I am literally sitting on page five. I am literally sitting
+on page five. In fact, this is a website that's on my list. I need to just cut this website.
+This is not going anywhere. It's not doing anything. So if nothing else, guys, this should
+be a great example of why you have got to make sure to do this keyword list correctly
+so that you don't make these mistakes. All right. So guys, how do we actually build the
+keyword list? So what I would recommend is I like to either get a piece of paper, pull
+up a document, whatever. You can use a Google doc. It doesn't matter. You can use a note,
+a sticky note. It does not matter. But the first thing that we're going to do is we're
+going to use a tool. And it doesn't matter what tool you use. I just want you to use
+the same tool every time you do this. So whatever you decide to choose, whatever you decide
+to go with, use that again and again and again. Don't be bouncing here and there and
+everywhere and using different tools because we want to keep this consistent. So what we're
+going to do is we're first going to choose a tool. Okay. And for this example, I'm going
+to use SEMrush. Now with this product, there is a 14 or seven day trial. I don't know.
+It is an expensive product. It's just something that I'm familiar with. And the person that
+I learned from the beginning was using it. So it's something I'm familiar with and I'm
+going to be able to teach this really quickly using SEMrush. Now there's other examples
+or other options you can use. Ahrefs, Mangools, Google Keyword Planner is a great free tool
+that I would definitely recommend using if you don't want to spend money. For the sake
+of this example, I'm going to use SEMrush. Okay. So what we're going to do is we're going
+to choose a tool and then we are going to go and we're going to find out within the
+niche that you selected, we're going to find the 10 to 15 main most highly searched terms.
+So for example, I'm going to show you and demonstrate here in a second with concrete.
+Within concrete, there's a lot of things that people could search. They could search cheap
+concrete. They could search how much does concrete cost. They could search concrete
+contractors. They could search concrete patio. Which of those terms are the most highly searched
+nationwide or in your country? If you're outside of the US, totally fine. Which of these terms
+are searched most in your country? That's what we're going to do first. Okay. So I'm
+going to show you an example right now. All right guys. So again, like I said, I'm going
+to use SEMrush for this. I think it's SEM. It might be SEM. I don't know, but it's going
+to be really, really simple. So if you're doing concrete and we're going to use this
+example because I am assuming a lot of people are going to use, are going to go into concrete.
+So you're going to start off with your tool, whether it's keyword plan or whatever. You're
+going to just type in the main term, which is concrete. If you're using, if you're doing
+spray foam installation, type in spray foam installation. If you're doing artificial grass,
+type in whatever comes to mind. Artificial grass, fake grass, turf. Just type in something.
+And what we're going to start doing is we're going to look at it. Okay, concrete. And we're
+not going to add the city. We're not going to add any city because we haven't even got
+to that point yet. But we're just going to type in the main term. So concrete. And I'm
+going to look at this and go, okay, that's interesting. There's 110,000 searches. And
+you could see this as keyword difficulty. Don't pay attention to this. It's not, it
+doesn't matter right now. So what I'm going to do is I'm going to take that term. I'm
+going to write it down. And then what I'm going to do is I'm going to start like looking
+in these sections here for what would I would consider, uh, uh, they, they call them, um,
+related. Sorry. I should just look at this related keywords. Okay. So concrete calculator,
+you got to use your intuition as well because like concrete calculator, that's more of like
+somebody that's looking to do their own project. So no concrete cowboy. No. So concrete contractors
+near me. Okay. 40,000, 40.5 K. That's a good one. I'm going to write that one down. Okay.
+And this is what we're going to do. And we're going to click on these and there's going
+to be other ones that come up. Um, you know, and then we're also, okay, here's a good,
+here's a good one. Concrete patio contractors. So we're going to kind of use our intuition.
+So we're going to go through and first thing we're going to do is compile a list of the,
+the main term and related terms. Okay. Another idea I want to share with you guys when you're
+coming up with this, cause we need to go and get 10 to 15 terms is what you could do is
+you could go to a really competitive city. So let's just use like, um, uh, let's use
+Atlanta. So let's do concrete Atlanta, Georgia. Okay. And you can look at the top ranking
+companies. All right. So for example, this is the top ranking company for this term,
+Sudlow concrete. And you're going to use their site to generate ideas. So for example, concrete
+contractors. Okay. That's interesting. So what I'm going to do is I'm going to type
+in concrete contractors. I'm going to remove the near me and Oh, what do you know? 27.1
+thousand. Boom. I'm writing that down. And then based on that, you can start looking
+at the related keywords again. Right? Okay. We already wrote that one down. Now concrete
+contractors. We're going to write that one down. Concrete contractor. That might be interesting
+to write down. Right. And we're going to go back to their site. We're going to check
+it out. Okay. Uh, we could look at top rated concrete contracts. I have done this niche
+enough to know that's not, but that's something you could look at if you were just going into
+the niche things you want to look at on the page is you want to look at, you know, their
+service pages. There's, those are going to be the most highly searched terms. So for
+example, um, uh, driveway repair could be interesting. I also know like just using my
+intuition driveway repair, you know, it's probably going to be more high ticket, uh,
+concrete patio. Let's just use that for an example. So I'll, I'll do one more example
+and I'm just going to give you my list here. Concrete patio. Okay. Boom. 12.1 thousand.
+So guys, and then look, stamped concrete patio. What I want you to first do is I want you
+to make a list of 10 to 15 terms that are the most highly searched term in the niche
+that you selected. Okay. All right, guys, I went ahead and just grabbed one of my keyword
+lists. Uh, I mean, we go into this niche, we're in this niche all over the country.
+So I know what keywords are good. Don't mind the highlighted stuff. I'll explain that in
+a moment. So this is my compiled list. I did 18 terms. Um, it's not, you know, it's, it's
+not a hundred percent complete, but I I've done this enough to know these terms are really,
+really good. So I got concrete contractor, concrete company, concrete driveway, and I
+just have them listed here. Okay. So what you want to do is you want to have your list.
+And by the way, I have this in base camp. Don't recommend this. Um, I just, I'm telling
+you that so you don't go and think you need to get base camp. There's something we use
+and it's just already in here, but it's not worth the money. Um, I'm telling you that
+in fact, we got a free trial of this. And so that's why I'm still using it. Okay. So
+what you're going to do is you're going to take your, your, let's call it 10 to 15 keywords.
+And then what you're going to do from there is you're going to take, and you're going
+to use your intuition and you're going to select five to 10. I prefer like seven being
+the sweet spot. You're going to select five to 10 of these keywords closer to five than
+10. In fact, I'm just going to tell you, do five top set. Okay. Five to seven of these
+keywords. And I'm going to have you use your intuition and say, okay, would that keyword
+be something I want to focus on because of, uh, it's high ticket. It's, you know, it's
+not someone that's looking around like, for example, uh, conk, cheap concrete near me.
+I don't want those leads. That's some cheap ass. I don't want that. Okay. So anyway, I
+went ahead and these highlighted ones are the ones that I determined as, you know, they're
+really interesting keywords to me. And so what we're going to do is pick those five
+to seven and these are going to be what we call core keywords. Okay. So just to recap,
+we're going to go in, we're going to pick, or we're going to go find the terms that are
+most searched across the nation. Okay. Concrete concrete contractor, concrete company, concrete
+driveway, et cetera, et cetera, et cetera. From that list of 10 to 15 to 20, we're going
+to select five to seven of those keywords. And here's the interesting thing. It's not
+always based on the search volume. Cause if you look at the actual total volume, notice
+how concrete repair has more volume than a lot of these terms are very similar volume
+to some of these terms, yet it didn't make the cut, right? Because I know people looking
+for concrete repair. Those are really small jobs. Okay. So you're going to pick those
+top terms. Okay. And I didn't include that because I just decorative concrete kind of
+goes with polished concrete, but it's, it's didn't, I didn't, I didn't include it. Okay.
+And you're going to come up with what are called your core keyword list. Okay. That's
+going to be five to seven keywords. Now what you're going to do from here is very simple,
+but we're going to build what are called expanded core keyword list for each of these terms.
+Okay. So I'm going to tell you the terms that I selected. I selected concrete contractor.
+I put, I don't know even know why this, this, in fact, I need to edit that. That shouldn't
+even be in there. Concrete specialist should not be in there. In fact, for the sake of
+this, let me go ahead and just delete this. Um, that, that was not done by me. Um, yeah,
+I don't actually know why that's in there. Okay. There's no volume. It's not a great
+term. So just forget you ever saw a concrete specialist. Don't add it. Stupid term. Not
+that much volume, not that great of a term. Okay. But here are the core keywords that
+I chose. Okay. To build my expanded lists on. And this is all going to make sense. So
+just stay with me. Okay. Concrete contractor, concrete company, stamp concrete, concrete
+staining, concrete driveway, concrete patio, polished concrete. Okay. I actually did like
+eight or nine of these. Um, but I recommend doing seven. I don't, I actually do not use,
+um, I can tell you this because we just did a site recently. I don't use these, uh, decorative
+concrete terms. They were just built because we, in the beginning we thought we were going
+to do that. So something important to note about concrete, there is decorative side and
+then there's the flat work side. And most of these people, they want flat work stuff.
+So I would, I would err on that side. But what I'm going to show you is you're going
+to pick your five to seven terms. If you want to do a couple more, that's totally fine.
+It's just going to take you a little bit longer. Guys. So what we're going to do is we're going
+to take those five to seven keywords, your core keywords, and we're going to build an
+expanded keyword list. Okay. And so what we're going to do is very, very simple. You're going
+to take your first term. Okay. So you're going to go over and take your first term
+concrete contractor. Okay. You're going to come over here and you're going to type it
+into Google. Okay. And then what you're going to do is you're going to scroll the bottom
+and you're going to see these related searches and it's going to give you ideas. These are
+things people are searching and I want you to use your intuition. Should this be added
+to the list or not? So concrete contractor near St. George, Utah. I'm not going to do
+that one because I don't even know if I'm going into St. George yet. We're just picking
+the niche at this point. So no near Las Vegas. No concrete pouring near me. Maybe. Okay.
+Maybe you would add that. Maybe not concrete contractor salary. No, that's going to pull
+people looking for jobs. Okay. Residential concrete contract. That's a really good one.
+I would add that to my list. Okay. And what you're going to do is you're going to take
+that keyword and you're going to go over here and you're going to add it to your list. Okay.
+And you guys don't overthink this. Don't overthink this. Okay. Con concrete contractor jobs. No.
+Okay. Not doing that one. Concrete calculator. Probably not doing that one. That's probably
+somebody looking to do a project themselves. Residential concrete contractors near me.
+Yeah, we might, but it's getting a little long tail. So I don't know. Okay. So that's
+what you're going to do is you're going to do that with all of your terms and you're
+going to start building these individual lists. Another thing that you can do is you can go
+and use the alphabet. So you go to concrete contractor. In fact, it typically, let me
+go ahead and let go like this and open a new incognito window and do in concrete contractor
+actually, let's go to Google first. Okay. We're going to go concrete contractor. Okay.
+And then we're going to start with the letter A. Okay. Type in A. Whoops. And you're going
+to see, why is it caps? There we go. And you're going to look and see if there's anything
+with A. Association? No. Atlanta? No. Aberdeen? No. No. It's a lot of, a lot of city stuff.
+So no. Okay. Okay. B. No. A lot of cities. Business plan. Nope. C. Okay. Concrete contractor
+contract. No. Cost. Concrete contractor cost. That's an interesting one. I'd add that to
+my list. Concrete contractor companies near me. Add that to the list. Okay. I'm still
+going to avoid the calculator. We're going to go D. No. No. E. Estimate. I'd probably
+add that. Okay. F. Nothing. G. Lot of cities with this term. And you're going to do this
+H. Okay. You're just going to keep doing this with every one of your course. You're going
+to do this five times all the way through the alphabet. And for whatever reason with
+concrete contractor, you're going to kind of get a lot of cities, but let's try and
+change the term. Let's do concrete patio and let's go A. Okay. Now you can see there's
+a lot less cities. So A. Alternatives. Probably not. Around window well. No. Against house.
+Probably around pool. I'll probably add that one. Depending on where you're at. Right?
+If you're in somewhere that doesn't have pools, like where I grew up, don't do that. Okay.
+It's not going to be a good one. Concrete patio and fire pit. Maybe. Okay. B. Concrete
+patio blocks. And you're just going to go through and you're going to just use your
+intuition. You're going to grab the ones that make sense. Concrete patio backyard. What
+you would search for as a consumer, as a customer that would be interesting? C. Cost. I think
+we talked about that one. Yes. Concrete patio contractors near me. Yes. Concrete patio contractors.
+Yes. Concrete patio cleaner. No. Concrete patio square foot. Maybe. But probably not.
+Concrete patio coatings. Yes. Go to D. And you guys, you're just going to go through.
+So to recap, you're going to go through all of your five core keywords. You're going to
+type it in. You're going to, you know, for patio, you're going to first go to the bottom.
+You're going to look at related. You're going to grab the related block. Heck no, Google.
+You're going to look at the related. You're going to add those to the list. And then you're
+going to do the alphabet game. You're going to go A through whatever with the term. So
+concrete patio space. Okay. Concrete patio space in every letter of the alphabet. And
+look at the auto fill suggestions. And what you're going to do is you're going to build
+out these expanded keyword lists. And guys, if you get the keyword, the core keywords
+dialed in and you then expand the keyword list, you're going to be off to a great start.
+You're going to be able to use this keyword list over and over and over. So guys, to recap,
+what you're going to do is you are going to go and pick a tool. Okay. If you don't want
+to spend money, do Google keyword, Google keyword planner. I think that's what it's
+called. Okay. Pick a tool and stick with that tool. Then you're going to go and you're going
+to type in the main term. And from there, you're going to start building a list of 10
+to 15 to 20 core keywords. Things that people, they're the most highly searched thing based
+on what this tool tells you. Okay. From that list, you are then going to pick five to seven
+core keywords. From those core keywords, you are going to build an expanded list on each
+of those keywords. And you're going to do it by first typing it into Google and looking
+at the very bottom at the related keywords and then going to Google and typing in the
+keyword, pushing space and then the letter A and then looking at those automatic fills.
+Hey, do any of these make sense? You're going to do that for every single letter of the
+alphabet for all five to seven keywords. I know it sounds like a lot. I know that, but
+guys, if you do this once and you do it correctly for concrete, you're never going to have to
+do this. If you do 15 concrete sites, a hundred concrete sites, you will never have to do
+this again. So it's worth doing and doing correctly. And I want to say this last thing.
+Do not overthink this. Do not overthink this. Remember our goal is to go into cities and
+niches with low competition. So even if we do this 75% correctly, we're going to win.
+But I'm telling you, if you do this correctly and you take the time, it is going to help
+you immensely. And you're going to be able to use this keyword for your ads. You're going
+to be able to use this keyword list for your ad copy. You're going to be able to use it
+for your SEO, for your content. It is worth doing and doing correctly. And you only got
+to do it once.

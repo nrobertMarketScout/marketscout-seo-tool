@@ -1,0 +1,1240 @@
+1
+00:00:00,000 --> 00:00:12,160
+All right, hey guys, let's see here.
+
+2
+00:00:12,160 --> 00:00:16,000
+I think we're live, all right, all right.
+
+3
+00:00:16,000 --> 00:00:26,120
+Let's see, this lets me go to here, awesome, okay, all right, cool, hey guys, let me put
+
+4
+00:00:26,120 --> 00:00:33,120
+the link for the zoom here, and then I got to hop on my phone real quick and do the everyone,
+
+5
+00:00:33,120 --> 00:00:43,640
+so just give me a second, there's the link for the zoom, yeah, let me go here, give me
+
+6
+00:00:43,640 --> 00:01:11,440
+a second, yeah, there we are, yeah, okay, I think we are, yeah, all right, all right,
+
+7
+00:01:12,000 --> 00:01:29,760
+I think we are, we're there, all right, cool, yeah, okay, cool, all right, what's up guys,
+
+8
+00:01:29,840 --> 00:01:45,040
+how's it going, hope everyone's doing well, yes, let me make sure, sorry, give me a second,
+
+9
+00:01:51,920 --> 00:01:53,760
+okay, we're good, all right, awesome,
+
+10
+00:01:59,760 --> 00:02:11,920
+let's see, okay, cool, all right, zoom is open, if you guys want to hop in,
+
+11
+00:02:12,640 --> 00:02:24,800
+we can get over and get some ad questions taken care of, and we'll go from there,
+
+12
+00:02:24,800 --> 00:02:41,360
+all right, okay, we got a few people here, are you guys seeing the, for the few people
+
+13
+00:02:41,360 --> 00:02:46,720
+that are watching, are you seeing the links, sometimes the Facebook interface and the zoom
+
+14
+00:02:46,720 --> 00:02:51,360
+are really delayed, so I just want to make sure, I see them on my phone, but I'm not necessarily
+
+15
+00:02:51,360 --> 00:02:55,680
+seeing it on the desktop version, someone can, I think there's only a few people watching,
+
+16
+00:02:55,680 --> 00:02:59,600
+if you guys can just let me know, that'd be awesome, thank you very much, appreciate that,
+
+17
+00:03:04,240 --> 00:03:12,800
+all right, well, while we're waiting for people, let's go ahead and take a look,
+
+18
+00:03:12,800 --> 00:03:17,600
+oh, we got someone hopping in, it's like Zach is hopping in, Zach, are you there?
+
+19
+00:03:18,000 --> 00:03:22,880
+Yeah, I'm here, hey, what's up, man, how you doing? I'm doing pretty good, and you? Good,
+
+20
+00:03:22,880 --> 00:03:26,720
+oh, not bad, not bad, what can we help you with, do you have any questions for today?
+
+21
+00:03:27,680 --> 00:03:32,400
+Yeah, I know you guys went over this in like the last few zooms, I think, I don't know if there's,
+
+22
+00:03:34,960 --> 00:03:42,880
+it's with the ranges in the ads and the keyword list, I'm still getting ranges, so, I'm in the
+
+23
+00:03:42,880 --> 00:03:51,280
+US, but I've made an MCC account, and I linked my sub account to it, and on that sub account,
+
+24
+00:03:51,280 --> 00:04:01,040
+I've ran an ad in the past, and I've spent something like $200 on it, so, yeah, I'm just
+
+25
+00:04:01,040 --> 00:04:07,280
+wondering how to get that, to not show ranges anymore. Okay, is the ad active right now?
+
+26
+00:04:07,760 --> 00:04:14,080
+It was active in November, I paused it sometime in December, but I resumed it maybe last week,
+
+27
+00:04:14,080 --> 00:04:20,080
+a week or two ago. Okay, and when you're under, when you're on Keyword Planner, are you under
+
+28
+00:04:20,080 --> 00:04:26,320
+that account, under that ad account? Yes. Okay, and it's still not showing the ranges for you,
+
+29
+00:04:26,320 --> 00:04:32,800
+huh? Yeah, like it is showing the ranges, but like not specifically, you know. Okay, would you like
+
+30
+00:04:32,800 --> 00:04:37,840
+would you be able to share your screen so I can take a look? Yeah, I believe so. I'm kind of getting
+
+31
+00:04:37,840 --> 00:04:43,840
+the impression that so many more of you guys are having, what group did you come, did you come from
+
+32
+00:04:43,840 --> 00:04:49,120
+Shib's group, or did you find this group? Yeah, I did. Okay, it seems like everyone from Shib's
+
+33
+00:04:49,120 --> 00:04:58,640
+group is having this issue, so it's very odd, so I'm trying to figure it out as well, but I think
+
+34
+00:04:59,040 --> 00:05:03,680
+I'm trying to figure it out as well, but I think some of it is,
+
+35
+00:05:06,720 --> 00:05:14,960
+so there's been, I just saw the other day that there's a new, there's some changes in the
+
+36
+00:05:16,160 --> 00:05:22,320
+interface on Google that's like not showing clicks and impressions as much. I don't think
+
+37
+00:05:22,320 --> 00:05:27,120
+they're, I don't think it's just a glitch as well, so there's some stuff happening. My point is like
+
+38
+00:05:27,200 --> 00:05:32,800
+there's stuff happening on the Google ad interface right now, and we're not like fully aware of what
+
+39
+00:05:32,800 --> 00:05:39,120
+they're trying to do yet. We're all trying to like, what are you guys doing? So, I don't know. So,
+
+40
+00:05:39,120 --> 00:05:44,080
+okay, yeah, let's try to go to, let's open up Keyword Planner. Let's see what happens here.
+
+41
+00:05:44,080 --> 00:05:54,400
+Okay. Yeah, so this is my sub account I have here. Click it.
+
+42
+00:05:57,120 --> 00:06:06,400
+Concrete.
+
+43
+00:06:06,480 --> 00:06:17,680
+Okay.
+
+44
+00:06:22,480 --> 00:06:24,240
+Yeah, this is what I've still been getting.
+
+45
+00:06:28,400 --> 00:06:33,600
+Okay. All right, and this is, did I make seen this right? Ann Arbor,
+
+46
+00:06:33,600 --> 00:06:42,160
+Michigan for the term concrete. All right. Let me, give me, give me a second. Let me,
+
+47
+00:06:42,160 --> 00:06:51,680
+let me pull up mine and let me see. Let me see what I'm getting. Again, I think this is,
+
+48
+00:06:51,680 --> 00:06:59,200
+I don't know if this is like a glitch in the system. I don't know if it's Google trying to
+
+49
+00:06:59,840 --> 00:07:09,280
+like mess with, you know how like they have like the $1,000 spending limit now, and I don't know
+
+50
+00:07:09,280 --> 00:07:15,200
+if they're doing it. I just, I don't know what they're doing lately. There's definitely some
+
+51
+00:07:16,000 --> 00:07:22,000
+interface and platform stuff going on. All right, let me, I'm going to click one here.
+
+52
+00:07:22,000 --> 00:07:22,800
+Click one here.
+
+53
+00:07:24,560 --> 00:07:27,680
+Because I think when I had the ad ring in November, I could view it.
+
+54
+00:07:28,640 --> 00:07:40,080
+Yeah. Well, I'm going to see right now. If I'm getting Ann Arbor, Michigan, right?
+
+55
+00:07:40,080 --> 00:07:47,760
+About 538,000 people. Okay. Concrete. Get results. Let's see what I got here.
+
+56
+00:07:52,000 --> 00:08:08,480
+Getting, not even a spreadsheet showing up. Hang on. Let me hit refresh.
+
+57
+00:08:08,480 --> 00:08:22,160
+That was really weird. It like loaded, but it didn't load all the way. So let me try to redo it.
+
+58
+00:08:22,960 --> 00:08:28,960
+Give me a second.
+
+59
+00:08:39,440 --> 00:08:49,760
+Hmm. Okay. So I'm getting a really weird, can you scroll up on the spreadsheet on your end there?
+
+60
+00:08:50,880 --> 00:08:57,760
+Or is that the top? That's the top. Okay. Give me a quick second. Let me see what I got going on here.
+
+61
+00:08:57,760 --> 00:09:04,240
+There's mine.
+
+62
+00:09:11,840 --> 00:09:18,240
+There it goes.
+
+63
+00:09:18,720 --> 00:09:36,800
+Yeah, mine's showing, don't leave your platform. And let me, I'm just trying to go back and forth
+
+64
+00:09:36,800 --> 00:09:43,920
+between my window and yours. So mine's showing the term concrete at 110.
+
+65
+00:09:44,720 --> 00:09:55,040
+It has no, it just tracks search volume, but there's no CPC data for it.
+
+66
+00:09:58,480 --> 00:10:04,560
+Even concrete contractors, concrete companies. There's concrete repair. That's the only one that
+
+67
+00:10:04,640 --> 00:10:12,160
+I have a CPC for. So let's look at this again. That's the same for mine.
+
+68
+00:10:14,240 --> 00:10:17,920
+That dollar amount. Yeah. But I'm seeing like that's a 20 for me.
+
+69
+00:10:20,960 --> 00:10:21,440
+Okay.
+
+70
+00:10:28,400 --> 00:10:31,440
+Okay. Go ahead and scroll up on the spreadsheet.
+
+71
+00:11:04,560 --> 00:11:17,920
+I'm not sure why you're not seeing the same thing. Okay. So I'm running this on
+
+72
+00:11:18,800 --> 00:11:24,720
+a really, really old smart campaign that Nick used to have that we're not running ads on.
+
+73
+00:11:24,720 --> 00:11:29,520
+It's still a active campaign, but it's like, there's nothing running on it at all. So it's
+
+74
+00:11:29,520 --> 00:11:34,880
+like, there's no, it's an active campaign, but the ads are paused. Does that make sense?
+
+75
+00:11:35,920 --> 00:11:41,760
+So it has the same green like circle you do. When in the keyword planner, I hit concrete,
+
+76
+00:11:41,760 --> 00:11:46,240
+I hit Ann Arbor. I'm showing this, right? Yours is not showing that.
+
+77
+00:11:48,320 --> 00:11:55,520
+Okay. And then here's the spreadsheet. And this looks like the same thing, like 764 words, right?
+
+78
+00:11:56,080 --> 00:12:00,720
+Yeah. Yeah. And you can very clearly see that I'm getting concrete concrete.
+
+79
+00:12:00,720 --> 00:12:02,320
+You can see the exact search volume.
+
+80
+00:12:05,280 --> 00:12:12,000
+So why are you not is the question. And this is in Nick's MCC. And I'm using
+
+81
+00:12:13,920 --> 00:12:17,600
+one in a whole different state, like system old smart campaign.
+
+82
+00:12:19,120 --> 00:12:21,760
+So, I mean, there's nothing, that's nothing special about it.
+
+83
+00:12:22,480 --> 00:12:27,040
+Um, was, was that a campaign that's like already been ran before maybe
+
+84
+00:12:28,720 --> 00:12:32,720
+this one was, but he, I don't think this campaign has been active for like three years.
+
+85
+00:12:33,600 --> 00:12:37,360
+Oh yeah. It's still, I mean, there's, it's an active, it's still left,
+
+86
+00:12:37,360 --> 00:12:44,480
+but there's no active ads running. Yeah. Yeah. I'm not sure if it was something like
+
+87
+00:12:44,480 --> 00:12:50,080
+it's grandfathered in compared to this is like a brand new one or what I just set up like
+
+88
+00:12:51,040 --> 00:12:56,480
+four ads for different clients. Um, this last week, brand new ads, no problem using this.
+
+89
+00:12:58,480 --> 00:13:07,920
+So I'm not sure why, why you guys are having this issue. It's something I haven't figured out why
+
+90
+00:13:07,920 --> 00:13:15,360
+yet, but it's something with, um, the people from it's like something in their setup. I can't figure
+
+91
+00:13:15,520 --> 00:13:22,320
+out what it is yet that you guys are getting from, um, in ships group, like how you guys are setting
+
+92
+00:13:22,320 --> 00:13:31,440
+it up. Um, I'm not sure why yet. Um, again, it could just, it could just be like all of my accounts,
+
+93
+00:13:31,440 --> 00:13:38,000
+like I've spent well over a thousand dollars, like, um, you know, Nick's like one and a half million.
+
+94
+00:13:38,000 --> 00:13:41,600
+Uh, I'm, you know, I'm in the several hundred thousand dollar range. Like,
+
+95
+00:13:42,160 --> 00:13:47,600
+so I don't know if it's just that it could be that and it's like a new platform thing. Um,
+
+96
+00:13:47,600 --> 00:13:56,800
+have you used, um, Ryan's, uh, let me see if I can get to it. Uh, rare rare. Yeah. Have you used that
+
+97
+00:13:56,800 --> 00:14:07,520
+yet? I haven't yet. Okay. Yeah. I highly recommend it. Um, so I'm still like in the beginning of
+
+98
+00:14:07,520 --> 00:14:14,880
+using it, but like, watch, I'm just going to do States. We're going to do
+
+99
+00:14:17,040 --> 00:14:23,280
+Michigan. We're going to do a few of the videos, uh, yeah. Is that promoting it?
+
+100
+00:14:24,400 --> 00:14:31,440
+Yeah. It's pretty cool. Um, like it's got a lot of the niches built in.
+
+101
+00:14:31,440 --> 00:14:39,040
+Okay. Let's see here. Um, keyword planner and then we're going to do, I totally clicked the wrong
+
+102
+00:14:39,040 --> 00:14:48,960
+one here. Sorry. So let's see what it shows. So this is like, this is kind of where,
+
+103
+00:14:48,960 --> 00:14:54,720
+like, my brain is at right now with this for you guys. Um, let me, let me share my screen again.
+
+104
+00:14:55,760 --> 00:15:03,200
+Okay. So, okay. So I just went in, I just did concrete, Michigan, Ann Arbor, right? And it's
+
+105
+00:15:03,200 --> 00:15:09,360
+like, here's your, that's a good one. Um, and then we're going to, we're going to, we're going to
+
+106
+00:15:09,840 --> 00:15:16,000
+Okay. So, okay. So I just went in, I just did concrete, Michigan, Ann Arbor,
+
+107
+00:15:16,560 --> 00:15:20,400
+right? And it's like, here's your, that's exactly what I saw on keyword planner.
+
+108
+00:15:21,280 --> 00:15:27,280
+Um, it doesn't give a CPC, but you see this, how there's like, this is your, are you familiar with
+
+109
+00:15:27,280 --> 00:15:34,720
+like keyword difficulty, a KD rating? Um, not a whole lot. Okay. It's just, it's just a,
+
+110
+00:15:34,720 --> 00:15:40,400
+some of the platforms use it as a metric to try to tell you like very easy, medium,
+
+111
+00:15:40,400 --> 00:15:46,720
+or super difficult keyword to rank for. Um, and when you see this PPC thing here with a number,
+
+112
+00:15:46,720 --> 00:15:51,680
+it's very similar to that. It's basically, they're just doing a quick, like it's, it's right here.
+
+113
+00:15:51,680 --> 00:15:57,280
+It's low, medium, or like really high competition, right? So this tells me that there might be some
+
+114
+00:15:57,280 --> 00:16:03,600
+ads running, but it may not be enough for it to like really pick up the other data that you're
+
+115
+00:16:03,600 --> 00:16:12,400
+wanting to find. Okay. Um, but then like, you can see, you know, it kind of, I just did one word
+
+116
+00:16:12,400 --> 00:16:17,840
+and it populates a lot of these other ones, right? So it's like concrete companies, concrete
+
+117
+00:16:17,840 --> 00:16:23,600
+contracts. So there's search volume here. Um, you know, I only see like, remember we saw the
+
+118
+00:16:23,600 --> 00:16:30,400
+concrete repair was the only one that we saw that for. Um, so it's definitely something to
+
+119
+00:16:31,280 --> 00:16:39,920
+see what this is. It's, it's, uh, look at this. Um, yeah, you can see like in the warmer months,
+
+120
+00:16:39,920 --> 00:16:44,960
+there's more searches than the colder months. Um, and that might be why it's not picking up CPC
+
+121
+00:16:44,960 --> 00:16:51,280
+right now. That could be why, because it is cold up there. Um, so my, my thing right now for you
+
+122
+00:16:51,280 --> 00:16:58,880
+guys is like this, this tool allows you to do like track tasks. You could do due diligence on it.
+
+123
+00:16:59,520 --> 00:17:05,040
+Um, you can, you know, put things in, you can keep track of things in your clients, like leads,
+
+124
+00:17:05,600 --> 00:17:11,360
+phone numbers, like it's a pretty bitching tool. Um, I haven't messed with the backlink analyzer
+
+125
+00:17:11,360 --> 00:17:16,800
+yet because that's still new, but, um, I think this is like the path forward for you guys.
+
+126
+00:17:16,800 --> 00:17:24,480
+Honestly, it just, it just, it seems to simplify things. It's less spreadsheets. It's less manual
+
+127
+00:17:24,480 --> 00:17:29,680
+stuff. It kind of is like a one-stop shop for what we want to do. And it allows you to go really
+
+128
+00:17:29,680 --> 00:17:38,320
+fast and at scale. So, um, I'm still trying to figure out how to get my VA on it. Um,
+
+129
+00:17:40,240 --> 00:17:46,160
+and, and maybe get her off of like using main goals and SIM rush and all that stuff. So I
+
+130
+00:17:46,160 --> 00:17:51,920
+may have her go full time on rare just to see if it's faster for her to do so.
+
+131
+00:17:52,720 --> 00:17:57,360
+And when it doesn't get like CPCs that pick up on that, is that like a
+
+132
+00:17:57,360 --> 00:17:59,280
+keyword you should not be like targeting as well?
+
+133
+00:18:00,640 --> 00:18:06,720
+Uh, so yes and no. Like if you're looking at Michigan, like you saw in one of those,
+
+134
+00:18:06,720 --> 00:18:11,840
+like it dropped off to like 10 in the cold months and you can see it pick back up in the warmer
+
+135
+00:18:11,840 --> 00:18:19,760
+months. So that, that doesn't mean that there's no ads running. It just probably means there's
+
+136
+00:18:19,760 --> 00:18:25,760
+not a lot of ads running right now. Sometimes when like search volumes really low, it doesn't,
+
+137
+00:18:25,760 --> 00:18:30,640
+it just doesn't aggregate the data up. It doesn't mean that you shouldn't run an ad on it.
+
+138
+00:18:32,080 --> 00:18:38,720
+Or if you go like to a warmer city and try to maybe use that term, you might get better results
+
+139
+00:18:38,720 --> 00:18:45,360
+right now. Like if you go somewhere in Florida right now, um, you may see more, like even a
+
+140
+00:18:45,360 --> 00:18:51,520
+like-sized city. I mean, that's a, that was like what 538,000 people. Um, that's one of those,
+
+141
+00:18:51,520 --> 00:18:57,120
+like if you go back way back in the group, you'll see people like I did my research and CPC was this
+
+142
+00:18:57,120 --> 00:19:01,280
+and three months later it's like this. And it's like, well, yeah, it's warmer. There's more people
+
+143
+00:19:01,280 --> 00:19:08,240
+on the auction market. Like, so, you know, there's, there's, there are fluctuations in the data.
+
+144
+00:19:08,240 --> 00:19:14,480
+There's fluctuations in the marketplace, right? But, uh, like right now searching in a cold place
+
+145
+00:19:14,480 --> 00:19:19,680
+for concrete may not give you the best results because sometimes that data that Google is
+
+146
+00:19:19,680 --> 00:19:24,880
+giving to you is like within a couple of like, it might only be two or three months of data
+
+147
+00:19:24,880 --> 00:19:32,320
+and may not be like forever data. Right. So, and you'll see that like, you'll see that in like,
+
+148
+00:19:32,880 --> 00:19:38,880
+let's say you're, you're running ads at say, like, say you start and it's like 650 click.
+
+149
+00:19:38,880 --> 00:19:42,720
+And then in the warmer months, it's like double that. And then you'll notice again, in the colder
+
+150
+00:19:42,720 --> 00:19:46,960
+months, it goes back down. So if you stay in certain niches in certain areas, you'll see kind
+
+151
+00:19:46,960 --> 00:19:51,920
+of cycles, but it's just the thing where, you know, it's why we, you know, we, that's why we
+
+152
+00:19:51,920 --> 00:19:57,040
+want to look at our ads and make adjustments and we go through them and we look at things and,
+
+153
+00:19:57,040 --> 00:20:02,240
+oh, what is, what is my, what is it telling me this bit is versus what is my set limit at? And
+
+154
+00:20:02,240 --> 00:20:06,240
+sometimes you have to fluctuate with that, uh, depending on the weather, really.
+
+155
+00:20:07,200 --> 00:20:09,760
+So that makes sense. I appreciate your help.
+
+156
+00:20:10,320 --> 00:20:16,400
+Yeah, no problem. But yeah, I think I'm not sure why you guys, it's, it seems like, I don't know
+
+157
+00:20:16,400 --> 00:20:20,880
+if we're getting all of our new students from shifts group, but all of you guys are having the
+
+158
+00:20:20,880 --> 00:20:26,560
+same problems. I'm not sure if it's like, maybe you set up Google ads or your Google keyword planner
+
+159
+00:20:26,560 --> 00:20:31,760
+a certain way, and it's not recognizing that ad, but I've had other students where we did that
+
+160
+00:20:31,840 --> 00:20:36,080
+and it worked fine for them. So it's just not working out for everybody. But I'm also,
+
+161
+00:20:36,880 --> 00:20:42,560
+I'm not like a hundred percent there, but like I mentioned, I'm seeing stuff on the interface
+
+162
+00:20:43,520 --> 00:20:50,640
+that is like not showing data the way it normally would. And it's like, you have to like go and like
+
+163
+00:20:50,640 --> 00:20:55,600
+manually open columns. And so there's something going on with the Google ads platform is what
+
+164
+00:20:55,600 --> 00:21:00,000
+I'm getting at. So I don't know if they're like silently doing an update. I don't know if they're
+
+165
+00:21:00,080 --> 00:21:05,760
+doing some backend stuff. And so our user end is not looking correct right now. I don't know if
+
+166
+00:21:05,760 --> 00:21:10,880
+this is going to be a permanent thing, if it's a temporary thing yet, but I'm kind of, I'm kind of
+
+167
+00:21:10,880 --> 00:21:21,040
+going towards, because right, like Google, like, okay, Google is the largest advertising agency,
+
+168
+00:21:21,040 --> 00:21:26,560
+like in the world. Okay. So they want to make money. They've been losing money for years. So
+
+169
+00:21:26,560 --> 00:21:33,360
+they're doing things to try to make more money, but their biggest, the biggest thing they kind
+
+170
+00:21:33,360 --> 00:21:41,920
+of like guard against is fraud. Right. And so, so like one of the, like one of the barriers to entry
+
+171
+00:21:41,920 --> 00:21:46,080
+now is like, you have to spend a thousand dollars in ad spend to be able to like quote unquote,
+
+172
+00:21:46,080 --> 00:21:52,240
+like run an MCC or be able to set up sub accounts in your MCC. That's something that's about a year
+
+173
+00:21:52,240 --> 00:21:59,360
+old now. It was like, now, like now everybody faces that, or for like the first five or six
+
+174
+00:21:59,360 --> 00:22:05,120
+months of that, it was hit and miss. Now it's like, that's just, that's, that's how it is for
+
+175
+00:22:05,120 --> 00:22:10,240
+everybody on the platform. So my point is like, they change things sometimes, and sometimes
+
+176
+00:22:10,240 --> 00:22:18,560
+they'll do certain things for certain features to make the barrier enter it harder or higher.
+
+177
+00:22:18,560 --> 00:22:27,200
+And part of that is like, because if, if I have you run ads for a range, if I'm Google,
+
+178
+00:22:27,200 --> 00:22:30,800
+and then I wanted to get you on a call with one of my people, my salespeople,
+
+179
+00:22:30,800 --> 00:22:35,520
+who I call a Google expert, they're just trying to, they're going to want to set up your ad for you
+
+180
+00:22:35,520 --> 00:22:39,360
+and run it for you. They're just going to spend all your money and they don't really care that you
+
+181
+00:22:39,360 --> 00:22:44,480
+make money on it. Right. They're just want to get your money. So that there could be something like
+
+182
+00:22:44,480 --> 00:22:50,800
+that happening on the Google ad platform. I'm not sure yet, but I'm thinking that this,
+
+183
+00:22:50,800 --> 00:22:56,640
+we may be seeing that. So we'll have to change how we like kind of do our setup. And so thankfully
+
+184
+00:22:56,640 --> 00:23:05,280
+for us right now, rare is available and it's working really well. And I've ran, I've ran dozens
+
+185
+00:23:05,280 --> 00:23:14,800
+of like, look at rare data and look at keyword planner data. And it is almost always spot on.
+
+186
+00:23:15,440 --> 00:23:22,160
+Sometimes one of the search terms is like 10 or 20 off, but that's more just because like
+
+187
+00:23:25,120 --> 00:23:31,440
+the API that he's using to pull that data in is probably a month older than what like actual
+
+188
+00:23:31,440 --> 00:23:36,560
+keyword planner data is. So you might have a month where like search volume increases,
+
+189
+00:23:37,360 --> 00:23:42,240
+but it like, it hasn't caught up to the API feed that he gets his data from.
+
+190
+00:23:43,360 --> 00:23:47,840
+So that, but that gets a small discrepancy. And when I've seen it, I can look at it and go,
+
+191
+00:23:47,840 --> 00:23:53,600
+oh, I know why I can see it. I can see the data difference. And then if I, I'm sure if I go back
+
+192
+00:23:53,600 --> 00:23:57,760
+and check it, his will get updated the next month. So I think it's just like a little
+
+193
+00:23:57,840 --> 00:24:04,320
+month delay reporting, but it's, it's been super accurate as far as like for our needs,
+
+194
+00:24:04,320 --> 00:24:10,080
+as far as that. So I think that that's like the place to, to start doing this stuff out for you
+
+195
+00:24:10,080 --> 00:24:17,040
+guys. Pretty spot on. Yeah. Yeah. It's been great. I mean, I'm, like I said, I'm, I'm, I'm trying to,
+
+196
+00:24:17,040 --> 00:24:24,160
+I'm trying to like build a process and then, and build like a kind of like a training video and
+
+197
+00:24:24,480 --> 00:24:28,560
+like a, like a, like a step-by-step thing. Cause my VA knows main goals really well.
+
+198
+00:24:29,600 --> 00:24:36,160
+And she, she knows keyword planner. She knows how to like double check with keyword planner when she
+
+199
+00:24:36,160 --> 00:24:44,640
+has a maybe. But, you know, using how I, how I've been doing due to her, I've had her doing
+
+200
+00:24:44,640 --> 00:24:51,360
+due diligence using that and rare has been giving me the same info and it's all in one place. So we
+
+201
+00:24:51,360 --> 00:24:58,000
+don't have to like have multiple tabs, multiple sheets. It takes away a lot of like a lot of time.
+
+202
+00:24:58,000 --> 00:25:02,560
+Like that's why I have a VA doing it for me now, because it's worth it for me to have them do it.
+
+203
+00:25:02,560 --> 00:25:08,960
+So I'm not bogged down for hours doing due diligence, but with rare, like if I was just,
+
+204
+00:25:08,960 --> 00:25:14,240
+you know, by myself, I would rather use that tool because it does all of the stuff for me in one
+
+205
+00:25:14,320 --> 00:25:22,160
+place. Whereas, you know, how I have it done now, it's like, it's multiple steps on different
+
+206
+00:25:22,160 --> 00:25:28,720
+software and then we put it into place. So anyways, I'm trying to kind of streamline my
+
+207
+00:25:28,720 --> 00:25:35,280
+thing so I can now train her how to use it. So that it kind of makes me, it makes sense to her,
+
+208
+00:25:35,280 --> 00:25:39,760
+but I'd probably get that done like later this weekend or something. So.
+
+209
+00:25:39,760 --> 00:25:47,120
+Yeah, that makes sense. I wonder why the ads accounts like that, because I had a Google
+
+210
+00:25:47,120 --> 00:25:53,040
+Keyword Planner through Shiv's group and then it got it suspended. So I made a new,
+
+211
+00:25:54,000 --> 00:26:01,120
+I used a new Gmail for this one and it's still not working for this. So yeah, it's pretty confusing.
+
+212
+00:26:02,000 --> 00:26:09,600
+Yeah. Yeah. It's just what it is. I don't know. It's just Google being Google. I wish I could
+
+213
+00:26:09,760 --> 00:26:17,040
+tell you it was something easy, but like I said, Ryan's thing has done pretty awesome.
+
+214
+00:26:17,760 --> 00:26:23,200
+And I think that's where you guys should like probably go to.
+
+215
+00:26:24,240 --> 00:26:26,000
+Okay. Well, I appreciate your help, Jay.
+
+216
+00:26:26,000 --> 00:26:29,760
+Yeah. Yeah. Sorry. I couldn't solve it anymore, but like I said, I think that's the
+
+217
+00:26:30,640 --> 00:26:33,280
+issue there. So. Yeah, no problem. I think so.
+
+218
+00:26:33,280 --> 00:26:35,600
+All right, man. Cool. All right. Take care, man.
+
+219
+00:26:35,600 --> 00:26:37,440
+Yeah. I'll see you. All right. See you.
+
+220
+00:26:38,400 --> 00:26:41,840
+All right. Okay. It's just me again. I think we have a few people watching.
+
+221
+00:26:43,600 --> 00:26:46,960
+Anyone wants to hop in? The Zoom link is there.
+
+222
+00:26:55,920 --> 00:27:04,800
+For some reason, the chat on my desktop is not caught up on the Facebook. So give me a second.
+
+223
+00:27:04,800 --> 00:27:13,680
+Okay. I'm going to see if I can like send this to see if this helps like pop it through.
+
+224
+00:27:14,480 --> 00:27:16,000
+Oh, I see why it's doing it.
+
+225
+00:27:21,280 --> 00:27:25,680
+Okay. All right.
+
+226
+00:27:26,480 --> 00:27:30,160
+Let's see if I can go here.
+
+227
+00:27:33,200 --> 00:27:38,240
+Okay. All right. I am seeing it on my other window. So, okay. We'll just kind of go with that.
+
+228
+00:27:38,880 --> 00:27:42,960
+So if you guys have any other questions, let me know if you guys want. We have the Zoom open.
+
+229
+00:27:44,000 --> 00:27:47,840
+I'll kind of leave the Zoom open. And if you guys don't have any questions,
+
+230
+00:27:48,560 --> 00:27:54,160
+I will start running through some of the DMs I got this week and we can go from there.
+
+231
+00:27:55,680 --> 00:28:16,720
+Okay. And just like a thing for everyone that's new and listening or seeing the replay of this,
+
+232
+00:28:17,360 --> 00:28:23,120
+I try to be very, I try to check into the Fix It paid ads account at least twice a day.
+
+233
+00:28:23,680 --> 00:28:30,080
+I'm pretty consistent with that, just so you know. But like if you guys leave me a DM
+
+234
+00:28:31,440 --> 00:28:40,880
+and I don't respond and say like, try to give me 36 hours-ish, if you don't hear back from me,
+
+235
+00:28:41,840 --> 00:28:46,880
+don't be afraid to like just get on the DM and say, hey man, just wanted to see if you got this yet.
+
+236
+00:28:47,280 --> 00:28:54,880
+So, and I just say that because like sometimes, like say I've got my full-time job and
+
+237
+00:28:54,880 --> 00:28:59,760
+things are getting busy. Like I may see your question and I recognize your question and I'm
+
+238
+00:28:59,760 --> 00:29:04,240
+like, well, that's going to take like, you know, that's going to take like, I need to spend some
+
+239
+00:29:04,240 --> 00:29:08,880
+time. That's not a quick answer. Basically, it's not something, oh, do this or do that. It might
+
+240
+00:29:08,880 --> 00:29:14,320
+be something where I have to kind of like go sit, think about it, or maybe pull up some info for you
+
+241
+00:29:14,320 --> 00:29:19,520
+to share with you or try to go find something in the group or something to share with you.
+
+242
+00:29:19,520 --> 00:29:24,720
+So sometimes like that may happen and it's just, I get distracted or busy. It's not that I'm
+
+243
+00:29:24,720 --> 00:29:31,040
+forgetful. I just got busy and forgot to get back to you. So just don't be afraid to send back. But
+
+244
+00:29:31,040 --> 00:29:37,600
+I'm pretty good about trying to get right back to you guys when I can. But I just want you guys to
+
+245
+00:29:37,600 --> 00:29:42,080
+know that. And at the same time, if you leave me something and I reply back to you, like,
+
+246
+00:29:42,080 --> 00:29:47,200
+and you don't reply back for like two weeks, don't, when you come back in two weeks looking
+
+247
+00:29:47,200 --> 00:29:57,920
+for something, don't expect me to jump on and get things going. So let's see. Okay.
+
+248
+00:29:58,640 --> 00:30:01,280
+Okay. He got that. That was just access issue.
+
+249
+00:30:14,080 --> 00:30:23,600
+Let's see. Oh, just, hey, I get things like this. Just so you guys know, like people call,
+
+250
+00:30:24,160 --> 00:30:29,280
+like your people will send me messages and say, like, I'm getting phone calls for my ad,
+
+251
+00:30:29,280 --> 00:30:35,040
+but there it sounds scammy or people are saying that they've called someone else or it's whatever,
+
+252
+00:30:35,040 --> 00:30:40,800
+like, just know that like we all deal with that. There's like, you know, there's captcha that you
+
+253
+00:30:40,800 --> 00:30:50,640
+can do for like to try to reduce like the form span. There's, you know, you can do like the IVR
+
+254
+00:30:50,640 --> 00:30:56,720
+with like press one or press two to talk to somebody. And that helps like reduce some spam,
+
+255
+00:30:56,720 --> 00:31:04,880
+but like the sophistication of spam is like, they're always like steps ahead of like the
+
+256
+00:31:04,880 --> 00:31:11,920
+defense mechanism. So just, just understand that like we all deal with that. And so just,
+
+257
+00:31:11,920 --> 00:31:16,080
+just kind of take that for what it is. Like, just, just know that like, you're not the only
+
+258
+00:31:16,160 --> 00:31:22,160
+one going through stuff when that happens. Okay. All right. And anybody that's watching,
+
+259
+00:31:22,160 --> 00:31:27,920
+if you guys want to hop on to the Zoom, the Zoom link is in the comments. If you have any questions
+
+260
+00:31:27,920 --> 00:31:36,800
+you want to go over, we can go over your stuff. Let's see here. And then, you know, I don't know
+
+261
+00:31:36,800 --> 00:31:42,480
+how many times we've got to repeat this, like, stay out of large cities. Like, just don't do it.
+
+262
+00:31:43,280 --> 00:31:50,640
+Please don't do it. Once you get like experience and you are very confident and you're making money,
+
+263
+00:31:52,400 --> 00:31:59,440
+you know, then there's ways to like eke into it and niche down and, you know, get better with
+
+264
+00:31:59,440 --> 00:32:04,800
+your locations and ad groups. And you have to set up multiple location pages and service pages.
+
+265
+00:32:04,800 --> 00:32:09,680
+Like there's ways to do it, but like, don't jump into it. Don't like, like don't jump into Houston.
+
+266
+00:32:10,320 --> 00:32:16,720
+You know, like don't, that's, that's not, you're just going to, until you have the experience to
+
+267
+00:32:16,720 --> 00:32:21,920
+do it, like, you're just going to piss away thousands of dollars. And if you think you're
+
+268
+00:32:21,920 --> 00:32:29,280
+going to hop into a big Metro market for $5 a day or $5 a click at $20 a day, like you're not going
+
+269
+00:32:29,280 --> 00:32:32,880
+to make any money. You're not going to have any business owners that are going to be happy with
+
+270
+00:32:32,880 --> 00:32:38,480
+you. So just take our advice and don't do that, right? Small, smaller cities, like keep it
+
+271
+00:32:38,480 --> 00:32:44,000
+manageable. Well, once you get experience and you understand this stuff and you can read the data,
+
+272
+00:32:44,640 --> 00:32:51,040
+that's when you can maybe start doing those bigger city areas. Okay. Some of you guys,
+
+273
+00:32:51,040 --> 00:32:56,720
+really just a couple of you, like, it seems like every, every couple of weeks I get a message and
+
+274
+00:32:56,720 --> 00:33:02,640
+you're trying to find a place and it's a constant like, well, don't, don't do that. Okay.
+
+275
+00:33:09,280 --> 00:33:17,040
+Let's see. Todd, Todd hit me up. Yeah. Todd, if you're here, let me know. I know you had some
+
+276
+00:33:17,040 --> 00:33:27,840
+questions. Let's see here. Let's see. Is anybody on the zoom? No. Okay. Let's see. We got,
+
+277
+00:33:27,840 --> 00:33:42,720
+okay. Sarah. Oh yeah. We, we got Sarah square away last week. Okay.
+
+278
+00:33:49,360 --> 00:33:54,560
+This is something you get this recommendation on and other training. You get this recommendation
+
+279
+00:33:54,560 --> 00:34:00,720
+from Google is like conversion tracking. Um, on your Weebly one-pagers, to me, there's really no
+
+280
+00:34:00,720 --> 00:34:07,280
+reason to do it at all. Um, if you set up a full webpage, a full website, and you want to put it
+
+281
+00:34:07,280 --> 00:34:15,760
+on certain triggers, you can do that. Um, I personally don't think it's worth a big hassle
+
+282
+00:34:15,840 --> 00:34:24,880
+to do it. Um, the value I see in it is if I'm setting up ads for like someone else's website,
+
+283
+00:34:25,520 --> 00:34:34,000
+then I might spend time to do it so that it kind of like, you know, uh, how I use it as a way to
+
+284
+00:34:34,000 --> 00:34:41,360
+kind of like, quote unquote, like show value to them. Um, at the end of the day though, like, um,
+
+285
+00:34:42,240 --> 00:34:51,120
+like, like my client's phones are ringing and they're getting forms or they're not like, I don't
+
+286
+00:34:51,120 --> 00:34:57,840
+really care about the conversion stuff unless I'm into some very competitive markets or like high
+
+287
+00:34:57,840 --> 00:35:03,600
+population areas. I don't really care. I just want the phone ring and I want forms to come in. So,
+
+288
+00:35:04,400 --> 00:35:12,960
+um, you know, if, if I am doing stuff in like LA and Orange County, um, I got a guy in our land,
+
+289
+00:35:12,960 --> 00:35:18,720
+I got a couple of people in Orlando right now. Uh, I have somebody in Miami for them. I have,
+
+290
+00:35:18,720 --> 00:35:24,720
+and it's just, it's for me, um, it's, I'm using it in a way to like,
+
+291
+00:35:25,600 --> 00:35:32,720
+um, focus on areas that we're getting wins at and then not, um, and then kind of like
+
+292
+00:35:32,720 --> 00:35:37,040
+be able to like shut down stuff where we're not getting wins at, if that makes sense. So
+
+293
+00:35:38,480 --> 00:35:40,320
+it's just one of those things. Um,
+
+294
+00:35:45,280 --> 00:35:51,760
+yeah, somebody wants to buy my leads from me in the group. I understand, but all right.
+
+295
+00:35:56,960 --> 00:36:00,080
+Okay. Yep. That's caught up. I think there are some more pretty simple stuff.
+
+296
+00:36:00,080 --> 00:36:06,080
+So, uh, with that, I'm going to hit refresh here, see if there's anything new. Sorry. Um,
+
+297
+00:36:06,800 --> 00:36:11,840
+okay. Let me see. There's any new comments. I don't see any. Cool. Does anybody have any other
+
+298
+00:36:11,840 --> 00:36:16,640
+questions or anything? The zoom is open. I'll leave it open for a couple more minutes. Uh,
+
+299
+00:36:16,640 --> 00:36:20,400
+it looks like there's just a few of you here watching. I don't know who's watching, but
+
+300
+00:36:20,400 --> 00:36:27,360
+if you guys got any questions, type them in the comments, um, or, uh, hop on the zoom and then,
+
+301
+00:36:30,480 --> 00:36:41,920
+um, yeah, let's see here. Yep. Yep. Yep. Okay. Cool.
+
+302
+00:36:46,560 --> 00:36:52,320
+All right guys. Uh, so I guess they're in short and sweet today. Not a lot of people on all good.
+
+303
+00:36:53,280 --> 00:37:01,440
+For those that are having issues with your Google, um, keyword planner stuff, I highly,
+
+304
+00:37:01,440 --> 00:37:06,960
+highly, highly recommend that you guys get the rare software from Ryan Dalton. You can reach
+
+305
+00:37:06,960 --> 00:37:12,560
+out to him directly. I believe there's a discount for digital landlord members right now. I thought
+
+306
+00:37:12,560 --> 00:37:19,440
+I caught that on Nick's live, I believe, or a post that he did. Um, anyways, we'll just hit
+
+307
+00:37:19,440 --> 00:37:25,760
+up Ryan. He'll help you out, get you set up there. Um, I've been using it. Um, you know,
+
+308
+00:37:25,760 --> 00:37:31,520
+I'll start like we just showed earlier with Zach. Um, it's been working really good. So anyhow,
+
+309
+00:37:31,520 --> 00:37:35,840
+all right guys, uh, let me check zoom one more time. I don't see anybody here. Cool. All right.
+
+310
+00:37:35,840 --> 00:37:41,280
+You guys have a great one. Uh, take care. You know, if you guys have any questions later, bye.
+

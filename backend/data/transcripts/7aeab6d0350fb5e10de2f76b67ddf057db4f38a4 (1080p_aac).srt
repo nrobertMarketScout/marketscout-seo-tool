@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:05,600
+OK, Ariel says, why do you not touch the ones that have CPC as NA?
+
+2
+00:00:05,600 --> 00:00:07,920
+So the reason why, real quick on that, Ariel,
+
+3
+00:00:07,920 --> 00:00:12,200
+is because typically with CPC, think about it, right?
+
+4
+00:00:12,200 --> 00:00:13,200
+Supply and demand.
+
+5
+00:00:13,200 --> 00:00:17,120
+So if the cost per click is zero, that
+
+6
+00:00:17,120 --> 00:00:19,800
+means there's nobody else bidding on it, right?
+
+7
+00:00:19,800 --> 00:00:22,280
+There's no marketers, there's no business owners,
+
+8
+00:00:22,280 --> 00:00:25,040
+there's no one else that's wanting to pay for those ads.
+
+9
+00:00:25,040 --> 00:00:29,720
+Which I can therefore infer that it's worth nothing, right?
+
+10
+00:00:29,720 --> 00:00:33,520
+So for example, you're going to have a keyword like cheap concrete
+
+11
+00:00:33,520 --> 00:00:36,640
+companies in Newport, whatever, right?
+
+12
+00:00:36,640 --> 00:00:38,240
+That CPC is zero.
+
+13
+00:00:38,240 --> 00:00:39,200
+Why?
+
+14
+00:00:39,200 --> 00:00:40,560
+Because no one cares about it.
+
+15
+00:00:40,560 --> 00:00:44,200
+So if you want to go like those CPCs, the reason why
+
+16
+00:00:44,200 --> 00:00:46,440
+is because it's typically a waste of time, right?
+
+17
+00:00:46,440 --> 00:00:47,840
+There's no volume.
+
+18
+00:00:47,840 --> 00:00:50,680
+It says there's volume, but it's not worth anything.
+
+19
+00:00:50,680 --> 00:00:52,320
+So if you want to go test it out, cool.
+
+20
+00:00:52,320 --> 00:00:54,120
+And there's probably a couple situations
+
+21
+00:00:54,120 --> 00:00:55,800
+where, yeah, it's going to work.
+
+22
+00:00:55,800 --> 00:01:01,680
+But I'm just using my intuition of saying, OK, there's CPC that's
+
+23
+00:01:01,680 --> 00:01:05,480
+zero, which means nobody cares enough to pay for it,
+
+24
+00:01:05,480 --> 00:01:09,400
+which means there's one of many things, right?
+
+25
+00:01:09,400 --> 00:01:13,000
+There's too much supply and not enough demand or vice versa.
+
+26
+00:01:13,000 --> 00:01:14,360
+So that's why.
+
+27
+00:01:14,360 --> 00:01:16,400
+Hope that makes sense.
+

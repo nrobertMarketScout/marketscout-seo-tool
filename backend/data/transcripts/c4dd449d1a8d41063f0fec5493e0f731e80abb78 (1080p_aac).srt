@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:12,780
+Let's talk about the Google trifecta, the three parts of Google and it's very important
+
+2
+00:00:12,780 --> 00:00:16,360
+that you guys understand this and guys the more that you can understand about Google
+
+3
+00:00:16,360 --> 00:00:22,700
+and how it works and how they think and how they operate, the easier it is for us to do
+
+4
+00:00:22,700 --> 00:00:25,860
+SEO because we just need to reverse engineer what they're thinking.
+
+5
+00:00:25,860 --> 00:00:31,420
+So really quick, the Google trifecta, that is the three different sections of Google.
+
+6
+00:00:31,420 --> 00:00:36,260
+First we have the ads, which is the very top section of Google.
+
+7
+00:00:36,260 --> 00:00:39,860
+So if you do a search, boom, you're going to see that at the top, it's going to say
+
+8
+00:00:39,860 --> 00:00:40,860
+ad next to it.
+
+9
+00:00:40,860 --> 00:00:42,800
+That's the ad section.
+
+10
+00:00:42,800 --> 00:00:46,140
+The next section that we're going to have is what we call Google Local.
+
+11
+00:00:46,140 --> 00:00:52,460
+It's also called the Google My Business or GMB or Google Business Profiles, whatever.
+
+12
+00:00:52,460 --> 00:00:53,460
+They keep changing the name.
+
+13
+00:00:53,460 --> 00:00:56,260
+It's also called the Map Pack, the Three Pack, whatever.
+
+14
+00:00:56,260 --> 00:00:58,940
+It's probably going to be called the Dinosaur Pack by the time this video.
+
+15
+00:00:58,940 --> 00:00:59,940
+I don't even know.
+
+16
+00:00:59,940 --> 00:01:00,940
+Whatever Google decides.
+
+17
+00:01:00,940 --> 00:01:04,460
+Larry Page and Sergey Brin, shout out to you guys for having some creative minds.
+
+18
+00:01:04,460 --> 00:01:05,460
+I don't know.
+
+19
+00:01:05,460 --> 00:01:07,540
+That's the local section.
+
+20
+00:01:07,540 --> 00:01:11,940
+And there is a specific strategy to ranking in that section that we are going to be covering
+
+21
+00:01:11,940 --> 00:01:13,700
+in a later module.
+
+22
+00:01:13,700 --> 00:01:18,540
+And then underneath the map, we have the third section, which is what we would call to or
+
+23
+00:01:18,540 --> 00:01:23,180
+I'm going to refer to as the actual organic listings, which is underneath the maps.
+
+24
+00:01:23,180 --> 00:01:26,900
+That's where your website ranks at the top of the organic.
+
+25
+00:01:26,900 --> 00:01:32,660
+So there's, depending on the search, there's usually one to three ads.
+
+26
+00:01:32,660 --> 00:01:35,120
+Then there's three in the map.
+
+27
+00:01:35,120 --> 00:01:38,580
+Sometimes there's four because there's an ad in the maps, if you look really careful.
+
+28
+00:01:38,580 --> 00:01:40,100
+One of those is an ad.
+
+29
+00:01:40,100 --> 00:01:42,300
+Then there's 10 search results.
+
+30
+00:01:42,300 --> 00:01:45,380
+And then sometimes you'll see some ads at the bottom.
+
+31
+00:01:45,380 --> 00:01:52,860
+And that is what makes up the Google Trifecta, ads, local, and organic.
+
+32
+00:01:52,860 --> 00:01:53,860
+Very important.
+
+33
+00:01:53,860 --> 00:01:54,860
+You understand that.
+
+34
+00:01:54,860 --> 00:01:54,880
+Let's keep going.
+

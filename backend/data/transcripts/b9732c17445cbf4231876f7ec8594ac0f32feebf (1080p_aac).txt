@@ -1,0 +1,71 @@
+Okay, now that we have the page title and the page description, we are going to create
+the H1 tag, text right here.
+It's actually pretty simple because the H1 is pretty much the page title just flipped.
+So we're going to put the location first and then we're going to put the services.
+So just what you put here, we put concrete contractors and concrete company.
+So I'm literally just going to put, so I'm going to click in it and I'm going to put
+my location, which is in my case, Queen Creek, Arizona, and then you can structure this however
+you like.
+I think it looks clean if you put a little line there, but you can also just go ahead
+and just put the keywords that we used.
+So concrete contractors.
+This may be too long to fit, also I'm putting that, but I usually like to use the actual
+three letters and concrete company and then click out of it.
+Let's see what it looks like, okay.
+I do like it to be a little more bold and then just double check how it looks like from
+a phone.
+Yeah, that's fine.
+Keep in mind, I know this sounds like silly, but we're only doing this because Google is
+going to crawl our website and we're just doing the on-page SEO.
+We're not doing this to make it look, because obviously this is the same thing.
+Oops.
+And then make sure you don't put concrete twice.
+Okay, let's delete that out.
+Perfect, it should look even better now.
+Okay, concrete contractors and concrete company.
+You may ask, well, can I just put concrete contractors and company?
+No, because the keyword is concrete company, not just company.
+You might as well just take out concrete company and just leave concrete contractors if it's
+really bugging you.
+Okay, next one, stamped concrete.
+Okay, same thing.
+Same thing as your page title.
+Location first, so you flip the page title.
+Oops, stamped concrete and decorative concrete.
+Make it a little bigger.
+Perfect.
+Okay, concrete driveway.
+I don't remember.
+I think concrete installers is what we put, okay.
+Queen Creek, Arizona, concrete driveway, and concrete installers.
+Make it a little bigger.
+Perfect.
+Concrete patio.
+Queen Creek, Arizona, concrete patio, and concrete walkway.
+Okay, and you're done because we're not doing the contact page.
+We are also going to cover the meta keywords.
+So, we used to fill this section right here.
+We don't do it anymore on our very latest sites, but this is up to you if you want to
+do it or not.
+We don't think that it's going to hurt you if you put meta keywords, but we're not sure
+that it's really doing much by adding them.
+So, what meta keywords are, it's very simple.
+I'm just going to show you how to do it on the home page.
+It's pretty much you just add in keywords from your keyword list, and you separate them
+with a comma.
+And it will tell you right here, separate each with a comma.
+So, it would be concrete contractors.
+It is just a list of keywords.
+Concrete company, stamped concrete.
+Make sure that when you're doing this, you're not just copying and pasting it from...
+Like, don't ever copy the description for the home page and put it in the service page.
+Everything needs to be authentic and made fresh for each page.
+Same with the meta keywords.
+Even if you're using the same keywords over and over, it doesn't matter.
+Don't ever copy and paste.
+Flip them, you know, switch them.
+If you're writing everything fresh, you're never going to have that issue.
+So, just try not to do that.
+Concrete driveway and concrete patio.
+Okay.
+And that is it for H1 titles and meta keywords.

@@ -1,0 +1,412 @@
+1
+00:00:00,000 --> 00:00:10,240
+All right, so here we are buying the tracking number for our website.
+
+2
+00:00:10,240 --> 00:00:12,400
+We personally use car rail.
+
+3
+00:00:12,400 --> 00:00:17,160
+You are more than welcome to use Twilio or whatever other software you want to use.
+
+4
+00:00:17,160 --> 00:00:18,160
+That's fine.
+
+5
+00:00:18,160 --> 00:00:21,260
+I'm just showing you what we currently use for our company.
+
+6
+00:00:21,260 --> 00:00:27,000
+So once you make an account, very easy, you just put in your email and password.
+
+7
+00:00:27,000 --> 00:00:29,600
+You can actually also log in through Google.
+
+8
+00:00:29,600 --> 00:00:35,720
+So you're going to click on this, my account, and I believe it says E because it's evergreen.
+
+9
+00:00:35,720 --> 00:00:39,640
+So whatever your company's name will have that letter up here.
+
+10
+00:00:39,640 --> 00:00:45,800
+And then you're going to click on account settings down here under manage.
+
+11
+00:00:45,800 --> 00:00:50,880
+Click under all companies and you're going to create a company.
+
+12
+00:00:50,880 --> 00:00:58,440
+So each tracking number will have its own company and that's because let's say you
+
+13
+00:00:58,440 --> 00:01:00,760
+need to make a quick website for that same company.
+
+14
+00:01:00,760 --> 00:01:05,720
+We want everything to be very organized and under the same thing, it's very easy to search
+
+15
+00:01:05,720 --> 00:01:07,280
+as well.
+
+16
+00:01:07,280 --> 00:01:10,560
+And so we're going to create company right here.
+
+17
+00:01:10,560 --> 00:01:11,560
+You put the company name.
+
+18
+00:01:11,560 --> 00:01:15,480
+I actually made a mistake earlier.
+
+19
+00:01:15,480 --> 00:01:18,520
+It's called Queen Creek, not Queens Creek.
+
+20
+00:01:18,520 --> 00:01:23,440
+So let me just edit that up here as well.
+
+21
+00:01:24,440 --> 00:01:27,440
+Just really quick.
+
+22
+00:01:43,440 --> 00:01:44,440
+Okay.
+
+23
+00:01:44,440 --> 00:01:45,440
+Back to CarRail.
+
+24
+00:01:45,440 --> 00:01:48,840
+So actually taking that out.
+
+25
+00:01:48,840 --> 00:01:53,840
+So it's just going to be like the website title, city and service time zone.
+
+26
+00:01:53,840 --> 00:01:59,440
+This will be the same time zone as the location that you're targeting on the website.
+
+27
+00:01:59,440 --> 00:02:04,560
+In my case, Arizona, you're going to put the primary company phone number.
+
+28
+00:02:04,560 --> 00:02:10,400
+What that means is where do you want the calls coming to your website directed to?
+
+29
+00:02:10,400 --> 00:02:16,240
+So it will be probably the client's phone number or the secretary, whoever is scheduling
+
+30
+00:02:16,240 --> 00:02:18,000
+the leads phone number.
+
+31
+00:02:18,160 --> 00:02:26,640
+I'm just going to put a random one, okay, add users.
+
+32
+00:02:26,640 --> 00:02:31,840
+This is where you can actually add different users to be able to check the reporting.
+
+33
+00:02:31,840 --> 00:02:36,960
+CarRail also allows you to listen to the recording calls.
+
+34
+00:02:36,960 --> 00:02:43,040
+And then once you add it, you can create an account user that is your client if he does
+
+35
+00:02:43,040 --> 00:02:45,240
+like to listen to the recordings.
+
+36
+00:02:45,240 --> 00:02:47,000
+So you can get pretty creative here.
+
+37
+00:02:47,000 --> 00:02:53,000
+And then you're just going to click on create company and go to company dashboard.
+
+38
+00:02:53,000 --> 00:02:56,000
+CarRail will automatically take you here.
+
+39
+00:02:56,000 --> 00:02:57,000
+Okay.
+
+40
+00:02:57,000 --> 00:03:02,000
+So let's select the company that we just created, which is Queen Creek Concrete here.
+
+41
+00:03:02,000 --> 00:03:03,000
+Oops.
+
+42
+00:03:03,000 --> 00:03:04,160
+It's the other one.
+
+43
+00:03:04,160 --> 00:03:06,120
+We already had one.
+
+44
+00:03:06,120 --> 00:03:08,560
+We do like to add the state as well.
+
+45
+00:03:08,560 --> 00:03:13,880
+I just didn't want to create a duplicate, so that's why I didn't put it.
+
+46
+00:03:13,880 --> 00:03:17,880
+But usually you want to put the state as well, just so you know.
+
+47
+00:03:17,880 --> 00:03:24,300
+And then you're going to create number, click, I'll use it offline.
+
+48
+00:03:24,300 --> 00:03:25,300
+Same thing as before.
+
+49
+00:03:25,300 --> 00:03:28,480
+It should automatically pull whatever number you put earlier.
+
+50
+00:03:28,480 --> 00:03:34,000
+This is the phone number that the calls will be redirected to, number setup.
+
+51
+00:03:34,000 --> 00:03:36,840
+So you want to do a specific area code.
+
+52
+00:03:36,840 --> 00:03:45,800
+And how I picked this, I actually just Google Queen Creek, Arizona concrete, kind of like
+
+53
+00:03:45,800 --> 00:03:52,480
+if you were doing a due diligence and I like to see what the area codes of the main businesses
+
+54
+00:03:52,480 --> 00:03:53,480
+are.
+
+55
+00:03:53,480 --> 00:03:59,640
+It looks like it's a, this one is tricky because they're all different.
+
+56
+00:03:59,640 --> 00:04:07,280
+Looks like it's either 480, 480 looks like the most common one.
+
+57
+00:04:07,280 --> 00:04:15,040
+And then what I like to do is just stick that out and put area code because we want to look,
+
+58
+00:04:15,040 --> 00:04:22,040
+we want the website to look to the customers like we own the company and we're a local
+
+59
+00:04:22,040 --> 00:04:23,040
+one.
+
+60
+00:04:23,040 --> 00:04:24,040
+So 480.
+
+61
+00:04:24,880 --> 00:04:30,160
+So after that, you're just going to go back to Carl, type 480, which is the area code
+
+62
+00:04:30,160 --> 00:04:31,160
+we want.
+
+63
+00:04:31,160 --> 00:04:37,140
+Carl is going to show you four options and we like to check each option.
+
+64
+00:04:37,140 --> 00:04:44,280
+So you're going to copy, search for Google and search for all the numbers and pick the
+
+65
+00:04:44,280 --> 00:04:50,880
+one that looks the last, the least scammy.
+
+66
+00:04:50,920 --> 00:04:56,800
+And this is going to be a little tricky, but we like to make sure that we pick a number
+
+67
+00:04:56,800 --> 00:04:59,120
+that is going to be good for our website.
+
+68
+00:04:59,120 --> 00:05:00,120
+So search Google.
+
+69
+00:05:00,120 --> 00:05:01,120
+Okay.
+
+70
+00:05:01,120 --> 00:05:07,980
+Now we have all four numbers and what I mean with scammy is once you search for all four,
+
+71
+00:05:07,980 --> 00:05:17,600
+so this one only comes up with few, once we search it, this one looks good.
+
+72
+00:05:17,600 --> 00:05:20,920
+We definitely, so this one for, this is a good example.
+
+73
+00:05:20,920 --> 00:05:23,820
+See how this one says escort Phoenix.
+
+74
+00:05:23,820 --> 00:05:27,160
+We definitely don't want people to think we're associated with that.
+
+75
+00:05:27,160 --> 00:05:32,320
+So that phone number we're going to scratch off.
+
+76
+00:05:32,320 --> 00:05:36,480
+Scam alert, definitely not that one.
+
+77
+00:05:36,480 --> 00:05:37,480
+Some life mates.
+
+78
+00:05:37,480 --> 00:05:43,440
+Yeah, we probably want to go with this one.
+
+79
+00:05:43,440 --> 00:05:48,320
+Looks the least complicated.
+
+80
+00:05:48,320 --> 00:05:54,720
+So the one that ends in 2455 and then again, make sure you do this, especially for the
+
+81
+00:05:54,720 --> 00:05:59,200
+actual website that is going to be your asset.
+
+82
+00:05:59,200 --> 00:06:05,520
+And then we are going to name this Queen Creek, just like the company.
+
+83
+00:06:05,520 --> 00:06:06,520
+Make sure you add the state.
+
+84
+00:06:06,520 --> 00:06:10,600
+I know I didn't do it for the company, but that's just because we didn't want to duplicate
+
+85
+00:06:10,680 --> 00:06:14,240
+and you're going to add the service number features.
+
+86
+00:06:14,240 --> 00:06:17,280
+Make sure you add a whisper message.
+
+87
+00:06:17,280 --> 00:06:18,880
+The whisper message is up to you.
+
+88
+00:06:18,880 --> 00:06:24,440
+What the whisper message is when let's say I find the website, I need a concrete driveway.
+
+89
+00:06:24,440 --> 00:06:30,600
+I call your client will pick up the lead and we'll receive a whisper message before the
+
+90
+00:06:30,600 --> 00:06:32,560
+lead talks.
+
+91
+00:06:32,560 --> 00:06:36,200
+So the client knows that that's a lead that came from you.
+
+92
+00:06:36,200 --> 00:06:42,200
+And so we can put something like new lead from Queen Creek concrete.
+
+93
+00:06:42,200 --> 00:06:46,600
+So the client knows, okay, this is a lead that Nick sent me or whatever.
+
+94
+00:06:46,600 --> 00:06:52,360
+And then make sure you click on call recording because we want to record every call that
+
+95
+00:06:52,360 --> 00:06:56,440
+came through and boom, you're done.
+
+96
+00:06:56,440 --> 00:06:57,760
+So it's right here.
+
+97
+00:06:57,760 --> 00:07:02,520
+This is your tracking number that we're going to use for the website.
+
+98
+00:07:02,520 --> 00:07:05,900
+And then this is the phone number you're going to forward the calls.
+
+99
+00:07:05,900 --> 00:07:09,860
+If you ever need to change it in the future, just click on this pencil right here.
+
+100
+00:07:09,860 --> 00:07:13,020
+You click on the pencil again up here and you're going to be able to change who the
+
+101
+00:07:13,020 --> 00:07:15,340
+numbers are being forwarded to.
+
+102
+00:07:15,340 --> 00:07:18,540
+You can change the whisper message, you can change everything and then just make sure
+
+103
+00:07:18,540 --> 00:07:21,700
+you click save and you're done.
+

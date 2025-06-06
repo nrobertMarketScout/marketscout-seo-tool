@@ -1,0 +1,53 @@
+Alright, so this part is very short, but it's really, really important that you do it.
+The reason why is because you want to make sure that you are protected legally in the
+future for your website.
+And so we go to the very bottom, right here, where it says Side Power by Nick Wood, you're
+going to click in this section that Weebly automatically creates for you.
+So this is not a section that we made previously in our framing asset video.
+This is something that is automatically created for you.
+So once you have created this, this is where we're going to add the terms of service for
+your website, the privacy policy, and this is where you're going to add the fact that
+you're affiliated to your client and you can also add, and it would suggest you're doing
+so to avoid any trouble, you're going to add the contractor license of your client
+right here at the bottom.
+So let's get it started.
+You're going to drag the text right here, okay?
+You're going to add another text right here.
+Alright, and we like to use this free tool called Terms Feed that generates privacy policies
+for you.
+It's very simple.
+So I already have this pulled up, you're going to search for app.termsfeed.com and it's going
+to take you right here and we are going to generate the terms and conditions first.
+So click on here, click on start, select website, okay, the URL is whatever we bought earlier
+from GoDaddy.
+So make sure you copy and paste that in here.
+The name of the website is in my case, Queen Creek Concrete, payment individual, oops,
+individual, okay, enter, make sure the correct country is selected, select your state, no,
+no, okay, this is going to be by visiting a page on our website, which again, put the
+domain in here and the phone number is whatever you purchased on CallRail.
+Let's see, hopefully I don't have to pull that back up for you.
+Okay, your tracking number, so copy and paste it, next step, email address, so wherever
+you want this privacy policy to be sent to, okay, generate and boom.
+So you're going to copy this, now open a new tab, paste that in there, click search
+and it's right here.
+So copy this link again and you're going to, right at the bottom, you're going to type
+terms and conditions, select all of it, insert a link, a website URL, you're going to paste
+that same link, click out of it, reselect, let's bold it, underline it and let's make
+it a color so people know that they can click on it, can make it red, perfect.
+And now we are going to, let's align this, okay, actually delete the spacer right here
+and again, make sure you add there, you're an affiliated company with your client and
+put the license and contractor, okay, we're going to name this privacy policy, okay, back
+to terms feed, so we can close this out, click on the logo, it should take you back to the
+homepage, okay, perfect, privacy policy start, website, same thing, phone number, I would
+just keep every tab open with everything that you need because these keep reoccurring and
+you always need them so I would just leave it like it is, same as earlier, individual
+United States, make sure you're putting every information correctly, email first number,
+first name and phone number, visiting, same, oops, that's fine, put that phone number,
+next step, no, we just want the basic one and generate, oops, boom, copy this, same
+thing as we did earlier, I do this just to double check it looks correctly, you copy,
+go back to Weebly, select everything, link it to a website URL, click out of it, now
+we're going to make this bold, okay, now we're going to test it really quick, so click on
+publish and that little footer is nice because it should copy automatically on every other
+service page, so let's just pick a random one, it should be at the very bottom, perfect,
+so we're just going to test it, click on both of them and make sure it takes you here and
+you're done, that's all you need to do for that.

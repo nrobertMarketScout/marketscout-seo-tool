@@ -1,0 +1,163 @@
+Alright guys, congratulations. At this point, you've gotten your first deal and if you're
+watching this and you haven't, it's okay. Keep doing the process. Keep putting the reps
+in and you will get a deal. But I want to cover what do you do after the deal, right?
+You get the deal, the business owner gives you the credit card number, they give you
+their information, all that stuff. What do you do then? What I like to do, the last couple
+things that I like to do once they've given me the credit card before I end the call is
+I let them know, hey, so here's what's going to happen. I'm actually, Mr. Business Owner,
+I need first of all, what's the business address? Because I want to have the business address
+for the contract. I want to know the legal business name. I'm going to write that down.
+And I'm going to tell them, I'm going to be sending over two documents. I'm going to be
+sending over an exclusivity agreement, which is how I phrase it, which basically will tell
+you that this is 100% exclusive. It indicates the price. And by the way, and I'll say this,
+by the way, most people, I know it's 2,000 bucks a month, most people just like to do
+the 500 a week, so it's not as big of a deal. Do you want to do 500 a week? 2,000. Doesn't
+matter to me, okay? Let's do the 500 a week. Cool. I like weekly, by the way, guys, because
+I can monitor it more and you actually make a little bit more money over the course of
+the year. So I prefer the weekly, but it's up to you. And I'll say, I'm going to have
+two documents coming to, what's the best email? Let me grab that. I'll grab the email. Okay.
+I'm going to send over the exclusivity agreement and I'm going to send over a credit card preauthorization.
+All that's going to do is that's going to legally allow me to charge your card every
+week so I don't have to bug you every single week. Okay. So all I need is those two signatures
+and then who do you want the leads going to? Okay. Like what email, what address, et cetera?
+I just grab it right there. So, okay, so it's going to go to you. Cool. What's the number?
+Okay. Cool. And what's the email? Cool. So awesome. This sounds good. All I need you
+to do, I'm going to get this going immediately. We'll have calls coming to you. Could be as
+early as today. It may take a day or two depending on what comes in, but I'm going to get those
+two documents. All I need is two signatures and we are ready to rock and roll. Awesome.
+Thanks Brian. Thanks Jack. Thanks Tara. Thanks Tracy. Whatever. Boom. End the call. Okay.
+Immediately. I don't go take a pee. I don't go get a drink. I don't treat myself to lunch.
+I get the credit card signed. I get the deal run. So first thing I do is I run the card.
+Okay. I set up the, I create the customer, set up the subscription, run the card, which
+I'm going to show you how to do. Then I send over the contract and I send over the preauthorization
+before I take a deep breath because this deal ain't done yet. Okay. You do have the card,
+but the deal ain't done yet. So let's hop over to the screen. Okay guys. So first thing
+that I do is I come over to Stripe. I'm not going to go through how to set up Stripe.
+Google it, YouTube it. It's very simple. Go set up a Stripe account. If you have questions,
+by the way, they've all been asked in the Facebook group, go and Google Stripe and you'll
+see people have had some very specific questions. You can go look at those. Okay. Not difficult.
+I like Stripe. I know the fees are a little high or whatever. I don't care. I believe
+money loves speed. I'll take that for the speed, the convenience and all that. I love
+Stripe. Okay. So what you're going to do is once you come in, you're going to go over
+to the customers tab. Okay. And you are going to add a customer and you're going to put
+the customer in here. We'll just use this example. So we'll call it John Doe. Okay.
+John Doe. I only fill out two things. I do the name and then the email. So John at Doe.com
+add customer. Okay. That's step one. Step two is you need to come over and you need
+a product. Okay. And what I do is I go and I push add product. Okay. And I'm going to
+call this Queen Creek Concrete Leads. Okay. I leave the description blank or you can copy
+the same thing down. It doesn't matter. And if you're going to do monthly, you're going
+to put in 2000. If you're going to do weekly, you can put in 500, but do not forget to change
+this to weekly. Okay. Because if you do, if you don't, you're going to be charging 500
+a month and not realize it. Okay. So change it to weekly and just save it. Very simple.
+So we've created the customer. We've created the product. Now you can just go back to your
+customer list, click on John and go over where it says subscriptions and push create. You
+can do it there or you can go to actions and push create subscription. Doesn't matter.
+It's the same. And what's going to happen is you're going to search for first of all
+the customers there, then you're going to search for the product, which usually pops
+up first. Stripe smart enough to know you're probably going to be setting up that product,
+that subscription, click on your product says 500 a week. And now here's what you're going
+to do. Okay. You're going to go over and it's going to start on today's date and I'm going
+to put it to go forever. I'm not going to have a stop on it because I don't want there
+to be a stop and me losing money. I would rather the customer hit me up and say, Hey,
+you overcharge me and me refund it. And I lose a couple of bucks then to not get paid.
+So I leave it as forever because I plan on working with these guys forever. Just so you
+know, six months is just the beginning. Okay. You don't have to mess with any of this stuff,
+blah, blah, blah. Okay. And then what you're going to do because you already have the credit
+card number is you're going to go over and hit automatically charge a credit payment
+method on file, push add a payment. And guess what? You put in the credit card number, you
+put in the month and the year and you put in the CVC and you push add. Okay. And once
+you do that, I'm not, I don't have a credit card here. You're going to push start subscription.
+And that is immediately going to charge the customer immediately. Okay. And you're done.
+That is like, the crazy part is you are done with Stripe. It will continue to build them
+every single month forever or week. And you were done. That's how simple it is. This is
+why I love Stripe. That took me 30 seconds. Okay. That's it. That's it. And this is what
+I love about this too. I like to run the payment first before I worry about the contract because
+that card, it'll say insufficient funds. And now you're like, okay, this guy, this gate,
+this lady, she's yanking me around or this guy, this lady, they don't have money. Okay.
+Or they gave me the wrong card or they're messing with me or whatever, but you're going
+to know right there. So payments done. Okay. And it's set up. Then I'm going to go over
+and this is going to be, it's going to be included as a download. It's also in the file
+section of Stripe. You're going to fill out the lead generation and exclusivity agreement.
+Now, the only thing you're going to need to change on this because this is just a template
+is you need to go and change your information and just do it once and have it saved. Okay.
+So that's your company and all that, all that good stuff. And you're going to need to change
+down here in the governing law. You need to change this to your state and your county.
+So it should not say Washington County and it should not say Utah. Okay. That is it.
+And if you want to make sure you can search Utah, but those are the only two places is
+those two spots, change those, change your information. And then what you're going to
+do is you're going to drop in your customer's information. Okay. So I'll typically go file,
+make a copy so I can save my template. And then I'm going to put John, sorry, client
+is John's Concrete. Okay. Name of the company as I put, or sorry, name is John Doe address,
+blah, blah, blah, whatever, email john at doe.com. Okay. And only other thing I add
+here is I will put location is Queen Creek AZ industry is, and if you want, you can just
+do flatwork concrete if you want to, if you guys just agreed to flatwork and not decorative
+and change the term. So six months, whatever, put that in there. And then the monthly fee
+or you can change it to say weekly fee. So in this case, I'm going to put weekly fee
+is going to be 500 a month or 500 a week. And that's it. And then what you're going
+to do is you're going to go file, download as a PDF. Okay. That's it. You're going to
+come over and I like to use doc hub. Okay. The reason I like to use doc hub is because
+you get five free signatures. It's very simple. But you can use doc. You sign. It doesn't
+matter what you use. I've always used doc hub for my lead generation clients. Okay.
+You're going to come over here and you're going to sign up for the free. I'm going to
+sign in really quick with my account. So give me one moment. All right guys, here we are
+in doc hub. Very simple. You're just going to go new document. Okay. You're going to
+upload it and you're going to go to your downloads and you're going to find that download
+that you had. Okay. And you're going to want to name it something else than this. So I'll
+change it to put, you know, whatever I'll put queen up, shoot, sorry. Okay. I'll usually
+name it like this. Queen Creek concrete. And then I'll put, um, like John's concrete dash
+flat fee lead generation agreement, blah, blah, blah. I want this to be very, I'm thinking,
+okay, what happens if this client does a back charge or tries to refund? I want this to
+show like, I want striped look at this and go, okay, this guy could have never been confused.
+The document is called lead generation agreement. So he can't claim he didn't know. Okay. So
+just, just overkill, but I like to name it something there. It's also easily searchable.
+And then you're going to go and do a couple of easy things. Okay. You're going to hit
+this a tool and you're going to go drop in the date. So today's date is 23 June. Okay.
+Make it look good. Don't just slop it in there. Okay. And then again, June 23rd and 23 June,
+which clearly I'm being sloppy here. Boom. Okay. 23rd June. Okay. And that is all you
+need in terms of what you need to fill out. And then what you need to do is you need to go
+push sign. You're going to need to create your signature the first time. But then once you have
+it, you can just come in here, drop your signature. And by the way, just for those of you that missed
+that, just click sign and it's going to, you're going to grab your signature and draw it down.
+Okay. So I signed and then you're going to go to this little thing right here. It says manage
+fields. You're going to click on it and you're going to go to the signature one and you're going
+to drop it right here. Okay. And you're going to go over to the assignee and you're going to put
+john at doe.com and you're going to add. Okay. If you can see his initials, J O, which I don't
+know why it says J O, but it should say J D or I don't know, but it says J O whatever,
+but it says right here, he's assigned. So this says if that would be not assigned,
+I'm going to assign in that field and you are done. All you need to do is push prepare sign
+request. And when I push send request, this is going to send him to the email that you put on
+file right here. It's going to send him the document that he or she can open up and with
+their finger or from their computer sign, and it will send you a copy and you are done with
+the contract. That's it. Okay. Very, very simple. You're done. Then what I do is I hop over to the
+credit card authorization. So I go to new documents. I already have this thing saved as an
+authorization. I'll search for it. I don't know if I have it downloaded, so I might need to do that
+really quick. I do not. So let me go over to this. And by the way, this is in the file section. Let
+me download this on this computer really quick. Boom. Go back over to doc hub upload and let's
+look under my downloads. Credit card authorization is hiding right there. Beautiful. And same thing,
+you're just going to fill this out. So again, I'll probably put their company name. I'll put
+John's concrete credit card authorization. Okay. I'm going to put the, I'm going to use the a tool
+and I'm going to go card holder's name. John's or sorry, John dough. I'm going to make it look
+nice. I'm going to put the card number, uh, four, four, four, four, four, four, four, four, four,
+four, four, make it look nice. Okay. And then I'm going to put the expiration date. Let's call zero
+seven of 26, make it look nice. And then I don't know why this one doesn't include it. We need to
+just fix the template, but I always add the CBC here just so I don't honestly, so I don't forget
+it. Cause I'm going to throw that piece of paper away. So let's say it's six, four, two. Okay.
+Billing address eight, four, sorry, eight, four, seven. I know that's mine. We're just using an
+example. And then you're going to fill us out for them. So I John dough. Boom. Authorize whatever
+my company is called. This is my lead gen company called EMM ventures, LLC to charge my credit card,
+blah, blah, blah, blah, blah. And then you're going to put the date in June 23rd, 2022. Done.
+And you're going to go and one more time to this field right here, grab that signature box, put it
+in here. And you're going to add John at dough.com, push add and assign it to him. You push prepare
+sign request. You send the request and guys, you are done. You have the credit card charged. You
+have the auto pay set up through Stripe. You have the a flat fee lead generation exclusivity agreement
+sent out, filled out correctly. He just, he or she just needs to sign it. You have the credit card
+sent out, filled out correctly. He or she just needs to sign it. That will send you copies
+and you are done. And that my friends is what you call a big boy, big girl deal. That is start to
+finish exactly how you do it. That's all I do. So after the call, I do all those things. We're done.
+All the formalities are done. And then I'm immediately going to go and make sure that I
+go to Colorado, send him the leads directly. I'm going to go into my Weebly forms or WordPress.
+I'm going to make sure he's getting the, uh, the quote forms instant, uh, the, what they call them
+web submissions, whatever. And we are done. So guys, here's the game. You do this over and over
+and over. If you can do it one time, if you can make a thousand dollars one time, you can literally
+repeat that a hundred times to get to a hundred thousand dollars per month. That's exactly what I
+did. Go and do it as many times as you can and go and hit those goals.

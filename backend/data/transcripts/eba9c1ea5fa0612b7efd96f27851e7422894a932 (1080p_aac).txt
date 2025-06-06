@@ -1,0 +1,103 @@
+All right, so here we are buying the tracking number for our website.
+We personally use car rail.
+You are more than welcome to use Twilio or whatever other software you want to use.
+That's fine.
+I'm just showing you what we currently use for our company.
+So once you make an account, very easy, you just put in your email and password.
+You can actually also log in through Google.
+So you're going to click on this, my account, and I believe it says E because it's evergreen.
+So whatever your company's name will have that letter up here.
+And then you're going to click on account settings down here under manage.
+Click under all companies and you're going to create a company.
+So each tracking number will have its own company and that's because let's say you
+need to make a quick website for that same company.
+We want everything to be very organized and under the same thing, it's very easy to search
+as well.
+And so we're going to create company right here.
+You put the company name.
+I actually made a mistake earlier.
+It's called Queen Creek, not Queens Creek.
+So let me just edit that up here as well.
+Just really quick.
+Okay.
+Back to CarRail.
+So actually taking that out.
+So it's just going to be like the website title, city and service time zone.
+This will be the same time zone as the location that you're targeting on the website.
+In my case, Arizona, you're going to put the primary company phone number.
+What that means is where do you want the calls coming to your website directed to?
+So it will be probably the client's phone number or the secretary, whoever is scheduling
+the leads phone number.
+I'm just going to put a random one, okay, add users.
+This is where you can actually add different users to be able to check the reporting.
+CarRail also allows you to listen to the recording calls.
+And then once you add it, you can create an account user that is your client if he does
+like to listen to the recordings.
+So you can get pretty creative here.
+And then you're just going to click on create company and go to company dashboard.
+CarRail will automatically take you here.
+Okay.
+So let's select the company that we just created, which is Queen Creek Concrete here.
+Oops.
+It's the other one.
+We already had one.
+We do like to add the state as well.
+I just didn't want to create a duplicate, so that's why I didn't put it.
+But usually you want to put the state as well, just so you know.
+And then you're going to create number, click, I'll use it offline.
+Same thing as before.
+It should automatically pull whatever number you put earlier.
+This is the phone number that the calls will be redirected to, number setup.
+So you want to do a specific area code.
+And how I picked this, I actually just Google Queen Creek, Arizona concrete, kind of like
+if you were doing a due diligence and I like to see what the area codes of the main businesses
+are.
+It looks like it's a, this one is tricky because they're all different.
+Looks like it's either 480, 480 looks like the most common one.
+And then what I like to do is just stick that out and put area code because we want to look,
+we want the website to look to the customers like we own the company and we're a local
+one.
+So 480.
+So after that, you're just going to go back to Carl, type 480, which is the area code
+we want.
+Carl is going to show you four options and we like to check each option.
+So you're going to copy, search for Google and search for all the numbers and pick the
+one that looks the last, the least scammy.
+And this is going to be a little tricky, but we like to make sure that we pick a number
+that is going to be good for our website.
+So search Google.
+Okay.
+Now we have all four numbers and what I mean with scammy is once you search for all four,
+so this one only comes up with few, once we search it, this one looks good.
+We definitely, so this one for, this is a good example.
+See how this one says escort Phoenix.
+We definitely don't want people to think we're associated with that.
+So that phone number we're going to scratch off.
+Scam alert, definitely not that one.
+Some life mates.
+Yeah, we probably want to go with this one.
+Looks the least complicated.
+So the one that ends in 2455 and then again, make sure you do this, especially for the
+actual website that is going to be your asset.
+And then we are going to name this Queen Creek, just like the company.
+Make sure you add the state.
+I know I didn't do it for the company, but that's just because we didn't want to duplicate
+and you're going to add the service number features.
+Make sure you add a whisper message.
+The whisper message is up to you.
+What the whisper message is when let's say I find the website, I need a concrete driveway.
+I call your client will pick up the lead and we'll receive a whisper message before the
+lead talks.
+So the client knows that that's a lead that came from you.
+And so we can put something like new lead from Queen Creek concrete.
+So the client knows, okay, this is a lead that Nick sent me or whatever.
+And then make sure you click on call recording because we want to record every call that
+came through and boom, you're done.
+So it's right here.
+This is your tracking number that we're going to use for the website.
+And then this is the phone number you're going to forward the calls.
+If you ever need to change it in the future, just click on this pencil right here.
+You click on the pencil again up here and you're going to be able to change who the
+numbers are being forwarded to.
+You can change the whisper message, you can change everything and then just make sure
+you click save and you're done.

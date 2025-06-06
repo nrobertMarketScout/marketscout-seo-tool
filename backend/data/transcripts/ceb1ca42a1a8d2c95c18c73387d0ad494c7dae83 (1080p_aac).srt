@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:10,040
+Guys, welcome to part two of Digital Landlords.
+
+2
+00:00:10,040 --> 00:00:14,440
+This is the section where we're going to talk about building the actual asset.
+
+3
+00:00:14,440 --> 00:00:18,880
+We've got the deal, we've got the credit card on file, we've got the contract signed, AmEx
+
+4
+00:00:18,880 --> 00:00:22,880
+or Visa baby, and now it's time to go and build this thing out.
+
+5
+00:00:22,880 --> 00:00:25,640
+But a couple of things I want to mention really, really quick.
+
+6
+00:00:25,640 --> 00:00:34,000
+And that is, number one, if you do not have your first deal, let me repeat, if you do
+
+7
+00:00:34,000 --> 00:00:40,220
+not have your first deal, stop this video right now and go back and watch the other
+
+8
+00:00:40,220 --> 00:00:46,840
+modules and keep doing what it talks about, the sales piece, steps one through seven again
+
+9
+00:00:46,840 --> 00:00:48,880
+and again and again until you get your first deal.
+
+10
+00:00:48,880 --> 00:00:52,320
+Because I do not want you playing with this stuff, I do not need you messing with this
+
+11
+00:00:52,920 --> 00:00:57,560
+you get a deal because until you get a deal, this is nothing more than a hobby and we need
+
+12
+00:00:57,560 --> 00:00:58,560
+to make money.
+
+13
+00:00:58,560 --> 00:01:01,520
+So if you don't have a deal, go back and watch the modules.
+
+14
+00:01:01,520 --> 00:01:05,680
+What happens, and the reason I'm not releasing these to people until they get their first
+
+15
+00:01:05,680 --> 00:01:12,800
+deal, and I've been strategic about this, is because I don't want people having an excuse
+
+16
+00:01:12,800 --> 00:01:15,400
+to not be doing sales.
+
+17
+00:01:15,400 --> 00:01:16,720
+So if you don't have your first deal, go back.
+
+18
+00:01:16,720 --> 00:01:22,520
+Number two, this does not take a front seat to sales.
+
+19
+00:01:22,520 --> 00:01:25,480
+Even though we're going to be building these modules, or sorry, even though we're going
+
+20
+00:01:25,480 --> 00:01:29,360
+to be building the sites out now, now that we've gotten the deals, and as we continue
+
+21
+00:01:29,360 --> 00:01:34,120
+to get deals, this does not take precedence, this does not take priority.
+
+22
+00:01:34,120 --> 00:01:38,240
+How I structure my day, how you should structure your day is you still need to be hitting sales
+
+23
+00:01:38,240 --> 00:01:43,500
+during the golden hours, and then in the gaps, in the downtime at nights, in the afternoons
+
+24
+00:01:43,500 --> 00:01:48,500
+when things are slow, that's when you build these websites, because we need to use our
+
+25
+00:01:48,500 --> 00:01:55,220
+energy, our creativity, our focus to get the deals, because sales is what drives this machine.
+
+26
+00:01:55,220 --> 00:01:56,600
+Money loves speed.
+
+27
+00:01:56,600 --> 00:01:58,260
+Do not forget that, money loves speed.
+
+28
+00:01:58,260 --> 00:02:01,500
+So do not let this take a front seat to sales.
+
+29
+00:02:01,500 --> 00:02:03,340
+Sales fill takes the front seat, okay?
+
+30
+00:02:03,340 --> 00:02:07,780
+And lastly, this is an art, not a science.
+
+31
+00:02:07,780 --> 00:02:09,700
+This is not an exact science.
+
+32
+00:02:09,700 --> 00:02:13,180
+Things are going to change, so at the time of recording this, I'm going to explain things
+
+33
+00:02:13,180 --> 00:02:19,660
+as we're doing them, and as they are working as we speak, but this is an art, not a science,
+
+34
+00:02:19,660 --> 00:02:22,860
+and so therefore, we're always going to be innovating, we're always going to be testing
+
+35
+00:02:22,860 --> 00:02:26,180
+and tweaking and trying and everything else, and we're going to do the best that we can
+
+36
+00:02:26,180 --> 00:02:31,740
+with the information that we have, and basically with SEO, what we look at is, okay, we've
+
+37
+00:02:31,740 --> 00:02:37,260
+done X, Y, and Z steps for these different sites, and these different niches, and these
+
+38
+00:02:37,260 --> 00:02:39,380
+different cities, and it's got us to rank.
+
+39
+00:02:39,380 --> 00:02:43,040
+So we're going to keep doing it, because it's working, okay?
+
+40
+00:02:43,040 --> 00:02:48,560
+So I'm just going to be explaining to you guys what I do from all the programs I've
+
+41
+00:02:48,560 --> 00:02:51,960
+taken, from all the experience I have, and all the people that I've talked to, and the
+
+42
+00:02:51,960 --> 00:02:57,320
+success that I've had with SEO, and what has worked for me in these niches, and with this
+
+43
+00:02:57,320 --> 00:03:02,520
+specific business model, which is rank and rent, digital real estate.
+
+44
+00:03:02,520 --> 00:03:03,920
+All right, guys, let's get into it.
+

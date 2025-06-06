@@ -1,0 +1,721 @@
+Okay. So guys, welcome to the call. It is October 22nd, 2024. We're almost a month into
+Q4, which is going to put us at like, you know, we have like two to less than two and
+a half months, like 10 weeks left in the year, probably less than 10 weeks left in the year.
+And it's just crazy how these years are flying by these months are flying by. But anyway,
+I just saw the date really quick. Couple things real, real quick. Number one, I hope you guys
+are having as much fun and as excited about this new RankinRent engine tool as I am. I'm
+not in there every single day. I don't want to lie to you, but I am doing this multiple
+times a week. I'm, you know, blocking out time where I can go in. I can run due diligence.
+I can, you know, we've added all of our projects in there. We're testing the search volume
+tool. We're looking at our, what's it called? Our project management side. And we're doing
+everything inside of RankinRent engine. So if you guys have no idea what I'm talking
+about, you probably were not on the live that we ran a couple of weeks ago with Ryan Dalton.
+And basically in short, we now have an official tool that we can say definitively, this is
+the tool that we're going to use. This is the standard. This is the metrics we're going
+to go off of. This is going to be when we say, here's how much it needs to be in search
+volume. It's going to go off of this tool. And that is exciting because up until now,
+it's kind of been like, hey, use whatever you want. And you have to kind of figure out
+the numbers on your own, which is good and bad. But I'm excited because I've never been
+able to like endorse any tool or say this is the one because I didn't have control over
+it. Right. And so, you know, we've used SEMrush. We've used Mangools. We've used, we've talked
+about keyword planner. We've talked about, what else? There's a bunch of different ones
+that we've talked about with Ahrefs, like all kinds of different stuff. But now we have
+one RankinRentEngine.com and we are in the middle of a four to five week beta test. It
+is a paid beta test and we've gotten some really, really good feedback. We know it's
+not perfect. We weren't expecting it to be perfect. And that's why we asked you guys
+to help us. And so I know for me and my team, we're in there between all of us. We're in
+there every single day and we've already done a bunch of, we've given a bunch of feedback
+to Ryan who he's taking to the developers and we're making those adjustments. And yeah.
+So anyway, if you guys don't know what I'm talking about, you missed that, go to RankinRentEngine.com
+what I would actually encourage you to do. And I'm saying this because I had somebody
+message me, it was this morning or yesterday that said, hey, so do you recommend that I
+use SEMrush? And I said, no, that's not the case at all. I recommend that you use RankinRentEngine.
+And so I want to drop this live that we did. Let me see if I can find it really quick.
+Hold on. Tool Ryan Dalton. Check out this live that I did with Ryan Dalton. And from
+this, hold on. Okay. Pause that. From this guys, you can go, what's up Nicholas John,
+man. Okay. You guys want to check that out. And if you are somebody that wants to be part
+of the paid beta, you can use the following code. I'll drop that in as well. Here we go.
+I think it's Ignition24 and it's like a 20% off discount for the first couple of months.
+But I am stoked about the tool. Just because it does all the stuff that I was, I had like
+all kinds of tools. I had Google Sheets. We had Pipe Drive. We had a custom tool that
+our software guy built for us. We were using, at one point using Asana. We were also using,
+there's another one. I can't even remember what it's called. I mean, we had like five,
+six, seven different tools that we were checking out, trying with Google Drive, this, that,
+the rest. Now we have one place. We have our team members. We can assign tasks. We can
+keep track. We can see what we need to do. And it's pretty dang cool. You can see your projects.
+It saves all your due diligence. If nothing else, the thing that I love the most, guys,
+is that it's saving me a ton of time on the due diligence. So anyway, guys,
+if you don't know what I'm talking about, then check out that live. Use that code if you're
+interested. If not, we're going to be doing an official launch the first or second week
+of November, but it is going to be full price. So if you're interested, I would check that out
+as soon as possible. Okay. Last two things, guys, really, really quick. I made this post
+inside of the art of digital real estate, our free group. And I did that because I didn't want
+to confuse anyone. I wanted to wait and explain this to you guys. But guys, if you do not already,
+hold on one second. Let me get rid of these stupid notifications. If you do not already,
+hold on, hold on. Give me one second.
+Okay. If you guys have not already seen that post, me and Francesca and our agency are in the process
+of really trying to scale. And we are looking for people who have websites, projects that are
+ranking, that are producing leads, but that do not have clients yet. Maybe you guys have built them
+and you've tried to get a client. You haven't been able to. They're getting leads, whatever the case
+is. And you want to turn those into cash because you now, first and foremost, if you, I encourage
+you to keep your assets, right? Because an asset is something that's going to pay you again and
+again and again. And if all you need is a renter, I want you to keep trying to get them in. I don't
+want you guys to do this, to hook me up. I'm talking about those of you that may have a
+website that you've tried to sell it. You can't sell it, whatever the case is, or maybe you need
+some quick cash. I want you to message Francesca, let her know. Now this needs to be a website that
+is consistently producing leads that does not have a business owner. Okay. It's ranking and
+producing leads, not with ads, because guys, I can go set up my own. We have our own projects
+running with ads. I'm talking about projects that are already ranking that do not have clients that
+you want to potentially turn into cash. And by the way, we are going to make an offer to you. If we
+look at it, it looks good. We'll make an offer to you. And we're going to make a fair offer, right?
+If you don't have a client, it's not going to be worth near what it's going to be worth with a
+client. But I don't want your website as a client because I can go find a client, right? That's what
+I do. It's not that difficult. But if you are somebody that has a project that is ranking,
+has leads coming in, then message Francesca if you're interested in possibly offloading that.
+Okay. Last thing I want to mention, guys, is we are in the process of outlining version 3.0 of our
+training. So this will be the third time that we've actually shot the training. We're outlining
+right now, looking to shoot it and finalize it in quarter one of next year. So don't get too,
+I don't want everyone to ask me every five seconds when it's going to be done.
+Where there's a few things that we're testing, there's a few things that we're making sure,
+like for example, we are actually trying a new strategy, a new kind of wrinkle to our ads set up
+and our ads process, which we are now in the week, probably six of testing. And we're probably going
+to be doing it for three, three, four more weeks. That's going to be something that we include in
+version 3.0. I'm bringing this up because if you guys have things, feedback, suggestions,
+please DM me and fix it Felix on a group message and let us know. But we like, I'm not going to
+sit here and pretend like it's perfect. I know it's not perfect. There's things that have changed.
+There's things that I'm doing differently that I wasn't doing. We understand that there's a
+few things that may be a little bit confusing that we didn't realize. So rather than making like
+a post that says, oh, I don't understand this, this and this, just message us and we're going
+to add that to the outline. It is okay if you guys ask questions, but we would just appreciate
+the feedback and just know that we're working on it. We hear your feedback. We're excited to make
+the version 3.0 and there's also going to be a 4.0 and a 5.0 and probably a 10.0 because we're
+never going to be done with this business because I'm in this business just like you guys are in
+this business. Okay. That said guys, let's go into the call today. Let's talk about taxes. Let's
+talk about how to save money. Let's talk about how to keep as much money as possible that we're
+actually making. So I want to give you a little context. My buddy, Cale Goodman is going to be
+joining me here in about two minutes. Cale is a guy I met back in 2016. Ironically, I met Cale
+right when I started my agency, right when I started doing my own ranking, right? And this
+is at the point where I was just trying to get clients and I didn't understand what industries
+to go into, what a good city looked like, what a good niche looked like. And I was literally in
+the process of reaching out to all my buddies. Hey, do you know anybody that owns a business?
+Do you know anybody that owns a business? And I got introduced to Cale Goodman. We went and actually
+had sushi with another buddy of mine and he owns this amazing company called Easier Accounting.
+Now, I didn't realize at the time this probably wasn't the best industry to generate leads doing
+the method that we use, the rank and rent method. But you know what? I was out there just making
+offers, trying to get money coming in the door. So we met for lunch. He said, hey, come by the office.
+I went to the office and I sat in front of him and three of his, sorry, two partners, so three
+total people across from me. And I pitched them on this idea of doing rank and rent,
+building a website, ranking it and sending them leads. And when I walked out of that meeting,
+I walked out with a thousand dollar check and he shook my hand and he put his faith in me,
+said, go get me some leads. Now, I didn't do a flat fee deal. I did like a paper lead, whatever.
+And to be very honest, I got him a few leads and I knew it wasn't going to work. He knew
+it wasn't going to work. He was cool about it. He gave me a chance and I didn't know that that
+wasn't the greatest. Now, funny enough, I actually generated leads. I had a website called like
+reddesertaccounting.com, something like that. And leads actually came in. The issue was they
+weren't the type of leads that he was looking for because he has a very specific type of person
+he wants to work with and that he does the best with. And so it wasn't the best use of
+the rank and rent model. However, that's the first thing. A couple of years later, that was 2016,
+2017 guys, or sorry, end of 2016. Many of you guys know I went and tried to start a software company.
+I thought I was too cool for school. I thought I was too cool for the rank and rent model. I
+went and tried to start a software company, which I failed miserably at. After that was done,
+end of 2017, July, end of July, I started getting into SEO. I needed to pay the bills. I needed to
+pay the bills. I was trying to get money coming in and I needed SEO money because I needed as
+much as possible. I needed to keep, you know, those high margin deals. Well, a few months after,
+maybe six months after I got really heavy into that SEO, you know, aspect pitching deals and
+everything, I had a guy that I was partnering with on this SEO stuff. And I said to him, I said,
+hey, I know these guys, let's go meet with them. It's going to be tough. You know, the SEO in this
+space is difficult. And there we were, what is a year and a half later, sitting at the same table,
+this time pitching an SEO deal. And I will be, I'm happy to tell you guys, I walked out of that deal
+with a $4,000 per month retainer doing their SEO. And we did that for about six months, I believe.
+And then this guy, Cale called me and he's like, dude, I'm doing the math here. I'm thinking I'm
+just hiring somebody because I'm paying you guys like 4,000 bucks a month. So he's like, I just
+want to let you know, you guys have been great. Said, no problem, man. I totally get it. Obviously,
+it killed me to hear that, but I was like, whatever. And funny enough, he ended up taking my
+partner. My partner called me. He's like, dude, I need something that's very, that's like more stable.
+He's like, I think I'm going to apply for this job. So they ended up basically pulling him out
+of my hand and hiring him for that retainer plus a little bit of money. And that was it.
+We've maintained a great relationship over the years and he's just a super cool dude. I'm excited
+for you guys to actually get to know him, get some tips, get some tips and tricks, some strategies
+from him. And I want to say one thing. What I've learned about accounting is this can either make
+you or break you. I was sitting with a guy that's worth over a hundred million dollars and he said
+to me repeatedly, he said, it's not about what you make. It's about what you can keep. The second
+thing my dad always, something my dad always used to tell me is he said, there's two things that you
+do not want to be cheap about. And this is somebody taught him this. It's your attorney
+and it's your accountant because you never want to scrimp on that. And so guys, from the day that I
+started making money on my own, I've been paying professionals. I've never tried to do attorney
+work on my own. I've always paid someone to start a set up my businesses, whatever. And I've always
+paid an accountant to keep my books. I've spent, you know, heaven knows how much money on it, but
+I know I've made five, 10 X what I've spent. So I'm excited. I'm going to be Kaelin right now.
+And guys, the very last thing I'll say, if I heard somebody say this a few years back and it really
+resonated with me, if you want to make professional money, you need to treat this business professionally.
+The reason some of you guys are making side hustle money is because you're treating this
+like a side hustle. The reason I make professional money doing this is because I treat this
+professionally. I don't mess around with this. This is my business. This is my baby. I don't,
+I'm not freaking doing this for my mom's basement. And even if I was, I'm treating this as if I'm
+sitting at a skyscraper in a corner office. If you want to make professional money,
+treat this professionally. And this is a way that you can do that. So let me bring Kaelin
+really quick and we will get right into this call. One second. Let me see where he's at.
+Hold on. There we go.
+All right. Let's see if these guys can hear me. Kael, let me know if you can hear me, bro.
+Got double Kael. I think it's Kason coming on with him.
+Hold on. One sec. Oh, there he is. What's up, bro?
+Dude, we're trying out something new today. We got the, like, the vibe board up over here
+so we can share some stuff with you guys over there. We got super cool stuff for everybody
+today and we're excited to be here. Amazing. Kason, what's up, bro? How are you?
+I'm good, dude. Are you guys trying to join from another link as well? It says something's
+connecting the audio. Yeah. Yeah. Oh, okay. Cool. I'll grab it. Yeah. No, no, no. You're good. You're
+good. I just want to make sure there wasn't somebody else. So, Kael, what's up, bro? How
+you doing? I'm doing great, man. Thanks for having me on today. For sure, man. I'm stoked
+about this. I was just kind of giving a little preface introduction and told everyone that when
+I first started doing this business, I came in and I was pitching you and I think it was JD
+and Trevor. And yeah, you had faith in me. You gave me a chance, which I appreciated. And then
+we did an SEO deal together and you stole my partner, Corey, which is cool.
+That was cool. By the way, you just muted yourself on accident. Hold on.
+Yeah, just unmute yourself. Okay. There you go. I can hear you now. You're good. You're good.
+Okay. Oh, you have that one. Okay. So yeah, just me, one of them. And let me know. You can hear me,
+right? No, we're good. We can hear you just fine. Do you hear an echo? Yeah, I'm here to echo.
+You're good. You're good. Take care of it. And then we'll go through. So guys, real quick,
+while they're getting that stuff set up, I want you guys, if you have questions related to taxes
+and accounting related to this business, you guys can start dropping them in the comments.
+We'll hit those at the end. Kael, you still got me? Oh, shit. I can't hear you now, bro.
+Dude. There we go. I could see myself twice. I can see myself on the, but I can't hear an
+echo anymore. So I think we're good there. Beautiful. Can you hear me? Yeah, we're good,
+but no echo. So we're good. Sweet, dude. So yeah, that's dope, dude. So let's start off by just
+doing like an intro, how the hell you got here into this space. Then I know you guys got some
+stuff you want to share. I've also got some things that are interesting for me to kind of just throw
+out there, but yeah, let's just kind of, let's start rolling. All of it, man. So to give you a
+little background. Well, first of all, uh, me and Nick, you know, we, we talked for, I don't know,
+dude months at the gym. That's where I first met you is at the gym. And then you were kind of like,
+dude, I want to come in and show you some stuff. Right. And then he built a kind of a competing
+company that did generate us leads. What wasn't it? It was just a competing company on our,
+on a Google. Anyway, the whole thing worked is all I was going to say. And so it's kind of cool
+to see years later, how you spun this up. You're teaching other people how to do it. You're getting
+people results. And I really like it because it's a business model where people can get out and they
+can make money. Anybody's got a little hustle to them and anyone's got like, you know, some,
+some charisma about them. Like they can get out and find these deals all day long with people,
+you know? And so, um, so I really like it because you can instantly be what they call open for
+business, which is a tax term. I want to talk about with these guys today as well, which is huge to
+open up a ton of tax savings, no matter what happens with business. And so, um, so that's kind
+of a really cool thing that I like about your business model as well as like, literally you
+can get people instantly open for business by IRS terms to help them really keep a ton of money in
+the building phases. And so, uh, but, uh, but to give a little background, dude, so I, um, I,
+so I actually came from a household growing up where all we did was fight about money in our
+house, right? My parents were like constantly battling because my dad was a self-employed
+blue collar contractor, he did siding, rain gutters, you know, solve a patient. He's just a,
+just a contractor guy, but he was an independent guy. He had a crew, um, and he never understood
+the money side of business and he never wanted to prioritize it. Um, so all I heard about my entire
+household, my whole, my whole upbringing was, you know, this fight about the IRS, right? And so my
+mom, uh, and dad were constantly fighting about money. And eventually after years and years and
+years of them always fighting about this IRS, I didn't know what it was. I'm just a kid, right?
+But as I got older, I started understanding more. And then the IRS finally, after a while, they
+came in and started taking things, right? So, um, they, they literally came in and leaned my dad's
+house. Um, they levy did his bank account. So I remember I helped him finish a job up in Salt Lake
+City. Um, just as a young kid, I think I was like 13 or something working on a big apartment complex
+up there with him. He was so excited to come put this big check in the bank, pay all his guys,
+pay some money to the IRS because they'd been on his back before the second he put that money in
+the bank account before he could use any of it. Boom, levy took it all out. He's like some $40,000
+check, you know? And so now they're levy his bank accounts. They're leaning his home. My mom goes
+and gets a job as a grocery, you know, a checker at Albertsons here in town. And they end up
+garnishing your paychecks after like a month or two of working there. And so now, now they just
+really squoze my parents to where like literally my dad had to just work for cash under the table,
+you know? So in my mind, I was like, why would anybody want to be a business owner? I don't
+ever want to do that. Like, heck no. And so, um, but I always wanted to make money. I always want
+to have a great, great life. I always wanted to have financial abundance. And so, you know,
+and I was just a hustler at heart. And so, uh, one of the best things that ever happened to me
+is I ended up getting recruited as a sales guy by a guy that owned a tax and accounting firm to come
+and do business development and sales with his entire, uh, accounting company. And so I got
+really good at that. I became his top guy. I really, because of my upbringing, really threw
+myself into it. And so I spent more time with the CPAs than I did the other sales guys, constantly
+just trying to learn as much as I possibly could, because I finally understood like, wow, the IRS
+didn't take everything from us. My dad just didn't understand it. He didn't want to put the
+effort into getting the knowledge and creating the systems and the habits around the money side of
+business, the tax side of business in order to really become successful. And so that gave me the
+courage to start my own business. And then it gave me the courage to start my own accounting firm
+and partner with some really great CPAs. And so here we are over 15 years later, and we've got
+an awesome accounting firm. We got multiple CPAs and EAs and accountants with masters
+that are in here serving our clients. And so our whole thing is like, Hey, we want to serve
+business owners the way they need to be served, right? Cause anybody can do it. My dad did where
+they went down, they just had a CPA and they brought them all their stuff every year and they
+guessed. And then they, and then they, the accountants really just doing what the business
+owner brings them. And then they ended up getting behind the IRS and now they're overwhelmed by it.
+So they ignore it and all these problems just, you know, start to compound, you know? And so
+that's basically what we try to avoid. And so even though our company has evolved and we've got
+companies that are 20, 30, 40, 50 million dollar companies that we do high level tax planning for,
+I have always stayed very passionate about helping people kind of in that startup mode. And they're,
+they're really just, you know, doing their first side hustle or they're, they're just throwing
+themselves into their first business. Cause I know that all the magic happens by helping them build
+the foundation correctly in the beginning stages. Because what I've seen, even with successful
+business owners is five, six, seven years in, they realize like, holy crap, man, I made
+a ton of mistakes. I didn't know I shouldn't have brought in a partner and we did an S corp together.
+I didn't know I should have, you know, had an LLC and just stayed a partnership there and then
+created an S corp later individually. I didn't know C corporations were a thing and that there's
+tax advantages to that once I hit certain levels and I have certain goals. And so, you know, and
+then what happens is they have to redo it. And so, and that's what, that's what we like to do is
+like really help entrepreneurs, like get the information they need, inspire them to start
+creating the right habits, tax wise, get the right foundation laid, you know, and, and that way as
+they scale, you know, cause everybody wants to scale, everybody wants to become really scalable.
+And it's like, they always focus on sales and marketing, you know, and then they focus on,
+I don't know why it's doing that. They focus on sales and marketing and then they focus on
+operations and then the money's part always comes last. And so we like to inspire people like,
+Hey, do it all right now. Like get the foundation laid so you can focus on those things and not
+scaling your money doesn't become an interruption of your business growth, you know, later when you
+are trying to, you know, when you are doing great numbers, now it's super costly to redo everything
+later on. So, so anyway, that's kind of a background as well as like what I want to talk about with,
+with your community today is like really laying that foundation properly.
+Okay, bro. And yeah, what I said right before you hopped on is I heard somebody say this a couple
+years ago, they said, you know, a lot of people that do side hustles, they get frustrated because
+they're just making like a little bit of money. And it's like, if you want to make professional
+money, you need to treat this professionally. And so a lot of times we get into this, we treat it
+like with something we're doing out of our mom's basement. And even if you are literally in your
+mom's basement, or something equivalent, you could still treat this like you're sitting at the, you
+know, at Kale's office at a corner office, and then this really nice building. But this is one
+of those things where you need to have your, your, your, what is it, your I's dotted your T's crossed.
+And so fortunately, my dad was always, he told me this, he said, never be cheap on your accountant
+or your attorney. And so even when I was barely making money, like when I first started doing
+business, I always like I set up my first business, I had it done with a professional,
+like I never was. He always put that in my head. He's always, you're the you know, are you going
+to lose the most money is like, I'm like, where he's like doing the turbo tax and the QuickBooks.
+And so I never even questioned it because he ingrained it. But I know that that's not how
+everybody grew up. I know a lot of my friends grew up. It's like, Dad, you know, he was a school
+teacher. And so he just went on the turbo tax and it was 200 bucks. Like, no, you just lost money
+because you're an idiot. So anyway, that said, dude, I want to give you the floor to do some
+training on what you want to talk about ways that people can save money in 2024. And then if there's
+time left, I've got questions on other people got questions. But yeah, let's, let's get
+I would definitely love to open up some q&a. And I know Casey will jump in here as well. Because
+I mean, Casey's on the front lines all the time, man. He's always staying up to date on
+cool deductions and tax strategies that are counted as the CPAs are, are, you know,
+implementing for our clients. And so but but yeah, dude, to get to get kind of started. I mean,
+that is that is one thing I want to start off by saying, I kind of iterated it there in the intro
+was like, really, we want to we want to get to a point of like financial security and abundance
+as quickly as possible. And we and we want to scale to that to that level as soon as possible.
+And so obviously, one thing I've realized with entrepreneurs is, do they they don't ever just
+want one stream of income, they want multiple streams of income. And so what happens is,
+they they end up creating all these different buckets of income. And then they sometimes
+end up partnering on things like, for example, your business model is a beautiful business model.
+There might be opportunities in the marketplace that come up like, hey, maybe they're sending
+you more business and they've created a new stream of income, or maybe they end up building
+a team where they're out there helping a bunch of other people in their community do what you're
+doing. And you know, I mean, so it's like, there's all these different streams of income entrepreneurs
+do once they start making more and more money, like, how can I scale? How can I scale? And so
+let me see if I can bring up this one slide, I want to kind of do a little training on
+Let me give you co host, then you want to share your screen? Are you going to show it on that
+screen over there? Let me see how it looks real quick on on just the laptop. Okay, cool,
+because either way, I'm not used to the whiteboard thing, man. I'm like,
+this is so interesting, you know, but I want to learn it.
+It's all good, man. And I'm gonna do this. Hold on, let me see if I can give you like
+spotlight so that it shows just your face alone. Yeah. Okay, it's spotlighting the whiteboard.
+But I'm getting, I'm getting that like 1000 different tiles showing into eternity, you know,
+let me try some here. Because I want to walk people through kind of a
+current. Let's go to your slide. Yeah, I want to show people a current kind of how I'm personally
+structured. And then kind of give them a good I want I want people to understand kind of now and
+the future and why it's so beneficial for them to get all structured properly, you know, so
+can you see that slide? Yeah, that's that's I can see it. Guys, let me know in the comments,
+you can see it. I can see it pretty well. So I think I think it's pretty solid. Yeah.
+Okay, so I'll walk you through some of this stuff. This is this is important stuff. I
+really hit home, I've went and talked to some groups before. And you know, we spend a lot of
+time on this, because, you know, really, the first understanding that we have to create as we are
+starting a business is like, there's there's different kinds of income that the IRS looks
+at, right? And one of them is, you know, active income, which is all your business activities,
+and then business owners, they either want to go create multiple streams of income, because they
+get good at business, or they want to start diversifying and building passive streams of
+incomes, you know, which is buying assets and, you know, things that are taxed at capital gains
+rates. And so we have to we have to have an understanding of like, what, what am I making?
+What am I doing right now? It's like, okay, well, you're doing active income with your business
+model, Nick, like this, what they're doing, they're doing active income. But as you if you want to
+become scalable, you really want to create security, you know, one day, you're going to
+have to start investing. Well, when you start buying stocks that you hold for over a year,
+you start buying assets that you hold for over a year, like rental properties or whatever,
+the appreciation on those gains is taxed at passive income. Well, we don't want that to pass
+through to us as active income, you know, because then we're going to get taxed at earned income
+rates, you know, which can be, you know, well, it can be 15% up to 37%, right? Plus your stake
+taxes. And, you know, and then there's a lot of double taxation, we got to look out for on the
+active income streams as well. Like right now, when you're not making any money, or you're just
+starting to make a little bit, you don't obviously start paying taxes until you start becoming
+profitable. Okay, once you become profitable, if you're just set up as a single member LLC,
+or a sole proprietorship, which is just doing business in your name, you know, the income's
+all passing through to you directly, and you're going to get taxed your earned income rates,
+which is the 15 to 30%, plus your state taxes, if you're in a state where there's state taxes,
+and then you're going to also pay the self-employment taxes. And the self-employment
+taxes are basically the, the social security for both the employee and the employer. Well,
+they're saying, well, hey, you're self-employed, it's all flowing through to you. So you need to
+pay all of it. So it ends up being 15.3%. Right? So, and so, so people start doing the math,
+and they're like, man, like, I'm paying 40, 45, 50% in taxes on this income that's flowing
+through to me. Then they're like, I started this as a side hustle, so I could quit my job. They're
+like, man, I'm never gonna be able to quit my job when I'm, you know, literally having to give
+half of it back to the, to the government, you know? And so one of the biggest tax savings that
+we can create for people is helping them understand where to start and when the right time is to
+switch to an S corporation. Okay? But we don't want people to do it incorrectly. And so I built
+this little diagram to give people kind of an idea. And, and this is a little outdated. Some of these
+companies that have sold, like I'm not a part of RBO anymore. I've sold that. I sold you tax over
+here. I am still owner of these other companies. And then, you know, I have some other things like
+coffee shops now that me and my wife are doing it. So this is outdated. This isn't, this isn't my
+exact situation anymore. I need to jump in and update it one of these days. But if you look at,
+if you look at what we got going on right in the center, it says KG3 Corp. KG3 Corp is an S
+corporation. All these other entities are either LLCs or LLC partnerships. Down here, my rental
+properties at the bottom, those are all holding LLC companies. Okay? So some are flowing directly
+through me. Some are flowing directly to my corporation, which is then where I pay myself.
+And so a lot of people are asking question when they get started, like, do I even need to set up
+an LLC? Right? And I always tell people like, absolutely do. Like there is no reason why you
+shouldn't set up an LLC. An LLC doesn't really do a whole lot to save you money on taxes because
+it's taxed just like a sole proprietorship is. Okay? But a sole proprietorship, the money flows
+directly through you. Same with an LLC. And then there's also the S corporation. Okay? And so
+the S corporation is taxed as a corporation. The benefit of that is you don't have to pay the 15.3%
+self-employment taxes, but there's some rules. Like, first of all, you have to pay yourself a
+fair and reasonable salary. And what the IRS says is they say it's fair and reasonable. That's all
+they put in there. They don't give any stipulations or guidance on it. They say you just have to pay
+yourself a fair and reasonable salary for your duties of the job. So somebody could be, let's just
+give an example. Let's say you start this business and you decide, hey, I want to set up as an LLC.
+And here's the benefit of setting up as an LLC. First of all, you get to create separation between
+you and the business. Okay? So now we can establish a lot of really good habits, right? Like we can,
+you know, separate the business transactions from the personal transactions. We go down to our bank,
+we take our EIN, we set up the bank account numbers, totally separate from us. There's liability
+protection. If anyone tries to sue the business, they can't sue me as long as I don't do any
+commingling. If they try to sue me, they can't sue the business. So I've got separation between me
+and the business. So there's all these benefits. I tell people, absolutely, you should always set
+up an LLC. There's very rare situations that you should not set up an LLC, right? And so I always
+tell people, LLC is great, okay? And they're usually super affordable. Some states, they have
+high state fees, but most of the time they're super affordable. It's worth setting up just
+to establish the right habits and the separation for the legalities, okay? But we're still being
+taxed at earned income rates and we're still being taxed like a sole proprietorship. We're still
+liable to pay those self-employment taxes, but that doesn't matter until we're profitable,
+okay? Well, what pass-through means, Nick, is pass-through means the deduction, the income
+flows through directly to you and that's where you get taxed, but then so do all the deductions.
+So we like to teach people like, hey, set up an LLC, create as many tax deductions as possible.
+We don't want to become super profitable until we absolutely start outweighing all of the
+deductions that we possibly can. We want to pay as little as possible as far as taxes go.
+Anyway, so we like to set up the LLC to start, okay? And then we like to educate people. When
+is the right time to switch to an S corporation? Well, because an S corporation does have a little
+bit higher cost tax return and it has some compliance, things like setting up some payroll
+and there's a little payroll cost to pay yourself a fair and reasonable salary to get out of those
+self-employment taxes. We like to tell people like, hey man, as soon as you start outweighing
+all your deductions and you start getting to the point where you're making $20,000 a year profit,
+it's really beneficial to start looking at switching to an S corporation. But there's a
+lot of mistakes that happen along the way when people go to CPAs or attorneys to do this because
+a lot of times CPAs and attorneys, they're just looking at it as a tax law. They'll tell you to
+switch too soon or they'll tell you to switch too late because they're just looking at it from
+a taxation point. And so they're not looking at it like from a business owner perspective.
+And so a business owner perspective, we want to have sometimes multiple structures created to
+create the best tax savings opportunity and get out of the self-employment taxes, maximize as many
+deductions as we possibly can. So to break it down in kind of simple math, let's just say,
+easy for math, you go start the side hustle, you're a couple of years in, boom, you're making
+$100,000 a year profit. Well, you're probably going to end up paying about, on the profit,
+just as an LLC, you're going to end up paying $35,000 to $45,000 after the self-employment taxes
+directly to the IRS. And so that's a huge tax liability people don't want. But if you switch
+at the right time to an S corporation, well, then you're eliminating the 15.3% right off the top.
+And you've created the separation between you and the business to create a lot more different
+tax strategies to reduce the taxation even more. And so I built this diagram just to break it down.
+So I keep all of my partnerships and all of my single-member LLCs,
+all, which are all the ones that have the arrows pointing to the KG3 Corp. I keep all those LLCs.
+I don't switch any of them to S corporations. And then I flow them all to my S corporation,
+which is there where I pay my, that's where I pay myself a fair and reasonable salary. And that's
+where I end up taking most of my personal tax deductions that aren't tied to all my different
+partners and all my different business ventures. And so this is the foundation we like to lay with
+entrepreneurs early on so that they can gain an understanding of like,
+okay, when is the right time to switch to an S corporation? How can I flow my money to me without
+being double-taxed? And so this is the best way to do it, depending on your situation. Some people
+are in different situations. We've had people come to us where they have disability or they have a
+high-income earning spouse, or they have a partner that's overseas and so they need a S corporation.
+So there's different situations for different people that we have to take into consideration
+that we do consult on before we do anything. But this is like a good broad diagram that we built
+just to help people kind of understand the benefits of LLCs, creating separation, maximizing deductions,
+flowing it to you personally so you don't get double-taxed to keep majority of the money that
+you're making as a business owner. So just to understand your setup is KG3 is an S Corp
+and these other entities are LLCs that flow into KG3, but KG3 is what actually pays you.
+Yeah, exactly. And I know I like to paint this future picture, Nick, just to give people
+understanding of like, okay, like this seems like it could be a complex thing, but people are like,
+where can I start now? Do I need an LLC right now? And so I like to paint this picture
+for people because I don't want to see them make the mistakes that a lot of business owners make
+later when they do get to the point where they're like, hey, I'm starting to become profitable,
+and I have a partner and they go to talk to an accountant or a CPA and the CPA is like,
+well, you're going to save 15.3% by switching to an S Corp. Well, now your partner and you have
+an S Corp together, but now you guys have joined each other together on this corporation. When you
+didn't have to do that, you could have kept your business in LLC and you could have just each set
+up your own individual S corporations. And now you guys have the independence, right? So this
+partner over here can go and build other multiple streams of income and assets that flow to him.
+And you can go and build multiple streams of income separately, but you still have your thing
+together in the LLC, but you each have your own individual S corporations. And then that's
+where you kind of fully control your tax liability. And so that's like one of the biggest mistakes I
+see for people as they scale and grow a business and create multiple streams of income is they end
+up forming their S corporation when it's time to switch to an S corporation and they keep their
+partner on it. And so that's a big thing I like to educate people on the future side of things.
+But right now, while we're just getting started, I like people to understand the benefits of just
+getting an LLC, maximizing as many deductions as possible to keep as much money as you possibly can
+and then switch to an S corporation when the time is right based on you and then doing it properly
+by keeping it S corporation solely under you and not tying yourself to any partners with that
+down the road. So I like to paint that future picture, but then I like to help people
+understand the benefits of setting up an LLC right now for the legalities and all the tax
+incentives and the separation that they can create or the, you know, incentives that they
+do create by creating that separation. So anyway, does that make sense so far?
+Yeah, no, no, no. So, and I think it's smart because you guys, once you, you know, some of
+you guys are brand new to business, first time ever. And you realize what, like, I'm sure you
+were like this kale, but once you make money, then it's like the whole world's open and you're like,
+oh, I can make money here. I can make money. And the hardest part is just not getting shiny
+penny syndrome, to be honest, but you are going to find you're going to have multiple streams of
+income. That's just inevitable. One of the questions I had, and I think you just nailed
+it just to clarify. So your suggestion would be for anybody that's new, a good first step would
+be set up an LLC slash start getting as many tax deductions as possible. That's like an amazing
+first step. Totally, totally. And honestly too, like just having that entity set up properly,
+because here's the thing, like you're going to go out and you're going to start establishing like,
+okay, so I'm in digital landlords. I'm going out to find my first client. My first client,
+he's like, Hey, I want to, I want to pay you on my, my MX every month for this deal. We've created
+it. Well, now you need a merchant account and a merchant account doesn't want to, you know,
+they don't, you know, like, you know how merchant accounts are Nick, they're pain in the ass,
+you don't want to go set up a merchant account right now in your name. And then later be like,
+Oh, I actually need a new merchant account because I want to set up an LLC because I figured out,
+I have all this liability and I want all these tax incentives. And so then they're like, Oh,
+cool. Now you need a whole new merchant account. Now you're trying to make a new, you know,
+you're trying to make your, you're trying to season another merchant account, right? And you
+have to kind of start over. And so, you know, that's just like one example of like, why not
+just set up an LLC now if it's affordable for you, right? Cause like some States are 25 bucks,
+right? It's like 25 bucks, state filing fees, set up an LLC. Now you have an EIN number. Now
+you're protected legally. Now you can go start establishing bank accounts, merchant accounts,
+contracts, agreements with your clients, like all these things under this company,
+which is totally separate from you for the liability protection. And you can start taking
+all your deductions, keeping your books totally separate from you. There is no, as long as you
+really do a good job at setting up bank accounts and keeping those expenses separate, set up a
+QuickBooks account or set up some spreadsheets. And now you're keeping everything separate from
+you. And you're establishing really, really valuable habits early on in your business to not
+only help you keep more, more money that you make, but, but really like, you know, like you're,
+you're getting it all set up properly in the beginning stages. You don't have to redo it all
+later. Cause if you set up your structure, you're flowing correctly. And then later you figure out,
+you know what, I should, I should have been a C Corp or you know what I set up on as a C Corp
+on accident. Now I need to go back and do this in LLC. Well, now you have to go redo all those
+things. You have to get new merchant accounts, new agreements, new insurance policies, new bonds. If
+you need bonds with your state, new like everything under this new entity, because everybody views an
+entity as a totally separate entity. It's, it's not you anymore. And it's not this other company
+anymore. So if you have to redo it, it's like, man, that causes a huge interruption in your
+business. So starting with an LLC is very wise because one, if you're the sole owner of the
+business and you decide to switch it to an S corporation later on, you can, or if you decide
+to switch it to a C corporation later, you can, you know, and like, and that's, and that's necessary
+at times as well. If you scale really massively and you'd be end up becoming, you know, creating
+this business venture to something very large, you can switch to a C corporation and avoid paying
+taxes on the first $10 million that you make in the sell of your business later on. But you have
+to be a C corporation for five years. And so I tell you all that just because an LLC is very
+versatile. Start now, create the habits, get the EINs, get everything set up properly. And then later,
+if it makes sense, switch it to an S corp or set up a totally separate S corp if you have partners.
+And then later, you know, if you, if you decide I'm gonna switch it to a C corp, because I want to
+sell this business one day for 20, 30, 40, $50 million, well, you want to make that first 10 million
+totally tax free, you know, so there's all these cool benefits that you can do from being an LLC
+and switching later on or just adding entities like I've done for later on as well. So if I
+ever sold, for example, easier accounting, I would, I would, I would just flow that to my,
+my S corporation, or maybe by that time, hopefully I've switched to a C corporation,
+you know, so there's just there's benefits that you can do to, to
+just from starting as an LLC and keeping it very simple, and then understanding these things as you
+grow. We have a question that is pertinent to what you just said. It said, Stephen says,
+for those just starting out, do you recommend getting the LLC in the state you live in? He said,
+Pennsylvania for me as an example, having Google or YouTube this once I get ads now for all sorts
+of states, LLC is now algorithm. So yeah, should they do it in the state that they're in?
+I want to, I want to save people a ton of money by not getting scammed. Okay.
+When you get on the, when you get into business and you set up your first LLC,
+you're going to start getting a lot of advertisements and stuff saying, Hey,
+set up in Delaware, set up in Nevada. Okay. Now there's benefits to that. Okay. However,
+they don't usually apply. Okay. The IRS is if you ever get audited, they are going to treat you
+based on where your taxable presence is, you know, so if you're in Pennsylvania and you got sold by
+somebody who says, Hey man, set up a Nevada corporation because now you don't pay state taxes.
+That is a big audit waiting to happen that you will lose because they're going to be like,
+do you have no taxable presence in Nevada? Why are you trying to say you're in Nevada?
+You know, a business paying about a taxes plus as an LLC, it all flows to you directly anyway.
+So I get probably, I don't know, a hundred people every year that are like, Oh man,
+I set up in Nevada. I'm like, okay, cool. Why? And they're like, well, because I don't pay state
+taxes. I'm like, well, that's not true. Okay. Or I talk to people in California that come just like,
+Hey, I need some help fixing stuff and I need to set up in, in my, in California.
+And they're, and I'm like, okay, why? Well, I set up in Nevada and I got audited.
+California, they're like ninjas, man. They will find you. Cause if you put anyone on payroll
+in Pennsylvania or even yourself on payroll in Pennsylvania, but your entities in Nevada,
+there's like all these things that will trigger them to investigate that. Right. And so your
+taxable presence is where you're at because you're the business. And then as the organization grows
+and say, you remove yourself from the business and you, for example, wanted to move to Nevada
+and become a resident of Nevada or Puerto Rico or Florida or wherever there's no freaking state
+taxes. Well, then you can set up your S corporation as a consulting company, consulting your other
+entities and flow money to you without paying state taxes. Right. But you got to go live there.
+Right. Because now you're a consultant out of Florida, you're a consultant out of Nevada,
+you know, and you're, those are the states that you're actually in where your taxable presence
+is. And so I hate when people fall for that scam. Now there is anonymity. So in Delaware, Nevada,
+Wyoming, there is anonymity saying, well, sorry, can you, sorry. Oh, yeah. Okay. Sorry. My screen
+changed. Okay. And so I just have you on this conversation. Oh, just me and you. No, everyone
+can see you, but I just changed. You're the spotlight and I'll change it back when you're
+done talking. Okay. Okay. So basically, and so basically to save you a ton of money,
+I always tell people, like, dude, just set up in your state. That's going to save you a ton of
+money. Not it's going to, you know, avoid a ton of headaches later down the road. There are very
+cool strategies later that you can create by setting up entities in other states, but the whole
+anonymity laws are great because, you know, like it shields you. Like if somebody was going to sue
+you, like, let's just say you had a crazy ex wife. It's like, I know he's got like all these assets
+he's bought with this new business. He started in digital landlords. And like, let's say you wanted
+to hide a piece of land from a crazy ex spouse or, you know, or an ex business partner that's always
+trying to sue you or whatever, right? Like you could go set that up as just a holding LLC that
+owns land in Delaware or owns land or Wyoming or Delaware LLC that owns land in these other states,
+but it's just shielding you from them, but you got to set them up properly. And so most people,
+even when they set up a Nevada or Delaware corporation, they don't even set them up properly.
+They end up setting them up and then they list themselves as an officer. So now they're public
+information anyway, you know, so you have to actually go set, like hire an attorney to set
+up the entity act as the officers of the corporation or the entity to totally shield you from the entity
+and then all of your ownership is basically created in agreements with that attorney or
+that law firm in order to fully shield it from you. So when you get to the point of where you're
+really wealthy and you're starting to set up trusts and land trusts, and you want to hide assets and
+really keep your name off of them, then you talk about like Nevada, Delaware, Wyoming entities,
+but when you're just starting a business, there's a money trail always leading back to you. Anyway,
+there's no, there's no point in you setting up out of state. So I know that gets a little bit long,
+but there is, you know, a lot of that I want to help people avoid by not getting scammed because
+I know there's companies out of Nevada and stuff that will call and sell you Nevada corporation
+and they'll charge you five, six, $7,000 for this corporate package, making it sound like you're
+never going to pay state taxes and you're going to have all these privacy laws and then they don't
+even set them up properly for the privacy laws. And so typically 99% of the time you don't want
+to set up out of your own state. Makes sense. Okay. So here's what I want to do really quick
+in our last few minutes. Because I know some people might hop off right at the,
+at the hour mark, whatever, but I have a couple of questions that people did ask that I think
+are really interesting that we should answer. But if like, I would suggest guys, this is what I did
+when I first got started is like, you got to talk to somebody, figure out what your situation is,
+what the best, you know, like way forward is whatever. So what's the best way that somebody
+didn't want to reach out and like, for example, we had a question just barely asking about a
+specific situation. How can people get in contact with you if they want to call and just kind of
+talk through their situation? Yeah, we put together a link just for digital landlords. I'm gonna have
+case and pull this up. So you guys can scan a QR code for it right now off the other screen.
+If you want to highlight that one, Nick, but that's just, it's really just a QR link going to
+link that we built just for the digital landlords community. That way it's tagged to your community
+where we give you guys a full, a free tax assessment, because I know we're getting in,
+we're in the fourth quarter of the year, first of all. So if you guys jump on the phone with our
+team, you know, we're not going to talk about just LLCs and everything. We're going to actually talk
+about you guys, your goals. We're going to talk a little bit about the future stuff, but we're
+going to talk about all the things you can do right now this year to start saving money because you
+started this business in this year, which means we can take a ton of deductions this year for your
+home office, for your vehicle, for your business bills, for your travel, for your laptop, your
+cell phone, your cell phone bills, your utilities, like all these things that you spend money on
+personally every year anyway. We want to show you guys how you can deduct those and pass it through
+to you. Whether you're an LLC, whether you're a sole proprietorship, whether you're a corporation,
+we want to help create an assessment for you guys where we can help you understand like, wow,
+this business is really benefiting me this year because when people go spend money to start a
+business, dude, they're like, holy crap, like it takes a little time before I start making a little
+bit of money. How can I get more money to put back into the business or how can I put more money back
+in my pocket to recoup costs? Well, when you set up an LLC and you strategize, all these deductions
+pass through to you directly anyway, so we offer this free assessment where people can literally,
+we can get on our phone with our team, we can look at your lifestyle, a broad estimate of all
+your expenses that we can now make deductible, show you how we're going to pass them through,
+and literally give you kind of a broad range of like, dude, we could save you this much money this
+year and an extra tax refund money from starting this business, right? So we can show people in
+this assessment how much money they can really save. Can I jump in real quick and say, we typically
+charge $400 for this assessment. We're doing it for free just for digital landlords. So like,
+if you're on this call right now, seriously, I can't tell you how many times I've been in an event and
+pulled up the QR code and thought, I need to go talk to my business partners. So I just open up
+the window thinking of it back to it when I get back in town and coordinate with my business
+partners. Don't do that. Click on this QR code right now. If you've got friends, family members,
+or business partners that are involved with you, just put your information in. My team will reach
+out. That way it's not an afterthought or something else you forget about. Now, another thing, I have
+not made this free offer since January. And the reason for that is last time I did this,
+people screenshot it, which is great. But there was 150 people at the event and we had 300
+scheduled appointments. And so it got a little bit crazy. So again, this is for you, your friends,
+family members, and business partners that are involved. But my team knows digital landlords
+very well. They understand your business. But again, we need to get on and really assess what
+your specific situation is and what your goals are to point you in the next right direction.
+And I promise you, you're going to leave this call with better information when you got on this call.
+So we're excited to work with you and appreciate everybody's time today.
+Yeah. One thing I want to say on that is I know for me, when I was looking to get a new attorney
+to potentially set up my trust, I reached out and I think it was like $250 or $300 an hour.
+And so I did pay that just to do an initial consultation. So what these guys are offering
+is like, hey, get on a call, let's look at your situation, see where you can save some money,
+see if you should set up an LLC. And anyway, I would just recommend if you guys want to make
+professional money, as I said in the beginning, you got to treat this professionally. So this is
+just a free thing that you guys can check out and then you can just go from there. And they
+just literally just scan that with their phone and then they can put in their information.
+I think I actually shared the link with you in our chat, Nick, if you want to share it in the
+comments or something, because I don't know if I have that ability, right? And if you want,
+we can give you the link, you can email us all of them or however you want to do it. But yeah,
+the QR code is in the same place. It's just for us to grab the information so we can reach out
+and just get you on the calendar. And then at the end of the day, man, it's like, yeah, we love
+earning business. We love helping people and going ahead and doing the structures for them. We do it
+all very affordably. But at the end of the day, we really want to provide enough value to where
+if somebody even can't hire us right now, it's like, we still want to head you in the right
+direction, give you direction this year to save as much money as possible so that maybe one day
+down the road, you want to come back and consult with us a little bit more. And so it's not a high
+pressure thing is all I'm saying. It's an awesome consultation, customized around you, your goals
+for the business and show you how we can to show you how we can help you save money now
+and down the road. So so I just barely dropped a link on the in the comments and I'll try to
+include the link as well. I'll edit the live and post it there. But yeah, we'll try to like email
+this out. Let me just see one more thing. Let's just answer two questions quick and then pop off
+you can. Is that okay, Kale? And as you want, man, we'll answer any questions you have.
+Okay, so real quick, Nick, Nick, I'm gonna ask this one because he's actually in St. George.
+He went to Utah Tech and stuff. And he said, random question, is your firm well versed in handling
+1031 exchanges? I'm seeking a reputable local firm to assist me in the process.
+Yep, we can do 1031s. We do cost tags, real estates, one of one of the fields that we do,
+we do a lot of work in and very, very well. Yeah, most of our most of our clients are
+e commerce or real estate, you know, and so, yeah, we're pretty well versed in all of that. So
+made absolutely. Okay, another one quick says, I set up my own LLC in Nevada and filed. This is
+more just a comment. Nevermind. This is just stating something. What this is a question
+that says from Juan says, What about creating a trust and having all the LLC inside the trust?
+And it sounded like based on what you were saying is that's like when you get into the big money,
+it's not necessarily right off the bat. But what do you want to talk about?
+Very, very careful, because there's a lot of different ways that trust or structure,
+there's a lot of different ways that the trust can own that business. And if it's done wrong,
+you're going to wind up paying trust taxes, which is the absolute highest tax rate that there is.
+And so that's one thing where great idea to be to be thinking at that higher level.
+But do not like, please do not do that without a lot of consultation with a tax professional
+and an attorney. Okay, I hope that answered. Let's see, Matt Torres said, he said, so starting
+the business as an LLC first, then later converting to an S corp or forming an S corp separately is a
+better strategy rather than leaving it as an LLC for the long run?
+Well, I mean, it depends. Like, so for example, if you do have a business partner, or, you know,
+like, let's just say you're a personal trainer, and you're an LLC, and then you meet somebody,
+and they're like, Hey, we should build gym equipment together. And you know,
+now you have a partnership and, you know, like, it's, it's, it's best to leave them all in LLCs
+when you start involving other people. And then just forming a totally separate S corporation
+that you now are flowing the money to. So for example, if me and Nick are in business together,
+and we go create an entity together, but we have all these other things, it's, it's not wise for us
+to go switch it to an S corp. Once it becomes profitable, it's wise for us to actually just set
+up our own S corporations. And instead of flowing the money directly to us, now we float to our S
+corporation, which is then where we pay ourselves. However, staying in LLC long term, that's totally
+fine. Until if you're even if you're a single member, until you start making 30, 40, $50,000
+a year and up, if then it's wise to switch it to an S corporation, right. And so, but
+if you know, you're just entrepreneurial, and you know, I'm going to go start other companies,
+I tell people it's best to just leave it in an LLC and go form a separate S corporation,
+and start doing that flow right now. Because you already know, you're going to go create these
+other LLCs, and you'd rather them all just flow to this S corporation. So, so it really just depends
+on your goals and the situations. If you know, like, I'm not going to do anything else, this is
+it, you know, then let's just switch that LLC to an S corp. You know, no, and you don't have
+any partners in it. No sweat. You're like, hey, I know, I just want to make 15, 20 grand a month,
+I'm good with that. You know, I just, you know, I don't want to have partners, I don't want it,
+I just want to keep it super simple. Well, then we can switch it to an LLC, LLC, to an S corp,
+and you get the same tax savings, you know. And so, so it really just depends on you, your situation.
+But I hope that answers the question. It just there is somebody. Yeah, I think it just I think
+if anyone has questions that specific like that, just jump on and talk to case and talk to kale,
+they'll answer it for your situation. So it's pretty simple. The other thing, this is a side
+note that I never realized is like, down the road, if you guys want to, you know, buy real estate
+with your company or whatever qualify for certain things, when if you're LLC, or your business is
+like brand new, I mean, it's really, really difficult. So you want to get it set up now,
+get it seasoned, get however many years of tax returns, because they're going to look at a brand
+new business. And basically, you know, they're, they're not even going to consider it. So
+that's another thing that you you have to you don't even think about these things until you
+get in a situation, you're like, man, I wish I would have set that up five years ago.
+Yeah, I always tell people when you set up an LLC, and this is another whole benefit of why you
+should set them up early on, instead of waiting, is because you can you go get a DUNS number,
+you start building credit to your corporation. And like, you know, and there's a lot of misleading
+information out there, like, oh, yeah, once you set up, you know, you get corporate credit, you can
+just transfer all the debts to the you know, off you to the business, and you're not liable to pay
+them anymore. And it's like, that stuff's not true. There's, there's always like, a way it's
+going to come back on you if you try and like, just walk away from a debt or something. But
+there is a ton of benefits to corporate lines of credit, even if you are a personal guarantor,
+there's loans you can get just through the company where you're not a signer on them.
+And so and sometimes it takes a good couple years to really season an entity before
+banks or institutions will give you money through the corporation. So anyway, that's another benefit
+of starting to set up an LLC now is you can open up more lines of credit and access to capital
+through that entity by starting to establish some credit through it. Beautiful. I'll say this guys,
+and what I'll try to do, Kay, I'll try to get an email put together and send it out to everyone
+that missed this. But the thing that I like about these guys, for everyone that's watching this is
+that, you know, a lot of times you deal with accountants, or you deal with these type of
+firms, it's just like that, that old guy that's friends with your dad. And you guys are actually
+business owners that understand business and accounting. And so I think that's important,
+because I've had you know, I had an accountant for a while when I got started, he used to do my dad
+stuff on the farm and everything. And he was good, but you had to tell him, hey, what about this?
+What about this? What about this? He was an accountant, he was just like one of those purists,
+he didn't really know business, if I don't even think he was making that much money, although he
+knew the accounting, he wasn't a business owner. So that's one benefit with these guys is they're
+actually business owners that happen to know accounting very well. So anyway, we're going to
+put together an email, I did drop the link. And we will, yeah, guys, just jump on, check out what
+they can do. If anything, suggestions, if nothing else, you guys get some ideas and go from there.
+Yeah, no, we appreciate it, man.
+Beautiful. I'm sure we'll come. I'm sure we'll do another one, where we can just like maybe we can
+gather a bunch of questions and just have like, I bet we could spend an hour just on q&a, which
+could be a cool part to this. So I'll message you guys will chat and see. This has been really
+beneficial. And I actually learned quite a bit. And I've been trying to piece this stuff together
+for years. So appreciate you guys.
+Well, it was a zoom call. So I was like, trying to bounce around.
+It was good. You know, for sure. Well, don't appreciate you encasing up and on. And yeah,
+guys, you feel that out. They'll reach out schedule a call and see, you know, what you guys some
+of the next steps you guys can take if you choose to do so. So awesome. Thanks, guys.

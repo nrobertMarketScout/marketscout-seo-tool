@@ -1,0 +1,284 @@
+1
+00:00:00,000 --> 00:00:09,800
+Okay, now that we have the page title and the page description, we are going to create
+
+2
+00:00:09,800 --> 00:00:12,840
+the H1 tag, text right here.
+
+3
+00:00:12,840 --> 00:00:19,440
+It's actually pretty simple because the H1 is pretty much the page title just flipped.
+
+4
+00:00:19,440 --> 00:00:25,520
+So we're going to put the location first and then we're going to put the services.
+
+5
+00:00:25,520 --> 00:00:31,500
+So just what you put here, we put concrete contractors and concrete company.
+
+6
+00:00:31,500 --> 00:00:37,240
+So I'm literally just going to put, so I'm going to click in it and I'm going to put
+
+7
+00:00:37,240 --> 00:00:43,480
+my location, which is in my case, Queen Creek, Arizona, and then you can structure this however
+
+8
+00:00:43,480 --> 00:00:44,480
+you like.
+
+9
+00:00:44,480 --> 00:00:49,560
+I think it looks clean if you put a little line there, but you can also just go ahead
+
+10
+00:00:49,560 --> 00:00:52,600
+and just put the keywords that we used.
+
+11
+00:00:52,600 --> 00:01:00,280
+So concrete contractors.
+
+12
+00:01:00,280 --> 00:01:06,920
+This may be too long to fit, also I'm putting that, but I usually like to use the actual
+
+13
+00:01:06,920 --> 00:01:15,080
+three letters and concrete company and then click out of it.
+
+14
+00:01:15,080 --> 00:01:17,760
+Let's see what it looks like, okay.
+
+15
+00:01:17,760 --> 00:01:24,080
+I do like it to be a little more bold and then just double check how it looks like from
+
+16
+00:01:24,080 --> 00:01:25,880
+a phone.
+
+17
+00:01:25,880 --> 00:01:27,720
+Yeah, that's fine.
+
+18
+00:01:27,720 --> 00:01:32,080
+Keep in mind, I know this sounds like silly, but we're only doing this because Google is
+
+19
+00:01:32,080 --> 00:01:37,640
+going to crawl our website and we're just doing the on-page SEO.
+
+20
+00:01:37,640 --> 00:01:42,960
+We're not doing this to make it look, because obviously this is the same thing.
+
+21
+00:01:43,160 --> 00:01:44,160
+Oops.
+
+22
+00:01:44,160 --> 00:01:47,240
+And then make sure you don't put concrete twice.
+
+23
+00:01:50,240 --> 00:01:52,240
+Okay, let's delete that out.
+
+24
+00:01:55,240 --> 00:01:57,240
+Perfect, it should look even better now.
+
+25
+00:02:00,240 --> 00:02:03,040
+Okay, concrete contractors and concrete company.
+
+26
+00:02:03,040 --> 00:02:06,160
+You may ask, well, can I just put concrete contractors and company?
+
+27
+00:02:06,160 --> 00:02:10,640
+No, because the keyword is concrete company, not just company.
+
+28
+00:02:11,320 --> 00:02:14,320
+You might as well just take out concrete company and just leave concrete contractors if it's
+
+29
+00:02:14,320 --> 00:02:16,320
+really bugging you.
+
+30
+00:02:16,320 --> 00:02:19,320
+Okay, next one, stamped concrete.
+
+31
+00:02:19,320 --> 00:02:21,320
+Okay, same thing.
+
+32
+00:02:21,320 --> 00:02:23,320
+Same thing as your page title.
+
+33
+00:02:23,320 --> 00:02:27,320
+Location first, so you flip the page title.
+
+34
+00:02:30,320 --> 00:02:40,320
+Oops, stamped concrete and decorative concrete.
+
+35
+00:02:41,000 --> 00:02:43,000
+Make it a little bigger.
+
+36
+00:02:43,000 --> 00:02:44,000
+Perfect.
+
+37
+00:02:44,000 --> 00:02:45,000
+Okay, concrete driveway.
+
+38
+00:02:45,000 --> 00:02:46,000
+I don't remember.
+
+39
+00:02:46,000 --> 00:02:53,000
+I think concrete installers is what we put, okay.
+
+40
+00:02:53,000 --> 00:03:06,000
+Queen Creek, Arizona, concrete driveway, and concrete installers.
+
+41
+00:03:06,680 --> 00:03:08,680
+Make it a little bigger.
+
+42
+00:03:08,680 --> 00:03:10,680
+Perfect.
+
+43
+00:03:10,680 --> 00:03:12,680
+Concrete patio.
+
+44
+00:03:14,680 --> 00:03:26,680
+Queen Creek, Arizona, concrete patio, and concrete walkway.
+
+45
+00:03:27,360 --> 00:03:37,360
+Okay, and you're done because we're not doing the contact page.
+
+46
+00:03:37,360 --> 00:03:42,360
+We are also going to cover the meta keywords.
+
+47
+00:03:42,360 --> 00:03:46,360
+So, we used to fill this section right here.
+
+48
+00:03:46,360 --> 00:03:53,360
+We don't do it anymore on our very latest sites, but this is up to you if you want to
+
+49
+00:03:53,360 --> 00:03:54,360
+do it or not.
+
+50
+00:03:55,040 --> 00:03:59,040
+We don't think that it's going to hurt you if you put meta keywords, but we're not sure
+
+51
+00:03:59,040 --> 00:04:01,040
+that it's really doing much by adding them.
+
+52
+00:04:01,040 --> 00:04:03,040
+So, what meta keywords are, it's very simple.
+
+53
+00:04:03,040 --> 00:04:06,040
+I'm just going to show you how to do it on the home page.
+
+54
+00:04:06,040 --> 00:04:11,040
+It's pretty much you just add in keywords from your keyword list, and you separate them
+
+55
+00:04:11,040 --> 00:04:12,040
+with a comma.
+
+56
+00:04:12,040 --> 00:04:15,040
+And it will tell you right here, separate each with a comma.
+
+57
+00:04:15,040 --> 00:04:18,040
+So, it would be concrete contractors.
+
+58
+00:04:18,040 --> 00:04:21,040
+It is just a list of keywords.
+
+59
+00:04:21,720 --> 00:04:25,720
+Concrete company, stamped concrete.
+
+60
+00:04:25,720 --> 00:04:30,720
+Make sure that when you're doing this, you're not just copying and pasting it from...
+
+61
+00:04:30,720 --> 00:04:34,720
+Like, don't ever copy the description for the home page and put it in the service page.
+
+62
+00:04:34,720 --> 00:04:39,720
+Everything needs to be authentic and made fresh for each page.
+
+63
+00:04:39,720 --> 00:04:40,720
+Same with the meta keywords.
+
+64
+00:04:40,720 --> 00:04:44,720
+Even if you're using the same keywords over and over, it doesn't matter.
+
+65
+00:04:44,720 --> 00:04:46,720
+Don't ever copy and paste.
+
+66
+00:04:46,720 --> 00:04:48,720
+Flip them, you know, switch them.
+
+67
+00:04:49,400 --> 00:04:52,400
+If you're writing everything fresh, you're never going to have that issue.
+
+68
+00:04:52,400 --> 00:04:55,400
+So, just try not to do that.
+
+69
+00:04:55,400 --> 00:05:02,400
+Concrete driveway and concrete patio.
+
+70
+00:05:02,400 --> 00:05:03,400
+Okay.
+
+71
+00:05:03,400 --> 00:05:08,400
+And that is it for H1 titles and meta keywords.
+

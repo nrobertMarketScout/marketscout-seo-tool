@@ -1,0 +1,2624 @@
+1
+00:00:00,000 --> 00:00:07,560
+Okay. Beautiful. All right. Let me see if I can see the comments properly. Marcus Dugas.
+
+2
+00:00:07,560 --> 00:00:12,520
+What's going on, bro? One of our day, not quite day one, but almost day one. What's
+
+3
+00:00:12,520 --> 00:00:19,400
+up Dev Nate? What's going on? Thad. We're seeing some OGs in here. Stephanie Prather,
+
+4
+00:00:19,400 --> 00:00:26,320
+what's going on? Jackson, my friend. What's up? Says he can hear us. Aaron Vogler, Fred
+
+5
+00:00:26,400 --> 00:00:37,560
+Sommer, Steven Pease, Richard Martes, Bo Hicks. All right. I think we wait just two, three
+
+6
+00:00:37,560 --> 00:00:43,160
+minutes and then I think we're just going to get into it. But what do you think about
+
+7
+00:00:43,160 --> 00:00:47,800
+that? Does it sound good? Let's do it. That works. I also recognize a bunch of these folks.
+
+8
+00:00:48,400 --> 00:00:52,800
+You can do some OGs in here, man. Yeah, I'm seeing some names. There's Porter, by the
+
+9
+00:00:52,800 --> 00:00:59,800
+way. What's up, Porter? He's probably out working on the farm this early morning. Matt
+
+10
+00:00:59,800 --> 00:01:07,760
+Torres. Guys, this is an exciting day. Yeah, let's just get into it. Let's just get into
+
+11
+00:01:07,760 --> 00:01:13,280
+it because I want to spend as much time as possible. We have 53 minutes and I want to
+
+12
+00:01:13,280 --> 00:01:17,520
+get as much possible. So guys, welcome to the call. Actually, let me do the everyone
+
+13
+00:01:17,520 --> 00:01:23,480
+tag really quick. That's what I'll do. I'm not even going to do any housekeeping. Why
+
+14
+00:01:23,480 --> 00:01:27,400
+doesn't it not let you do everyone from your computer? Is that the dumbest thing ever?
+
+15
+00:01:27,840 --> 00:01:32,400
+Dude, it's so weird. Like I, when I do a good lot of my group, I have to like open the group
+
+16
+00:01:32,400 --> 00:01:37,560
+in a different window and then comment in there or do it from my phone. I don't know.
+
+17
+00:01:37,960 --> 00:01:44,480
+It's like Mark Zuckerberg's figured out how to look like an alien on his own, but he can't
+
+18
+00:01:44,480 --> 00:01:46,240
+figure out how to use the everyone tag.
+
+19
+00:01:46,720 --> 00:01:51,160
+Yeah, or the whole issue. You connect to Zoom, I guess, right? Like the virtual is doing
+
+20
+00:01:51,160 --> 00:01:56,600
+it natively and why is it so hard to do that?
+
+21
+00:01:56,680 --> 00:02:01,440
+It's so hard. Like why are you making it so hard, Zucks? Okay, hold on. Let me see if I
+
+22
+00:02:01,440 --> 00:02:07,960
+can get it. There we go. Okay. At everyone. Boom. By the way, I had the weirdest dreams,
+
+23
+00:02:08,000 --> 00:02:16,320
+dude. David Beckham's son was in my dream. Dude, what a weird dream I had. Oh my goodness.
+
+24
+00:02:16,320 --> 00:02:21,760
+People were stealing my stuff. So we're, we're trying to get back to reality here now that
+
+25
+00:02:21,760 --> 00:02:29,280
+I am already go. Okay. Let's see. Brayden Johnson, what's up? Raphael, what's up? Chris
+
+26
+00:02:29,280 --> 00:02:33,320
+Art, what's up? Emily Fisher, what's up? Okay. We got a crowd. Guys, welcome to the call.
+
+27
+00:02:33,320 --> 00:02:40,480
+Welcome to the live call. We have Ryan Dalton joining us again. Mr. 80, is it 87 or 86 K?
+
+28
+00:02:40,760 --> 00:02:52,320
+I float between 83 and 87. He's a float. He's a float. I love that. He is our, not basically,
+
+29
+00:02:52,320 --> 00:02:59,560
+he is our very first student ever to achieve this milestone. He has got a run rate of he's
+
+30
+00:02:59,560 --> 00:03:04,040
+going to be hitting a, he's, you've already made a million dollars in doing this business,
+
+31
+00:03:04,040 --> 00:03:09,600
+but now we're at big boy numbers, which is a million dollars per year as our run rate
+
+32
+00:03:09,600 --> 00:03:14,800
+and it's only climbing. So anyway, congrats to you, bro. Yeah, man. Thanks. Yeah. Homegrown
+
+33
+00:03:14,800 --> 00:03:20,680
+in digital landlords and art of reselling. I love it, dude. I love it. So, okay, guys,
+
+34
+00:03:20,680 --> 00:03:24,880
+here's what we're going to do. Jason already said he's stoked for this. Juan Martinez,
+
+35
+00:03:24,880 --> 00:03:29,360
+another day one. I'm loving some of these OGs. They're, I think they, they're excited
+
+36
+00:03:29,360 --> 00:03:34,400
+as well because they've been hobnobbing different stuff together. So here's what we're going
+
+37
+00:03:34,400 --> 00:03:44,320
+to do. We, Ryan has been working on something for about 15 months. Is that about right?
+
+38
+00:03:44,320 --> 00:03:52,960
+Yeah. And I'm going to let him just share five minutes of the story behind it. And then
+
+39
+00:03:53,040 --> 00:03:58,320
+literally this entire, what I'm going to have him do is share his screen and I'm going to have him
+
+40
+00:03:58,320 --> 00:04:04,880
+show you guys what he has built and how seamless this is. And then at the end of this call,
+
+41
+00:04:04,880 --> 00:04:09,520
+we are going to be offering to a certain number of people, we're going to be offering a beta,
+
+42
+00:04:10,560 --> 00:04:18,320
+we're going to be taking on beta students. We've already started doing this with a select few,
+
+43
+00:04:18,320 --> 00:04:22,960
+but we're going to be taking on some beta students. So at any point, if you, if this
+
+44
+00:04:22,960 --> 00:04:28,800
+looks interesting to you, stick around to the end, because this would be the time to test this out.
+
+45
+00:04:30,800 --> 00:04:34,720
+What do we have? Like five people that have just, for a few days, we haven't really had
+
+46
+00:04:34,720 --> 00:04:40,400
+many issues at all. So when we say beta, basically you're just getting a deal at this point.
+
+47
+00:04:40,400 --> 00:04:45,600
+Yeah, you're basically getting a deal. I mean, it's not, it's not like, see, beta will sometimes
+
+48
+00:04:45,600 --> 00:04:50,800
+be used like incomplete, but that's not the case. Like it's very complete. You're, you're just like
+
+49
+00:04:50,800 --> 00:04:57,040
+one of the first users to know what you think. Now keep in mind, I will say this, I'll say this at
+
+50
+00:04:57,040 --> 00:05:00,880
+the end too, because we'll, we'll drop a link or whatever for the people that want to do beta.
+
+51
+00:05:00,880 --> 00:05:07,840
+This is a paid beta. So, you know, that just keep that in mind. This isn't a free base of paid beta
+
+52
+00:05:07,840 --> 00:05:13,360
+because this is a, something that's taken a lot of time, a lot of money, a lot of effort. Secondly,
+
+53
+00:05:13,360 --> 00:05:19,440
+because it's beta and there is a discount, expect that there could be a flaw. There could
+
+54
+00:05:19,440 --> 00:05:24,400
+be something that goes sideways and you have to be patient. That's why the discount is offered.
+
+55
+00:05:24,400 --> 00:05:29,760
+We don't anticipate there being that much that's weird about it or that goes sideways. However,
+
+56
+00:05:30,880 --> 00:05:37,840
+keep that in mind. So don't, don't hit up Ryan and say, oh my gosh, this, this little thing
+
+57
+00:05:37,840 --> 00:05:42,960
+happened. I couldn't log in instantly. Like there's going to be potentially some hiccups. So
+
+58
+00:05:42,960 --> 00:05:46,960
+that's part of the game. So just you've been warned. Okay. That said, I don't anticipate
+
+59
+00:05:46,960 --> 00:05:54,400
+there being many issues at all. But so Ryan, tell these guys what, what this, like why you built
+
+60
+00:05:54,400 --> 00:06:00,560
+what you built and guys, I, the title of this stream is what I think is going to describe this
+
+61
+00:06:00,560 --> 00:06:04,640
+tool as I think it's going to be the only tool you're ever going to need to scale your agency.
+
+62
+00:06:05,360 --> 00:06:09,040
+And I think the challenging part is going to be trying to figure out what to show them, what not
+
+63
+00:06:09,040 --> 00:06:12,000
+to show them because we only have 45 minutes. So right. All right. Let's get into it.
+
+64
+00:06:12,560 --> 00:06:16,480
+Yeah. We'll show them all the, all the fun stuff. It's all fun, but we'll show, we'll show them
+
+65
+00:06:16,480 --> 00:06:21,120
+good stuff. So, um, all right. So I've been in rank and rant for about two and a half years.
+
+66
+00:06:21,120 --> 00:06:24,480
+And I got into this and realized pretty quickly that there's not
+
+67
+00:06:26,000 --> 00:06:30,480
+a great solutions out there for tools. So we're usually, what happens is this,
+
+68
+00:06:30,480 --> 00:06:34,240
+as people get into this industry, they're like, Hey, listen, I want to do local lead generation
+
+69
+00:06:34,880 --> 00:06:40,640
+and they've got to go find a CRM. They got to find the right CRM, right? So their content relation
+
+70
+00:06:40,640 --> 00:06:45,040
+or their customer relationship manager, they've got to go find a keyword tool. They've got to
+
+71
+00:06:45,040 --> 00:06:50,400
+go find a site analyzer. They've got to go find programmable voice and messaging. So what happens
+
+72
+00:06:50,400 --> 00:06:57,840
+is inevitably everyone that does this business model is using three to four, at least different
+
+73
+00:06:57,840 --> 00:07:03,440
+tools at minimum, uh, that are all like scattered. And the problem with that is,
+
+74
+00:07:03,440 --> 00:07:07,760
+is the data doesn't talk to each other, right? So this was my frustration is there was not
+
+75
+00:07:07,760 --> 00:07:11,680
+anything out there. And, and, you know, there are some tools that do more things than others,
+
+76
+00:07:11,680 --> 00:07:16,240
+right? But there wasn't one that did it all. And so I found myself using a whole bunch of different
+
+77
+00:07:16,240 --> 00:07:22,560
+tools and having to manually connect that create the connective tissue and places where my data
+
+78
+00:07:22,560 --> 00:07:29,680
+needs to talk to each other. So, uh, I see we got, uh, Deb Nate on the call. Um, he said he used
+
+79
+00:07:29,680 --> 00:07:37,120
+version 1.0. So version 1.0 was a no-code solution connecting, uh, some of these things together,
+
+80
+00:07:37,120 --> 00:07:42,960
+where the users basically through like a sort of a mini course could go and connect these using sort
+
+81
+00:07:42,960 --> 00:07:49,280
+of off the shelf tools. Um, that was, that was great. We've got, you know, a lot of users that
+
+82
+00:07:49,280 --> 00:07:53,360
+use that, but it also had limitations that have a lot of limitations that I wanted to
+
+83
+00:07:53,360 --> 00:07:57,840
+make the next version to be a lot better. And so that's what we did. Right. So built, uh,
+
+84
+00:07:57,840 --> 00:08:03,440
+rank and run engine, uh, as it exists today. And it's got, uh, really everything that you need
+
+85
+00:08:03,440 --> 00:08:07,680
+to build an agency, no matter what level you're at. Right. So you can have, you know, be a million
+
+86
+00:08:07,680 --> 00:08:12,240
+dollar run rate, or you could be like at your first day or your first couple of sites or whatever.
+
+87
+00:08:12,240 --> 00:08:15,520
+And you've got everything you need in-house to grow and build your agency.
+
+88
+00:08:16,000 --> 00:08:23,040
+So I know that there wasn't like, besides Dave, uh, Dev, Nate, there was, you had at least a couple
+
+89
+00:08:23,040 --> 00:08:29,120
+hundred people that did this. Yeah, we've had over 300 that used it. And so it was so, it was like
+
+90
+00:08:29,120 --> 00:08:33,680
+unexpectedly popular. Like it started with just what I was using, like, Hey, this is how I built
+
+91
+00:08:33,680 --> 00:08:39,120
+my agency. And a buddy of mine, Alex, he, uh, he was like, Hey dude, you should have let other
+
+92
+00:08:39,120 --> 00:08:42,800
+people try this and see how this works. Cause this works really well. Cause I set it up for him and
+
+93
+00:08:42,960 --> 00:08:47,920
+worked great for him. And I was like, all right. And so I allowed, you know, really anyone to have
+
+94
+00:08:47,920 --> 00:08:52,560
+access to it. And a lot of people really liked it, but I also got like consistent feedback. Like
+
+95
+00:08:52,560 --> 00:08:57,680
+it was more involved to set up phone numbers. People have to set up these, you know, campaigns
+
+96
+00:08:57,680 --> 00:09:04,240
+and Twilio. And basically I looked at all of the places of version one that people said, Hey,
+
+97
+00:09:04,240 --> 00:09:08,720
+this part, can we make this better? And then built the version that we have today.
+
+98
+00:09:09,520 --> 00:09:14,960
+Yep. And like another, another person I know, uh, Mike V used it to scale. Uh, we had Mike V on
+
+99
+00:09:15,840 --> 00:09:18,320
+a couple of weeks ago. He's just hit $40,000 a month. So,
+
+100
+00:09:19,440 --> 00:09:26,080
+it was awesome. Uh, but he also set this up for me. It was, it was low cost. It was easy to use.
+
+101
+00:09:26,080 --> 00:09:30,560
+It was straightforward. And that's what we, we really enjoyed about it. So, um, I gave you co-hosts.
+
+102
+00:09:30,560 --> 00:09:37,280
+I think what we do is get in there and let's just show the tools that we have today. So,
+
+103
+00:09:37,280 --> 00:09:43,040
+just show the tool and show some of the things that this is going to streamline.
+
+104
+00:09:43,040 --> 00:09:47,520
+Some of the things it's going to eliminate and just kind of from a, I mean, there's going to be
+
+105
+00:09:47,520 --> 00:09:52,320
+a ton of stuff that we're not going to be able to get to, but basically, uh, this is going to be
+
+106
+00:09:52,320 --> 00:10:00,160
+a CRM, a, a search volume, a due diligence, basically all wrapped into one. That's going
+
+107
+00:10:00,160 --> 00:10:05,680
+to allow you to a project. I mean, everything all wrapped into one. Yeah, that's it. So the,
+
+108
+00:10:05,680 --> 00:10:10,320
+the goal is for, not the goal, what we did is to make it an all in one platform
+
+109
+00:10:11,360 --> 00:10:16,000
+to build scale and automates the tagline, right? So you can get it at rankinronengine.com. We'll
+
+110
+00:10:16,000 --> 00:10:21,840
+talk more about that at the end of the call, but, uh, that was the point is to make it all in one.
+
+111
+00:10:21,840 --> 00:10:27,600
+And you can read about it here. If you want to see like a super short seven minute demo, um,
+
+112
+00:10:27,600 --> 00:10:32,480
+I made one for you to just click on this to see, uh, you know, top to bottom, how it all works,
+
+113
+00:10:32,480 --> 00:10:36,640
+but I'm going to walk you through it and show you guys, uh, we've already got a bunch of people
+
+114
+00:10:36,640 --> 00:10:42,000
+that are starting to sign up for it. So pretty excited about, uh, about this. So let's start with,
+
+115
+00:10:42,000 --> 00:10:48,240
+um, just overview of the platform. I'm going to grab some water. Keep going. Great. Do your thing,
+
+116
+00:10:48,240 --> 00:10:51,920
+man. Uh, well, I'm just going to give you guys an overview of this platform and I'm going to show
+
+117
+00:10:51,920 --> 00:11:00,240
+you guys and gals, uh, what the value is for your agencies and why I built this, right? So ultimately
+
+118
+00:11:00,240 --> 00:11:04,240
+what I found is, is that a lot of people were using all these things in this left column.
+
+119
+00:11:05,920 --> 00:11:10,240
+There are free tools that were really bad or paid ones that were expensive
+
+120
+00:11:10,240 --> 00:11:14,800
+or having to use a bunch of paid tools that were expensive. Uh, and it really became like,
+
+121
+00:11:15,840 --> 00:11:20,560
+I don't know, expensive to, to run, to run an agency. And I noticed this cause I'm big on
+
+122
+00:11:20,560 --> 00:11:26,160
+running a lean agency and having like the most affordable and high performing way to do every
+
+123
+00:11:26,160 --> 00:11:32,000
+element of this business model. So, um, I'm going to walk you through this left hand column. Uh,
+
+124
+00:11:32,000 --> 00:11:37,840
+I think that you guys might be able to, uh, see this. If anyone can't see it, if I need to zoom
+
+125
+00:11:37,840 --> 00:11:43,680
+in, let me know. I'm going to make it a little bit bigger, but if you guys can't see it, let me know.
+
+126
+00:11:43,680 --> 00:11:49,840
+So, all right. I'm going to take you through each of these, uh, core features of rake and run engine
+
+127
+00:11:49,840 --> 00:11:53,680
+and show you how all these work together to build an agency. Right. The first thing is task tracker.
+
+128
+00:11:54,240 --> 00:12:00,400
+So, um, a lot of people will use things like, uh, Google sheets or notion or, uh,
+
+129
+00:12:01,440 --> 00:12:08,960
+monday.com or Trello, some of these organizational tools, um, that don't tie into the rest of your
+
+130
+00:12:08,960 --> 00:12:16,640
+agency. And so, um, I found that in my agency, I've either created or assigned 3000 tasks
+
+131
+00:12:16,640 --> 00:12:22,800
+to my team. So either ones that I've done or my team has done, and that has consistently moved
+
+132
+00:12:22,800 --> 00:12:30,960
+the needle forward. So I wanted to integrate that into this platform where you can keep track of
+
+133
+00:12:30,960 --> 00:12:36,320
+immeasurable, right? Anything in business needs to be measurable. So you're measuring how much
+
+134
+00:12:36,320 --> 00:12:41,840
+progress that you're making and what needs to be accomplished for your agency and allows you to
+
+135
+00:12:41,840 --> 00:12:46,560
+scale already with, you know, what's directly in here. So if you want to bring in your team,
+
+136
+00:12:46,560 --> 00:12:50,960
+you're going to bring in VA's, it's really easy to just, you know, add them as a user to your
+
+137
+00:12:50,960 --> 00:12:55,760
+company and you can, uh, keep track of that. Right? So there's four categories here. There's
+
+138
+00:12:55,760 --> 00:13:00,800
+what needs to be done now, what we're working on in progress, what's been done is complete
+
+139
+00:13:00,800 --> 00:13:06,080
+and what maybe has some kind of blocker, right? This is project management 101 stuff. So, um,
+
+140
+00:13:06,080 --> 00:13:12,720
+I run a, uh, a hundred million dollar project, uh, for, um, the company that I worked for.
+
+141
+00:13:12,720 --> 00:13:18,000
+And, um, this is based on those principles, right? Project management principles, right? Because
+
+142
+00:13:18,000 --> 00:13:23,040
+that's what your business is. You're managing your business and you have got to make sure
+
+143
+00:13:23,040 --> 00:13:26,800
+that you're, uh, tuned into what's most important to move the needle forward.
+
+144
+00:13:27,760 --> 00:13:31,120
+So I'm not going to spend a lot of time on this part. Uh, it's pretty straightforward,
+
+145
+00:13:31,120 --> 00:13:35,600
+right? You put in, you know, your task title, right? So to do more bill events,
+
+146
+00:13:35,600 --> 00:13:39,840
+my keyboard is super loud. So I'm going to try to type a bunch, put in details here about
+
+147
+00:13:39,840 --> 00:13:45,280
+whatever that task is, uh, set priority levels, uh, you know, you can add your labels.
+
+148
+00:13:45,280 --> 00:13:52,640
+So, you know, what's involved to do bill events. Yeah. Uh, that you can add different options down
+
+149
+00:13:52,640 --> 00:14:00,000
+here, right? So we want to put new bill events and add it. There it is. Add it in, uh, task owner.
+
+150
+00:14:00,000 --> 00:14:06,720
+You can decide yourself or your team. Uh, so here I'm assigning it to me and then, uh, everything
+
+151
+00:14:06,720 --> 00:14:11,680
+matters about due dates. So we're going to do this on Halloween. And then you can all color code it
+
+152
+00:14:12,080 --> 00:14:16,480
+because I'm a nerd like that, right? So when we create this, you can, you know,
+
+153
+00:14:16,480 --> 00:14:21,760
+add images and all that kind of stuff. It's not, let me click, hold on and make this a little bit
+
+154
+00:14:21,760 --> 00:14:34,400
+smaller. Oh, task details is required. Um, test. Okay. And so you will begin to fill this up with
+
+155
+00:14:34,400 --> 00:14:39,200
+what's most important for your agency. So you can add images, you can, you know, like tag people,
+
+156
+00:14:39,200 --> 00:14:47,840
+put in comments. This is mission control. So, uh, I have used this extensively in version 1.0 and
+
+157
+00:14:47,840 --> 00:14:53,120
+it's been the, the most, uh, valuable thing for me to go back and measure what kind of results
+
+158
+00:14:53,120 --> 00:14:56,640
+am I getting and where am I putting my attention? Cause where you put your attention is where you're
+
+159
+00:14:56,640 --> 00:15:00,400
+going to get your results. All right. And that's what task tracker is about something that's a little
+
+160
+00:15:00,400 --> 00:15:05,440
+bigger. Real quick. Um, just, I think I might've missed this or maybe you covered it already.
+
+161
+00:15:05,920 --> 00:15:11,440
+Or if my team, I have a VA or whatever, I can assign this task to them.
+
+162
+00:15:12,160 --> 00:15:16,080
+Totally. So if I go in here and I click edit right now, I'm the only user in here.
+
+163
+00:15:16,720 --> 00:15:22,160
+Okay. You can assign people here and you can assign the owner and you as the task right now
+
+164
+00:15:22,160 --> 00:15:29,040
+only shows me, but you could go and you can click on your users and you can add, um, more users in
+
+165
+00:15:29,040 --> 00:15:34,560
+here. All right. So you want to add more, you want to add your team and, uh, you can add seats
+
+166
+00:15:34,560 --> 00:15:43,120
+basically. Yeah. So again, where you put your attention is where you can measure your results
+
+167
+00:15:43,120 --> 00:15:46,480
+and that's what task tracker is about. Right. So pretty straightforward project management stuff.
+
+168
+00:15:46,480 --> 00:15:51,040
+So now we're getting to like the meat of this. This is a due diligence and we covered this, uh,
+
+169
+00:15:51,040 --> 00:15:55,600
+over the last week. I'm not going to like deep dive into this. Uh, on last week's call, we showed
+
+170
+00:15:55,600 --> 00:15:59,520
+this Nick, you think like talk a little bit about this, but not going to the level of detail of
+
+171
+00:15:59,520 --> 00:16:04,560
+last week or you want to go forward? I definitely think we should talk about this and guys, I think,
+
+172
+00:16:04,560 --> 00:16:10,800
+um, you know, we've been taught for a long time. I mean, months, we, people have been said, you know,
+
+173
+00:16:10,800 --> 00:16:16,800
+what's the state, like what's, uh, uh, the search volume that gives us confidence to go into what,
+
+174
+00:16:16,800 --> 00:16:22,400
+what is the minimum search volume? And we've purposely not necessarily said, well, on this
+
+175
+00:16:22,400 --> 00:16:28,480
+tool, it's this because we haven't, we don't have any control over Semrash or mangles or anything.
+
+176
+00:16:28,480 --> 00:16:34,240
+Now we do. And so now we're going to be able to go in and over the next month, as we're also,
+
+177
+00:16:34,800 --> 00:16:39,600
+you know, playing around with it, putting our agencies, uh, completely on this tool,
+
+178
+00:16:39,600 --> 00:16:44,960
+we're going to be able to come up with a minimum search volume to say, Hey, if the tool says this,
+
+179
+00:16:44,960 --> 00:16:49,840
+you can, you know, with 90% confidence, be sure there's going to be enough search volumes. I'm
+
+180
+00:16:49,840 --> 00:16:56,160
+really excited about that. But any of you guys that are paying for Semrash and, uh, then you're
+
+181
+00:16:56,160 --> 00:17:01,040
+paying for that tool and this tool and whatever this right here is going to do everything that
+
+182
+00:17:01,040 --> 00:17:10,240
+you need. If it's just for this feature alone, like I realized I was paying 120 is $129 or $119
+
+183
+00:17:10,240 --> 00:17:16,240
+for Semrash. I still haven't figured out, is it SCM rush or is it Semrash? I I've gone back and
+
+184
+00:17:16,240 --> 00:17:21,680
+forth. I don't even know what the proper term is, whatever it is. Only thing I use that tool for
+
+185
+00:17:22,640 --> 00:17:28,960
+is search volume. Like from the beginning, I've probably spent a hundred bucks a month, I spent
+
+186
+00:17:28,960 --> 00:17:33,840
+let's just call it a thousand bucks a year, which is less than it is for, I probably spent five to
+
+187
+00:17:33,840 --> 00:17:40,960
+$10,000 on the search function of Semrash. And that is this one piece of this tool.
+
+188
+00:17:41,600 --> 00:17:44,640
+What am I going to talk about real quick, or I would cover it a little bit, but tell them how
+
+189
+00:17:45,280 --> 00:17:50,640
+this data is, it doesn't go through any third parties. It comes directly into this tool.
+
+190
+00:17:52,560 --> 00:17:58,160
+Yeah, absolutely. So, um, you're looking at due diligence records here. So, uh, you know, we'll
+
+191
+00:17:58,160 --> 00:18:04,000
+dive into this and how we get this data, but I realized that there's such a variance in what
+
+192
+00:18:04,000 --> 00:18:09,760
+data is out there. At the end of the day, uh, you gotta have the most accurate data to make decisions
+
+193
+00:18:09,760 --> 00:18:15,520
+about which markets to enter. So this is a due diligence tool that automates this process,
+
+194
+00:18:15,520 --> 00:18:21,280
+right? Where you will put in the essential information that you need to understand your
+
+195
+00:18:21,280 --> 00:18:27,520
+market. And then you're going to get it spit back out, you know, what exactly the keyword,
+
+196
+00:18:28,880 --> 00:18:33,280
+search volume, cost per click, and then your competitor analysis looks like.
+
+197
+00:18:34,240 --> 00:18:39,520
+So, um, speeds up the due diligence process tremendously. Uh, you can pretty quickly
+
+198
+00:18:39,520 --> 00:18:44,000
+assess if you've got a good market to go into, um, because it's also going to pull in population.
+
+199
+00:18:44,000 --> 00:18:50,400
+So, um, I looked at like where this data comes from and what the most accurate data is. So this
+
+200
+00:18:50,400 --> 00:18:55,200
+is being pulled straight out of a keyword planner where I'm getting it straight from the source.
+
+201
+00:18:55,200 --> 00:18:59,680
+This is coming straight from Google. And so Google is saying, Hey, this is what the search
+
+202
+00:18:59,760 --> 00:19:05,520
+volume is. This is what the cost per click is. And if you're not getting, you know, uh, a return,
+
+203
+00:19:05,520 --> 00:19:10,240
+it's basically Google saying, we don't know. We can't tell you. So one of my frustrations was
+
+204
+00:19:10,240 --> 00:19:14,560
+some of these other tools like main goals or whatever, um, would give a number for that,
+
+205
+00:19:14,560 --> 00:19:18,160
+but it was a guess. And when I would run ads, it would be like very wrong.
+
+206
+00:19:19,040 --> 00:19:25,840
+And so, um, having this pulled in with my due diligence into the same records, uh, for competitor
+
+207
+00:19:25,840 --> 00:19:30,320
+analysis, you know, really allowed me to see what a picture, a snapshot of that market looks
+
+208
+00:19:30,320 --> 00:19:36,400
+like. Um, so let's do an example. Um, Hey, real quick, Ryan, before we go any further,
+
+209
+00:19:36,400 --> 00:19:41,200
+just a quick question from Gina. She said, can you add attachments or documents to the task?
+
+210
+00:19:42,080 --> 00:19:50,640
+Yeah, sure can. So, um, you can upload files. Amazing. Yeah. So you can just add,
+
+211
+00:19:50,640 --> 00:19:57,040
+yeah, um, uh, like a PDF or something like that. You could add to it. That's awesome.
+
+212
+00:19:57,040 --> 00:20:02,000
+You have images, logos, whatever you'd add. Yeah. Beautiful. And then real quick, one more thing,
+
+213
+00:20:02,000 --> 00:20:06,640
+just so we're keeping on top of these, Daniel Kelly says, so does rank and rent engine do away
+
+214
+00:20:06,640 --> 00:20:11,600
+with the need to have multiple subscriptions? Answer is yes. Assuming that he's talking about
+
+215
+00:20:12,800 --> 00:20:18,240
+having man goals and SEM rush and these things. This is the old guys, the only tool you need to
+
+216
+00:20:18,240 --> 00:20:21,840
+scale. That's why I call it that live. That's called the live this, but anyway,
+
+217
+00:20:21,840 --> 00:20:28,000
+I think that's what he's asking. Um, yeah. Absolutely. That's the, that's how we built it.
+
+218
+00:20:28,000 --> 00:20:32,240
+This is the, this is the definitive tool that you need for this industry, right? So for local lead
+
+219
+00:20:32,240 --> 00:20:37,680
+generation, you don't need anything else to grow. Now you may have some like, you know, something
+
+220
+00:20:37,680 --> 00:20:42,000
+that you do with Adobe Photoshop for your editor images or whatever. It didn't have stuff like that,
+
+221
+00:20:42,000 --> 00:20:47,120
+but like the essentials from local lead generation are here. This is everything you need.
+
+222
+00:20:47,120 --> 00:20:49,840
+Beautiful. Okay. Sorry to cut you off. I just want to stay on top of that.
+
+223
+00:20:51,040 --> 00:20:57,120
+So, but real quick, I just want to say on this guys, this is this again, the cool part about
+
+224
+00:20:57,120 --> 00:21:01,360
+this from what everything that I've seen so far is each one of these, like for example,
+
+225
+00:21:01,360 --> 00:21:08,240
+task tracker. I remember at one point in my career, I paid for a program or a software
+
+226
+00:21:08,240 --> 00:21:14,480
+called pipe drive, right? All pipe drive does is exactly what task track tracker does, which is,
+
+227
+00:21:15,040 --> 00:21:19,520
+I mean, it does it for your clients or whatever, which we're going to show you that this also does,
+
+228
+00:21:19,520 --> 00:21:24,480
+but basically you just create these cards and you drag them. That's basically all that it did. And
+
+229
+00:21:24,480 --> 00:21:29,360
+I was, I think it was like 50 bucks a month. And that's what task trackers now due diligence.
+
+230
+00:21:29,360 --> 00:21:33,760
+I don't know about you guys, but I was one of those people in the beginning. I had stacks. I
+
+231
+00:21:33,760 --> 00:21:38,320
+used to print off the due diligence. I would print off like 50 at a time, keep them on my desk.
+
+232
+00:21:38,320 --> 00:21:42,720
+I'd take a pen and I was writing the information that I had stacks of these
+
+233
+00:21:42,720 --> 00:21:47,200
+hundreds of these due diligence sheets. And then I thought I graduated and I was so smart and I
+
+234
+00:21:47,200 --> 00:21:53,040
+went to Google drive. And now I have so many, and I've got, you know, folder inside a folder,
+
+235
+00:21:53,040 --> 00:21:59,280
+inside a folder, inside a folder, inside a folder to get to, you know, and I've got it by niche and
+
+236
+00:21:59,280 --> 00:22:04,880
+all this different stuff. Whereas this now I can log into my tool. I have my tasks and I have my
+
+237
+00:22:04,880 --> 00:22:10,160
+search volume and I have my due diligence cards. And I think I asked this last time, is there a
+
+238
+00:22:10,160 --> 00:22:12,320
+limit to how many of these due diligence you can have?
+
+239
+00:22:14,320 --> 00:22:17,600
+Yeah. You've got to map out your empire, right? You've got to map out where you're going to put
+
+240
+00:22:17,600 --> 00:22:21,280
+your, your sites. So it's unlimited. Right.
+
+241
+00:22:21,280 --> 00:22:28,480
+And one other thing I like a lot who here has done the research on, let's say Las Vegas concrete.
+
+242
+00:22:29,040 --> 00:22:33,200
+It doesn't look good or it does look good or whatever. You decide not to do it. And then like
+
+243
+00:22:33,200 --> 00:22:38,400
+six months later, you're like, Oh, I should go into Las Vegas concrete or somebody hits you up
+
+244
+00:22:38,400 --> 00:22:41,920
+and says, you know, you get a referral or whatever. And you're like, I remember doing
+
+245
+00:22:41,920 --> 00:22:46,240
+the due diligence and you go back and you're like, Oh, I should probably do it again to see
+
+246
+00:22:46,240 --> 00:22:51,360
+if it's like up to date. Guess what? All you have to do now is push one button.
+
+247
+00:22:51,920 --> 00:22:59,040
+You go to it, you push refetch, correct? And it automatically runs the entire due diligence
+
+248
+00:22:59,040 --> 00:23:02,080
+right within, what is it? Two and a half seconds, three seconds.
+
+249
+00:23:02,080 --> 00:23:06,640
+It's pretty much instant. So you can refetch it or you can go in here and here's a, here's one for
+
+250
+00:23:06,720 --> 00:23:11,120
+Brick Masonry in Nashville. Click edit. If you want to switch out your keywords, right? Like maybe
+
+251
+00:23:11,120 --> 00:23:18,560
+we don't like retaining wall, but we like, you know, brick wall. I don't know. I'm just
+
+252
+00:23:18,560 --> 00:23:23,600
+going to make up something. And we want to update our keyword because we found that maybe it's
+
+253
+00:23:23,600 --> 00:23:27,920
+successful in other markets, right? We just go in here and we just update the location and it's
+
+254
+00:23:27,920 --> 00:23:33,040
+going to refetch that data. So brick wall is a tool. Actually it's not a bad keyword, 140
+
+255
+00:23:33,040 --> 00:23:36,960
+search volume. I don't know what the cost per click is, but you just edit that record and it
+
+256
+00:23:36,960 --> 00:23:42,800
+pulls in the latest competitor data as well, right? So their domain age, authority, backlinks,
+
+257
+00:23:42,800 --> 00:23:47,680
+page authority, citation flow, and trust flow. And it'll refresh all that for you where, you know,
+
+258
+00:23:47,680 --> 00:23:52,320
+if you're kind of waiting, kind of eyeing it, right? Maybe, you know, your work sure, like your
+
+259
+00:23:52,320 --> 00:23:56,880
+market was marked to be determined up here. And you're like, all right, I got to look at Masonry
+
+260
+00:23:56,880 --> 00:23:59,840
+in Nashville. Like, all right, this is pretty good. And you can mark it and go.
+
+261
+00:24:00,560 --> 00:24:04,720
+Um, let's just do a little math. Let's say you're, how long do you think it takes to do,
+
+262
+00:24:04,720 --> 00:24:08,480
+take this tool out? Let's say the standard way. How long do you think it takes you to do a due
+
+263
+00:24:08,480 --> 00:24:13,040
+diligence? I would guess for me, probably about 30 minutes. Yeah, that's probably right. I'll say 30
+
+264
+00:24:13,040 --> 00:24:17,440
+minutes. Let's say you're average. Let's say you're not making that much money. Your time's worth
+
+265
+00:24:17,440 --> 00:24:23,360
+$100 an hour, right? So let's say that 50 bucks every time you do one of these, what it costs you.
+
+266
+00:24:23,360 --> 00:24:28,800
+And let's say that you do, you know, for every area, you have to look at 10. So let's say to do
+
+267
+00:24:28,800 --> 00:24:34,480
+10 sites, you have to look at 100. So 10 is up by 100. That costs you $5,000 worth of your time
+
+268
+00:24:35,040 --> 00:24:40,000
+to look at due diligence. You just literally eliminated that with this tool. I mean, it's
+
+269
+00:24:40,000 --> 00:24:45,920
+insane. It takes you instance three seconds or less to get the same information. It take, it would
+
+270
+00:24:45,920 --> 00:24:52,160
+take you 30 minutes to get. Yeah. Yeah. Look, I mean, money loves speed, right? You said it a
+
+271
+00:24:52,160 --> 00:24:56,240
+million times. It's true. The faster that you can do this stuff, the more quickly you can make
+
+272
+00:24:56,240 --> 00:25:01,520
+accurate decisions to go into a market. Not to mention you might miss something because
+
+273
+00:25:01,520 --> 00:25:09,200
+you're human and you, you, you know, incorrectly anyway. So of everything, dude, the search volume
+
+274
+00:25:09,200 --> 00:25:14,960
+and the due diligence, this might be my favorite part of the entire tool, but piece of it.
+
+275
+00:25:15,520 --> 00:25:19,440
+Yeah. We spent a lot of time on the due diligence part to really make sure this is
+
+276
+00:25:19,440 --> 00:25:21,840
+going to grab what you need. I see some of these questions in the chat. So
+
+277
+00:25:22,720 --> 00:25:28,800
+I'll just talk through, when you add a record, this only works in the US for right now. We're
+
+278
+00:25:28,800 --> 00:25:33,360
+going to expand to other markets outside the US, but you know, your country is the United States.
+
+279
+00:25:33,360 --> 00:25:38,800
+You pick your state, you put in your city, you put in your niche, call driven, yes or no. That's
+
+280
+00:25:38,800 --> 00:25:45,120
+just a reminder, like, you know, are we in the right niche? You're putting your primary keywords.
+
+281
+00:25:45,120 --> 00:25:49,280
+This is your money keyword. Like this is the one, this is masonry, this is artificial grass,
+
+282
+00:25:49,280 --> 00:25:53,360
+this is concrete contractor, this is fence installation. And then you put up your core
+
+283
+00:25:53,360 --> 00:25:58,000
+keywords, which are the next six. So those are the ones that you're going to build your service
+
+284
+00:25:58,000 --> 00:26:02,720
+pages out of when you build service pages. These are, you know, your core keywords and it covers
+
+285
+00:26:02,720 --> 00:26:07,360
+that and the due diligence modules, right? And then you need to look at how many active
+
+286
+00:26:07,360 --> 00:26:11,920
+businesses there are. Maybe now you don't know you market TBD and then you put in your top three
+
+287
+00:26:11,920 --> 00:26:18,320
+competitor domains, right? So I just grabbed some URLs here. These are just kind of ones I, you know,
+
+288
+00:26:18,320 --> 00:26:24,720
+put in and you're going to put in these domains. You can put in an available domain. So this is
+
+289
+00:26:24,720 --> 00:26:30,000
+grayed out right now because I've already added it. But you'll put, you'll put in this big brick
+
+290
+00:26:30,000 --> 00:26:35,280
+energy Nashville for a brick mason, but you can, you know, edit whatever your domain is that,
+
+291
+00:26:35,280 --> 00:26:40,400
+you know, you check GoDaddy for to make sure you could buy the domain. Loading fruit, TBD,
+
+292
+00:26:40,400 --> 00:26:44,960
+go or no go TBD, or maybe you already have a vibe for it and then you update the location,
+
+293
+00:26:44,960 --> 00:26:49,600
+right? And it's going to pull in that data automatically. So you can see that it just
+
+294
+00:26:49,600 --> 00:26:53,680
+loaded while we've been talking here, right? So all that data that you normally have to go
+
+295
+00:26:54,320 --> 00:26:58,560
+type in domain age, like pull up domain authority, like how many backlinks, right? Like
+
+296
+00:26:58,560 --> 00:27:02,160
+that is completely unnecessary. That's one of the things that frustrate me most is
+
+297
+00:27:02,720 --> 00:27:06,960
+you just can make it the right API calls to the right services and you're going to get
+
+298
+00:27:07,600 --> 00:27:13,360
+the data that you need. Yep. Beautiful. So let's just rapid fire through some of these questions
+
+299
+00:27:13,360 --> 00:27:20,080
+because I know we're going to be just cutting it close here. So real quick, Richard said,
+
+300
+00:27:20,080 --> 00:27:25,360
+I'm doing my business with my spouse. So can I assign a task to both of us
+
+301
+00:27:25,360 --> 00:27:31,760
+or can she edit a task without being an admin? Yeah. So there's one company admin. So under users,
+
+302
+00:27:32,800 --> 00:27:41,200
+there's the one admin, you can add someone as a seat on there who is, you know, an administrator,
+
+303
+00:27:41,200 --> 00:27:45,520
+or you can both use the same account, you know, with the same password. If you want equal admin,
+
+304
+00:27:45,520 --> 00:27:51,360
+right? So I don't know how you feel about that, but the invited users will appear here. So if you
+
+305
+00:27:51,360 --> 00:27:58,480
+want to add somebody in, you can both be on the task. So this task here, you can assign, you can
+
+306
+00:27:58,480 --> 00:28:03,200
+have, you know, the owner, you can have the person that's assigned to it and all that is going to
+
+307
+00:28:03,200 --> 00:28:08,480
+appear just like RRB, right? There's my initials, Ryan Dalton. You would see here on the task who
+
+308
+00:28:08,480 --> 00:28:13,600
+it belongs to. Beautiful. So it's designed for collaborative, you know, working together, right?
+
+309
+00:28:14,240 --> 00:28:17,360
+Beautiful. Okay. So answer that one is yes.
+
+310
+00:28:20,640 --> 00:28:25,360
+Prabh says, just hopping off, can we use this for SEO? Of course you can use this for SEO.
+
+311
+00:28:27,200 --> 00:28:30,800
+LeadGen is SEO. We're just doing LeadGen. We're just doing SEO for ourselves, right?
+
+312
+00:28:32,560 --> 00:28:37,360
+Richard says, is it pulling the competitor data on its own without entering that information?
+
+313
+00:28:38,560 --> 00:28:43,200
+So I think your question is, is it pulling your top three by just virtually knowing what the market
+
+314
+00:28:43,200 --> 00:28:47,120
+is? And the answer is no, you have to go in and you have to look at what your top three are, right?
+
+315
+00:28:47,120 --> 00:28:52,160
+Because, you know, you've got to go see what those top three websites are for the ones that you want
+
+316
+00:28:52,160 --> 00:28:57,120
+to beat. But all you have to do is paste the URL in here. So which is a good thing, by the way,
+
+317
+00:28:57,120 --> 00:29:01,440
+because if not, maybe it would pull in like a home advisor and stuff like that. And we all know that
+
+318
+00:29:01,440 --> 00:29:05,760
+home advisor, even though they may be your spot number one, they're not the same type of a
+
+319
+00:29:05,760 --> 00:29:11,360
+competition as a local competitor, because Google likes to give the spot to the local. So yeah,
+
+320
+00:29:11,360 --> 00:29:15,280
+you're going to go in, you're going to just choose those three, the ones that you keep seeing over
+
+321
+00:29:15,280 --> 00:29:19,840
+and over, and boom, then you're going to have that information. So it's going to take you just a
+
+322
+00:29:19,840 --> 00:29:26,240
+second. Bo asks the same question, how is it picking the top three competitors? So that's one,
+
+323
+00:29:26,240 --> 00:29:32,880
+you're going to put in the top three competitors. Again, we can't, unless we had a formula that said,
+
+324
+00:29:32,960 --> 00:29:36,880
+get rid of home advisor, do this, do this. There's no way that we could do that, because it would
+
+325
+00:29:36,880 --> 00:29:42,080
+just be pulling the top three. And sometimes that would be the home advisor or Angie's list, which
+
+326
+00:29:42,080 --> 00:29:46,240
+in which case it wouldn't be accurate. So that you do put in the top three competitors.
+
+327
+00:29:46,240 --> 00:29:50,560
+Yeah. Yeah. There's limits to good software and automation. Like the best way to do it is to have
+
+328
+00:29:50,560 --> 00:29:55,200
+a human in the loop, right? You want to have a human that is looking at that data and saying like,
+
+329
+00:29:55,200 --> 00:29:59,040
+yeah, these are the top three, you plug those in and then everything else is done automatically
+
+330
+00:29:59,040 --> 00:30:04,160
+for you after that. Okay. Beautiful. I agree. Gina says, I have stuff scattered everywhere.
+
+331
+00:30:04,160 --> 00:30:09,440
+This is amazing. I a hundred percent agree with you. And then Bruce has said to this DD tool,
+
+332
+00:30:09,440 --> 00:30:13,040
+find your top competitors. Well, no, that's, we covered that as well. Okay. Last one, Daniel
+
+333
+00:30:13,040 --> 00:30:17,200
+Kelly says, not related to ranking or Angie, but would appreciate some input on choosing a niche.
+
+334
+00:30:17,200 --> 00:30:20,720
+I joined last week. I spent a while looking at a tree service, but it seems almost impossible to
+
+335
+00:30:20,720 --> 00:30:26,720
+rank for an ultra competitive. So I'd appreciate some ones Nick would recommend. Okay. I'll comment
+
+336
+00:30:26,720 --> 00:30:29,840
+with some of the recommended ones. So we don't have to stop on that one. Daniel, just give me a
+
+337
+00:30:29,840 --> 00:30:37,840
+second. I'll respond there. And then Kirk says, perhaps it could screen out. Yeah, it could. But
+
+338
+00:30:37,840 --> 00:30:42,080
+again, as Ryan said, I think having a human in the loop is the best option, but it's not something
+
+339
+00:30:42,080 --> 00:30:47,200
+that we can't update going forward. And then Raphael says, do I still need to use Google
+
+340
+00:30:47,200 --> 00:30:53,440
+keyword planner for ads? No, you don't. So we can jump around here. We don't have to go in order.
+
+341
+00:30:54,160 --> 00:30:59,280
+Uh, so I'm sure you keyword planner. So here's keyword planner. Uh, we're just going to do old
+
+342
+00:30:59,280 --> 00:31:03,920
+faithful. Let's do concrete. It's a contractor. By the way, let me point something out quick,
+
+343
+00:31:03,920 --> 00:31:08,480
+quick, quick. Um, everyone thinks concrete saturated literally yesterday when I was on
+
+344
+00:31:08,480 --> 00:31:12,640
+the call, uh, with, I was going to call it Jason. He had to hop off. Jason already had to hop off,
+
+345
+00:31:12,640 --> 00:31:17,680
+get on a closing call. He got on like 15 minutes later, 30 minutes later, and he closed a $1,400
+
+346
+00:31:17,680 --> 00:31:22,160
+a month deal in concrete. There are deals out there. I'm not saying that you should go into
+
+347
+00:31:22,160 --> 00:31:28,400
+concrete, but if you look hard enough, there's still deals. So, um, yeah, use old faithful for
+
+348
+00:31:28,400 --> 00:31:33,520
+us. Yeah, we, we can, we can switch up. We do, uh, we'll do Mason. Let's do a fresh one. Right. So,
+
+349
+00:31:33,520 --> 00:31:38,960
+um, I still get deals in concrete. Uh, we're we'll have a closing call this week for concrete. So,
+
+350
+00:31:38,960 --> 00:31:42,400
+uh, I don't think it's, well, let's, let's do another one. Let's do, uh, let's do Mason. Right.
+
+351
+00:31:42,400 --> 00:31:48,640
+So this data is your keyword planner, right? So think about how much time is lost hopping
+
+352
+00:31:48,640 --> 00:31:52,640
+between all these platforms. You're not only paying for them, but you're jumping between them
+
+353
+00:31:52,640 --> 00:31:59,520
+back and forth and it's, it's slowing you down. So, um, this is something that I felt very acutely.
+
+354
+00:31:59,520 --> 00:32:04,720
+I don't want to have to always be jumping back and forth. You also have data fidelity issues when
+
+355
+00:32:04,720 --> 00:32:08,160
+that happens, right? Like, am I making sure that I'm putting the right data in? Is my team putting
+
+356
+00:32:08,160 --> 00:32:15,280
+the right data in? This is pulling straight from the source. This is pure keyword and, uh,
+
+357
+00:32:15,440 --> 00:32:21,600
+calls per click and search volume data. So, uh, we did Masonry, Nashville area, search volume,
+
+358
+00:32:22,160 --> 00:32:28,720
+calls per click. You can see the PPC competition level, right? So, um, the, you know, low, uh,
+
+359
+00:32:28,720 --> 00:32:34,400
+and then the competition is just shown here as low, right? So, um, it also pulls your low, uh,
+
+360
+00:32:34,400 --> 00:32:39,840
+top of page bid and your high top of page bid to see what it's going to cost you to get at the top
+
+361
+00:32:39,840 --> 00:32:45,360
+of the page. Uh, and then you're obviously your average monthly search volume, uh, over the course
+
+362
+00:32:45,360 --> 00:32:52,560
+of the last year. And then related keywords, right? So all the Mesa Green near me, um, if it
+
+363
+00:32:52,560 --> 00:32:57,200
+doesn't have the data for that, it's not going to make up a number. This, again, this is what
+
+364
+00:32:57,200 --> 00:33:01,440
+frustrated me about some of these other tools is it will make up a number based on, you know,
+
+365
+00:33:01,440 --> 00:33:05,600
+whatever data brokers are pulling from, because that's what these keyword planners do is they go
+
+366
+00:33:05,600 --> 00:33:12,800
+buy data from, from places. And, um, I found this to be pretty unreliable. I want as accurate as I
+
+367
+00:33:12,800 --> 00:33:18,640
+can get. And if Google doesn't know, like, I need to know that, right? So, uh, this is a great
+
+368
+00:33:18,640 --> 00:33:23,200
+example of the, like, you know, you put in that core keyword, this is my primary keyword and,
+
+369
+00:33:23,200 --> 00:33:28,400
+you know, I'm going to get that, that search data to pull up. Beautiful. So I'm just looking at
+
+370
+00:33:28,400 --> 00:33:33,600
+comments. Uh, Mike V is a tool limited to the United States. Obviously not all the features,
+
+371
+00:33:33,600 --> 00:33:41,200
+but some of the, uh, the competitor analysis features, that kind of stuff. Um, of course that,
+
+372
+00:33:41,200 --> 00:33:48,640
+that's, this is just beta. So we're going to be working on that, but yes, it is. Um, Aaron Smith
+
+373
+00:33:48,640 --> 00:33:51,920
+said, I joined a bit late. How do we access this tool? We're going to be getting to that here in
+
+374
+00:33:51,920 --> 00:33:57,840
+just a moment in the next 15 minutes. So hold on one second on that. And Richard said, is there
+
+375
+00:33:57,840 --> 00:34:03,280
+a way to save previous keyword planner searches? Oh, that's a great idea. Yeah. So I've been talking
+
+376
+00:34:03,280 --> 00:34:07,600
+to the developers about that. What we'd like to do is have a keyword search history where you can
+
+377
+00:34:07,600 --> 00:34:11,520
+just select if you want to go back and look at that, that doesn't exist now, but you guys,
+
+378
+00:34:11,520 --> 00:34:16,720
+this community drives the development of this tool. This is made by people doing rank and rent
+
+379
+00:34:16,720 --> 00:34:22,320
+for people doing rank and rent. So, you know, as you guys are using this tool, I've got a,
+
+380
+00:34:22,320 --> 00:34:27,760
+you know, up here in this corner, I've got a support button that you can click and you can say,
+
+381
+00:34:27,840 --> 00:34:32,240
+hey, I've got this idea. Hey, why don't we do this? I'm going to take what the,
+
+382
+00:34:32,240 --> 00:34:37,200
+what the people want and build it. Right. So things like that, that we continually,
+
+383
+00:34:37,920 --> 00:34:42,320
+we'll make this the best in class tool for this industry. And, uh, you know, you guys are,
+
+384
+00:34:42,320 --> 00:34:49,120
+are the ones that are informing that. Beautiful. What else should we cover? We have time to cover
+
+385
+00:34:49,120 --> 00:34:54,080
+like, what else do you want to cover, man? We have programmable. So I want to talk about the
+
+386
+00:34:54,080 --> 00:34:58,560
+biggest thing that you need for retention in this industry. And so let me tell you in 30 seconds,
+
+387
+00:34:58,560 --> 00:35:04,400
+how I know this. I will also, in my agency, close sites for site owners. And one of the things that
+
+388
+00:35:04,400 --> 00:35:08,800
+I coach the site owners who bring sites to me, they want to get them closed and on a profit
+
+389
+00:35:08,800 --> 00:35:14,480
+split. Basically I'll say, Hey, you need to have a text message SMS notification set up in your
+
+390
+00:35:14,480 --> 00:35:20,080
+programmable voice so that the business owner knows that you're getting those leads over to them,
+
+391
+00:35:20,080 --> 00:35:23,760
+right? Where every time a call comes in, they get a text message that says you have a new
+
+392
+00:35:23,760 --> 00:35:29,440
+lead from, and it shows the number. So what I've done is, um, when you guys get a number here,
+
+393
+00:35:29,440 --> 00:35:34,640
+your first ones are included for free with your subscription. This has a full suite of programmable
+
+394
+00:35:34,640 --> 00:35:39,120
+voice and messaging. So you can go in here and you can, you know, pull up this number and this
+
+395
+00:35:39,120 --> 00:35:42,720
+one is for a little rock concrete, right? That exists. It's not a real site. I'm sure it's a
+
+396
+00:35:42,720 --> 00:35:47,680
+real site for someone under that domain, but I just put some information in here. Um, and so you
+
+397
+00:35:47,680 --> 00:35:52,800
+could put in your, you know, all this information in here, right? So you can put in your tracking
+
+398
+00:35:52,800 --> 00:35:58,480
+number. You're, um, uh, pulled in automatically. You can put in your forwarding number and then
+
+399
+00:35:58,480 --> 00:36:04,160
+down here, all of this stuff right here is about retention. So, um, when the call comes in, you
+
+400
+00:36:04,160 --> 00:36:09,600
+want to be able to enable spam filtering or not. So one of the key complaints that business owners
+
+401
+00:36:09,600 --> 00:36:14,560
+give is about spam. And they're like, Hey, I get great leads, but I've got this spam coming in.
+
+402
+00:36:14,560 --> 00:36:20,320
+All you got to do is enable spam filtering. And now when someone calls, they press, uh, one to
+
+403
+00:36:20,400 --> 00:36:26,160
+connect to the business owner, right? They hear a message that says something like, um, press,
+
+404
+00:36:26,160 --> 00:36:30,560
+thank you for calling, uh, press one to be connected to one of our team. And the call will
+
+405
+00:36:30,560 --> 00:36:36,400
+actually not go through until someone presses that input. So it saves you with one click, uh,
+
+406
+00:36:36,400 --> 00:36:42,640
+spam concerns from your business owners. Um, you can choose your whisper message, male or female.
+
+407
+00:36:42,640 --> 00:36:47,840
+It's also got state law compliance for call recordings. So, uh, you can click this right
+
+408
+00:36:47,840 --> 00:36:52,080
+here to play it and listen to it if you want to. But basically it's just that message that says
+
+409
+00:36:52,080 --> 00:36:55,600
+this call may be monitored or recorded for quality assurance or training purposes, which is,
+
+410
+00:36:56,160 --> 00:37:02,400
+um, required by state law. If you do two party, uh, call recordings or one party call recording
+
+411
+00:37:02,400 --> 00:37:06,800
+or other, right? So not true for every state, but it's true in a lot of states. And so I just leave
+
+412
+00:37:06,800 --> 00:37:11,760
+it on by default to be compliant. Um, and then you can put in your whisper messages here, right? So
+
+413
+00:37:11,760 --> 00:37:16,320
+you can do, uh, there's a default one that says, Hey, you have a new call generated from Little Rock
+
+414
+00:37:16,320 --> 00:37:21,520
+Concrete, or you can do a custom one. If you want to like, Hey, Nick, uh, you have a call from
+
+415
+00:37:21,520 --> 00:37:26,320
+Little Rock Concrete, like put in my business owner's name there. Uh, do you ask, does this
+
+416
+00:37:26,320 --> 00:37:31,760
+take place a call rail? Yes. You can put in, uh, you, your numbers that exist now already,
+
+417
+00:37:31,760 --> 00:37:38,480
+if you want to, or excuse me, or you can, uh, get new numbers through program of voice SMS.
+
+418
+00:37:39,120 --> 00:37:48,160
+So let's say I have a call rail account. What I is there's a way to like bring all my numbers in and
+
+419
+00:37:48,160 --> 00:37:54,320
+then get rid of my call rail account. Yeah. So we're going to do a number of, uh, porting, uh,
+
+420
+00:37:54,320 --> 00:37:58,720
+in the future, right? We don't have porting set up, but what you can do is you can keep that number
+
+421
+00:37:58,720 --> 00:38:03,440
+there. You don't have to buy numbers here. Uh, your numbers are included with your subscription
+
+422
+00:38:03,680 --> 00:38:08,160
+up to a certain amount. Um, and then, uh, you can just add in your numbers here into your
+
+423
+00:38:08,160 --> 00:38:11,920
+sites, into your site portfolio, right? Where you just type in what the number is instead of
+
+424
+00:38:11,920 --> 00:38:16,640
+add a new one. So you keep that for now, your existing sites, you'd keep your call rail account
+
+425
+00:38:16,640 --> 00:38:21,280
+and keep those numbers and, uh, and then you're, but going forward, new numbers,
+
+426
+00:38:21,280 --> 00:38:26,400
+you could buy directly through this, through Twilio. And then once we, uh, add porting as
+
+427
+00:38:26,400 --> 00:38:30,960
+part of, as one of the new features, then, um, you can go ahead and, and we could get rid of that.
+
+428
+00:38:31,680 --> 00:38:37,440
+Absolutely. Yep. Yep. Um, and the cool thing about these numbers is on the backend,
+
+429
+00:38:37,440 --> 00:38:41,760
+they have got a feature that I love is that you can do, if you do Google business profile
+
+430
+00:38:41,760 --> 00:38:47,120
+verifications, you can do those through, uh, these numbers, through, uh, the call,
+
+431
+00:38:47,120 --> 00:38:53,280
+whereas call rail blocks that. It doesn't let you do it. So, uh, pretty neat little, um, difference
+
+432
+00:38:53,280 --> 00:38:58,880
+there. Here's the real moneymaker for me. I would not even do local lead generation if not for what
+
+433
+00:38:58,880 --> 00:39:02,720
+I'm about to show you guys. Like I would not do it. It would be too frustrating for me.
+
+434
+00:39:02,720 --> 00:39:08,880
+And that is SMS notifications. So, um, when the call comes in by default, this is enabled.
+
+435
+00:39:08,880 --> 00:39:12,880
+It's going to show you have a new lead from, and then it shows the site name automatically
+
+436
+00:39:12,880 --> 00:39:17,680
+pulled in and then the caller's number. And so that business owner, every time they get a call,
+
+437
+00:39:18,480 --> 00:39:23,280
+uh, it says you have a new lead from, and it shows that, that phone number. And so it keeps you
+
+438
+00:39:24,000 --> 00:39:28,720
+top of their mind. They are thinking like, okay, I'm getting these leads. They're still coming in.
+
+439
+00:39:28,880 --> 00:39:33,360
+We've already blocked out the spam because we turned on spam filtering and they're getting
+
+440
+00:39:33,360 --> 00:39:39,360
+this text message. And every time that they get that new lead coming in, they're seeing the value
+
+441
+00:39:39,360 --> 00:39:44,240
+of your service. So this has been like the number one most valuable thing for me in my agency.
+
+442
+00:39:44,240 --> 00:39:49,040
+I've baked it into a rank and run engine. So just from the jump, you've got access to it.
+
+443
+00:39:50,160 --> 00:39:57,040
+I love that. That's it's so valuable because it, um, you like, even if you, even if it's only 10
+
+444
+00:39:57,040 --> 00:40:02,720
+leads or 15 leads or whatever, just constantly reminding them, you know, that you're there,
+
+445
+00:40:02,720 --> 00:40:06,640
+Hey, you know, it's like, you're poking them and say, Hey dude, that's me. That's me. That's me.
+
+446
+00:40:06,640 --> 00:40:12,240
+Cause a lot of times these business owners, even though it's coming from you, they want to assume
+
+447
+00:40:12,240 --> 00:40:17,840
+it's from their own stupid little go daddy site. And, and they would do everything to be like,
+
+448
+00:40:17,840 --> 00:40:22,480
+Oh, I don't think so. I don't think so. Right. This is going to show them that like, this does,
+
+449
+00:40:22,480 --> 00:40:27,440
+this does indeed come from you. So this is a great retention tool. And for those of us that
+
+450
+00:40:27,440 --> 00:40:32,720
+have done nothing for retention and still retained people, imagine this is just going to be one more,
+
+451
+00:40:33,600 --> 00:40:39,280
+you know, a nail in the coffin to keep these people just locked in with us. So, um, and by
+
+452
+00:40:39,280 --> 00:40:45,040
+the way, uh, did you enable that or is that default? By default, they have this, you could
+
+453
+00:40:45,040 --> 00:40:51,040
+customize it and change it, right. You put in, you know, a name or whatever, right. But by default,
+
+454
+00:40:51,040 --> 00:40:55,360
+they get an SMS lead notification. I could see really buttering up the business owner and be
+
+455
+00:40:55,360 --> 00:41:02,080
+like, hello, boss. Uh, here's a little call. Yeah. Something like that. Anyway. Yeah, man.
+
+456
+00:41:04,000 --> 00:41:09,760
+Yeah. So, uh, you get all your tracking numbers in here. You can get a new one straight through
+
+457
+00:41:09,760 --> 00:41:13,920
+the platform, right? So, you know, if you want to get, you know, your, your new tracking number,
+
+458
+00:41:13,920 --> 00:41:18,240
+you can get it, configure it just like I showed you guys a second ago. Right now it's just the
+
+459
+00:41:18,240 --> 00:41:22,080
+U S my idea. Love you, man. Sorry. It's not there for New Zealand yet, but we'll get you hooked up.
+
+460
+00:41:22,960 --> 00:41:27,520
+Um, and then you'll, uh, be able to get those numbers, but, uh, right now it's just the U S
+
+461
+00:41:27,520 --> 00:41:32,640
+but it's, it's, you know, it's everywhere in the U S so, uh, you can get those numbers and you can
+
+462
+00:41:32,640 --> 00:41:38,800
+see your first ones are included for free on your account. Beautiful. How many, how many are included
+
+463
+00:41:38,800 --> 00:41:46,080
+for free? Uh, your first five on your, if you do ignition, if you do full throttle, sorry, ignition,
+
+464
+00:41:46,080 --> 00:41:51,040
+it's five turbo charges, 20 in full throttle. It's 50. Those are the three different levels.
+
+465
+00:41:51,040 --> 00:41:55,680
+Okay. Beautiful. And then you can, you can add your own, uh, as well, right? So you can do add
+
+466
+00:41:55,680 --> 00:42:05,040
+on numbers, uh, very affordably. So, uh, let's co can we cover one more, one more, uh, feature
+
+467
+00:42:05,040 --> 00:42:09,920
+and then we can do a few questions and we can, uh, let anyone, we can share the beta information
+
+468
+00:42:09,920 --> 00:42:13,840
+that want the people that want to, uh, get on the beta for a discount.
+
+469
+00:42:14,560 --> 00:42:18,640
+For sure. Yeah. So, uh, we're going to cover this last one here, but, you know,
+
+470
+00:42:18,640 --> 00:42:22,560
+I'm just going to run through these. You can do site portfolio. All your sites are in one spot,
+
+471
+00:42:23,040 --> 00:42:28,160
+uh, put in all your sites, prospects, put in all your prospects, clients, all your clients show
+
+472
+00:42:28,160 --> 00:42:32,800
+up here, right? You can put in the service type SEO lead generation paid advertising,
+
+473
+00:42:32,800 --> 00:42:38,320
+your subscription type, et cetera, uh, put in all your leads. You can check all your leads here,
+
+474
+00:42:38,320 --> 00:42:42,560
+and then you can see all your calls and the recordings. But the one I'll show you guys is
+
+475
+00:42:44,160 --> 00:42:52,560
+this one. Uh, this is site analyzer. So this will allow you to go in and look at the performance of
+
+476
+00:42:52,560 --> 00:42:58,160
+your own sites or look at your competition sites. So I put in, you know, one of my Legion sites here
+
+477
+00:42:58,160 --> 00:43:02,320
+and, you know, you can see all the essential metrics at these cards, the top citation flow,
+
+478
+00:43:02,320 --> 00:43:06,560
+trust flow, domain authority, page authority. Are you improving at these metrics over time
+
+479
+00:43:06,560 --> 00:43:11,440
+to outrank your competition? Um, you can see your backlink profile, right? Like how many are you
+
+480
+00:43:11,440 --> 00:43:18,560
+gaining the last 12 months? Uh, how many of you gained a loss over the last 12 months, right? Uh,
+
+481
+00:43:18,560 --> 00:43:22,720
+here, this gets a little bit technical. I'll probably don't have time for all this, but
+
+482
+00:43:22,720 --> 00:43:28,080
+gets into your referring IPs, your referring subnet nets and your external backlinks, and then, uh,
+
+483
+00:43:28,080 --> 00:43:34,000
+your top referring domains, which you want some diversity on. So, uh, referring domains, uh,
+
+484
+00:43:34,000 --> 00:43:37,760
+all times showing all the, the top ones where you're getting backlinks from basically and what,
+
+485
+00:43:37,840 --> 00:43:42,880
+their trust flow and citation flow looks like. And then your anchor texts, right? Like how much
+
+486
+00:43:42,880 --> 00:43:47,360
+anchor text diversity do you have and, uh, what kind of referring domains, all the essential
+
+487
+00:43:47,360 --> 00:43:52,720
+information that you need that will give you an insight into the performance of your own
+
+488
+00:43:52,720 --> 00:43:57,920
+lead generation site. And, you know, you can put in competitors too, right? So you can do your own
+
+489
+00:43:57,920 --> 00:44:04,240
+or you can do another one, but, um, all that data gets piped into this, this one, uh, dashboard for
+
+490
+00:44:04,240 --> 00:44:09,920
+you. Is it safe? You analyze it and then does it just read, when you put the new one, it doesn't
+
+491
+00:44:09,920 --> 00:44:14,960
+get rid of this. Is it just like a standing tool or does it save past searches? Yeah, it'll put
+
+492
+00:44:14,960 --> 00:44:24,560
+a new one in. So let's do, uh, oh, I didn't do that commonplace. Um, this is for like, uh,
+
+493
+00:44:24,560 --> 00:44:28,560
+assessing a site at a time. If you want to do a due diligence record, you could pull that in
+
+494
+00:44:28,560 --> 00:44:34,000
+for due diligence, right? So if I go back, it's just gonna, it's gonna refresh it. Um, but we'll
+
+495
+00:44:34,000 --> 00:44:39,520
+add a, um, search history, like, uh, you know, here's the ones that you've done, the results
+
+496
+00:44:39,520 --> 00:44:44,400
+that they got. So we'll add that in the future. Yeah. Beautiful. Okay. I think that's something
+
+497
+00:44:44,400 --> 00:44:52,720
+we should add. I think it'd be nice. Concrete. One thing I want to mention guys is you can finish,
+
+498
+00:44:52,720 --> 00:44:59,920
+you can finish this. Let me, so each one of these tabs is basically replacing a software tool,
+
+499
+00:44:59,920 --> 00:45:06,560
+right? Like that's how, like I was just looking at it. Task tracker. Um, we, I mean, we've used all
+
+500
+00:45:06,560 --> 00:45:12,640
+kinds of different stuff. I told you, we used to use, uh, like, what's this? There's notion,
+
+501
+00:45:12,640 --> 00:45:19,200
+right? We use notion for task tracker, then the due diligence. We used Google sheets and we used
+
+502
+00:45:19,200 --> 00:45:25,920
+SEMrush and then the site portfolio. We would use, uh, we used everything from Asana
+
+503
+00:45:26,560 --> 00:45:33,360
+to Google sheets to pipe. Like I don't know what else we use. We said that was prospect pipeline.
+
+504
+00:45:33,360 --> 00:45:41,760
+I used pipe drive client list. We use Entraport, like lead tracker, call rail. It's like every
+
+505
+00:45:41,760 --> 00:45:46,160
+single one of these I was paying or using a different tool. Even if I wasn't paying,
+
+506
+00:45:46,160 --> 00:45:51,520
+I had to go and toggle between all these tabs. And now each one of these little tabs on the
+
+507
+00:45:51,520 --> 00:45:55,760
+left here is replacing a piece of software, putting it into one place that you can just,
+
+508
+00:45:55,760 --> 00:45:59,120
+you know, scale your entire agency from, which is incredible. Money loves speed.
+
+509
+00:46:00,640 --> 00:46:04,240
+That's the goal, man. Put it all in one spot. It doesn't need to be in 10 different places.
+
+510
+00:46:04,240 --> 00:46:08,720
+It just creates inefficiencies. Here's the most important part. Can I put my own profile picture
+
+511
+00:46:08,720 --> 00:46:17,840
+in the corner? For somebody like me, that's real. You can put it in the goofy avatars, right?
+
+512
+00:46:20,560 --> 00:46:24,560
+Okay. But you can actually upload a picture. Yeah, you can upload your picture.
+
+513
+00:46:24,560 --> 00:46:28,160
+Amazing. Obviously guys, that's not the most important thing, but I thought it's kind of a
+
+514
+00:46:28,160 --> 00:46:33,280
+nice little touch. Okay. So let me look at this really quick. We have a few minutes. I'm super
+
+515
+00:46:33,360 --> 00:46:38,240
+pumped to get my team in playing with it, me getting in playing with it.
+
+516
+00:46:40,160 --> 00:46:44,880
+Let's just do a couple of questions. Then we're going to share the information on the beta. Okay.
+
+517
+00:46:46,400 --> 00:46:53,840
+So let's see. Man, we got so many questions. Let me start at the bottom, actually.
+
+518
+00:46:53,840 --> 00:46:57,120
+Jahil says, I joined late, but I have a question about the site portfolio section. Is there some
+
+519
+00:46:57,120 --> 00:47:02,560
+type of filtering system where we can split sites we have rented from the sites we don't have rented?
+
+520
+00:47:02,560 --> 00:47:11,200
+Yeah, for sure. So you could show ones that are in development, right? And those are basically
+
+521
+00:47:11,200 --> 00:47:14,960
+unlimited, right? You could put just tons of in-development ones in there. And then when
+
+522
+00:47:15,760 --> 00:47:22,320
+the development status is complete, you could put a market is complete and then edit whatever
+
+523
+00:47:22,320 --> 00:47:26,720
+details you need to in here, right? So you can do your service type by lead generation, SEO,
+
+524
+00:47:26,720 --> 00:47:31,040
+paid advertising, whatever your site is, and then indicate whether you actually have a client on it.
+
+525
+00:47:31,040 --> 00:47:35,680
+So under your client list, you can tie it to a website, right? So that website will be assigned
+
+526
+00:47:35,680 --> 00:47:42,320
+to a client and then they'll know if it's rented. Beautiful. Okay. Jeremy says, hey Ryan, congrats
+
+527
+00:47:42,320 --> 00:47:46,480
+on building such a promising tool. It looks really great. Sorry if they've already been asked. I'm on
+
+528
+00:47:46,480 --> 00:47:49,920
+the job. So you got a couple of questions. Let's rapid fire. And I know some of the answers,
+
+529
+00:47:49,920 --> 00:47:56,480
+so I'll answer them. Can we bring in our own Twilio numbers, bring your own key style or
+
+530
+00:47:56,480 --> 00:48:01,120
+must we purchase them in rare? They'll eventually be able to be ported in. In the meantime,
+
+531
+00:48:01,120 --> 00:48:04,720
+what you can do is you can, when you create a site, you can just put in the phone number,
+
+532
+00:48:06,080 --> 00:48:09,200
+the number you like to tracking number, or you can just add your own.
+
+533
+00:48:10,240 --> 00:48:14,160
+Perfect. Number two, he says, if not, can we pour our tracking numbers in out of rare?
+
+534
+00:48:14,160 --> 00:48:17,920
+Not yet, but that is, that has been asked a couple of times. So that's going to be at the top of what
+
+535
+00:48:17,920 --> 00:48:24,400
+we want to, we want to update the next update. Okay. Does it have a web browser dialer in it
+
+536
+00:48:24,400 --> 00:48:29,360
+so we can call the leads via the website tracking number? I don't think so right now.
+
+537
+00:48:30,000 --> 00:48:37,200
+No. Okay. And again, guys, as it's crazy, because as you guys are asking these questions, it's,
+
+538
+00:48:37,200 --> 00:48:44,800
+it would be really impossible to cover like from, remember this is version like, you know, 1.0,
+
+539
+00:48:44,800 --> 00:48:50,800
+it's a version 2.0 of rare, but this is version 1.0 of this being an actual tool. And I think
+
+540
+00:48:50,800 --> 00:48:55,200
+you've covered basically everything. So of course, there's going to be these little teeny
+
+541
+00:48:55,200 --> 00:48:59,440
+things that are nice, whatever, but just keep in mind, there are going to be a lot of updates
+
+542
+00:48:59,440 --> 00:49:04,320
+coming. This is just where we're starting at. Okay. One more question. He asks, he said, I see
+
+543
+00:49:04,320 --> 00:49:07,520
+on your website, it says you only support USA number at this time. Do you have an estimated
+
+544
+00:49:07,520 --> 00:49:12,880
+timeline for Canada and other countries? I don't know if we have a timeline, but of course,
+
+545
+00:49:12,880 --> 00:49:19,120
+by popular demand, it's probably the order that we'll tackle. It'll probably be Canada slash
+
+546
+00:49:19,120 --> 00:49:24,240
+Australia would be the second one. And then of course, Mike V, we got to hook up Mike V. He's
+
+547
+00:49:24,240 --> 00:49:29,600
+over there just carrying the whole country on his back over there in New Zealand. New Zealand love.
+
+548
+00:49:30,640 --> 00:49:37,040
+Yes. Okay. And then let's keep just a couple more and then we're going to have to go through
+
+549
+00:49:37,040 --> 00:49:40,400
+and just answer these. Bruce says, one last question. Will you be doing a bit further
+
+550
+00:49:40,400 --> 00:49:45,040
+training inside of the rare Facebook group? Yeah. So I made a ranking or an engine Facebook group.
+
+551
+00:49:45,760 --> 00:49:51,200
+We can share that here, basically for this community, people using this platform. So if you
+
+552
+00:49:51,200 --> 00:49:55,920
+guys want to join that, just search ranking or an engine and jump in. There's not much there right
+
+553
+00:49:55,920 --> 00:50:04,640
+now, but I intend to share more trainings and more product roadmap and things like that. So you guys
+
+554
+00:50:04,640 --> 00:50:09,280
+are constantly getting the latest from me in there as well. Let's answer one more question and we'll
+
+555
+00:50:09,280 --> 00:50:13,040
+get into beta stuff. Luke Hill, and I think this is important, he says, so why wouldn't Google give
+
+556
+00:50:13,040 --> 00:50:17,840
+that on Google Keyword Planner or why wouldn't other tools like Ahrefs or SEMrush use the same
+
+557
+00:50:17,840 --> 00:50:23,600
+API? Why do you think that is? Because we're talking about how this data isn't going to third
+
+558
+00:50:23,600 --> 00:50:29,520
+parties. Why do you think they're not using that? Good question. I can't speak for why other
+
+559
+00:50:29,520 --> 00:50:35,360
+platforms were built the way that they were. Every keyword tool has its little nuances,
+
+560
+00:50:35,360 --> 00:50:42,160
+has its differences, right? For our industry, we are very focused on the local search volume,
+
+561
+00:50:42,160 --> 00:50:48,800
+the local keywords. There's nothing built for that. It's like, what is the fastest path to
+
+562
+00:50:48,800 --> 00:50:53,600
+knowing in that local market what that search volume is, what that cost per click is, right?
+
+563
+00:50:53,600 --> 00:50:59,760
+So I chose like, hey, the gold standard for this after running, you know, I've ran probably $300,
+
+564
+00:50:59,760 --> 00:51:06,960
+$400,000 of ads now is going to come from Google, right? That is the place to get the gold standard
+
+565
+00:51:06,960 --> 00:51:11,600
+of information and data for me. And so I wanted to tie that in, right? I can't speak to some of
+
+566
+00:51:11,600 --> 00:51:15,440
+these other choices for the way they build theirs. They're catering off into much bigger
+
+567
+00:51:15,440 --> 00:51:19,760
+corporations, right? Like how many people are searching for sneakers by Nike, right? You know,
+
+568
+00:51:19,760 --> 00:51:24,960
+that's not what we're doing. And so I built our tool bespoke for our use case.
+
+569
+00:51:26,000 --> 00:51:29,600
+Which I think is super interesting because a lot of people with tools, they want to, they're like
+
+570
+00:51:29,600 --> 00:51:34,400
+thinking, well, I want to, I want to build this tool so that we can get people in this industry,
+
+571
+00:51:34,400 --> 00:51:39,120
+in this industry, in this industry want to make. And of course, this is a moneymaking product.
+
+572
+00:51:39,120 --> 00:51:45,600
+Ryan's isn't just a charity. However, Ryan makes his money from doing rank and rent. And so this is
+
+573
+00:51:46,240 --> 00:51:50,320
+not only, of course, it's a way to make money, but it's also a way to scale his rank and rent
+
+574
+00:51:50,320 --> 00:51:55,120
+agency even further. And so I think the best products, the best tools always come from people
+
+575
+00:51:55,120 --> 00:51:59,360
+inside that industry because they know the pain points. Whereas somebody from the outside coming
+
+576
+00:51:59,360 --> 00:52:03,840
+in to build it just to make money, it's never going to cater exactly because they don't know
+
+577
+00:52:03,840 --> 00:52:08,800
+those pains. So anyway, let's, we only have a couple of minutes, right? How do people,
+
+578
+00:52:08,800 --> 00:52:15,680
+and I'm going to try it. We'll try our best maybe to either do like a Q and a session later,
+
+579
+00:52:16,640 --> 00:52:20,560
+or just go in and answer these questions. But how do people, if they want to get on the beta
+
+580
+00:52:21,200 --> 00:52:25,840
+discount, how do they sign up? And what does that look like price wise, et cetera? We have 38 people
+
+581
+00:52:25,840 --> 00:52:30,320
+on, let's show them that really quick. Give them the link and let them go start playing around with
+
+582
+00:52:30,320 --> 00:52:37,040
+this amazing tool. For sure. Yeah. Yeah. Nick hooked it up. You guys are getting early access.
+
+583
+00:52:37,040 --> 00:52:43,440
+So you go to rentandrentengine.com. You can click create a free account. And then for the first 50
+
+584
+00:52:43,440 --> 00:52:52,720
+people that use Ignition 24, so all capitals, no spaces, Ignition 24, one word, will get 20%
+
+585
+00:52:52,720 --> 00:52:57,600
+off. So the first tier is 97 bucks a month. You can cancel your main goals. You can cancel your
+
+586
+00:52:57,600 --> 00:53:02,160
+SEM rush, right? Like you're going to go in here and see that, you know, this is very much a cost
+
+587
+00:53:02,160 --> 00:53:10,000
+savings tool for you guys. And you're getting 20% off on top of that. What's the code? Ignition 24.
+
+588
+00:53:10,000 --> 00:53:19,040
+That's the first two months at 20% off. So IGNITION24. We can put it in the, in the chat
+
+589
+00:53:19,040 --> 00:53:25,520
+or 24, all lowercase, all uppercase. So you know, it's case sensitive, but I just put it in.
+
+590
+00:53:25,520 --> 00:53:33,840
+Oh, I misspelled it. Time too fast. I don't delete that comment. All right. Ignition 24,
+
+591
+00:53:34,640 --> 00:53:37,520
+like starting a car night. Beautiful.
+
+592
+00:53:41,040 --> 00:53:46,480
+Also real quick, Daniel Kelly. Okay, good. I spelled it correctly too. Okay. Daniel Kelly,
+
+593
+00:53:46,480 --> 00:53:52,560
+go look at your previous comment. I dropped the recommended niches for you specifically. I
+
+594
+00:53:53,280 --> 00:53:56,560
+spent some time to write that comment out. So guys, if you are interested
+
+595
+00:53:57,120 --> 00:54:02,480
+on a 20% discount for the first, I think it's 50 people is what it's capped at. What we're,
+
+596
+00:54:02,480 --> 00:54:08,720
+and by the way, this is coming to you guys first. We haven't taken this to the free group. We haven't
+
+597
+00:54:08,720 --> 00:54:13,120
+taken this to, you know, whatever. We're going to be doing an official, official, official, official
+
+598
+00:54:13,120 --> 00:54:20,000
+launch next, probably in about a month, depending on how this beta test goes. Could be as early as
+
+599
+00:54:20,000 --> 00:54:30,560
+two weeks, but most likely first of November. But yeah, go in, play with this and just know that
+
+600
+00:54:30,560 --> 00:54:34,720
+you guys are, you guys are our people. We're excited. We want to get as much feedback as
+
+601
+00:54:34,720 --> 00:54:38,400
+possible. If people have feedback, where would be the best place? Should they go in the Facebook
+
+602
+00:54:38,400 --> 00:54:44,800
+group and drop a comment? Because I don't want to make a huge mess here, like DMing you and stuff
+
+603
+00:54:44,800 --> 00:54:47,840
+like that. Where should they go for support? Should they go to the Facebook group and drop a
+
+604
+00:54:48,480 --> 00:54:51,760
+question, comment? Like what would be the quickest way to give feedback?
+
+605
+00:54:52,480 --> 00:54:57,520
+Yeah. If they want, it's only positive things that I accept. No, I'm just kidding. If you want to go
+
+606
+00:54:57,520 --> 00:55:01,760
+to ask feedback, you could talk about it in the Facebook group, but if you want it the
+
+607
+00:55:03,360 --> 00:55:08,880
+most direct and organized way that I'm categorizing this stuff is when you create an account in this
+
+608
+00:55:08,880 --> 00:55:15,680
+top corner, you'll get your user profile information, click on support. It's going to pull up this form.
+
+609
+00:55:15,760 --> 00:55:25,840
+And so this form is going to be refreshed. Here we go. It's your rare user support request form.
+
+610
+00:55:25,840 --> 00:55:30,960
+So you put in anything that you see in here, hit submit. It's a super short form. It'll go straight
+
+611
+00:55:30,960 --> 00:55:36,800
+to me, into my email. And so I can see anything going on. And you're also free to DM me as well.
+
+612
+00:55:36,800 --> 00:55:42,080
+Just find me on Facebook and send me a DM. If you guys would though, I mean, for the benefit
+
+613
+00:55:42,080 --> 00:55:46,800
+of the community, if you could do that form, it would make it easier for Ryan to address
+
+614
+00:55:47,600 --> 00:55:52,880
+these things and also update. So I know sometimes you get frustrated when a fire off a message
+
+615
+00:55:52,880 --> 00:55:58,560
+and, you know, whatever, but if you guys will do that, maybe you do both. If you're really,
+
+616
+00:55:58,560 --> 00:56:04,160
+it's a really quick thing you want to get answered, but this is going to allow Ryan to continue to
+
+617
+00:56:04,160 --> 00:56:10,160
+make this tool even better and better. Okay. So one more time. Okay. Shane real quick says,
+
+618
+00:56:11,040 --> 00:56:16,160
+awesome. Can you increase your package at any time? Sure can. Yep. You can also do add on sites. So
+
+619
+00:56:16,160 --> 00:56:21,520
+if you've got 10 sites, you can do add on sites as well without having to upgrade your package.
+
+620
+00:56:22,320 --> 00:56:26,800
+Or you can, you know, choose the highest tier if you want to. Right. So anytime that's available
+
+621
+00:56:26,800 --> 00:56:32,080
+for you guys. And then Jahil has a good question. He said, how does the search volume, how does the
+
+622
+00:56:32,080 --> 00:56:37,440
+search volume do when searching for Metmo? That's exactly, well, guys, this tool, as of last week,
+
+623
+00:56:37,440 --> 00:56:41,440
+right when we went live, that was like when we started basically being able to play with it as
+
+624
+00:56:41,440 --> 00:56:45,920
+well. So that's one of the things that I'm going to be looking at in the next few weeks
+
+625
+00:56:46,960 --> 00:56:52,640
+is when we type in a Bentonville concrete, when you type in that, that key site, what is that minimum
+
+626
+00:56:52,640 --> 00:56:57,920
+search volume? So, uh, stay just a little bit patient with me as we figure that out. I don't
+
+627
+00:56:57,920 --> 00:57:03,040
+want to come out and say, Oh, when it says this, you know, then that's a, uh, for sure, because I'm
+
+628
+00:57:03,040 --> 00:57:08,080
+not a hundred percent there yet, but this is now I'm confident because we have control over the tool
+
+629
+00:57:08,080 --> 00:57:13,920
+that we can give you that with a 90% confidence rating type of thing. So, um, again, guys,
+
+630
+00:57:14,480 --> 00:57:21,120
+if you are interested in the beta, go to rankandrentengine.com and choose your package.
+
+631
+00:57:21,120 --> 00:57:26,960
+And then the ignition all caps, we think ignition 24, maybe not case sensitive. I don't know to get
+
+632
+00:57:26,960 --> 00:57:34,160
+20% off, uh, for the first, how many months? Two months, first two months. And then one more thing,
+
+633
+00:57:34,160 --> 00:57:42,800
+Matt says, could an overseas VA team call using the tracking numbers? Uh, there's not anything to
+
+634
+00:57:42,800 --> 00:57:51,440
+have, uh, those dial out right now. Um, but I've got some ideas for that. So stay tuned. Beautiful,
+
+635
+00:57:51,440 --> 00:57:58,400
+beautiful. Okay. I think we, I mean, I think that's pretty much it guys. Um, go test it out,
+
+636
+00:57:58,400 --> 00:58:06,480
+play with it. Uh, if you guys are like the lowest package is 99 bucks, 97, you get a 20% discount.
+
+637
+00:58:06,480 --> 00:58:13,600
+We're at, let's call it 80 bucks, 80 bucks a month. SEM rush is 129 a month, just for the search
+
+638
+00:58:13,600 --> 00:58:19,120
+volume. Like it's at the lowest package, it's, it's a no brainer, especially with the, with the
+
+639
+00:58:19,120 --> 00:58:27,920
+discount. Okay. Um, you can use it for SEP. Okay. Anyway, um, Kirk says just registered,
+
+640
+00:58:27,920 --> 00:58:31,280
+but it's us only, do we lose out on the offer? Any idea on the UK feature?
+
+641
+00:58:33,840 --> 00:58:39,200
+Uh, so let's see, just registered. That's right. Yep. So it's, it's still just us only, right? So,
+
+642
+00:58:39,200 --> 00:58:44,720
+um, if you're, if you're in the UK or Canada, Australia, like we've heard you guys, you know,
+
+643
+00:58:44,720 --> 00:58:48,080
+we want to keep building this out for you guys. We're starting with the U S and then we're going
+
+644
+00:58:48,080 --> 00:58:52,960
+to expand it out from there. Um, Kurt messaged me when, when that time comes, we'll do something
+
+645
+00:58:52,960 --> 00:59:01,840
+special for every guy and, uh, gal in the UK. Um, one thing on, uh, dial outs, there are third
+
+646
+00:59:01,840 --> 00:59:08,960
+party programs that you can use like talking to that you can actually plug in your, uh, SEP
+
+647
+00:59:08,960 --> 00:59:15,760
+and SID. Oops. Um, this SID, I haven't tested that with this yet. Um, but you guys might be able to,
+
+648
+00:59:16,240 --> 00:59:20,560
+do it that way, right? So, um, that's, that's a possibility in any case, in the future,
+
+649
+00:59:20,560 --> 00:59:24,960
+we'll be able to make it to where you guys can use your numbers for dialing out using tools,
+
+650
+00:59:24,960 --> 00:59:29,120
+um, either natively built in or third party, but, um, that doesn't exist right now.
+
+651
+00:59:30,160 --> 00:59:35,520
+Beautiful. Ryan Dalton, you've done, you've done miracles, my friend. I'm excited to, uh,
+
+652
+00:59:35,520 --> 00:59:42,800
+get in play with this myself, get our entire agency over here. And, uh, yeah, anybody else guys,
+
+653
+00:59:42,800 --> 00:59:48,160
+again, Marcus just shared it one more time. Ignition 24, go to rankinventag.com sign up for
+
+654
+00:59:48,160 --> 00:59:53,680
+the package and let's, let's, let's go, let's go test this thing out. Let's go and give Ryan
+
+655
+00:59:53,680 --> 00:59:59,440
+as much feedback as possible and, and start, um, building our agencies on this. Yeah, man,
+
+656
+00:59:59,440 --> 01:00:02,960
+go build scale and automate. Let's do it. Thanks, Ryan. See you.
+

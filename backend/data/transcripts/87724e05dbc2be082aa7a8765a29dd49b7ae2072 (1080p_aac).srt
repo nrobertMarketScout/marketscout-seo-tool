@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:10,360
+All right, now that we have created the website, we're just missing the images.
+
+2
+00:00:10,360 --> 00:00:17,600
+So rule of thumb, we get 25 images total for our website that has three service pages and
+
+3
+00:00:17,600 --> 00:00:19,820
+that does not include the header photo.
+
+4
+00:00:19,820 --> 00:00:25,800
+So it's 25 plus 126 and the 26 photo is the header image.
+
+5
+00:00:25,800 --> 00:00:31,720
+So right here where it looks blue is going to be your header photo.
+
+6
+00:00:31,720 --> 00:00:37,040
+There is usually the best way you can get images is just by asking the business owner
+
+7
+00:00:37,040 --> 00:00:39,280
+that you landed.
+
+8
+00:00:39,280 --> 00:00:42,680
+The reason why is because you're going to be the best pictures you can get the most
+
+9
+00:00:42,680 --> 00:00:46,220
+local, the most like authentic photos for this.
+
+10
+00:00:46,220 --> 00:00:51,280
+It's going to make the website look really local, very authentic instead of getting stock
+
+11
+00:00:51,280 --> 00:00:52,280
+images.
+
+12
+00:00:52,280 --> 00:00:54,080
+So that's what we recommend you doing.
+
+13
+00:00:54,080 --> 00:00:58,160
+You do need to remember two rules when you're doing that.
+
+14
+00:00:58,160 --> 00:01:04,200
+Number one is when you're asking the business owner for photos, make sure that they are
+
+15
+00:01:04,200 --> 00:01:06,320
+not being used on his own website.
+
+16
+00:01:06,320 --> 00:01:10,800
+A lot of the times when you're pitching and you're selling leads, what happens is the
+
+17
+00:01:10,800 --> 00:01:16,760
+business owner already has a social media account, a Facebook page or their own website.
+
+18
+00:01:16,760 --> 00:01:24,520
+So we do not, and again, we do not want to use photos that are already being used by
+
+19
+00:01:24,520 --> 00:01:29,840
+him or her on their website or social media because that would be copyright.
+
+20
+00:01:29,840 --> 00:01:36,520
+So any photos that he sends you, they need to be fresh or unused on his own platforms.
+
+21
+00:01:36,520 --> 00:01:38,360
+That being said, that is the first rule.
+
+22
+00:01:38,360 --> 00:01:44,800
+Number two, let's say he has some fresh images or he's going to take pictures for you.
+
+23
+00:01:44,800 --> 00:01:48,800
+And one thing that I personally do is I just say, Hey, if you don't have photos, next
+
+24
+00:01:48,800 --> 00:01:53,640
+time you do go on the job, just take some on your phone and usually an iPhone camera
+
+25
+00:01:53,640 --> 00:01:54,640
+will be pretty good.
+
+26
+00:01:54,640 --> 00:01:58,200
+Take them on your phone and email them to me.
+
+27
+00:01:58,200 --> 00:02:02,360
+And then the number two rule is make sure that the pictures that are being taken do
+
+28
+00:02:02,360 --> 00:02:05,600
+not have the company's logo on it.
+
+29
+00:02:05,600 --> 00:02:06,600
+And just be attention.
+
+30
+00:02:06,600 --> 00:02:13,160
+Like a lot of the time, the concrete contractors will wear a t-shirt that has their company
+
+31
+00:02:13,160 --> 00:02:16,280
+logo on it or they'll drive a truck that has the company logo on it.
+
+32
+00:02:16,280 --> 00:02:21,320
+So make sure that the pictures that you're taking from the business owner do not have
+
+33
+00:02:21,320 --> 00:02:28,320
+their company name on it because we are targeting this website as Queen Creek concrete.
+
+34
+00:02:28,320 --> 00:02:31,360
+And if in the future you ever need to switch up the business owner, you don't have to
+
+35
+00:02:31,360 --> 00:02:34,760
+worry about, Oh, well, it's marketing that company.
+
+36
+00:02:34,760 --> 00:02:38,200
+So those are the two basic rules for images.
+
+37
+00:02:38,200 --> 00:02:43,400
+And then one last thing, let's say you cannot get images from the business owner.
+
+38
+00:02:43,400 --> 00:02:44,400
+You can.
+
+39
+00:02:44,400 --> 00:02:46,760
+And we do use stock images.
+
+40
+00:02:46,760 --> 00:02:50,160
+We like to use the free trials.
+
+41
+00:02:50,160 --> 00:02:57,280
+So for example, just go on Google and type free stock images and we'll have a video on
+
+42
+00:02:57,280 --> 00:03:00,360
+how to optimize images and get, grab those images.
+
+43
+00:03:00,360 --> 00:03:04,080
+But right now I'm just showing you very quickly.
+
+44
+00:03:04,080 --> 00:03:06,280
+We use like stock Adobe, Shutterstock.
+
+45
+00:03:06,280 --> 00:03:08,800
+They all have free trials that you can use.
+
+46
+00:03:08,800 --> 00:03:12,240
+So just go ahead and take advantage of those and you're done.
+

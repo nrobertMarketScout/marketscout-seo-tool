@@ -1,0 +1,3552 @@
+1
+00:00:00,000 --> 00:00:09,600
+Okay, guys, let's talk about how passive this model really is, and I'm going to be speaking
+
+2
+00:00:09,600 --> 00:00:15,640
+to those of you that maybe are brand new to this group, like a Kurt Dahlstrom.
+
+3
+00:00:15,640 --> 00:00:18,660
+Maybe I'm speaking to you that have been in this group for a minute.
+
+4
+00:00:18,660 --> 00:00:20,920
+You understand the model.
+
+5
+00:00:20,920 --> 00:00:26,140
+You might even have started building your first project, or maybe you've even landed
+
+6
+00:00:26,140 --> 00:00:31,580
+your first client, but you haven't really seen how passive this can become.
+
+7
+00:00:31,580 --> 00:00:35,320
+It's really important, Kurt Thomas, welcome from Cleveland, Ohio, welcome to The Call.
+
+8
+00:00:35,320 --> 00:00:39,860
+It's very easy for people to toss around the term passive, passive income, passive income,
+
+9
+00:00:39,860 --> 00:00:42,020
+passive income.
+
+10
+00:00:42,020 --> 00:00:47,340
+First and foremost, everyone's old enough and mature enough, and hopefully has enough
+
+11
+00:00:47,340 --> 00:00:53,660
+experience to realize there's really no such thing as 100% passivity, okay?
+
+12
+00:00:53,660 --> 00:00:59,300
+There's varying degrees of passivity, but there's not passive or non-passive.
+
+13
+00:00:59,300 --> 00:01:01,940
+It's just degrees, okay?
+
+14
+00:01:01,940 --> 00:01:05,020
+Even regular real estate is not completely passive.
+
+15
+00:01:05,020 --> 00:01:06,900
+You got to evict people sometimes.
+
+16
+00:01:06,900 --> 00:01:08,220
+You got to fix this.
+
+17
+00:01:08,220 --> 00:01:09,220
+You got to fix that.
+
+18
+00:01:09,220 --> 00:01:14,120
+You got to raise prices, re-sign contracts.
+
+19
+00:01:14,120 --> 00:01:16,300
+It's never 100% pass, okay?
+
+20
+00:01:16,300 --> 00:01:19,300
+Nothing is, and I'm not going to lie to you guys, for those of you that are new, for those
+
+21
+00:01:19,300 --> 00:01:22,220
+of you that are exploring this model, or for those of you that have gotten into it but
+
+22
+00:01:22,540 --> 00:01:25,620
+haven't quite gotten that website ranked, I'm not going to lie and say it's completely
+
+23
+00:01:25,620 --> 00:01:27,980
+passive because nothing is completely passive, okay?
+
+24
+00:01:27,980 --> 00:01:30,980
+So we're going to start there.
+
+25
+00:01:30,980 --> 00:01:37,420
+Also, what I would like to do is give away a little bit of swag.
+
+26
+00:01:37,420 --> 00:01:43,540
+Let me see if I can show everybody, let me see if I can show everybody what we got, okay?
+
+27
+00:01:43,540 --> 00:01:48,260
+First and foremost, some of the stuff that we have, we have the t-shirts, we have the
+
+28
+00:01:48,260 --> 00:01:54,900
+mouse pads, we have the AirPod cases, we have the coffee mugs, we have the stickers.
+
+29
+00:01:54,900 --> 00:01:58,100
+We got a few little knickknacks, whatever, that can sit on your desk.
+
+30
+00:01:58,100 --> 00:02:00,940
+We got some hoodies, some hats.
+
+31
+00:02:00,940 --> 00:02:02,940
+So we're going to be giving away some swag today.
+
+32
+00:02:02,940 --> 00:02:07,460
+So I appreciate you guys being active on the call.
+
+33
+00:02:07,460 --> 00:02:11,340
+I'm going to be choosing a few winners and give away some stuff, okay?
+
+34
+00:02:11,340 --> 00:02:13,460
+So just stick with me.
+
+35
+00:02:13,460 --> 00:02:18,180
+There's Nick Bass, Nick Bassaraba from Canada as well, and we're going to be talking about
+
+36
+00:02:18,180 --> 00:02:21,380
+a bunch of stuff today, but I'm going to also be doing that, okay?
+
+37
+00:02:21,380 --> 00:02:26,340
+So for those of you that maybe are new to this group, Kurt, some of you guys have heard
+
+38
+00:02:26,340 --> 00:02:28,020
+my story, some of you haven't.
+
+39
+00:02:28,020 --> 00:02:33,180
+I'm not going to share it again, but if you watch any of my content, you'll hear the story.
+
+40
+00:02:33,180 --> 00:02:34,900
+Been doing this eight years.
+
+41
+00:02:34,900 --> 00:02:42,020
+I've made by renting, by building and renting simple websites, have made well over a million
+
+42
+00:02:42,020 --> 00:02:47,640
+dollars for the past four years, with the exception of 2020 and 2021.
+
+43
+00:02:47,640 --> 00:02:51,440
+Those years, we made a million in 2020, just over.
+
+44
+00:02:51,440 --> 00:02:59,800
+We did 1.45, 1.5 in 2021, but it's been well over that since, and we will never go back.
+
+45
+00:02:59,800 --> 00:03:05,160
+But I want you guys to know that we made this money, we're making this money doing the model
+
+46
+00:03:05,160 --> 00:03:09,160
+that we're teaching in this program, which is building and renting simple websites.
+
+47
+00:03:09,160 --> 00:03:11,140
+And that's what you need to know about me.
+
+48
+00:03:11,140 --> 00:03:15,280
+That's what you should be asking yourself is why the heck should I listen to this guy
+
+49
+00:03:15,360 --> 00:03:20,760
+who's just another, you know, somebody full of crap, whatever, you know, it's crazy how
+
+50
+00:03:20,760 --> 00:03:24,800
+distrusting I am and how distrusting guys, let me tell you the most hilarious thing that
+
+51
+00:03:24,800 --> 00:03:30,440
+happened about a month and about five weeks ago, it was just before I went to Dubai.
+
+52
+00:03:30,440 --> 00:03:34,880
+And my, I have, I have a Lamborghini Huracan parked in my garage.
+
+53
+00:03:34,880 --> 00:03:38,720
+By the way, I waited until I could pay completely just cash for this thing, or else I wasn't
+
+54
+00:03:38,720 --> 00:03:39,720
+going to do it.
+
+55
+00:03:39,720 --> 00:03:40,720
+And this, I bought this thing.
+
+56
+00:03:40,720 --> 00:03:45,200
+It'd be a year on October 31st, like it's been almost a year guys in 2020.
+
+57
+00:03:46,120 --> 00:03:47,760
+I've driven it three times.
+
+58
+00:03:47,760 --> 00:03:48,760
+Okay.
+
+59
+00:03:48,760 --> 00:03:53,000
+One of those times was about five weeks ago, my son was going to school.
+
+60
+00:03:53,000 --> 00:03:54,000
+There's only two seats.
+
+61
+00:03:54,000 --> 00:03:57,440
+You can't even take all the kids, but he's like, yeah, let's take the car, drop me off
+
+62
+00:03:57,440 --> 00:03:58,440
+in the Lamborghini.
+
+63
+00:03:58,440 --> 00:03:59,440
+I'm like, okay, cool.
+
+64
+00:03:59,440 --> 00:04:01,720
+Pull up, drop him off.
+
+65
+00:04:01,720 --> 00:04:04,080
+His friends are going crazy, whatever.
+
+66
+00:04:04,080 --> 00:04:08,840
+And I was talking about their school and he goes, yeah, my buddies, my buddies, they asked
+
+67
+00:04:08,840 --> 00:04:12,160
+me if you rent, if you were renting the Lamborghini.
+
+68
+00:04:12,160 --> 00:04:16,000
+And I just, I laugh and he didn't even know that was a thing, which is good.
+
+69
+00:04:16,000 --> 00:04:17,880
+But he's, he told, I said, what'd you say?
+
+70
+00:04:17,880 --> 00:04:20,720
+He's like, yeah, I just told him, I don't think that's even an option.
+
+71
+00:04:20,720 --> 00:04:24,480
+The point that I'm making guys is there's so much fake stuff out there that even people
+
+72
+00:04:24,480 --> 00:04:29,880
+that are even these 10, 11, 12 year old kids, they see a sports car and they just assume
+
+73
+00:04:29,880 --> 00:04:30,880
+the person's fake.
+
+74
+00:04:30,880 --> 00:04:32,760
+They assume that they're renting the Lamborghini.
+
+75
+00:04:32,760 --> 00:04:34,120
+They assume that they're full of crap.
+
+76
+00:04:34,120 --> 00:04:37,880
+And so you can look at that as a bad thing or a good thing.
+
+77
+00:04:37,880 --> 00:04:40,040
+I look at it as, as who cares?
+
+78
+00:04:40,560 --> 00:04:45,400
+I want you guys to be distrusting because if you trust me and just take my word for
+
+79
+00:04:45,400 --> 00:04:46,880
+it, you're going to trust everybody after me.
+
+80
+00:04:46,880 --> 00:04:50,160
+So I want you to listen to what I'm saying.
+
+81
+00:04:50,160 --> 00:04:52,880
+When you get to be in business for a little while, you can tell if somebody's full of
+
+82
+00:04:52,880 --> 00:04:55,400
+crap or if they've actually been there and done that.
+
+83
+00:04:55,400 --> 00:05:00,120
+And I want you to like, does, does your gut tell you like, does you feel, does it feel
+
+84
+00:05:00,120 --> 00:05:01,120
+natural?
+
+85
+00:05:01,120 --> 00:05:03,040
+Does it feel like I'm making it up?
+
+86
+00:05:03,040 --> 00:05:06,040
+And if you don't feel like what I'm saying is true, I don't, I don't want you to be on
+
+87
+00:05:06,040 --> 00:05:07,040
+these calls.
+
+88
+00:05:07,040 --> 00:05:09,280
+I don't, I don't want you to have to pretend or to fake or whatever.
+
+89
+00:05:09,280 --> 00:05:13,960
+I want you to question everything and every group you are online and every person that
+
+90
+00:05:13,960 --> 00:05:14,960
+you hear.
+
+91
+00:05:14,960 --> 00:05:18,880
+And so I wanted to start by letting you know, I've made millions and millions of dollars
+
+92
+00:05:18,880 --> 00:05:22,200
+doing the business model of building simple websites and renting them out for passive
+
+93
+00:05:22,200 --> 00:05:23,200
+income.
+
+94
+00:05:23,200 --> 00:05:24,520
+That's why I'm here talking to you guys.
+
+95
+00:05:24,520 --> 00:05:25,520
+Okay.
+
+96
+00:05:25,520 --> 00:05:26,520
+Not because I think I'm smart.
+
+97
+00:05:26,520 --> 00:05:30,080
+Not because of this, that or whatever, it's because I've actually done it and I'm continuing
+
+98
+00:05:30,080 --> 00:05:31,080
+to do it.
+
+99
+00:05:31,080 --> 00:05:32,080
+Okay.
+
+100
+00:05:32,080 --> 00:05:36,080
+So what I want to do, my goal by the end of this call, we're going to do like, I'd say
+
+101
+00:05:36,080 --> 00:05:37,920
+about 20 to 25 minutes.
+
+102
+00:05:37,920 --> 00:05:40,280
+I'm going to talk about this passivity.
+
+103
+00:05:40,280 --> 00:05:42,520
+How passive is this model?
+
+104
+00:05:42,520 --> 00:05:44,640
+And then we're going to go into some Q&A stuff.
+
+105
+00:05:44,640 --> 00:05:48,840
+Also throughout this call, if you guys have Q&A that's relevant, I want to answer it as
+
+106
+00:05:48,840 --> 00:05:50,040
+we go.
+
+107
+00:05:50,040 --> 00:05:53,400
+I know we're not on a zoom call, but I would like this to be more back and forth.
+
+108
+00:05:53,400 --> 00:05:59,280
+So don't wait until I'm done to ask your questions, ask them, especially if it's related to what
+
+109
+00:05:59,280 --> 00:06:00,280
+I'm talking about.
+
+110
+00:06:00,280 --> 00:06:01,280
+Okay.
+
+111
+00:06:01,280 --> 00:06:05,560
+But again, my goal for this, this episode or it's not really an episode, but this, this
+
+112
+00:06:05,880 --> 00:06:10,360
+call today is that I want you guys by the end to know exactly how passive this model
+
+113
+00:06:10,360 --> 00:06:13,680
+is and then you can base your decisions off of that.
+
+114
+00:06:13,680 --> 00:06:14,680
+Okay.
+
+115
+00:06:14,680 --> 00:06:15,680
+No BS, no fluff, et cetera.
+
+116
+00:06:15,680 --> 00:06:16,680
+Okay.
+
+117
+00:06:16,680 --> 00:06:19,040
+So here's some of the stuff that we're going to cover, guys.
+
+118
+00:06:19,040 --> 00:06:21,120
+We're going to be talking about how nothing's truly passive.
+
+119
+00:06:21,120 --> 00:06:22,120
+Just a tiny bit more.
+
+120
+00:06:22,120 --> 00:06:23,120
+I've already talked about that.
+
+121
+00:06:23,120 --> 00:06:27,560
+We're going to talk about where most of the work with this business model comes.
+
+122
+00:06:27,560 --> 00:06:31,240
+Then we're going to be talking about the most important step of the process.
+
+123
+00:06:31,240 --> 00:06:34,880
+Then we're going to be talking about different clients and how each client is not created
+
+124
+00:06:35,200 --> 00:06:36,200
+equally.
+
+125
+00:06:36,200 --> 00:06:40,320
+Then I'm going to show you guys and talk to you about some of my most passive websites.
+
+126
+00:06:40,320 --> 00:06:45,440
+Then I'm going to talk to you about why I believe this is the most passive, what, sorry,
+
+127
+00:06:45,440 --> 00:06:50,620
+why I believe this is such a passive model, why it's, why it can be that passive.
+
+128
+00:06:50,620 --> 00:06:52,440
+And then I'm going to give you guys a little bit of bonus at the end and we're going to
+
+129
+00:06:52,440 --> 00:06:53,440
+wrap this up and do some Q&A.
+
+130
+00:06:53,440 --> 00:06:54,440
+Okay.
+
+131
+00:06:54,440 --> 00:06:57,880
+So I want to get into it really, really quick, but as usual, I completely forgot to turn
+
+132
+00:06:57,880 --> 00:07:00,680
+my AC off or on, so give me one second.
+
+133
+00:07:00,680 --> 00:07:03,360
+It's still like a hundred and freaking something here.
+
+134
+00:07:03,840 --> 00:07:04,840
+Give me one sec.
+
+135
+00:07:04,840 --> 00:07:05,840
+Hold on.
+
+136
+00:07:22,840 --> 00:07:27,000
+All right, guys, let's talk about passive, the passivity of this business model.
+
+137
+00:07:27,000 --> 00:07:28,000
+Okay.
+
+138
+00:07:28,000 --> 00:07:30,680
+As I already mentioned, nothing is completely passive.
+
+139
+00:07:31,000 --> 00:07:33,680
+And by the way, I actually want to ask this question.
+
+140
+00:07:33,680 --> 00:07:38,040
+If anybody on this call right now, there's 10 of you guys on, if anybody knows of a model
+
+141
+00:07:38,040 --> 00:07:42,440
+that is completely 100% passive, I would love for you guys to let me know in the comments.
+
+142
+00:07:42,440 --> 00:07:43,440
+Okay.
+
+143
+00:07:43,440 --> 00:07:46,480
+Because to my knowledge, there is nothing that is passive, 100%.
+
+144
+00:07:46,480 --> 00:07:47,480
+Okay.
+
+145
+00:07:47,480 --> 00:07:51,120
+Does anyone know of any, any business model out there?
+
+146
+00:07:51,120 --> 00:07:56,800
+TikTok shop, from TikTok shop to whatever, does anyone know of a business model that
+
+147
+00:07:56,800 --> 00:07:57,800
+is completely passive?
+
+148
+00:07:57,800 --> 00:07:58,800
+Matthew Torres, welcome to the call.
+
+149
+00:08:00,800 --> 00:08:05,600
+I'm going to wait.
+
+150
+00:08:05,600 --> 00:08:08,680
+Does anybody know of a business model that is completely passive?
+
+151
+00:08:08,680 --> 00:08:14,320
+John, John Galenvo, I think.
+
+152
+00:08:14,320 --> 00:08:18,520
+Sean Sean is also in.
+
+153
+00:08:18,520 --> 00:08:20,320
+Kurt says just failure.
+
+154
+00:08:20,320 --> 00:08:24,280
+Yeah, that's passive.
+
+155
+00:08:24,280 --> 00:08:26,320
+Luke Pritchard, what's on, or what's going on, man?
+
+156
+00:08:26,320 --> 00:08:28,720
+Luke Pritchard was our winner of our recent scholarship.
+
+157
+00:08:28,760 --> 00:08:31,920
+Shout out to Luke in Australia.
+
+158
+00:08:31,920 --> 00:08:35,680
+So guys, as I'm continuing, if you guys can think of anything that's 100% passive, please
+
+159
+00:08:35,680 --> 00:08:36,680
+let me know.
+
+160
+00:08:36,680 --> 00:08:37,680
+But to my knowledge, there's no such thing.
+
+161
+00:08:37,680 --> 00:08:38,680
+Okay.
+
+162
+00:08:38,680 --> 00:08:41,660
+As I mentioned before, there's, there's nothing that's completely passive.
+
+163
+00:08:41,660 --> 00:08:43,880
+There's varying degrees of passivity.
+
+164
+00:08:43,880 --> 00:08:47,120
+And on the one hand, there's something, there's things that are not passive at all.
+
+165
+00:08:47,120 --> 00:08:49,560
+On the other hand, there's things that are very passive.
+
+166
+00:08:49,560 --> 00:08:54,320
+And we're going to talk about where on the scale this business model actually ends up.
+
+167
+00:08:54,320 --> 00:08:55,320
+Okay.
+
+168
+00:08:55,680 --> 00:08:58,920
+For those of you that have never done this, what you need to understand about this business
+
+169
+00:08:58,920 --> 00:09:06,560
+model is that all of the work of this business model is front loaded and it is very, very
+
+170
+00:09:06,560 --> 00:09:07,560
+front loaded.
+
+171
+00:09:07,560 --> 00:09:08,560
+Okay.
+
+172
+00:09:08,560 --> 00:09:12,320
+It's not like you do a certain amount here and then you do a certain amount in the middle
+
+173
+00:09:12,320 --> 00:09:13,960
+and then a little bit at the end.
+
+174
+00:09:13,960 --> 00:09:20,060
+It is almost entirely front loaded and it seems like a lot in the beginning.
+
+175
+00:09:20,060 --> 00:09:24,140
+But if you can get to the point where you can get the client, get the website ranking,
+
+176
+00:09:24,140 --> 00:09:30,500
+get the ads turned down a bit, you can create something that is pretty darn passive.
+
+177
+00:09:30,500 --> 00:09:33,860
+Jason Allred says nothing is passive.
+
+178
+00:09:33,860 --> 00:09:37,060
+I don't think so either, but if somebody can correct me, that'd be great.
+
+179
+00:09:37,060 --> 00:09:38,060
+Okay.
+
+180
+00:09:38,060 --> 00:09:39,060
+Guys.
+
+181
+00:09:39,060 --> 00:09:43,940
+The reason why this is such a front loaded business is because, I'm going to say this,
+
+182
+00:09:43,940 --> 00:09:46,700
+the biggest thing which we're going to, I don't want to jump ahead too much, but the
+
+183
+00:09:46,700 --> 00:09:49,460
+biggest thing that you got to start with is you got to pick the right city and you got
+
+184
+00:09:49,460 --> 00:09:50,460
+to pick the right industry.
+
+185
+00:09:50,460 --> 00:09:53,700
+If you don't pick the right city and the right industry, you're dead in the water.
+
+186
+00:09:53,700 --> 00:09:54,700
+Okay.
+
+187
+00:09:54,700 --> 00:09:55,700
+I know some of you guys have been in this long enough.
+
+188
+00:09:55,700 --> 00:09:58,900
+You're like, yeah, we already know this, but I don't know if you actually understand how
+
+189
+00:09:58,900 --> 00:10:00,300
+important this is.
+
+190
+00:10:00,300 --> 00:10:03,660
+What happens is when you first get into this model, you're so anxious to get your first
+
+191
+00:10:03,660 --> 00:10:04,660
+website up.
+
+192
+00:10:04,660 --> 00:10:09,800
+You're so anxious to just get going, which I respect and I love, but you go and you go
+
+193
+00:10:09,800 --> 00:10:14,180
+into the wrong city, you go into the wrong niche and then you're like, I can't get my
+
+194
+00:10:14,180 --> 00:10:19,140
+website to rank or my website's ranking, it's not producing leads or my website's ranking,
+
+195
+00:10:19,140 --> 00:10:21,460
+it's producing leads, but I can't find a hungry business owner.
+
+196
+00:10:21,500 --> 00:10:23,900
+Any one of those options does not equal money.
+
+197
+00:10:23,900 --> 00:10:27,300
+So guys, you have to know how to do due diligence.
+
+198
+00:10:27,300 --> 00:10:29,260
+You have to know how to pick a city and how to pick a niche.
+
+199
+00:10:29,260 --> 00:10:35,220
+Some of you guys think that just because you research something and the CPC is below $5,
+
+200
+00:10:35,220 --> 00:10:40,100
+which for those of you who have no idea what I'm talking about, I'm coming, just chill,
+
+201
+00:10:40,100 --> 00:10:41,260
+that you're just going to go into it.
+
+202
+00:10:41,260 --> 00:10:42,340
+That's not the case, guys.
+
+203
+00:10:42,340 --> 00:10:51,420
+It took me from 2016 to 2020, mid-2020, before I felt like I had a process for picking a
+
+204
+00:10:51,420 --> 00:10:56,660
+city and a niche, that was bulletproof and the only reason I was able to develop it is
+
+205
+00:10:56,660 --> 00:10:59,540
+because I went into so many of the wrong cities and so many of the wrong niches.
+
+206
+00:10:59,540 --> 00:11:04,460
+I went into 50 different cities in the wrong niche, okay, 50.
+
+207
+00:11:04,460 --> 00:11:07,580
+I don't know how many times I've been into a city and a niche that looked good and I've
+
+208
+00:11:07,580 --> 00:11:09,900
+come to find out it's not good, okay.
+
+209
+00:11:09,900 --> 00:11:12,980
+I've made the mistakes, I've done all those things and that's how I know what the model
+
+210
+00:11:12,980 --> 00:11:13,980
+is.
+
+211
+00:11:13,980 --> 00:11:16,660
+So you got to, you know, it's front-loaded because you got to pick the city, you got
+
+212
+00:11:16,660 --> 00:11:19,380
+to pick the niche, you got to make sure that's perfect.
+
+213
+00:11:19,420 --> 00:11:22,660
+Then you got to also, you know, let's say you got to land the client.
+
+214
+00:11:22,660 --> 00:11:26,740
+The way that I teach it is I go, I get a client first, I get the contract, I get the credit
+
+215
+00:11:26,740 --> 00:11:27,740
+contract, you got to get the client.
+
+216
+00:11:27,740 --> 00:11:31,180
+Then once you get the client, you got to build a website and after you build the website,
+
+217
+00:11:31,180 --> 00:11:34,220
+you got to do the SEO and the content and da-da-da-da-da and then you got to do the
+
+218
+00:11:34,220 --> 00:11:37,140
+backlinks, you got to get this ranked, you got to keep the client happy.
+
+219
+00:11:37,140 --> 00:11:42,780
+But guys, once you get to the point where you've built the website, you got the deal,
+
+220
+00:11:42,780 --> 00:11:46,020
+okay, and these are not in any specific order because you guys know that I get the client
+
+221
+00:11:46,020 --> 00:11:47,540
+first and then I get the website.
+
+222
+00:11:47,700 --> 00:11:52,020
+But once you get to the point where you do those things, you have a website, you have
+
+223
+00:11:52,020 --> 00:11:56,900
+a client and the client has been with you that initial six months, okay?
+
+224
+00:11:56,900 --> 00:11:59,780
+What I do at that point is I roll them into another contract.
+
+225
+00:11:59,780 --> 00:12:03,820
+So they're with me six months and then I'm like, hey, does this sound like, is it going
+
+226
+00:12:03,820 --> 00:12:06,780
+good because for me it looks good, I would like to continue with you, are you going to
+
+227
+00:12:06,780 --> 00:12:07,780
+continue with me?
+
+228
+00:12:07,780 --> 00:12:08,780
+Yes, okay, sounds good.
+
+229
+00:12:08,780 --> 00:12:09,980
+Here's what we're going to do.
+
+230
+00:12:09,980 --> 00:12:15,060
+We're going to extend this out a year and I'm going to lock in your rate for you.
+
+231
+00:12:15,060 --> 00:12:21,940
+And guys, I'm telling you that if you can just get business owners, keep them happy,
+
+232
+00:12:21,940 --> 00:12:27,740
+get them to that six month mark and get them into a second contract, even if it's six months,
+
+233
+00:12:27,740 --> 00:12:30,340
+but I try to get them into a year contract right away.
+
+234
+00:12:30,340 --> 00:12:33,100
+So then I'm always on yearly contracts, right?
+
+235
+00:12:33,100 --> 00:12:36,380
+Once you get past that initial contract, if you can get them to sign into another one
+
+236
+00:12:36,380 --> 00:12:40,460
+and you've done your homework, you've done your SEO, you've done your website, this is
+
+237
+00:12:40,460 --> 00:12:42,100
+where the business model becomes fun.
+
+238
+00:12:42,140 --> 00:12:45,980
+This is where the business model becomes very, very passive and this is where everything
+
+239
+00:12:45,980 --> 00:12:48,700
+opens up and you can start to really scale, okay?
+
+240
+00:12:48,700 --> 00:12:52,300
+But I'm here to tell you that all the work is going to come in that first six months
+
+241
+00:12:52,300 --> 00:12:56,900
+and inside of that first six months, 90% of that work is going to come inside the first
+
+242
+00:12:56,900 --> 00:12:59,460
+month, because that's when you're going to be landing the client, when you're going to
+
+243
+00:12:59,460 --> 00:13:02,220
+be doing the due diligence, when you're going to be sending the leads, when you're going
+
+244
+00:13:02,220 --> 00:13:03,220
+to be setting up the website.
+
+245
+00:13:03,220 --> 00:13:06,500
+And then once you get the website, you start doing the content, then you're just slowly
+
+246
+00:13:06,660 --> 00:13:12,460
+dripping out backlinks or updating this, that, adding a photo, doing a blog, whatever, and
+
+247
+00:13:12,460 --> 00:13:13,460
+it's not that much.
+
+248
+00:13:13,460 --> 00:13:17,020
+So in the first six months is all of the work.
+
+249
+00:13:17,020 --> 00:13:18,860
+All of the work is in the first six months.
+
+250
+00:13:18,860 --> 00:13:23,100
+Inside of those six months, inside the first month, maybe even say 45 days to be safe,
+
+251
+00:13:23,100 --> 00:13:28,020
+inside the first 45 days of the first six months is where all the work comes and it
+
+252
+00:13:28,020 --> 00:13:32,780
+slowly begins to get lighter and lighter and easier and easier, okay?
+
+253
+00:13:32,820 --> 00:13:37,700
+So you guys need to understand that this business model is frontloaded, okay?
+
+254
+00:13:37,700 --> 00:13:43,140
+Now Scott Gray asked the golden question.
+
+255
+00:13:43,140 --> 00:13:46,540
+He said, how do you pick the city and niche?
+
+256
+00:13:46,540 --> 00:13:48,300
+Very carefully, my friend, very carefully.
+
+257
+00:13:48,300 --> 00:13:56,860
+I'm going to give you guys a couple of criteria, but again, guys, that is, there's no way
+
+258
+00:13:56,860 --> 00:13:58,580
+I could answer that on this call.
+
+259
+00:13:58,580 --> 00:14:02,380
+Even if we had an hour call dedicated to that question, then there's no way I could even
+
+260
+00:14:02,380 --> 00:14:03,380
+touch it.
+
+261
+00:14:03,380 --> 00:14:04,860
+It is something that is an exact process.
+
+262
+00:14:04,860 --> 00:14:09,780
+That's something that we teach inside Digital Landlords, however, you don't have to be inside
+
+263
+00:14:09,780 --> 00:14:10,780
+Digital Landlords.
+
+264
+00:14:10,780 --> 00:14:12,340
+You can go develop your own due diligence.
+
+265
+00:14:12,340 --> 00:14:17,220
+You can go develop your own system for picking a city and a niche, but it's going to require
+
+266
+00:14:17,220 --> 00:14:23,380
+you to be willing to fail on a lot of projects, be willing to not rank on a lot of projects.
+
+267
+00:14:23,380 --> 00:14:26,740
+So a couple of things, though, guys, on the niche.
+
+268
+00:14:26,740 --> 00:14:30,100
+I'm a big believer, you guys have heard me say this before, go into the boring, tried
+
+269
+00:14:30,100 --> 00:14:32,700
+and true niches until you get till your bills are paid.
+
+270
+00:14:32,700 --> 00:14:37,420
+If your bills are 10K a month, you probably need to make about $15,000, $16,000 gross
+
+271
+00:14:37,420 --> 00:14:41,740
+to net that because you're going to have some ad spend in there if you're going to pre-sell.
+
+272
+00:14:41,740 --> 00:14:46,140
+So until you get to like $15,000, $16,000 per month gross, I wouldn't even worry about
+
+273
+00:14:46,140 --> 00:14:47,140
+changing niches.
+
+274
+00:14:47,140 --> 00:14:52,580
+I would stay in the basic niches, the concrete, the spray foam, the masonry, artificial grass,
+
+275
+00:14:52,580 --> 00:14:57,900
+the fencing, the, you know, duct cleaning, the gutter installation, the basic tried and
+
+276
+00:14:57,900 --> 00:14:58,900
+true niches first.
+
+277
+00:14:58,940 --> 00:15:00,780
+Okay, that's what I'd say in terms of the niches.
+
+278
+00:15:03,820 --> 00:15:06,220
+Picking a city, I'll give you a couple of tips.
+
+279
+00:15:06,220 --> 00:15:17,420
+Number one, population does not matter, search volume does, growing areas, if you know that
+
+280
+00:15:17,420 --> 00:15:21,540
+it's a growing area because you've lived there, you have family there, you have some kind
+
+281
+00:15:21,540 --> 00:15:28,100
+of intel, maybe you're a lumber salesman and you like know that the top performing reps
+
+282
+00:15:28,100 --> 00:15:34,220
+are in Bentonville, Arkansas and you're like, oh, that's weird, it must be a huge boom.
+
+283
+00:15:34,220 --> 00:15:38,100
+That's interesting, you're going to be, there's a lot of population, so that means that most
+
+284
+00:15:38,100 --> 00:15:42,940
+of the time for these basic services, there's going to be an increase in demand, right,
+
+285
+00:15:42,940 --> 00:15:45,060
+because the area is growing.
+
+286
+00:15:45,060 --> 00:15:49,700
+Another thing on city is typically the lower the population, the lower the competition,
+
+287
+00:15:49,700 --> 00:15:52,540
+but that's not always the case.
+
+288
+00:15:52,540 --> 00:15:54,300
+What else can I say in terms of city?
+
+289
+00:15:54,380 --> 00:15:58,220
+I would definitely highly, highly, highly and strongly recommend that whatever city
+
+290
+00:15:58,220 --> 00:16:04,740
+you go into, that the average cost per click is less than $5 and if that doesn't mean anything
+
+291
+00:16:04,740 --> 00:16:09,060
+to you, it doesn't make any sense at all, you haven't watched enough content, but it
+
+292
+00:16:09,060 --> 00:16:13,780
+will, those are some of my criteria, but everyone wants to talk about population and this, that,
+
+293
+00:16:13,780 --> 00:16:17,500
+the rest, oh, the other thing I would mention, try not to go in cities and states that are
+
+294
+00:16:17,500 --> 00:16:19,500
+super seasonal, okay?
+
+295
+00:16:19,500 --> 00:16:23,940
+I try to stay out of North Dakota, I try to stay out of Minnesota, I try to stay out of
+
+296
+00:16:23,940 --> 00:16:29,980
+stuff that's so extreme, Chicago, it's very hot, it's very cold and it's swinging and
+
+297
+00:16:29,980 --> 00:16:32,860
+all of a sudden you've got these contractors that don't want to work and all this stuff,
+
+298
+00:16:32,860 --> 00:16:37,660
+that's just some of the things I would recommend without giving you all the secret sauce, okay?
+
+299
+00:16:37,660 --> 00:16:38,660
+There you go.
+
+300
+00:16:38,660 --> 00:16:41,660
+Scott, does that answer your question?
+
+301
+00:16:41,660 --> 00:16:47,180
+Okay, we've got another question.
+
+302
+00:16:47,180 --> 00:16:52,620
+Munib Kashif says one question, if there's no ads running in your niche and also there
+
+303
+00:16:52,660 --> 00:16:58,100
+are businesses ranked organically, is it a flag not to get in there, especially if you're
+
+304
+00:16:58,100 --> 00:16:59,100
+beginning?
+
+305
+00:16:59,100 --> 00:17:03,660
+If there's ads in your niche and there's also businesses ranked organically, there's always
+
+306
+00:17:03,660 --> 00:17:07,660
+going to be businesses ranked organically, dog, somebody's got to be ranked organically,
+
+307
+00:17:07,660 --> 00:17:11,340
+so that's not a red flag for me, if I see businesses ranked organically, then that's
+
+308
+00:17:11,340 --> 00:17:16,740
+just part of Google, somebody has to rank at the top of Google, you know, even if it's
+
+309
+00:17:16,740 --> 00:17:22,060
+crappy competition, they're still taking your traffic, so I don't worry as much about that
+
+310
+00:17:22,060 --> 00:17:27,380
+and also if people are running ads, no, that doesn't scare me at all.
+
+311
+00:17:27,380 --> 00:17:29,100
+If people are running ads, you know what that means?
+
+312
+00:17:29,100 --> 00:17:32,580
+That means that they've got some hungry business owners that I'm going to go sell to, I'm going
+
+313
+00:17:32,580 --> 00:17:37,140
+to go sell my service to these hungry business owners, so absolutely not, is that a red flag
+
+314
+00:17:37,140 --> 00:17:38,140
+in my opinion, okay?
+
+315
+00:17:38,140 --> 00:17:39,140
+Good question.
+
+316
+00:17:39,140 --> 00:17:42,460
+If anyone has any more questions, keep dropping the questions, these are good questions, they're
+
+317
+00:17:42,460 --> 00:17:46,180
+relevant questions, I appreciate them, okay?
+
+318
+00:17:46,180 --> 00:17:49,500
+Next thing I want to talk about really, really quick, guys, is just to reiterate a little
+
+319
+00:17:49,540 --> 00:17:56,540
+bit more, is if you pick the right city and you pick the right niche, once you are ranked,
+
+320
+00:17:56,540 --> 00:18:01,180
+this business requires very little work, it's kind of like climbing a mountain, okay?
+
+321
+00:18:01,180 --> 00:18:04,340
+And what I mean by that, if you guys have ever climbed a mountain, it's like this huge
+
+322
+00:18:04,340 --> 00:18:09,140
+steep ascension and you get, you're climbing, you're grabbing branches, you're falling down,
+
+323
+00:18:09,140 --> 00:18:13,740
+you're getting dirty, whatever, whatever, you just claw your way to the top and it's
+
+324
+00:18:13,820 --> 00:18:20,820
+a real pain, and then once you get to the top, to stay at the top is very easy, right?
+
+325
+00:18:20,820 --> 00:18:24,860
+A lot of times these hills, they're flat at the top, whatever, once you get to the top,
+
+326
+00:18:24,860 --> 00:18:29,540
+to stay at the top, it's easy, it's very, very easy, right?
+
+327
+00:18:29,540 --> 00:18:33,180
+It's the climb that's so hard, and so you guys need to understand that even though you've
+
+328
+00:18:33,180 --> 00:18:37,420
+got all this front-load of work, you've got six months of hard work and probably 45 days
+
+329
+00:18:37,420 --> 00:18:42,220
+of really hard work in the very beginning, guys, once you get to the top of this mountain,
+
+330
+00:18:42,220 --> 00:18:47,020
+once you get to that six-month mark, websites ranking, clients in the year two or the second
+
+331
+00:18:47,020 --> 00:18:52,580
+contract, this business model becomes very, very passive, okay?
+
+332
+00:18:52,580 --> 00:18:57,220
+And I've got plenty of different examples for you guys that I can share, but I just
+
+333
+00:18:57,220 --> 00:19:00,780
+want you guys to understand that you've got to remember that picking that right city in
+
+334
+00:19:00,780 --> 00:19:06,820
+that right niche is so vital because it changes the entire freaking game, and if you don't
+
+335
+00:19:06,820 --> 00:19:12,620
+pick the right city in the right niche, from experience, everything becomes harder, okay?
+
+336
+00:19:12,620 --> 00:19:14,780
+Now let's talk really quick.
+
+337
+00:19:14,780 --> 00:19:19,780
+I want to let you guys know that not all clients are created equally, okay?
+
+338
+00:19:19,780 --> 00:19:23,540
+Not all clients, and the truth is that once you get to the top of Google, you're pretty
+
+339
+00:19:23,540 --> 00:19:25,820
+well going to stay ranked at the top of Google.
+
+340
+00:19:25,820 --> 00:19:30,500
+Unless somebody comes in, it's like a really popular city, it's a big city, and you attract
+
+341
+00:19:30,500 --> 00:19:34,620
+some big competition, most likely you're not going to get overtaken, and even if you do,
+
+342
+00:19:34,620 --> 00:19:37,540
+you're going to get bumped down one spot, you do a little bit of SEO, you're back up,
+
+343
+00:19:37,540 --> 00:19:38,540
+okay?
+
+344
+00:19:38,540 --> 00:19:41,300
+It's not going to be that difficult once you get ranked to stay at the top.
+
+345
+00:19:41,300 --> 00:19:48,520
+However, okay, however, business owners are a different story, yeah?
+
+346
+00:19:48,520 --> 00:19:49,660
+Business owners are a different story.
+
+347
+00:19:49,660 --> 00:19:53,140
+You could be at the top of Google, you could be producing the most amount of leads, and
+
+348
+00:19:53,140 --> 00:19:57,260
+you could have the most high-maintenance business owner on the planet, and that is going to
+
+349
+00:19:57,260 --> 00:20:02,020
+make this one of the most least passive business models on the planet because of your business
+
+350
+00:20:02,020 --> 00:20:03,020
+owner, okay?
+
+351
+00:20:03,420 --> 00:20:07,020
+I've had some of the best business owners that I don't talk to ever, that I literally
+
+352
+00:20:07,020 --> 00:20:13,420
+talk to once every two years, once every three years, and I'm checking on them to see how
+
+353
+00:20:13,420 --> 00:20:15,880
+their wife did when they went to surgery.
+
+354
+00:20:15,880 --> 00:20:19,380
+You could also have the business owner that literally thinks that they can text you every
+
+355
+00:20:19,380 --> 00:20:23,260
+single day and ask you where the leads are if things are slow for one day.
+
+356
+00:20:23,260 --> 00:20:26,580
+So you guys need to understand, you hear a lot of these older veterans that are in my
+
+357
+00:20:26,580 --> 00:20:30,620
+program that have been here a while, and they always talk about picking the right business
+
+358
+00:20:30,620 --> 00:20:31,620
+owner, picking the right business owner.
+
+359
+00:20:32,220 --> 00:20:35,540
+And a lot of you guys that are brand new, you're so desperate for money, you're going
+
+360
+00:20:35,540 --> 00:20:39,700
+to go get the first business owner that offers you money, even if they suck, and it's going
+
+361
+00:20:39,700 --> 00:20:41,700
+to come and bite you in the butt, okay?
+
+362
+00:20:44,700 --> 00:20:48,740
+And it's going to bite you in the butt because you're going to be dealing with that person
+
+363
+00:20:48,740 --> 00:20:51,540
+when you could have been dealing with someone that's way less maintenance for the exact
+
+364
+00:20:51,540 --> 00:20:54,260
+same price, okay?
+
+365
+00:20:54,260 --> 00:20:56,660
+Also just so you guys know, you've probably seen these memes, you've probably seen these
+
+366
+00:20:56,660 --> 00:20:59,540
+things or you might have heard of it, maybe you don't believe it, maybe you do, but I
+
+367
+00:21:00,460 --> 00:21:04,020
+promise you guys the cheaper, the cheapest clients that you have that are paying you
+
+368
+00:21:04,020 --> 00:21:08,820
+the least amount of money are always the hardest ones to deal with.
+
+369
+00:21:08,820 --> 00:21:12,380
+I don't know why it is, I don't know what it is, but that is the truth.
+
+370
+00:21:12,380 --> 00:21:16,580
+The business owners that are the hardest to deal with are the business owners that pay
+
+371
+00:21:16,580 --> 00:21:17,580
+the least.
+
+372
+00:21:17,580 --> 00:21:22,460
+And I don't know why that correlation is, but I think it's because that small amount
+
+373
+00:21:22,460 --> 00:21:24,300
+of money means everything to them.
+
+374
+00:21:24,300 --> 00:21:27,900
+And when you deal with the big companies, when you deal with the successful companies,
+
+375
+00:21:27,940 --> 00:21:31,700
+they don't care because they're willing to test the file, okay?
+
+376
+00:21:31,700 --> 00:21:35,660
+So just understand that not all clients are created equally and the degree of passivity
+
+377
+00:21:35,660 --> 00:21:40,180
+your website is going to have is going to largely depend on the client that you're working
+
+378
+00:21:40,180 --> 00:21:41,180
+with, okay?
+
+379
+00:21:41,180 --> 00:21:44,860
+Because that client, if you set expectations from the beginning and the client's low maintenance,
+
+380
+00:21:44,860 --> 00:21:48,260
+the client's chill, you just have to worry about ranking your website.
+
+381
+00:21:48,260 --> 00:21:52,860
+Once you rank the website, you're going to be glued to the top for the most part.
+
+382
+00:21:52,860 --> 00:21:56,980
+And if you have a website glued to the top and a very low maintenance client, you have
+
+383
+00:21:56,980 --> 00:22:04,500
+a freaking, just a gold, a piece of gold sitting in your lap, okay?
+
+384
+00:22:04,500 --> 00:22:05,500
+It's the best thing ever.
+
+385
+00:22:05,500 --> 00:22:08,420
+You have a low maintenance client and you have a website that's ranking.
+
+386
+00:22:08,420 --> 00:22:09,940
+It's the best business model in the world.
+
+387
+00:22:09,940 --> 00:22:14,460
+If you have a high maintenance client, oh man, or you didn't do your due diligence properly
+
+388
+00:22:14,460 --> 00:22:19,100
+and you're just doing SEO backlinks, blah, blah, blah, blah, guys, those become very,
+
+389
+00:22:19,100 --> 00:22:20,100
+very, very challenging.
+
+390
+00:22:20,100 --> 00:22:21,100
+Okay.
+
+391
+00:22:21,100 --> 00:22:23,700
+We have a couple of questions here.
+
+392
+00:22:23,700 --> 00:22:26,540
+Scott says, how about competition in the search results?
+
+393
+00:22:26,540 --> 00:22:28,860
+Which lead gen in the top 10, do you try another?
+
+394
+00:22:28,860 --> 00:22:29,860
+That's such a good question.
+
+395
+00:22:29,860 --> 00:22:31,500
+I've answered this question a few times.
+
+396
+00:22:31,500 --> 00:22:34,100
+No, I do not run away if that's what you're asking.
+
+397
+00:22:34,100 --> 00:22:36,940
+If I see another lead generator in the top 10.
+
+398
+00:22:36,940 --> 00:22:40,500
+And guys, first and foremost, if you guys are looking at competition, which you better
+
+399
+00:22:40,500 --> 00:22:44,540
+be looking at competition, because if you don't look at who's ranking for the terms
+
+400
+00:22:44,540 --> 00:22:47,100
+you want to rank for, you have no idea who you're going against.
+
+401
+00:22:47,100 --> 00:22:50,740
+If you have no idea who you're going against, you don't know how well you need to prepare,
+
+402
+00:22:50,740 --> 00:22:52,500
+how dialed in you need to be.
+
+403
+00:22:52,500 --> 00:22:56,340
+So my first tip for you guys is if you're looking at competition, make sure that you're
+
+404
+00:22:56,340 --> 00:22:58,660
+using five to seven keywords.
+
+405
+00:22:58,660 --> 00:22:59,660
+Okay.
+
+406
+00:22:59,660 --> 00:23:01,420
+Don't just go and type in.
+
+407
+00:23:01,420 --> 00:23:07,020
+Let me see where somebody was living, hold on.
+
+408
+00:23:07,020 --> 00:23:08,020
+Let's see.
+
+409
+00:23:08,020 --> 00:23:09,700
+By the way, Luke just asked a question.
+
+410
+00:23:09,700 --> 00:23:11,260
+He's about to hop out of the car.
+
+411
+00:23:11,260 --> 00:23:16,620
+Luke, go ahead and ask that question inside the digital landlords so that we can answer
+
+412
+00:23:16,620 --> 00:23:20,100
+it there since you're going to hop off because I got two more questions that are coming before
+
+413
+00:23:20,100 --> 00:23:21,100
+you.
+
+414
+00:23:21,100 --> 00:23:22,100
+Okay.
+
+415
+00:23:22,100 --> 00:23:23,100
+So ask that.
+
+416
+00:23:23,100 --> 00:23:24,100
+Great to have you on the stream.
+
+417
+00:23:24,100 --> 00:23:25,100
+And looks like he's headed to work.
+
+418
+00:23:25,100 --> 00:23:26,100
+It is what it is.
+
+419
+00:23:26,860 --> 00:23:27,860
+Okay.
+
+420
+00:23:27,860 --> 00:23:28,860
+I got to turn this air off again.
+
+421
+00:23:28,860 --> 00:23:29,860
+Hold on.
+
+422
+00:23:29,860 --> 00:23:47,620
+Dude, I got the laziest AC unit in the entire country.
+
+423
+00:23:47,620 --> 00:23:52,860
+It's 75 degrees upstairs here in my office and it's October.
+
+424
+00:23:52,860 --> 00:23:57,100
+Now, granted, I know it's hot outside, but my goodness, the AC just doesn't want to crank.
+
+425
+00:23:57,100 --> 00:23:58,940
+Maybe we should use my house as a lead.
+
+426
+00:23:58,940 --> 00:24:00,620
+Too bad that's not my favorite niche.
+
+427
+00:24:00,620 --> 00:24:01,620
+Okay.
+
+428
+00:24:01,620 --> 00:24:02,620
+Okay.
+
+429
+00:24:02,620 --> 00:24:03,620
+Hold on one sec.
+
+430
+00:24:03,620 --> 00:24:04,780
+Let's see what we got here.
+
+431
+00:24:04,780 --> 00:24:07,820
+So going back to Scott.
+
+432
+00:24:07,820 --> 00:24:12,740
+So what I was about to say, guys, is that you need to make sure you're using multiple keywords.
+
+433
+00:24:12,740 --> 00:24:18,940
+Imagine if I used somebody said they were in Cleveland, Ohio, Kurt Thomas.
+
+434
+00:24:18,940 --> 00:24:24,220
+Then I go into Cleveland and I type in tree service, Cleveland, Ohio, and I look at it
+
+435
+00:24:24,220 --> 00:24:27,140
+and it looks super competitive, right?
+
+436
+00:24:27,140 --> 00:24:28,420
+Because it is.
+
+437
+00:24:28,420 --> 00:24:32,940
+And everyone there is pretty, you know, these websites are juicy websites, lots of content,
+
+438
+00:24:32,940 --> 00:24:35,060
+old websites, older domains.
+
+439
+00:24:35,060 --> 00:24:38,060
+You know, I've got a good backlink profile, good, well-written content.
+
+440
+00:24:38,060 --> 00:24:43,220
+And I look at the term tree service, Cleveland, Ohio or concrete, what'd I say?
+
+441
+00:24:43,220 --> 00:24:44,220
+Tree.
+
+442
+00:24:44,220 --> 00:24:45,220
+I can't remember.
+
+443
+00:24:45,220 --> 00:24:46,220
+We'll use tree service.
+
+444
+00:24:47,220 --> 00:24:49,820
+And it looks super competitive.
+
+445
+00:24:49,820 --> 00:24:50,820
+And I'm like, yeah, I'm out.
+
+446
+00:24:50,820 --> 00:24:52,300
+Dude, this looks way competitive.
+
+447
+00:24:52,300 --> 00:24:55,980
+However, what if I went in and I looked at instead of one term, I looked at seven terms
+
+448
+00:24:55,980 --> 00:25:03,300
+and that term tree service was the most, there was very, very competitive, but tree removal,
+
+449
+00:25:03,300 --> 00:25:07,900
+tree company, tree cutting, tree service company, tree company near me, tree service company
+
+450
+00:25:07,900 --> 00:25:13,700
+near me, on and on, tree, tree lopping, whatever, if you're in Australia, all of those terms
+
+451
+00:25:13,700 --> 00:25:14,700
+are wide open.
+
+452
+00:25:14,700 --> 00:25:18,300
+There's not much competition, right?
+
+453
+00:25:18,300 --> 00:25:22,060
+That would mean that I've missed out on a huge opportunity.
+
+454
+00:25:22,060 --> 00:25:25,660
+On the flip side, I've done this before as I go and I look at one term, I look at foundation
+
+455
+00:25:25,660 --> 00:25:28,700
+repair Savannah, Georgia.
+
+456
+00:25:28,700 --> 00:25:31,260
+And dude, that term right there looks amazing.
+
+457
+00:25:31,260 --> 00:25:32,260
+It looks like it's wide open.
+
+458
+00:25:32,260 --> 00:25:33,860
+It looks like I can go in, I can rank it.
+
+459
+00:25:33,860 --> 00:25:35,980
+And I'm like, dude, this is a great opportunity.
+
+460
+00:25:35,980 --> 00:25:37,940
+The CPC on that one term is good.
+
+461
+00:25:37,940 --> 00:25:39,780
+I go in and I decide to build a project.
+
+462
+00:25:39,780 --> 00:25:44,460
+I decide to start running ads, but I forgot to look at the other six keywords, the other
+
+463
+00:25:45,220 --> 00:25:47,900
+five keywords, and I don't even realize it.
+
+464
+00:25:47,900 --> 00:25:52,540
+And I get in and I'm getting my butt handed to me because I didn't look at all the keywords.
+
+465
+00:25:52,540 --> 00:25:57,740
+So the answer, the short answer to your question, Scott, is no, I do not care if I see another
+
+466
+00:25:57,740 --> 00:25:58,900
+lead generator in there.
+
+467
+00:25:58,900 --> 00:26:04,120
+All I do is I view that as another competition, as another business owner that's stealing
+
+468
+00:26:04,120 --> 00:26:05,120
+my leads.
+
+469
+00:26:05,120 --> 00:26:06,620
+And I got to get in there and steal them back.
+
+470
+00:26:06,620 --> 00:26:07,620
+That's it.
+
+471
+00:26:07,620 --> 00:26:08,620
+Okay.
+
+472
+00:26:08,620 --> 00:26:11,540
+Whether it's a lead generator, whether it's home advisor, whether it's the local concrete
+
+473
+00:26:11,700 --> 00:26:14,740
+tree service guy, they are stealing your spots.
+
+474
+00:26:14,740 --> 00:26:17,340
+They are taking your leads and they are competition.
+
+475
+00:26:17,340 --> 00:26:21,220
+But I'm not going to treat a lead generator as any different of competition than just
+
+476
+00:26:21,220 --> 00:26:22,580
+Joe down the street.
+
+477
+00:26:22,580 --> 00:26:23,940
+I just need to look at his website.
+
+478
+00:26:23,940 --> 00:26:28,660
+If his website is very juicy, very highly ranked, high domain authority, high, really
+
+479
+00:26:28,660 --> 00:26:31,420
+good backlink profile, I might not go into that.
+
+480
+00:26:31,420 --> 00:26:35,340
+But if it's garbage, then I'm going to pretend I don't even know that's a lead generation
+
+481
+00:26:35,340 --> 00:26:37,660
+website and I'm going to go into it anyway.
+
+482
+00:26:37,660 --> 00:26:38,660
+Okay.
+
+483
+00:26:38,720 --> 00:26:39,720
+Good comments.
+
+484
+00:26:42,160 --> 00:26:46,620
+Lars Shepard says, do you have any red flags you look for when you first talk to a B.O.?
+
+485
+00:26:46,620 --> 00:26:47,620
+Yes.
+
+486
+00:26:47,620 --> 00:26:50,140
+Number one red flag is they're rude to their clients.
+
+487
+00:26:50,140 --> 00:26:51,140
+Okay.
+
+488
+00:26:51,140 --> 00:26:53,860
+This is why I like to live transfer my first few leads, guys.
+
+489
+00:26:53,860 --> 00:26:56,780
+By the way, we're going to be talking about some of my most passive websites here in just
+
+490
+00:26:56,780 --> 00:26:57,780
+a second.
+
+491
+00:26:57,780 --> 00:26:58,780
+Then we're going to get into Q&A.
+
+492
+00:26:58,780 --> 00:27:05,620
+But if I hear them talking poorly to their clients, don't have good customer service,
+
+493
+00:27:05,620 --> 00:27:07,580
+you know what I can automatically assume
+
+494
+00:27:07,580 --> 00:27:09,980
+is that they're not going to retain clients.
+
+495
+00:27:09,980 --> 00:27:11,700
+And they're probably not gonna close deals.
+
+496
+00:27:11,700 --> 00:27:13,420
+And if they don't close deals and they don't make money
+
+497
+00:27:13,420 --> 00:27:14,700
+and they don't retain clients,
+
+498
+00:27:14,700 --> 00:27:16,620
+they're not gonna be with me very long.
+
+499
+00:27:16,620 --> 00:27:17,460
+They're not gonna have money.
+
+500
+00:27:17,460 --> 00:27:19,620
+It's not gonna be an ROI.
+
+501
+00:27:19,620 --> 00:27:22,780
+Even if my leads are good, there's gonna be no ROI
+
+502
+00:27:22,780 --> 00:27:24,660
+and I'm going to lose that client.
+
+503
+00:27:24,660 --> 00:27:26,820
+So if I hear you talking to a client poorly,
+
+504
+00:27:26,820 --> 00:27:29,420
+if I hear you being rude or short
+
+505
+00:27:29,420 --> 00:27:32,460
+or non-personal with a client,
+
+506
+00:27:32,460 --> 00:27:33,780
+I already can tell you
+
+507
+00:27:33,940 --> 00:27:35,660
+that even though they're willing to give me money,
+
+508
+00:27:35,660 --> 00:27:37,140
+I'm not gonna take it.
+
+509
+00:27:37,140 --> 00:27:38,580
+Because I'm looking to build relationships
+
+510
+00:27:38,580 --> 00:27:39,820
+with business owners that want to be with me
+
+511
+00:27:39,820 --> 00:27:42,860
+for 10, 15, 20 years and make millions of dollars together.
+
+512
+00:27:42,860 --> 00:27:44,900
+I'm not looking to get a client today,
+
+513
+00:27:44,900 --> 00:27:47,900
+three months later, switch it out for somebody else.
+
+514
+00:27:47,900 --> 00:27:49,980
+So if I hear them talking poorly,
+
+515
+00:27:49,980 --> 00:27:51,540
+that's a huge red flag for me.
+
+516
+00:27:53,780 --> 00:27:55,860
+Let's see, I'm in the car on the way to work
+
+517
+00:27:55,860 --> 00:27:57,340
+so I need to balance my interest to know
+
+518
+00:27:57,340 --> 00:27:59,260
+once you have finally ranked organically,
+
+519
+00:27:59,260 --> 00:28:00,540
+are you still drip feeding the sites
+
+520
+00:28:00,540 --> 00:28:02,140
+with backlinks to content or is it okay?
+
+521
+00:28:02,140 --> 00:28:05,180
+So he's asking guys, once you rank the site organically,
+
+522
+00:28:05,180 --> 00:28:08,020
+do you keep dripping on backlinks, keep adding content?
+
+523
+00:28:08,020 --> 00:28:09,900
+And the answer is you can.
+
+524
+00:28:10,780 --> 00:28:12,940
+What I've done is I've done such strong due diligence
+
+525
+00:28:12,940 --> 00:28:15,860
+on most of my websites that I do not even worry about it.
+
+526
+00:28:15,860 --> 00:28:17,180
+I don't even log into my website.
+
+527
+00:28:17,180 --> 00:28:18,940
+It's kind of like, if it ain't broke, don't fix it.
+
+528
+00:28:18,940 --> 00:28:21,220
+We have websites, we don't even,
+
+529
+00:28:21,220 --> 00:28:22,380
+I mean, we could find the password,
+
+530
+00:28:22,380 --> 00:28:23,380
+but we don't know the password.
+
+531
+00:28:23,380 --> 00:28:25,180
+It's not even part of our regular account.
+
+532
+00:28:25,180 --> 00:28:27,380
+We've got Towing St. George, my last towing project.
+
+533
+00:28:27,380 --> 00:28:28,460
+I'm never gonna do it again.
+
+534
+00:28:28,460 --> 00:28:29,460
+We don't touch it.
+
+535
+00:28:29,460 --> 00:28:30,740
+We've got Bentonville Concrete.
+
+536
+00:28:30,740 --> 00:28:32,020
+No way I'm touching that.
+
+537
+00:28:32,900 --> 00:28:34,380
+We've got a handful, 10, 15 sites
+
+538
+00:28:34,380 --> 00:28:36,060
+that are ranking super well,
+
+539
+00:28:36,060 --> 00:28:38,860
+and there's absolutely no reason for us to go in
+
+540
+00:28:38,860 --> 00:28:40,780
+and mess with it because we're already ranking.
+
+541
+00:28:40,780 --> 00:28:43,260
+So that's the approach that I've chosen to take,
+
+542
+00:28:43,260 --> 00:28:44,460
+but it's up to you guys.
+
+543
+00:28:46,300 --> 00:28:47,140
+Okay?
+
+544
+00:28:48,540 --> 00:28:50,060
+Kurt says good stuff.
+
+545
+00:28:50,060 --> 00:28:51,460
+So guys, here's what I'm gonna do.
+
+546
+00:28:55,060 --> 00:28:56,660
+Let me see if I can pull up a couple of websites.
+
+547
+00:28:57,940 --> 00:28:59,300
+Let me see if I can pull up a couple of websites
+
+548
+00:28:59,300 --> 00:29:00,140
+for you guys.
+
+549
+00:29:02,780 --> 00:29:05,980
+Here, show you some of my most passive websites.
+
+550
+00:29:07,980 --> 00:29:09,700
+And we're gonna do, which ones did I wanna do?
+
+551
+00:29:09,700 --> 00:29:11,020
+We got that one.
+
+552
+00:29:13,420 --> 00:29:14,260
+All right.
+
+553
+00:29:17,140 --> 00:29:18,380
+One more, one more.
+
+554
+00:29:18,380 --> 00:29:20,420
+Let's see which last one we're gonna do.
+
+555
+00:29:20,420 --> 00:29:21,260
+There it is.
+
+556
+00:29:24,340 --> 00:29:26,540
+I'm gonna show you guys my screen here, by the way.
+
+557
+00:29:26,540 --> 00:29:28,900
+Let me get rid of about 100 things here.
+
+558
+00:29:28,940 --> 00:29:33,940
+All my Slack messages, all my rain music from nighttime.
+
+559
+00:29:34,020 --> 00:29:35,340
+Do not connect the phone.
+
+560
+00:29:35,340 --> 00:29:36,980
+Thank you.
+
+561
+00:29:36,980 --> 00:29:39,460
+All right, guys, here we go.
+
+562
+00:29:39,460 --> 00:29:42,740
+Let me show you a couple of my most passive websites
+
+563
+00:29:42,740 --> 00:29:44,820
+on the interwebs today,
+
+564
+00:29:44,820 --> 00:29:47,380
+and I should tell you guys exactly how passive they are.
+
+565
+00:29:47,380 --> 00:29:48,900
+Okay, share my screen.
+
+566
+00:29:48,900 --> 00:29:50,620
+Boom, boom, boom.
+
+567
+00:29:52,620 --> 00:29:55,220
+Okay, I don't know if you guys can actually see this,
+
+568
+00:29:55,220 --> 00:29:57,900
+but I'm gonna start off with Bentonville Concrete.
+
+569
+00:29:57,900 --> 00:30:00,420
+If you guys have heard me talk about this,
+
+570
+00:30:00,420 --> 00:30:01,340
+kick it out of my face.
+
+571
+00:30:01,340 --> 00:30:03,540
+So this is us right here, Bentonville Concrete.
+
+572
+00:30:03,540 --> 00:30:04,660
+We're in the maps.
+
+573
+00:30:04,660 --> 00:30:05,980
+This is also us, rank number one.
+
+574
+00:30:05,980 --> 00:30:10,980
+You can also type in Concrete Contractor Bentonville AR.
+
+575
+00:30:18,060 --> 00:30:20,500
+Rank number two here, rank number one here, okay?
+
+576
+00:30:20,500 --> 00:30:21,860
+This is my website.
+
+577
+00:30:21,860 --> 00:30:24,620
+Guys, I'm going to let you know,
+
+578
+00:30:24,620 --> 00:30:27,380
+the last time I messaged this person
+
+579
+00:30:27,380 --> 00:30:30,700
+was on about business,
+
+580
+00:30:30,700 --> 00:30:32,340
+because once in a while we'll talk about random stuff.
+
+581
+00:30:32,340 --> 00:30:34,500
+Like he just randomly sent me something a couple weeks ago
+
+582
+00:30:34,500 --> 00:30:36,580
+about some completely random thing.
+
+583
+00:30:36,580 --> 00:30:38,980
+But the last time he asked about business, guys,
+
+584
+00:30:40,660 --> 00:30:45,660
+was on November 10th,
+
+585
+00:30:46,900 --> 00:30:48,540
+Friday, November 10th of last year.
+
+586
+00:30:48,540 --> 00:30:49,380
+He said, hey brother,
+
+587
+00:30:49,380 --> 00:30:50,780
+I've sent a bunch of emails back and forth.
+
+588
+00:30:50,780 --> 00:30:52,580
+I'd like to get together and talk and figure out
+
+589
+00:30:52,580 --> 00:30:54,460
+how I can really expand this business.
+
+590
+00:30:55,300 --> 00:30:56,140
+I know you guys are good at what you do.
+
+591
+00:30:56,140 --> 00:30:58,620
+And so are we, I want your help.
+
+592
+00:30:58,620 --> 00:31:00,220
+Let's figure out how we can do this together.
+
+593
+00:31:00,220 --> 00:31:01,980
+So the only reason this guy even texts me
+
+594
+00:31:01,980 --> 00:31:03,980
+is because he was asking me for more business, okay?
+
+595
+00:31:03,980 --> 00:31:05,620
+This is one of my most passive websites.
+
+596
+00:31:05,620 --> 00:31:06,540
+It's glued to the top.
+
+597
+00:31:06,540 --> 00:31:08,300
+We haven't logged into this thing in years.
+
+598
+00:31:08,300 --> 00:31:09,540
+Haven't changed it in years.
+
+599
+00:31:09,540 --> 00:31:11,620
+I haven't talked to my business owner since November.
+
+600
+00:31:11,620 --> 00:31:12,460
+There you have it.
+
+601
+00:31:12,460 --> 00:31:14,220
+And even then I never even got on a call with him, not yet.
+
+602
+00:31:14,220 --> 00:31:15,060
+Okay, that's my first one.
+
+603
+00:31:15,060 --> 00:31:17,420
+My second one is one called St. George Epoxy.
+
+604
+00:31:17,420 --> 00:31:20,220
+If you type in St. George Epoxy, Epoxy St. George,
+
+605
+00:31:20,220 --> 00:31:22,380
+it's all called stgeorgeepoxy.com.
+
+606
+00:31:22,380 --> 00:31:23,740
+Check out this beaut.
+
+607
+00:31:23,740 --> 00:31:26,220
+This guy right here is an absolute,
+
+608
+00:31:26,220 --> 00:31:29,720
+just pile of you know what, super basic whatever,
+
+609
+00:31:29,720 --> 00:31:30,820
+but it works.
+
+610
+00:31:30,820 --> 00:31:33,900
+And I'm gonna look up the business owner
+
+611
+00:31:33,900 --> 00:31:37,420
+so I can show you guys, or tell you guys at least.
+
+612
+00:31:37,420 --> 00:31:38,980
+The last time I got a text from him,
+
+613
+00:31:38,980 --> 00:31:41,140
+I have three unread messages from him.
+
+614
+00:31:41,140 --> 00:31:43,860
+March 15th, two messages on March 15th,
+
+615
+00:31:43,860 --> 00:31:45,220
+and a message on March 16th.
+
+616
+00:31:45,220 --> 00:31:46,420
+The last thing he said is,
+
+617
+00:31:46,420 --> 00:31:50,420
+we still need to do your pool deck, LOL, okay?
+
+618
+00:31:50,420 --> 00:31:52,980
+Homie's still trying to scrape my business, no problem.
+
+619
+00:31:52,980 --> 00:31:54,340
+Come and give me a quote on it.
+
+620
+00:31:54,340 --> 00:31:55,620
+I don't really mind, okay?
+
+621
+00:31:55,620 --> 00:31:56,880
+This website right here,
+
+622
+00:31:56,880 --> 00:31:58,660
+we also have not logged into in years.
+
+623
+00:31:58,660 --> 00:31:59,700
+We talked to the business owner.
+
+624
+00:31:59,700 --> 00:32:01,420
+What did I say the date was?
+
+625
+00:32:01,420 --> 00:32:02,580
+July, it's been over a year.
+
+626
+00:32:02,580 --> 00:32:04,460
+That's 2023, it's been a year.
+
+627
+00:32:04,460 --> 00:32:06,940
+July, August, September, been a year and two months.
+
+628
+00:32:06,940 --> 00:32:08,540
+Haven't talked to the client, okay?
+
+629
+00:32:08,540 --> 00:32:10,660
+Let's give you guys one more.
+
+630
+00:32:10,660 --> 00:32:12,460
+We'll do St. George Concrete, type this in.
+
+631
+00:32:12,460 --> 00:32:14,260
+You're gonna see us, we are running ads.
+
+632
+00:32:14,260 --> 00:32:16,040
+She's sponsored here, us.
+
+633
+00:32:17,380 --> 00:32:19,460
+We're ranked number one underneath the map,
+
+634
+00:32:19,460 --> 00:32:21,600
+or sorry, the paid.
+
+635
+00:32:21,600 --> 00:32:22,620
+This is it.
+
+636
+00:32:23,300 --> 00:32:24,140
+Okay?
+
+637
+00:32:25,200 --> 00:32:27,180
+I'm sorry, this is, okay, here's a perfect example.
+
+638
+00:32:27,180 --> 00:32:28,700
+This is not my website.
+
+639
+00:32:28,700 --> 00:32:29,540
+I'm lying to you.
+
+640
+00:32:29,540 --> 00:32:30,940
+I think it was Scott who was asking.
+
+641
+00:32:30,940 --> 00:32:33,140
+So look at this, guys, okay?
+
+642
+00:32:33,140 --> 00:32:34,740
+We got, this should give you guys
+
+643
+00:32:34,740 --> 00:32:36,060
+so much freaking excitement.
+
+644
+00:32:36,060 --> 00:32:38,000
+So we got ConcreteStGeorge.com,
+
+645
+00:32:38,000 --> 00:32:40,180
+which has been there for a long time, okay?
+
+646
+00:32:40,180 --> 00:32:41,380
+They're actually outranking me.
+
+647
+00:32:41,380 --> 00:32:44,220
+I'm StGeorgeConcreteCO.com, okay?
+
+648
+00:32:44,220 --> 00:32:47,020
+That site looked a little too nice for it to be mine, okay?
+
+649
+00:32:47,020 --> 00:32:50,240
+This is my site in all of its glory, it's a beaut.
+
+650
+00:32:50,240 --> 00:32:53,600
+And this website makes me $375 per week.
+
+651
+00:32:53,600 --> 00:32:56,060
+This client, let me just go ahead and check.
+
+652
+00:32:58,360 --> 00:32:59,900
+What the hell is his name?
+
+653
+00:33:00,800 --> 00:33:03,580
+Oh, this is gonna be a problem.
+
+654
+00:33:05,840 --> 00:33:07,840
+Is it, shit.
+
+655
+00:33:11,200 --> 00:33:14,120
+What is his, ah, yes, I just remembered it.
+
+656
+00:33:14,120 --> 00:33:15,100
+That's what it is.
+
+657
+00:33:15,440 --> 00:33:18,440
+Yep, okay, November 18th, 2022.
+
+658
+00:33:21,740 --> 00:33:25,740
+I got one text from November 18th, 2022.
+
+659
+00:33:25,740 --> 00:33:27,980
+These guys have spent with me.
+
+660
+00:33:30,780 --> 00:33:31,620
+Let me look.
+
+661
+00:33:37,060 --> 00:33:38,060
+What the hell?
+
+662
+00:33:40,580 --> 00:33:43,100
+Okay, not that, not that, not that, not that.
+
+663
+00:33:43,660 --> 00:33:46,060
+Okay, not that, not that, not that, right there.
+
+664
+00:33:46,060 --> 00:33:47,420
+Ah, no, that's, is that it?
+
+665
+00:33:49,740 --> 00:33:51,780
+No, that's not it, dude.
+
+666
+00:34:00,940 --> 00:34:02,940
+Okay, oh, right there, there it is.
+
+667
+00:34:02,940 --> 00:34:05,940
+Okay, this client pays me $375 a week,
+
+668
+00:34:05,940 --> 00:34:08,620
+has paid me, to date,
+
+669
+00:34:09,460 --> 00:34:13,380
+five, five, oh, sorry, $57,000 on the nose.
+
+670
+00:34:13,380 --> 00:34:16,460
+Okay, been with me since November 3rd, 2021,
+
+671
+00:34:16,460 --> 00:34:17,460
+the website you're looking at.
+
+672
+00:34:17,460 --> 00:34:19,900
+Not ranked number one, not ranking in the maps,
+
+673
+00:34:19,900 --> 00:34:21,380
+don't even think I have a maps listing.
+
+674
+00:34:21,380 --> 00:34:24,860
+This thing is churning out leads, $375 a week.
+
+675
+00:34:24,860 --> 00:34:26,460
+Unfrickin' believable.
+
+676
+00:34:26,460 --> 00:34:29,100
+This is some of my most passive websites,
+
+677
+00:34:29,100 --> 00:34:32,740
+and I just grabbed those ones for fun, okay?
+
+678
+00:34:32,740 --> 00:34:34,540
+Just to give you guys a bit of an idea,
+
+679
+00:34:34,540 --> 00:34:37,300
+and guys, here's why I think this model is so passive.
+
+680
+00:34:38,900 --> 00:34:40,420
+I think this model's really passive
+
+681
+00:34:40,420 --> 00:34:42,340
+because it's such a binary transaction.
+
+682
+00:34:42,340 --> 00:34:43,860
+I give you leads, you give me money.
+
+683
+00:34:43,860 --> 00:34:45,620
+You give me money, I give you leads.
+
+684
+00:34:45,620 --> 00:34:47,340
+If you stop giving me leads, I stop giving you money.
+
+685
+00:34:47,340 --> 00:34:48,980
+If I stop giving you money, you stop giving me leads.
+
+686
+00:34:48,980 --> 00:34:50,260
+Done, done, done.
+
+687
+00:34:50,260 --> 00:34:51,900
+There's no reporting, there's no this,
+
+688
+00:34:51,900 --> 00:34:54,260
+can you do this stuff, yes?
+
+689
+00:34:54,260 --> 00:34:55,700
+Do you have to, no.
+
+690
+00:34:55,700 --> 00:34:56,940
+Okay, no other business model I know
+
+691
+00:34:56,940 --> 00:34:58,660
+that's such a cut and dry transaction
+
+692
+00:34:58,660 --> 00:35:00,220
+that's you do this, and I do this,
+
+693
+00:35:00,220 --> 00:35:02,340
+or else we're done because the arrangement,
+
+694
+00:35:02,340 --> 00:35:04,060
+there's no room for fluff, right?
+
+695
+00:35:04,060 --> 00:35:05,380
+When you're doing SEO,
+
+696
+00:35:05,380 --> 00:35:07,780
+you could do almost nothing for the client.
+
+697
+00:35:07,780 --> 00:35:09,060
+It took you no time.
+
+698
+00:35:09,060 --> 00:35:11,060
+Or you could go hire somebody in the Philippines
+
+699
+00:35:11,060 --> 00:35:12,660
+to do backlinks, do 100 backlinks,
+
+700
+00:35:12,660 --> 00:35:13,820
+and you come to the business owner and go,
+
+701
+00:35:13,820 --> 00:35:16,380
+dude, look, I did 100 backlinks for your website,
+
+702
+00:35:16,380 --> 00:35:17,540
+and by the way, blah, blah, blah,
+
+703
+00:35:17,540 --> 00:35:18,860
+it doesn't even make sense,
+
+704
+00:35:18,860 --> 00:35:20,820
+but you're able to show them and craft it
+
+705
+00:35:20,820 --> 00:35:23,620
+to make it look like you want it to look.
+
+706
+00:35:23,620 --> 00:35:26,740
+The downside is, with this business model,
+
+707
+00:35:26,740 --> 00:35:28,940
+you can't fake it, man, and I think that's an upside,
+
+708
+00:35:28,940 --> 00:35:29,780
+but you can't fake it.
+
+709
+00:35:29,780 --> 00:35:30,900
+You can't fake work you didn't do
+
+710
+00:35:30,900 --> 00:35:31,900
+because if leads don't come in,
+
+711
+00:35:31,900 --> 00:35:34,060
+leads don't come in and they're paying for leads.
+
+712
+00:35:34,060 --> 00:35:36,060
+That's why I think this business model is so passive.
+
+713
+00:35:36,060 --> 00:35:37,340
+It's very cut and dry.
+
+714
+00:35:37,340 --> 00:35:39,340
+It's leads for dollars, okay?
+
+715
+00:35:39,340 --> 00:35:42,020
+And then lastly, guys, I just wanna let you guys know
+
+716
+00:35:42,020 --> 00:35:44,740
+that just because you don't have to talk to your clients,
+
+717
+00:35:44,740 --> 00:35:47,220
+just because you don't have to call them every five minutes,
+
+718
+00:35:47,220 --> 00:35:49,180
+because you don't have to send them a report,
+
+719
+00:35:49,180 --> 00:35:51,860
+I want you to picture a business that you have
+
+720
+00:35:51,860 --> 00:35:53,380
+that you actually do that,
+
+721
+00:35:53,380 --> 00:35:56,340
+that you actually treat them like they're your last client.
+
+722
+00:35:56,340 --> 00:35:59,220
+You treat them like they're all of their money
+
+723
+00:35:59,220 --> 00:36:00,740
+pays all of your bills and then some
+
+724
+00:36:00,740 --> 00:36:01,940
+because they're that big of a client
+
+725
+00:36:01,940 --> 00:36:03,340
+and they're all you have to worry about.
+
+726
+00:36:03,340 --> 00:36:04,820
+Imagine what your business would be like.
+
+727
+00:36:04,820 --> 00:36:06,140
+Imagine how excited they would be.
+
+728
+00:36:06,140 --> 00:36:07,500
+Imagine how they would grow with you.
+
+729
+00:36:07,500 --> 00:36:09,620
+Imagine how many people they would refer you to.
+
+730
+00:36:09,620 --> 00:36:10,900
+If you just made the decision,
+
+731
+00:36:10,900 --> 00:36:14,100
+hey, I'm not required to really follow up with this person
+
+732
+00:36:14,100 --> 00:36:15,460
+or treat them a certain way,
+
+733
+00:36:15,460 --> 00:36:17,940
+but I'm gonna do it because that's how I do business.
+
+734
+00:36:17,940 --> 00:36:19,260
+Imagine how many referrals you'd have
+
+735
+00:36:19,260 --> 00:36:23,780
+be coming down the freaking pipe, a lot, okay?
+
+736
+00:36:23,780 --> 00:36:24,620
+A lot.
+
+737
+00:36:24,620 --> 00:36:27,780
+Guys, this model is one of if not the most passive models
+
+738
+00:36:27,780 --> 00:36:29,740
+on the internet, no questions asked.
+
+739
+00:36:29,740 --> 00:36:32,980
+And this is the reason I'm able to travel to Dubai
+
+740
+00:36:33,740 --> 00:36:35,300
+for a month at a time, two times.
+
+741
+00:36:35,300 --> 00:36:36,660
+We've been in Africa for three months,
+
+742
+00:36:36,660 --> 00:36:38,220
+been to London twice,
+
+743
+00:36:38,220 --> 00:36:40,020
+been to a couple of different places in the US,
+
+744
+00:36:40,020 --> 00:36:43,260
+including Tuscaloosa, Georgia, Alabama game,
+
+745
+00:36:43,260 --> 00:36:46,100
+getting ready to potentially go to Arkansas
+
+746
+00:36:46,100 --> 00:36:47,460
+in a week and a half.
+
+747
+00:36:47,460 --> 00:36:50,140
+Or if not, I might go back to Africa
+
+748
+00:36:50,140 --> 00:36:51,500
+during that same time.
+
+749
+00:36:51,500 --> 00:36:53,780
+All of this is possible because this model is passive
+
+750
+00:36:53,780 --> 00:36:54,780
+and there's different levels.
+
+751
+00:36:54,780 --> 00:36:57,460
+Okay, just because you have an online business, that's great.
+
+752
+00:36:57,460 --> 00:36:59,300
+But if that online business is not passive,
+
+753
+00:36:59,300 --> 00:37:00,540
+you could travel anywhere you want,
+
+754
+00:37:00,540 --> 00:37:01,700
+but you're gonna be stuck at the hotel
+
+755
+00:37:01,700 --> 00:37:03,660
+making sure that business is as usual
+
+756
+00:37:03,660 --> 00:37:06,660
+or you can't keep living that way.
+
+757
+00:37:06,660 --> 00:37:09,140
+With this, you can do it, you front load all the work
+
+758
+00:37:09,140 --> 00:37:11,540
+and then you set it and you forget it, okay?
+
+759
+00:37:11,540 --> 00:37:13,900
+So guys, that is what I truly believe.
+
+760
+00:37:13,900 --> 00:37:15,500
+This is how passive these things are.
+
+761
+00:37:15,500 --> 00:37:17,420
+I will tell you that that website I showed you,
+
+762
+00:37:17,420 --> 00:37:20,260
+Bentonville Concrete, I don't think we're running any ads.
+
+763
+00:37:20,260 --> 00:37:25,260
+We have a 20 something dollar a year GoDaddy bill.
+
+764
+00:37:25,500 --> 00:37:29,860
+Cool, we're paying for a tracking number five bucks
+
+765
+00:37:29,860 --> 00:37:34,860
+and the domain, sorry, the hosting and the domain.
+
+766
+00:37:35,020 --> 00:37:37,300
+I think that the domain is the thing that's 24 bucks
+
+767
+00:37:37,300 --> 00:37:39,540
+and then we have the hosting that's like 13 bucks a month.
+
+768
+00:37:39,540 --> 00:37:43,180
+So guys, all in on less than $50 per month on a website
+
+769
+00:37:43,180 --> 00:37:45,340
+that's making me about 900 bucks a month.
+
+770
+00:37:45,340 --> 00:37:47,160
+That's the case for all of these websites.
+
+771
+00:37:47,160 --> 00:37:50,860
+That's how low cost these things can actually be, okay?
+
+772
+00:37:50,860 --> 00:37:52,800
+So that said guys, let's see if we have any questions.
+
+773
+00:37:52,800 --> 00:37:54,260
+If we do, great.
+
+774
+00:37:54,260 --> 00:37:59,020
+If we don't, then we will go back to making money.
+
+775
+00:37:59,060 --> 00:38:01,540
+Let me just pull this up really quick.
+
+776
+00:38:01,540 --> 00:38:04,660
+Give me a sec, where you at?
+
+777
+00:38:04,660 --> 00:38:08,060
+Dog, oh, he's just hiding from me.
+
+778
+00:38:08,060 --> 00:38:08,900
+Okay.
+
+779
+00:38:11,220 --> 00:38:13,260
+Ah, where is this at?
+
+780
+00:38:13,260 --> 00:38:14,080
+And by the way guys,
+
+781
+00:38:14,080 --> 00:38:15,300
+I really appreciate you guys being on the call.
+
+782
+00:38:15,300 --> 00:38:17,060
+I know you guys got a lot of places you can be.
+
+783
+00:38:17,060 --> 00:38:18,940
+I know there's a lot of things you could be doing.
+
+784
+00:38:18,940 --> 00:38:20,260
+There's a lot of places you could spend your time
+
+785
+00:38:20,260 --> 00:38:22,760
+and I appreciate you doing it here inside of this group.
+
+786
+00:38:22,760 --> 00:38:23,600
+I really do.
+
+787
+00:38:23,600 --> 00:38:26,900
+Okay, so let's see what else we've got going on.
+
+788
+00:38:30,020 --> 00:38:33,980
+Oh, all right, let's go like this.
+
+789
+00:38:36,140 --> 00:38:38,580
+How important is it to occupy more real estate
+
+790
+00:38:38,580 --> 00:38:40,140
+multiple websites on the first page
+
+791
+00:38:40,140 --> 00:38:41,940
+for our keywords to hold a monopoly?
+
+792
+00:38:45,520 --> 00:38:46,420
+I don't have any websites
+
+793
+00:38:46,420 --> 00:38:48,740
+that have more than one piece of real estate.
+
+794
+00:38:50,420 --> 00:38:52,700
+I've had websites in the past that I ranked the homepage,
+
+795
+00:38:52,700 --> 00:38:54,660
+I ranked the service page, we had like two,
+
+796
+00:38:54,660 --> 00:38:56,180
+plus we had the maps.
+
+797
+00:38:56,180 --> 00:38:58,780
+But guys, most of my deals
+
+798
+00:38:58,780 --> 00:39:01,300
+are ranking a website organically.
+
+799
+00:39:01,300 --> 00:39:04,360
+I don't mess with GMB at all really anymore.
+
+800
+00:39:04,360 --> 00:39:05,660
+I have some paid ads coming in,
+
+801
+00:39:05,660 --> 00:39:06,860
+I got some organic coming in,
+
+802
+00:39:06,860 --> 00:39:08,940
+I keep the client happy with that.
+
+803
+00:39:08,940 --> 00:39:09,780
+Okay.
+
+804
+00:39:10,820 --> 00:39:13,140
+Kirk says, how important is GMB and how do you acquire it?
+
+805
+00:39:13,140 --> 00:39:15,580
+No, it's not, I don't do it anymore.
+
+806
+00:39:15,580 --> 00:39:18,620
+Guys, in 2020, when I scaled up to $100,000
+
+807
+00:39:18,620 --> 00:39:19,940
+a month in eight months,
+
+808
+00:39:19,940 --> 00:39:22,060
+half of my websites didn't even have GMB.
+
+809
+00:39:22,060 --> 00:39:23,660
+We think that they have to have GMB
+
+810
+00:39:23,660 --> 00:39:25,780
+because we think somehow the clients know about GMB.
+
+811
+00:39:25,780 --> 00:39:27,060
+The clients don't know shit, dude.
+
+812
+00:39:27,060 --> 00:39:29,540
+I'm sorry for the language, but they don't know anything.
+
+813
+00:39:29,540 --> 00:39:32,220
+So don't think that just because you don't have a GMB,
+
+814
+00:39:32,220 --> 00:39:34,180
+you're not gonna be able to charge $1,500 a month.
+
+815
+00:39:34,180 --> 00:39:36,860
+Okay, that concrete website I showed you guys,
+
+816
+00:39:36,860 --> 00:39:39,680
+let me see if I can even try to find, hold on.
+
+817
+00:39:42,180 --> 00:39:44,580
+Let me see if I can share the screen really quick.
+
+818
+00:39:46,180 --> 00:39:48,180
+All right, let's see if we can even find,
+
+819
+00:39:48,180 --> 00:39:50,300
+I don't even think we have a map listing, dude.
+
+820
+00:39:50,300 --> 00:39:52,020
+This is $1,500 a month deal
+
+821
+00:39:52,020 --> 00:39:54,700
+that's paid me over $57,000 so far.
+
+822
+00:39:54,700 --> 00:39:55,780
+And I'm telling you right now,
+
+823
+00:39:55,780 --> 00:40:00,460
+we do not have a St. George concrete site.
+
+824
+00:40:00,460 --> 00:40:02,100
+I think we did, I think it got pulled.
+
+825
+00:40:02,100 --> 00:40:02,980
+So to answer your question,
+
+826
+00:40:02,980 --> 00:40:04,920
+I don't worry about it at all, okay?
+
+827
+00:40:06,780 --> 00:40:08,660
+Laura says, do you feel like Flat Fever's commission
+
+828
+00:40:08,660 --> 00:40:09,700
+is really important to make this pass?
+
+829
+00:40:09,700 --> 00:40:10,540
+Yes.
+
+830
+00:40:11,860 --> 00:40:13,060
+No questions asked.
+
+831
+00:40:13,060 --> 00:40:15,780
+I can't even imagine doing passive income for one deal,
+
+832
+00:40:15,780 --> 00:40:17,220
+or sorry, passive.
+
+833
+00:40:17,220 --> 00:40:19,220
+Commission deals for one deal,
+
+834
+00:40:19,220 --> 00:40:20,420
+much less a bunch of deals.
+
+835
+00:40:20,420 --> 00:40:21,380
+That sounds like a nightmare.
+
+836
+00:40:21,380 --> 00:40:23,100
+That sounds like I'd rather pull out my teeth,
+
+837
+00:40:23,100 --> 00:40:24,420
+pull out my toenails,
+
+838
+00:40:25,060 --> 00:40:25,900
+do something like that,
+
+839
+00:40:25,900 --> 00:40:26,740
+rather than put a rat on top of my head
+
+840
+00:40:26,740 --> 00:40:29,580
+with a woven basket and let it eat down in my skull,
+
+841
+00:40:29,580 --> 00:40:30,660
+than doing commission, guys.
+
+842
+00:40:30,660 --> 00:40:32,580
+Commission does not scale.
+
+843
+00:40:32,580 --> 00:40:33,660
+They have nothing in the game.
+
+844
+00:40:33,660 --> 00:40:34,900
+They have no reason to go to these leads.
+
+845
+00:40:34,900 --> 00:40:36,940
+They have no reason to be better than average.
+
+846
+00:40:36,940 --> 00:40:40,420
+And most of these guys are very, very average or less, okay?
+
+847
+00:40:40,420 --> 00:40:42,340
+You have to do flat fee if you want to scale.
+
+848
+00:40:42,340 --> 00:40:43,180
+If you don't want to scale,
+
+849
+00:40:43,180 --> 00:40:45,100
+you just want a couple bucks coming in here and there.
+
+850
+00:40:45,100 --> 00:40:47,260
+You can go to everybody to say yes to a commission deal,
+
+851
+00:40:47,260 --> 00:40:50,420
+but just know upfront that commission deals don't work.
+
+852
+00:40:50,420 --> 00:40:51,340
+They don't work long-term.
+
+853
+00:40:51,340 --> 00:40:54,780
+They don't scale and it is very, very cumbersome.
+
+854
+00:40:54,780 --> 00:40:56,140
+So that said, if you don't want to believe me,
+
+855
+00:40:56,140 --> 00:40:56,980
+then go try it.
+
+856
+00:40:58,580 --> 00:40:59,780
+Kurt says, RIP GMB.
+
+857
+00:40:59,780 --> 00:41:03,060
+Yeah, RIP GMB, RIP GMB, but you know what?
+
+858
+00:41:03,060 --> 00:41:03,900
+It is what it is, man.
+
+859
+00:41:03,900 --> 00:41:05,340
+We're going to move on to the next thing.
+
+860
+00:41:05,340 --> 00:41:07,260
+That's what we're going to do.
+
+861
+00:41:07,260 --> 00:41:09,300
+Okay, guys, I appreciate you jumping on this call.
+
+862
+00:41:09,300 --> 00:41:10,420
+I'm excited to be back.
+
+863
+00:41:10,420 --> 00:41:11,860
+I think next week we're going to resume
+
+864
+00:41:11,860 --> 00:41:14,220
+doing the calls Monday at 6.30 a.m.
+
+865
+00:41:14,220 --> 00:41:16,740
+So we'll keep an eye out for that post.
+
+866
+00:41:16,740 --> 00:41:18,740
+It tells you exactly what we're going to be talking about.
+
+867
+00:41:18,740 --> 00:41:20,740
+And we will send you the link.
+
+868
+00:41:20,740 --> 00:41:21,580
+Real quick though,
+
+869
+00:41:21,580 --> 00:41:22,740
+I want to give away a couple of pieces of swag.
+
+870
+00:41:22,740 --> 00:41:25,140
+I want to give Laura Shepard a piece of swag.
+
+871
+00:41:25,140 --> 00:41:27,620
+Go ahead and message Aaron and say swag winner.
+
+872
+00:41:27,620 --> 00:41:30,060
+So he knows he'll send you a coupon code.
+
+873
+00:41:31,700 --> 00:41:36,500
+I also want to give something to Scott.
+
+874
+00:41:36,500 --> 00:41:38,260
+Scott Gray, I want you to go
+
+875
+00:41:38,260 --> 00:41:41,180
+and message swag winner to Aaron.
+
+876
+00:41:41,180 --> 00:41:43,300
+You guys go ahead and get something from the store
+
+877
+00:41:43,300 --> 00:41:45,540
+completely on the house.
+
+878
+00:41:45,540 --> 00:41:47,140
+So you go ahead and enjoy that
+
+879
+00:41:47,140 --> 00:41:48,460
+and then take a picture and let me see it.
+
+880
+00:41:48,460 --> 00:41:50,420
+I would love that, okay?
+
+881
+00:41:51,100 --> 00:41:52,260
+Muneb says, thanks man, really informative.
+
+882
+00:41:52,260 --> 00:41:54,620
+Absolutely guys, appreciate you guys jumping on the call.
+
+883
+00:41:54,620 --> 00:41:56,100
+If you have anything else going forward,
+
+884
+00:41:56,100 --> 00:41:57,420
+we will answer it on the next calls.
+
+885
+00:41:57,420 --> 00:41:59,340
+And with that said guys,
+
+886
+00:41:59,340 --> 00:42:01,380
+just remember, I like to say this every time,
+
+887
+00:42:01,380 --> 00:42:04,260
+money loves speed and I am out.
+
+888
+00:42:04,260 --> 00:42:05,100
+Talk soon.
+

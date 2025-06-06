@@ -1,0 +1,492 @@
+1
+00:00:00,000 --> 00:00:14,720
+Guys, let's go ahead and build our list. So hop over to the screen with me really quick.
+
+2
+00:00:14,720 --> 00:00:18,560
+Okay, now that we're here, what we're going to do is obviously need to open up,
+
+3
+00:00:19,120 --> 00:00:25,040
+hit the download, you know, open up the prospecting list template. And what I recommend doing is
+
+4
+00:00:25,040 --> 00:00:30,240
+having it on your Google Drive and just having the template and making a copy every time. So
+
+5
+00:00:30,240 --> 00:00:35,120
+that's what I've done is I made a copy of the prospecting list template and then I just name
+
+6
+00:00:35,120 --> 00:00:40,720
+it accordingly. So what I'll typically do is like, I'll do this for multiple cities. I'll do one of
+
+7
+00:00:40,720 --> 00:00:46,640
+these for like a state or a niche. So for example, this one would be, maybe I would do this one for
+
+8
+00:00:46,640 --> 00:00:54,480
+concrete, right? So I would do prospecting list template, concrete, niche, right? And then down
+
+9
+00:00:54,480 --> 00:01:02,480
+here, I would name this just a simple way to keep this straight. I do Queen Creek AZ, something like
+
+10
+00:01:02,480 --> 00:01:06,560
+that. You can do it however you want. I've done everything, all the above, okay? Next thing you're
+
+11
+00:01:06,560 --> 00:01:10,960
+going to want to do, it's very, very simple, very cut and dry, is I want you to put your keywords
+
+12
+00:01:10,960 --> 00:01:18,080
+in here. And again, just tying this all together, if you remember when I talked, when we talked about
+
+13
+00:01:18,080 --> 00:01:22,400
+the keyword list and why it's so important to have that dialed in and I really hope you guys
+
+14
+00:01:22,400 --> 00:01:26,320
+didn't skip that part or didn't breeze over it. But if you did that correctly, everything else
+
+15
+00:01:26,320 --> 00:01:31,040
+becomes easier. We use it over and over and over and over. And so hopefully you guys listen to what
+
+16
+00:01:31,040 --> 00:01:35,360
+I said. Take that keyword list, take your core keywords and put them in here because those are
+
+17
+00:01:35,360 --> 00:01:40,480
+what we're going to use to search to find these businesses. And then what's very, very simple is
+
+18
+00:01:40,480 --> 00:01:46,880
+if you remember when we were doing the due diligence market research, we typed in the terms
+
+19
+00:01:46,880 --> 00:01:53,040
+with the city. So concrete contractors, Queen Creek, concrete patio, Queen Creek,
+
+20
+00:01:54,000 --> 00:01:58,800
+Queen Creek concrete, yada, yada, yada. So type all of them in just like we did in the beginning.
+
+21
+00:01:58,800 --> 00:02:04,000
+Again, take your keywords, type them in with the city and state. And then it's really, really simple
+
+22
+00:02:04,000 --> 00:02:08,160
+is we're just going to start looking, okay? We're going to start looking for businesses that are
+
+23
+00:02:08,160 --> 00:02:11,600
+running ads. So for example, for those of you that aren't familiar with how this works,
+
+24
+00:02:11,600 --> 00:02:16,080
+it's going to say ad. It's going to say ad. And once in a while, you're going to see an ad here
+
+25
+00:02:16,080 --> 00:02:21,200
+in the, what's called the Google local listing or the Google my business or the Google business
+
+26
+00:02:21,200 --> 00:02:26,560
+profile or whatever it's called at the time of you seeing this video. Sometimes you'll see an ad
+
+27
+00:02:26,560 --> 00:02:31,680
+in here. So if there's four companies inside of this, that's because somebody's running an ad.
+
+28
+00:02:31,680 --> 00:02:36,400
+Okay? So pay attention to that. And what you're going to start doing is start looking for businesses
+
+29
+00:02:36,400 --> 00:02:43,200
+to add. Now one thing, number one, do not click on people's ads. That pisses me off when people
+
+30
+00:02:43,200 --> 00:02:47,760
+do it to me. And I'm just really weird about that. Don't click on people's ads. So just because you're
+
+31
+00:02:47,760 --> 00:02:53,280
+being lazy, don't do that. Okay? So it says, if it says the diamond solutions, what I did is I
+
+32
+00:02:53,280 --> 00:02:58,480
+literally went and typed in the diamond solutions.com. Okay? And you're just going to start going through
+
+33
+00:02:58,480 --> 00:03:04,320
+and you're going to start adding businesses to your list here. Okay? So you're going to want to
+
+34
+00:03:04,320 --> 00:03:09,760
+do the business name, the URL. And again, we're trying to make this easy. Keep in mind the reason
+
+35
+00:03:09,760 --> 00:03:13,760
+we're building this list is so that when leads start coming in, first of all, to validate,
+
+36
+00:03:13,760 --> 00:03:18,720
+Hey, there are people paying for ads. Number two, when leads start coming in, we already have a list.
+
+37
+00:03:18,720 --> 00:03:24,000
+We could just call. So we want to make this as easy as possible. Business name, URL, reason added.
+
+38
+00:03:24,000 --> 00:03:31,120
+So for example, this would be like Google ads, current position. You could put where they're at
+
+39
+00:03:31,120 --> 00:03:38,160
+organically. Just kind of some notes, those types of things. We're going to get into a lot of this
+
+40
+00:03:38,160 --> 00:03:44,800
+stuff. Like for this first bit, okay? All I want you to really focus on is the business name,
+
+41
+00:03:44,800 --> 00:03:50,560
+the URL, why they were added. Okay? Those are the things. And in a future video, we're going to talk
+
+42
+00:03:50,560 --> 00:03:57,200
+about their position, their email address, their phone number, their Facebook page, notes, business
+
+43
+00:03:57,200 --> 00:04:03,120
+owner name, business owner Facebook profile. We're going to get into deep depth there. A little bit
+
+44
+00:04:03,120 --> 00:04:07,760
+of stocking, a little bit of Facebook stocking, you know what I mean? But for this one, I just want
+
+45
+00:04:07,760 --> 00:04:12,800
+a list of business names, URLs, reason added. So we're going to go through Google ads. We're going
+
+46
+00:04:12,800 --> 00:04:17,200
+to go through home advisor. We're going to go through Angie's list, et cetera. Now with Google ads,
+
+47
+00:04:17,200 --> 00:04:21,920
+I do want to let you guys know that you need to be careful. Because a lot of these people, they look
+
+48
+00:04:21,920 --> 00:04:27,040
+like, you know, for example, this person, the Diamond Solution, they are paying for ads. But
+
+49
+00:04:27,040 --> 00:04:31,840
+if you look at it really closely, these guys do not do residential concrete. These guys do
+
+50
+00:04:31,840 --> 00:04:37,200
+massive parking lots and massive parking lots are usually a referral based thing. So this is not
+
+51
+00:04:37,200 --> 00:04:40,800
+somebody I'm going to want to put on my list as much as I would like to. Another company that I
+
+52
+00:04:40,800 --> 00:04:45,760
+found, Gold Family Contractors, when you look at it, you're like, oh, it's whatever, whatever. And
+
+53
+00:04:45,760 --> 00:04:50,080
+then you start realizing, okay, this is a stock image, free quote. This looks a lot like a,
+
+54
+00:04:50,080 --> 00:04:56,800
+um, yeah, this looks a lot like a lead generation site. Oh my gosh. Um, you know, even though he's
+
+55
+00:04:56,800 --> 00:05:00,240
+got a picture of himself, whatever, this is actually a lead generation site. And you've
+
+56
+00:05:00,240 --> 00:05:04,800
+read down here, it says, tell us about your project. We connect you with trained professionals,
+
+57
+00:05:04,800 --> 00:05:08,560
+et cetera, et cetera. So this is a lead generation site. So I'm not going to add this one. Okay.
+
+58
+00:05:08,560 --> 00:05:12,080
+So you're just going to start going through, you're going to add anyone that's paying for
+
+59
+00:05:12,080 --> 00:05:16,560
+Google ads. It looks like a good option. Okay. And then I want to show you, um, once we get to
+
+60
+00:05:16,560 --> 00:05:20,960
+the home advisor stuff, what you're going to do is you're going to click on the home advisor.
+
+61
+00:05:20,960 --> 00:05:25,920
+Again, if they're, if home advisors running an ad, do not click on their ad. I know they suck and
+
+62
+00:05:25,920 --> 00:05:30,960
+I hate them too, but guys, I just, I'm a big believer in this karma thing. Don't click on
+
+63
+00:05:30,960 --> 00:05:34,480
+their ad and then people won't click on yours. At least that's how I feel. Okay. So if you want to
+
+64
+00:05:34,480 --> 00:05:38,800
+find home advisor, you're going to go to that. They're listing in the organic results, which is
+
+65
+00:05:38,800 --> 00:05:46,160
+really simple. Click on this. Okay. And they're just going to, you're going to start seeing, uh,
+
+66
+00:05:46,160 --> 00:05:52,000
+people in this. Now, one thing to be really, really careful of is to make sure number one,
+
+67
+00:05:52,000 --> 00:05:57,120
+it's the right niche. So for example, this darling house is, it says something, lift my house. This
+
+68
+00:05:57,120 --> 00:06:02,800
+is probably a, it is a peer foundation company. So it's technically kind of concrete. That's not
+
+69
+00:06:02,800 --> 00:06:07,280
+really a company that, that I'm that interested in because they're running their, their foundation
+
+70
+00:06:07,280 --> 00:06:13,120
+repair company. Okay. JB construction and maintenance services. Okay. Uh, we found
+
+71
+00:06:13,120 --> 00:06:18,000
+J and B after a bad experience bait and switch, blah, blah, blah. So this could be somebody
+
+72
+00:06:18,000 --> 00:06:21,280
+interesting. So for this one, what I'm going to do is I'm going to go ahead and just copy this
+
+73
+00:06:22,080 --> 00:06:27,040
+and I'm going to open a new window and I'm going to check it out. Okay. I'm not a robot. Looks like
+
+74
+00:06:27,040 --> 00:06:30,880
+I'm searching a lot. So I think I'm a robot. Okay. J and B construction. This looks like a real
+
+75
+00:06:30,880 --> 00:06:37,920
+company. Let's go ahead and look at their website though. First. Okay. Okay. These guys, Arizona
+
+76
+00:06:37,920 --> 00:06:44,160
+based full, full service contractor. Yeah. These guys look like they do a lot more than just
+
+77
+00:06:44,160 --> 00:06:48,800
+concrete, which is fine. But a lot of times when they're doing more than just concrete,
+
+78
+00:06:49,440 --> 00:06:54,000
+you are going to have people, they don't, they don't want the concrete. They want,
+
+79
+00:06:54,000 --> 00:06:58,400
+they want the whole job. So this isn't really someone I'm going to, I'm going to hold on that
+
+80
+00:06:58,400 --> 00:07:02,800
+one. I'm going to keep looking Arizona foundation solutions. Again, that's the foundation company.
+
+81
+00:07:02,800 --> 00:07:09,120
+No, thank you. McDowell landscaping. Okay. Perfect. That would be somebody that would be
+
+82
+00:07:09,120 --> 00:07:13,680
+interesting. They're, they're a landscaping company. So I'll check them out and guys,
+
+83
+00:07:13,680 --> 00:07:17,760
+take your time. Treat these like these are people you're going to be working with for a while.
+
+84
+00:07:17,760 --> 00:07:23,360
+Now, one thing to note here, McDowell, look at their, their deal here. If you're wondering like,
+
+85
+00:07:23,360 --> 00:07:27,680
+Oh, does this company actually cover this area? It does say, you know, McDowell landscaping in
+
+86
+00:07:27,680 --> 00:07:32,880
+Queen Creek. So it does cover there, but make sure it's in the right area. Again, this also
+
+87
+00:07:32,880 --> 00:07:41,440
+kind of looks to me, this puts off a little bit of a, of a lead generation vibe. So here's what I
+
+88
+00:07:41,440 --> 00:07:45,920
+want to tell you guys. Okay. I want you to look for lead generation companies, be aware of them,
+
+89
+00:07:45,920 --> 00:08:00,320
+but if, when in doubt, pick up the phone and go like this 480-878-9569. Okay. We're going to call
+
+90
+00:08:00,320 --> 00:08:15,440
+them. Okay. So I have a weird area code. I'm sure that's why I answered. He did say Mike McDowell.
+
+91
+00:08:15,520 --> 00:08:20,080
+So he's a real company. This looks like a real company to me. I'm seeing a lot of stuff about
+
+92
+00:08:20,080 --> 00:08:23,840
+Queen Creek. This to me looks like a real company. The only thing I would be hesitant of is making
+
+93
+00:08:23,840 --> 00:08:27,120
+sure that they actually did concrete. So what I'll probably do is I'll text them and say,
+
+94
+00:08:30,640 --> 00:08:37,760
+Hey, do you guys do patios and driveways? Okay. And you'll probably call me back,
+
+95
+00:08:37,760 --> 00:08:41,280
+but I want to make sure. So this is somebody I would add. Okay. And so what I would do here is
+
+96
+00:08:41,280 --> 00:08:45,600
+I would add it's McDowell landscaping. You got to be a little bit careful because a lot of these
+
+97
+00:08:45,600 --> 00:08:49,200
+guys, they just want like specific type of jobs, especially in this market. But what I'm going to
+
+98
+00:08:49,200 --> 00:08:58,560
+do here is I'm going to put, you know, okay, I'm going to put the McDowell McDowell landscaping,
+
+99
+00:08:58,560 --> 00:09:03,520
+and then I'm going to put home advisor. Boom. Okay. So I'm just making a list. Okay. And again,
+
+100
+00:09:03,520 --> 00:09:07,680
+we're going to be coming back and also why you're, while you're here, what I would say
+
+101
+00:09:07,680 --> 00:09:10,800
+is grab the phone number so you don't have to come back. So you're already on the site.
+
+102
+00:09:11,360 --> 00:09:14,800
+Do grab the phone number. And if you see an email, grab it, don't go searching too hard,
+
+103
+00:09:15,520 --> 00:09:18,800
+but grab the phone number so you don't have to come back to the website. So there's the phone
+
+104
+00:09:18,800 --> 00:09:24,560
+number and he said, and also he said Mike McDowell. So I'm just going to write it down
+
+105
+00:09:24,560 --> 00:09:29,920
+because he said it in his voicemail. So no reason to track that down later. So anyway,
+
+106
+00:09:29,920 --> 00:09:33,200
+we're just going to start building the list. Again, use your intuition.
+
+107
+00:09:34,160 --> 00:09:42,800
+Um, look for lead generators, look for people that, um, you know, they're not in your area.
+
+108
+00:09:42,800 --> 00:09:46,240
+That's one big thing that I've noticed is, and they're going to be in California.
+
+109
+00:09:46,240 --> 00:09:52,480
+They didn't check the setting that says, you know, to not show them other places. You click
+
+110
+00:09:52,480 --> 00:09:57,440
+on their thing. They're actually in San Francisco and they're running ads in it in Arizona. It's
+
+111
+00:09:57,440 --> 00:10:02,000
+ridiculous, but it happens. And then when in doubt, I think the biggest thing I would say is just
+
+112
+00:10:02,080 --> 00:10:07,200
+when in doubt, just call, just call and ask, say, Hey Mike, this is, uh, this is Nick. Just curious.
+
+113
+00:10:07,200 --> 00:10:12,960
+Do you guys cover Queen Creek? Okay. Cool. Um, was curious. Do you also do, um, do you do flat
+
+114
+00:10:12,960 --> 00:10:16,640
+work? Do you do patios and driveways, that kind of thing? Okay. Awesome. Well, I have, you know,
+
+115
+00:10:16,640 --> 00:10:19,520
+you can say whatever I have client, like you don't need to pitch them right there. In fact,
+
+116
+00:10:19,520 --> 00:10:22,400
+I would recommend you don't pitch them right there, but you say, okay, sounds good. I'll give
+
+117
+00:10:22,400 --> 00:10:25,680
+you a call back. Let me talk to my spouse. Something very, very simple. But what I want
+
+118
+00:10:25,680 --> 00:10:29,760
+you guys to do is I want you to start off and I want you to have, I want you to start building a
+
+119
+00:10:29,760 --> 00:10:36,480
+list of people and my, as I said in a previous video, get as many people as you possibly can
+
+120
+00:10:36,480 --> 00:10:41,600
+from Google ads and then go to home advisor and then goes to Angie's list, et cetera, et cetera,
+
+121
+00:10:41,600 --> 00:10:46,720
+et cetera. And in the next videos, we're going to talk about what happens if you can't find a bunch
+
+122
+00:10:46,720 --> 00:10:50,480
+of people running Google ads? What happens if you can't find a bunch of people running, um,
+
+123
+00:10:50,480 --> 00:10:53,200
+advertising on these different platforms? What do you do then?
+

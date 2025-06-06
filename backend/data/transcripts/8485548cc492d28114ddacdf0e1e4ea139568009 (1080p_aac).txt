@@ -1,0 +1,52 @@
+Alright, so now we're going to buy our domain for our website.
+We usually use GoDaddy, I know there's tons of other options you can have, so pick whatever
+you like.
+I'm just showing you again what we use.
+So once you create an account, you are going to search for your domain.
+And what we like to pick is ideally first the city and then the service.
+So in our case it would be Queen Creek Concrete.
+And we always like it to end with .com.
+Search domain, let's see if that's available.
+So we don't want to spend that much.
+And GoDaddy will show you the options that you have.
+So let's try to flip it.
+Let's do Concrete and then QueenCreek.com, see if that's available, see if it's not available.
+So what we like to do is put the location back and just put a little divider right there,
+put Concrete, alright, search domains, ok that's available.
+So perfect.
+We definitely never want to switch to .com, we don't want to do .co, .net, blah blah
+blah.
+So QueenCreek.com, continue to cart, perfect.
+We definitely just want to do a year to start off.
+And then we always like to add the full domain protection, so get it.
+And then I'm ready to pay.
+And then complete purchase.
+And after we're done purchasing we're going to connect it to our Weebly website, should
+be fairly simple.
+There you go, perfect.
+So I am going to continue connecting to an existing site.
+Ok, and the destination is Weebly, right here.
+Connect domain.
+Ok, and here is going to give you the steps.
+Go to Weebly, click edit next to your site, want to connect, click settings and then click
+change under site.
+So make sure you copy this right here, command copy, go back to Weebly, and what we like
+to do is click publish just to save it.
+So we're going to click save and publish, we like to just do the pro up here.
+The reason why we publish it, it's because that's how you save websites on Weebly.
+So anytime you make an edit, make sure you always click the publish, publish, publish.
+Then we're going to click exit, now you can click out of it.
+So this is our website that we built.
+Click, just click right here, don't click on edit website, just click right here, ok.
+Click on these three dots and then edit domain.
+You're going to click provide your domain and you're going to paste in the domain that
+you just bought.
+Click save, perfect, and then you're actually going on edit website, ok, domain, click on
+settings, we want to change that.
+So just name it the same as the page title, queen creek concrete, uncheck that, click
+save, enable SSL, ok, it should tell you that, then click publish again, because again we
+always want to save everything that we're doing, ok, perfect, and you're done.
+And just so you know, right now it says not secure, because when we clicked on settings,
+it's still doing it.
+So just make sure you check on it later and it is secure and you're done, that's all you
+need to do.

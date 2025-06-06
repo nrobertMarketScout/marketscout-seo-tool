@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:06,280
+Another question that comes to us is regarding the the CPC limits. Some people want to know
+
+2
+00:00:06,280 --> 00:00:12,440
+how do you know or what is too high for CPC. So when we go through our Google Keyword Planner
+
+3
+00:00:12,440 --> 00:00:18,920
+it gives us a range of the low page and the top of page bid. Sometimes those are within a few dollars
+
+4
+00:00:18,920 --> 00:00:24,040
+of each other. Sometimes there's wide variance. Sometimes you have a low page bid at like six
+
+5
+00:00:24,040 --> 00:00:29,000
+dollars and the top of page bid could be closer to thirty dollars. When you have those big ranges
+
+6
+00:00:29,000 --> 00:00:34,720
+it makes it a little more difficult to figure out. But what I typically see when I get that
+
+7
+00:00:34,720 --> 00:00:40,720
+question is that, and this is an example I have on the screen right now, is that you're choosing
+
+8
+00:00:40,720 --> 00:00:45,920
+a large city which you're not supposed to do and you're choosing a very competitive niche which
+
+9
+00:00:45,920 --> 00:00:51,400
+you're not supposed to do. So when we see a large city in a competitive niche you're going to see
+
+10
+00:00:51,400 --> 00:00:59,920
+that larger more expensive CPC. What is too much? You know according to the training we try to keep
+
+11
+00:00:59,920 --> 00:01:05,040
+it between like five like around the five dollar range on Simrush. As you go into the ad you'll
+
+12
+00:01:05,040 --> 00:01:10,200
+see sometimes it's a little bit more. But here I have something brought up. This is an ad that we
+
+13
+00:01:10,200 --> 00:01:14,880
+were running for Nick for a little while and it was for duck cleaning. I believe that the website
+
+14
+00:01:14,880 --> 00:01:20,840
+was starting to get some its own organic leads but we were having CPC of up to forty dollars per
+
+15
+00:01:20,840 --> 00:01:25,240
+click on some of these. And you can see here that we're able to be really good and we're able to
+
+16
+00:01:25,240 --> 00:01:30,040
+play and keep our average CPC in the ten dollar range and sometimes the fourteen dollar range.
+
+17
+00:01:30,040 --> 00:01:37,960
+But knowing that niche, and this is for the New Orleans area, so big city, expensive niche, knowing
+
+18
+00:01:37,960 --> 00:01:42,280
+that it is we know that we're going to spend more. We know it's going to cost a lot to get those leads
+
+19
+00:01:42,280 --> 00:01:49,520
+and so for us running that ad we weren't afraid of having those thirty dollar clicks because we
+
+20
+00:01:49,520 --> 00:01:53,320
+know what we were going to get on the other side. We know what niche we were playing in. So for you
+
+21
+00:01:53,320 --> 00:01:58,680
+guys if you're seeing something that seems way high up there I'd ask you to go back look at the
+
+22
+00:01:58,680 --> 00:02:03,640
+population of the city. Look at the population that you're running your ads over and think about
+
+23
+00:02:03,640 --> 00:02:07,240
+what niche you're running because that's typically where I see where that becomes an issue.
+

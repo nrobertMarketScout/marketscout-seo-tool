@@ -1,0 +1,1976 @@
+WEBVTT
+
+00:00.000 --> 00:08.560
+All right. There we go. All right, guys. Welcome to the call. November 5th election day. Wow.
+
+00:08.560 --> 00:14.760
+Here we go. Got two months left in the year. First and foremost, just to get really, we're
+
+00:14.760 --> 00:18.560
+going to get right into it today. But one thing I wanted to say is I wanted to thank
+
+00:18.560 --> 00:24.200
+everybody who was part of our beta test group. We appreciate you guys. I'm going to be bringing
+
+00:24.200 --> 00:29.400
+Ryan on here in a second. We appreciate you guys putting trust in the product and knowing
+
+00:30.360 --> 00:36.360
+we'll make sure that it's a great product. We're trying to implement. I'm giving Ryan feedback. I
+
+00:36.360 --> 00:40.280
+hear you guys. I have my team working on it. We're trying to get as much feedback as possible.
+
+00:40.280 --> 00:43.480
+It's not going to be perfect, but we're going to work our way towards it. We're going to allow you
+
+00:43.480 --> 00:51.320
+guys to help us build this tool. And I'm going to be able to help take your feedback, give it to
+
+00:51.320 --> 00:56.360
+Ryan, and create the best rank and rent tool on the internet. Okay? So anyway, I wanted to
+
+00:56.360 --> 00:59.880
+let you guys know that we appreciate you guys being part of that beta test group.
+
+01:01.160 --> 01:06.840
+And yeah, that's basically all I wanted to say before I bring Ryan on. I'm going to bring Ryan
+
+01:06.840 --> 01:12.840
+Dalton, Mr. $87,000 per month. If you guys do not know Ryan Dalton, maybe you just joined the group.
+
+01:12.840 --> 01:19.320
+Ryan joined back a little over two years ago and has scaled up to $87,000 per month. He is a master
+
+01:19.320 --> 01:26.200
+of systems. He's a master of organization. And this was a perfect project for him to take all
+
+01:26.200 --> 01:31.640
+of his skill sets and put it into creating the perfect tool, the only tool that you need.
+
+01:31.640 --> 01:36.520
+And today, specifically, we're going to be talking about search volume and what the minimum search
+
+01:36.520 --> 01:42.040
+volume needs to be for you to have confidence to go into a city, any niche. And on top of that,
+
+01:42.040 --> 01:46.440
+we're also going to be answering questions, going into more of the tool itself for any of you guys
+
+01:46.440 --> 01:50.360
+that had questions. I know we had the call earlier. I guess it was last night for you guys. It was
+
+01:50.360 --> 01:55.000
+earlier today for me, and we had a bunch of really, really good questions. So any questions that you
+
+01:55.000 --> 01:59.320
+have related to the software we want to answer, clear up, et cetera. We're going to talk about
+
+01:59.320 --> 02:02.920
+search volume. And then if we have any time for anything else, we'll do that as well. So let me
+
+02:02.920 --> 02:09.800
+bring Ryan on really quick and we will get going. Hold on. Three, two, one, admits.
+
+02:11.480 --> 02:13.960
+And apparently, oh, there we go. We're working.
+
+02:13.960 --> 02:26.440
+Yo. Can you hear me? Yeah, I got you. Beautiful. Okay. Ryan Dalton. Welcome to the call, dude.
+
+02:28.120 --> 02:33.800
+Hey, everybody. Yeah, I know some people that they were on the call that was for me this morning.
+
+02:33.800 --> 02:40.280
+This has been the longest day of my life. I got two hours and 11 minutes of sleep, exactly per
+
+02:40.280 --> 02:46.360
+the watch here, per the whoop, two hours, 11 minutes. But I did get a little nappy on the couch.
+
+02:46.360 --> 02:53.080
+Good to be back. We had Ryan on a few times and you guys should know who he is. If not, then you
+
+02:53.080 --> 02:57.880
+guys need to be a little more active in the group. Mr. $87,000 per month joined a little over two
+
+02:57.880 --> 03:05.080
+years ago, full-time job, family, kids, the entire thing, all the objections that people used to have
+
+03:06.040 --> 03:10.600
+don't have time. I've got kids, blah, blah, blah. Ryan basically ruined that for all of you guys
+
+03:10.600 --> 03:15.160
+because he's got all of those objections and he still did it. So anytime anyone tells me any of
+
+03:15.160 --> 03:18.520
+these things, I just send them the interview with Ryan. I'm like, well, this guy did it. So it's
+
+03:18.520 --> 03:23.320
+possible, which means it's possible for you. So what we're going to do today, guys, as I mentioned,
+
+03:24.040 --> 03:29.400
+I want to get right into this. I want to specifically talk about search volume because
+
+03:29.400 --> 03:33.480
+it's something that we've been talking about. We haven't been putting it off, but I've really
+
+03:33.480 --> 03:39.080
+wanted to make sure we get it dialed in so that we don't give you guys bad advice or something
+
+03:39.080 --> 03:43.960
+I'm not a hundred percent confident in. So over the past few weeks, since we launched this tool,
+
+03:43.960 --> 03:48.280
+what's it been, Ryan, four and a half weeks, something like that? Yeah, about four and a half
+
+03:48.280 --> 03:53.800
+weeks. I've been going in looking at not just one of my projects, but I've looked at like four or
+
+03:53.800 --> 03:59.080
+five, six of my projects that are ranking very well consistently for years, looking at how many
+
+03:59.080 --> 04:03.640
+leads they have. They're ranked really high, looking at what the tool says to them and then
+
+04:03.640 --> 04:12.920
+saying, okay, if I was to make a guess, what's the minimum search volume that a city and niche has to
+
+04:12.920 --> 04:19.560
+have? Okay. So anyway, Ryan, anything that you want to cover before we get started on that front
+
+04:19.560 --> 04:26.040
+or anything that you want to chat on other than that? I just think it's a super important call.
+
+04:26.040 --> 04:31.880
+This stuff is not static. I mean, it changes over time. So revisiting some of the fundamentals of
+
+04:31.880 --> 04:36.920
+local lead generation is always a great way to spend some time. Search volume I've found
+
+04:36.920 --> 04:43.560
+more and more with my agency is king, right? Where everything for me begins with search volume. So
+
+04:44.280 --> 04:49.080
+having conversations about what people see as working and what isn't is very useful.
+
+04:50.040 --> 04:57.480
+And search volume, guys, it's part of due diligence. And I will stand by this forever.
+
+04:58.120 --> 05:04.120
+Due diligence is the most important step in the process, right? Because no matter how good you
+
+05:04.120 --> 05:11.240
+are at sales, if you do a bad job on picking an area and there's no hungry business owners,
+
+05:11.240 --> 05:15.400
+your life becomes very difficult. If you pick a really good city that's low competition,
+
+05:15.480 --> 05:21.080
+great search volume, lots of hungry business owners, you could be a mediocre at best salesman,
+
+05:21.080 --> 05:27.480
+not even a good salesperson, and you're going to get deals. So I truly believe that due diligence
+
+05:27.480 --> 05:31.160
+is actually the most important step in the process. And this is part of due diligence. Now,
+
+05:32.040 --> 05:37.560
+I did notice that there was a couple other questions like what about this, that, and the
+
+05:37.560 --> 05:45.080
+rest. Some of those things, if we don't know the exact, we don't have a very solid answer yet per
+
+05:45.080 --> 05:50.200
+the tool, because this is going to be our staple tool going forward, then I'm going to let you guys
+
+05:50.200 --> 05:56.600
+know that. But specifically on search volume, we are going to address that today. Okay? So
+
+05:57.400 --> 06:02.840
+really quick, though, just to welcome people in the call, we've got Simon, we've got Nicholas
+
+06:02.840 --> 06:08.600
+Kudlick, we've got Beau, we've got Kevin Mijo, we've got Corey Gilbert, Mr. St. George Utah,
+
+06:08.600 --> 06:17.800
+Ryan Martez, we've got JC Crozier, what's going on? We've got Jason Allred, Mr. Utah, Ryan,
+
+06:17.800 --> 06:23.320
+the best example of F your excuses, a hundred percent. Corey says, Ryan Dalton, I have that
+
+06:23.320 --> 06:29.080
+same safe. If you want to go shoot some Tannerite, let me know. Dude, let's go. Let's go, man. I put
+
+06:29.080 --> 06:35.960
+some 556s and Tannerite with you. You guys and your Tannerite, dude. You know, it's funny. I
+
+06:35.960 --> 06:40.840
+actually met Corey in person and we actually had the same conversation about Tannerite. So
+
+06:41.480 --> 06:46.840
+I have a feeling he's got a few stacks of that stuff. It's good to have someone stand by. Yeah,
+
+06:46.840 --> 06:53.480
+you have to. You have to. Okay. So guys, let's start with this. I want to start with how we
+
+06:53.480 --> 07:02.360
+used to recommend the search volume. Okay. Now I want to go very basic. Search volume. And Ryan,
+
+07:02.360 --> 07:07.960
+I know that for you, you do look at population a little bit. You've kind of kind of a slightly
+
+07:07.960 --> 07:14.920
+different process. But for me, I kind of just go sheer like basically almost exclusively off of
+
+07:15.640 --> 07:20.440
+search volume, because in my mind, it doesn't really matter. I do think population matters
+
+07:20.440 --> 07:25.800
+to an extent because the bigger the population, typically the more competitive. Would you agree
+
+07:25.800 --> 07:30.760
+with that? Yeah. I mean, certainly there's a correlation. I pay attention to population
+
+07:30.760 --> 07:35.960
+insofar as I'm interested in if it's a growth area, right? Where maybe other people are not
+
+07:35.960 --> 07:40.600
+looking because I'm able to look there and see like, all right, two years ago, this was the
+
+07:40.600 --> 07:45.080
+population. Now it's this population. If it continues at this rate, it's this population.
+
+07:45.080 --> 07:49.800
+And if there's people moving there, people building homes or whatever, that's going to
+
+07:49.800 --> 07:55.080
+increase search volume over time and I can get in early. But aside from that, search volume is king
+
+07:55.080 --> 08:02.280
+for sure. That's a good point. And when I disregard search or population, it's in the sense of like
+
+08:02.280 --> 08:07.800
+I've been in other programs where they don't even talk about search volume. It's just like
+
+08:07.800 --> 08:12.760
+go into a city with this kind of a population and that's it. I like what Ryan's saying and I'll give
+
+08:12.760 --> 08:16.840
+you guys a good example. Bentonville, Arkansas, Bentonville concrete. You guys have heard me
+
+08:16.840 --> 08:22.600
+share this example many, many times. Bentonville concrete was a very low population when I started.
+
+08:22.600 --> 08:27.800
+The reason I was confident going into that city, guys, is because I had lived in that city for
+
+08:27.800 --> 08:34.440
+three summers in a row and I had watched every summer that we came back. There was new
+
+08:34.440 --> 08:40.840
+neighborhoods popping up everywhere and I had heard that Walmart had implemented this rule
+
+08:40.840 --> 08:45.320
+that said if you want to sell to Walmart, if you are a vendor, if you are somebody that sells
+
+08:45.320 --> 08:51.560
+jerky, for example, to Walmart, you have to have somebody from your office living in that city.
+
+08:51.720 --> 08:55.640
+I'm like, okay, that means that if people are going to keep selling to Walmart, they have to
+
+08:55.640 --> 09:00.600
+have somebody that lives in the city, naturally the city is going to keep growing. That was just like
+
+09:00.600 --> 09:07.720
+an intuition gut instinct type of a decision that I made and I knew the area. I think that's really
+
+09:07.720 --> 09:11.400
+important and we may end up adding that to the training. Real quick, how do you look at,
+
+09:12.040 --> 09:17.160
+do you just go ahead and search population growth over the past five years for the specific city?
+
+09:18.120 --> 09:23.480
+Yeah, so I'll use chat GPT and prompt it with a question about population growth and it'll
+
+09:23.480 --> 09:32.280
+give me instances of cities that are growing. Then I also do what you do where I live in Tennessee
+
+09:32.280 --> 09:37.080
+and I know which areas are growing because I know my area and then I know areas where friends live
+
+09:37.080 --> 09:42.120
+and I just listen. I'm always thinking about local lead generation. They're talking about their new
+
+09:43.000 --> 09:49.240
+you know move to some area in Tennessee and they're talking about how everyone's moving
+
+09:49.240 --> 09:55.160
+there and how it's the new like little darling hotspot. I think probably a good spot for a site
+
+09:55.160 --> 10:00.680
+and so I'll go look at that and see like, okay, the numbers are not quite what I want them to be
+
+10:00.680 --> 10:06.920
+just on its face but I know this area is growing so I'm going to see what happens and usually turns
+
+10:06.920 --> 10:12.760
+out pretty good. I like that. Give us an example. You don't have to give us too much your secret
+
+10:12.760 --> 10:20.120
+sauce but when you say a prompt with chat GPT, what do you mean? Do you say, hey, what are some
+
+10:20.120 --> 10:26.200
+of the areas, what cities in the US, what cities in the Midwest have a 200% increase in population
+
+10:26.200 --> 10:31.240
+over the past five years like something like that? Yeah, you can't really go wrong with your prompt
+
+10:31.240 --> 10:37.240
+if you're trying to get it population growth. I start pretty wide. I start just in the United
+
+10:37.240 --> 10:43.560
+States and I say give me the suburbs in the United States that have the greatest population
+
+10:43.560 --> 10:48.280
+growth over the last, over the previous two years and it'll think for a second and then it'll spit
+
+10:48.280 --> 10:54.840
+out you know however many, right? I can tap it and say give me the most recent 20 and that's where
+
+10:54.840 --> 11:00.040
+I'll start my due diligence, right? Where I'll look at, okay, these are growing and maybe these
+
+11:00.040 --> 11:04.360
+are off the radar of other lean generators. They're not looking at these yet and that can
+
+11:04.360 --> 11:10.360
+also filter by population size. So if I think that you know the population is too big and it's growing,
+
+11:10.360 --> 11:15.960
+I could say give me populations under you know 100,000 and then I'll take that and plug it into
+
+11:15.960 --> 11:20.280
+search volume tools and look at, okay, what is the actual search volume? Because I don't really care
+
+11:20.280 --> 11:26.120
+like you said about population being like the metric. I want it to be what is the actual search
+
+11:26.200 --> 11:32.280
+volume but I will start with is this an area that is trending because trending growth means
+
+11:32.280 --> 11:36.520
+that there's people that are buying things. They have to build. They have to you know refurbish
+
+11:36.520 --> 11:41.160
+homes. There's people that are probably going to invest in those markets that are looking to
+
+11:41.160 --> 11:46.840
+replace their driveways and their brick and those kinds of things. So genius. I think that's really,
+
+11:46.840 --> 11:52.520
+really smart. So anyway that's just something to think about guys. One other little wrinkle
+
+11:52.520 --> 11:56.520
+and guys, the answer that we're going to come give you here in just a moment on the search volume
+
+11:56.520 --> 12:02.440
+side per what RankinRent Engine says, there are going to be some caveats to it, okay?
+
+12:03.960 --> 12:12.040
+So let's, I'm trying to think. I don't think we necessarily need to show this on the RankinRent.
+
+12:12.040 --> 12:18.360
+So what I'll do, maybe I'll just discuss what I think is going to be the, I'm trying to think
+
+12:18.360 --> 12:21.880
+what would be the best way if I could, do we think we need to show this or we could just kind of
+
+12:21.880 --> 12:25.960
+discuss it and then we can get into the tool after? Yeah, let's talk through it and then we
+
+12:25.960 --> 12:36.040
+can show it. Okay. So I'm going to pull up some of the metrics that I found. Let's see. Let me go to,
+
+12:38.680 --> 12:46.920
+so here's what I did guys. All right there. So as I told you was I was coming up with this
+
+12:47.640 --> 12:51.720
+and again, the thing that we're addressing is what, when you're doing your due diligence,
+
+12:53.400 --> 12:59.000
+what is the minimum search volume that can give you the, at least in that area that says, hey,
+
+12:59.560 --> 13:03.640
+I know at the very least there's going to be enough volume because some of the issues that
+
+13:03.640 --> 13:09.880
+people run into is they go into a city, it looks good, it's low competition, it's the right niche,
+
+13:10.680 --> 13:16.520
+you know, whatever, and they start running ads and they get a couple leads and then it's like,
+
+13:16.520 --> 13:21.640
+it just dies, right? Or I don't know, have you ever had this happen, Ryan? You build a website,
+
+13:21.640 --> 13:27.480
+you rank it and you're still only getting like 10 leads and you're like the number one person.
+
+13:27.480 --> 13:31.240
+Have you ever had that happen or have you never gone to a city that has that low search? Many
+
+13:31.240 --> 13:35.720
+times, many times. And the mistake, the number one mistake that I made when that's happened
+
+13:35.720 --> 13:42.360
+is I get impatient and I need it. I did that in, I'll just say, I did that in Selena, Texas,
+
+13:42.360 --> 13:48.600
+the suburb of, I think it's the Dallas, Fort Worth area. And it was not getting what I wanted. I
+
+13:48.600 --> 13:54.600
+thought it's going to go great. And I just got impatient and I was like, I'm not renewing this
+
+13:54.600 --> 13:58.520
+domain. I'm getting rid of this domain. I don't just nuke the site, just get rid of it, right?
+
+13:58.520 --> 14:03.880
+I don't want a bunch of riffraff in my site portfolio. The mistake I made is that that city
+
+14:03.880 --> 14:09.400
+is still growing, right? It's still like, there's only so much space in the Dallas, Fort Worth area.
+
+14:09.400 --> 14:16.280
+And so it's going to eventually be within my parameters, right? And it might go from,
+
+14:17.640 --> 14:24.040
+10 leads to 20 leads over the course of the next couple of years per month. And I should have kept
+
+14:24.040 --> 14:28.440
+it, right? So I just let those sit because all that's going to happen is that domain is going to
+
+14:28.440 --> 14:32.760
+age. It's going to get hit with some more backlinks. It's going to, and it'll be number one forever.
+
+14:33.560 --> 14:41.160
+You can't beat that very easily. That's so hyper local that you're glued to the top at that point.
+
+14:41.160 --> 14:47.560
+Glued, glued. So that's a good point. And I actually have a situation like that as well.
+
+14:48.680 --> 14:53.800
+And just because I don't check it long enough, it was kind of pissing me off. It wasn't getting
+
+14:53.800 --> 15:00.600
+enough leads. We got a deal, but it was very low. And then the city just started growing. It's a
+
+15:00.600 --> 15:06.120
+city in Utah. And it's kind of like, over the past, this year, I'll give you an example,
+
+15:06.120 --> 15:11.400
+looking at the data right now, this is a city of the population of 35,000. And it's averaged,
+
+15:12.040 --> 15:18.120
+there isn't concrete. It's averaged 13.1 calls per month. This is through October 30th. And it's
+
+15:18.120 --> 15:26.520
+averaged another 3.7 per month with the quote form. So I'm averaging close to 18 leads per month.
+
+15:26.520 --> 15:30.440
+And I almost ripped the city. It's not making me a ton of money. It's making me like 600 bucks
+
+15:30.920 --> 15:35.640
+a month. But dude, 500, 600 bucks a month, go find that on a real estate deal right now.
+
+15:35.640 --> 15:40.120
+You know what I'm saying? Yeah. And where else is that business owner going to get leads?
+
+15:40.920 --> 15:47.720
+Exactly. What other option do they have? If you're getting 18 leads a month in that area,
+
+15:47.720 --> 15:51.240
+and you're number one, and you're running ads, and you're doing everything right,
+
+15:51.240 --> 15:55.640
+what other options do they have at that point? You're locked in with that business owner.
+
+15:55.640 --> 16:00.440
+100%. 100%. So here's the projects I looked at. I want to give you guys kind of a range.
+
+16:00.440 --> 16:08.120
+I looked at, let me see. We got one, two, three, four. I looked at five different projects.
+
+16:09.000 --> 16:16.760
+And when I did the training before version one and version two, I basically just took one project
+
+16:16.760 --> 16:21.480
+because it was ranking really well. That was Bentonville Concrete. And I said, okay,
+
+16:21.480 --> 16:24.840
+I know how many leads this is getting. It's ranking in the GMB. It's ranking in the maps.
+
+16:24.840 --> 16:29.800
+And I want to compare that with what the tool says. Well, one thing that happened that I didn't
+
+16:29.800 --> 16:34.600
+even think about is as we start to talk about Bentonville Concrete, the people in the group,
+
+16:35.160 --> 16:40.360
+and maybe even in the free group, are searching Bentonville Concrete. So I think, I personally
+
+16:40.360 --> 16:45.480
+think it had an effect and kind of skewed the numbers a little bit on that city. It drove the
+
+16:45.480 --> 16:50.680
+cost up significantly on the cost per click and everything else. So I ended up looking at five
+
+16:50.680 --> 16:58.120
+different projects. Of those, one, two, three of those are in concrete. One of them is in towing
+
+16:58.120 --> 17:01.480
+and one of them is in duct cleaning. I kind of wanted to get a little bit of a mix.
+
+17:02.680 --> 17:09.240
+We had a ranging population. One of them was a 35,000 population. All the way up to the highest
+
+17:09.240 --> 17:16.520
+was a 95,000 population. So nothing that's too big, okay? But here's what I came up with. And
+
+17:16.520 --> 17:22.760
+this is what Ryan and I, after discussing with his research, my research, is that we don't have
+
+17:23.480 --> 17:31.640
+an exact, exact, exact, but we have a range. And what we mean by that is if you go into a city
+
+17:32.280 --> 17:41.480
+that is very low-hanging fruit, very non-competitive, low CPC, not much competition,
+
+17:41.480 --> 17:45.320
+that you can just tell the people that are in the, that are ranking for those keywords,
+
+17:45.720 --> 17:48.760
+brand new websites, or they're not very old, they don't have much content, they don't have
+
+17:48.760 --> 17:53.160
+much backlinks. It looks like just a bunch of hillbilly freaking people ranking against you.
+
+17:53.960 --> 18:02.120
+In those situations, we can safely say 50 on it, again, using the rank and rent engine search tool,
+
+18:03.000 --> 18:09.000
+due diligence tool. If it says 50, you're in good hands. That's on a low competition
+
+18:09.880 --> 18:15.560
+area. If it's on a medium competition area where, okay, a couple of your competitors on,
+
+18:15.560 --> 18:18.840
+you know, for your main keywords, they have a pretty good website. Maybe you're going up
+
+18:18.840 --> 18:22.360
+against a rank and rent person that's a medium competition. You could still rank,
+
+18:22.360 --> 18:26.040
+but it's going to be a bit more difficult. Maybe the CPC is tipping closer to five,
+
+18:26.040 --> 18:31.560
+maybe even slightly over. You want to make sure you're at least 70, okay? And again,
+
+18:31.560 --> 18:38.280
+this is on your main keyword, your main keyword. What was the other thing? Oh,
+
+18:38.280 --> 18:43.240
+then the last thing I was going to say, and on those cities that are high competition,
+
+18:44.120 --> 18:47.480
+you shouldn't be going into anyway, you freaking dummies. No, I'm just kidding.
+
+18:47.480 --> 18:51.240
+But if it's high competition, you shouldn't be going into it. So if it's medium competition,
+
+18:51.240 --> 18:57.080
+make sure it's 70. If it's low competition, 50 you can get away with. And that's good. I
+
+18:57.080 --> 19:02.600
+feel pretty dang confident about saying that. Now, keep in mind, if you're running ads,
+
+19:03.160 --> 19:07.080
+the ads during the winter, during certain times of the year, it's going to be up and down a bit.
+
+19:07.080 --> 19:11.640
+But we know that if we can get the ads going, if we can get ranked organically,
+
+19:11.640 --> 19:17.160
+and you know, in some cases, maybe grab a GMB if you get lucky, then you're going to be in
+
+19:17.160 --> 19:21.480
+great shape. So anything you want to add to that, Ryan, I know that's like a bit anticlimactic. Maybe
+
+19:21.480 --> 19:26.200
+you guys expect it to be something different, but again, this is not with any tool because we're not
+
+19:26.840 --> 19:33.160
+before it was use any tool. We're specifically talking about rank and rent engine with this.
+
+19:33.160 --> 19:36.120
+And that's why we wanted to wait to come out with this. So go ahead, Ryan.
+
+19:36.120 --> 19:40.520
+Totally. I think Nick nailed it. I agree with this. This is my assessment as well.
+
+19:40.520 --> 19:46.600
+These things change over time. This is why Nick's group, Digital Landlords, you know, why you're
+
+19:46.600 --> 19:52.360
+staying on the cutting edge of the trade craft of this industry is really important because these
+
+19:52.360 --> 19:56.360
+are not, it's not static. These are things to revisit and these things to look at. But there
+
+19:56.360 --> 20:00.760
+are some things that are like timeless principles. One of them being that search volume is going to be
+
+20:00.760 --> 20:05.640
+the largest like driver for success for what a market looks like. And so really paying attention
+
+20:05.640 --> 20:10.280
+to what's succeeding and what isn't matters a lot. Those numbers are, I totally agree with those
+
+20:10.280 --> 20:16.120
+numbers. The only little thing that I would add to that is that, and I think I saw a question kind
+
+20:16.120 --> 20:23.480
+of getting to this in the chat, that the search volume for the primary keyword should include
+
+20:23.480 --> 20:31.080
+variants of that keyword. So for example, concrete contractor, contractor near me, right? Those are
+
+20:31.080 --> 20:37.240
+going to, if you have like 40 for one and 20 for the other, that's showing 60 between the two of
+
+20:37.240 --> 20:42.840
+those. That's like, that's your primary keyword and a variant of it. That's going to get you the
+
+20:42.840 --> 20:49.160
+results that you're looking for. Okay. I have a question for you. I'm curious your thoughts.
+
+20:50.520 --> 20:54.600
+Let's say I go into rank and run engine. I'm doing concrete. I have concrete contractor,
+
+20:54.600 --> 20:59.000
+concrete, concrete sidewalk, concrete driveway, concrete company, all the main keywords of our
+
+20:59.000 --> 21:09.720
+keyword list. My main keyword has 50 and all my other keywords show zero. What are you going into
+
+21:09.720 --> 21:19.560
+this? Low competition. If it's low competition, I'd try it and see what happens. It's generally
+
+21:19.560 --> 21:33.560
+not a good sign if the core keyword list has zero as search volume, because I found that those are
+
+21:33.560 --> 21:43.720
+likely often true. However, the caveat that I give on this is that if it shows zero for those and you
+
+21:43.720 --> 21:50.920
+go into it and try it, there are examples I found where it has turned out awesome. So it's worth
+
+21:50.920 --> 21:55.800
+trying is what I would say, especially with you guys that do the pre-selling method. It's worth
+
+21:55.800 --> 21:59.720
+trying because what do you have to lose, right? A little bit of ad spend to know if it works or
+
+21:59.720 --> 22:04.760
+it doesn't, and it's a place that others will overlook, right? Because they're saying like,
+
+22:04.760 --> 22:11.640
+oh, this is too low, whatever. But these tools, even the very best like rank and run engine pulls
+
+22:11.640 --> 22:18.280
+directly in from Google. Google Keyword Planner is the best, right? That is Google saying, here's what
+
+22:19.160 --> 22:27.000
+we're seeing in our search ecosystem. And that is the standard, right? And so we're pulling in API
+
+22:27.000 --> 22:32.520
+data from them. And so if Google is saying that, sometimes they don't always know perfectly. And
+
+22:32.520 --> 22:38.120
+if Google doesn't know, these other tools sure don't know. So you might be able to find one where
+
+22:38.120 --> 22:42.040
+you're going to be able to win and you're not going to have anyone that's going to come in and try to
+
+22:43.320 --> 22:48.920
+catch you before you can close the business owner. So I've had that happen before as well. So it
+
+22:48.920 --> 22:56.120
+doesn't deter me. That's another thing that I like. When I was using SEMrush before, it seemed
+
+22:57.080 --> 23:05.240
+for whatever reason I would type in, let's say Bentonville concrete, it would show nothing. And
+
+23:05.240 --> 23:12.680
+then I type in concrete Bentonville AR, and it would show 50. And it was so confusing. But the
+
+23:12.680 --> 23:17.080
+way that I kind of went after it, I was always like, I was guessing a bit, but I was like, well,
+
+23:17.080 --> 23:22.760
+if I see at least two keywords, two variations, and I have all these different variations I would
+
+23:22.760 --> 23:29.400
+try, okay, then I'm good. Like with St. George, for example, St. George, people spell it S-T
+
+23:29.400 --> 23:35.000
+George. Some people spell it S-A-I-N-T George. So I'd have to try all these variations. So anyway,
+
+23:35.000 --> 23:40.120
+it's just nice because I'm able to just go and look at all the keywords at once if I'm like,
+
+23:40.120 --> 23:43.400
+okay, I want to try just a slight difference. Yeah, I can go change it all at once and run them
+
+23:43.400 --> 23:49.000
+instantly. But I definitely agree, guys. That's the beautiful thing about doing the pre-song.
+
+23:49.080 --> 23:54.520
+I was just going to say, Ryan, if I were to ask you, hey, with that same scenario, 50 search volume,
+
+23:54.520 --> 24:01.400
+zero on the other keywords, would you go and build a website there by the domain, do the whole thing?
+
+24:01.400 --> 24:05.240
+I bet you your answer would be no, because you're not 100% confident. But I'd be willing to try it
+
+24:05.240 --> 24:10.760
+for 100 bucks, right? Throw 100 bucks ads out. Yeah. Yeah. I mean, I don't think there's a wrong
+
+24:10.760 --> 24:17.480
+answer there. Some people will put up sites just to put up a site and see what happens and then
+
+24:17.480 --> 24:21.800
+let it sit. And then the worst case scenario is, is two years later, you've got a domain age
+
+24:21.800 --> 24:25.480
+of two years that no one can touch you on if they try to come in there, at least on that,
+
+24:26.040 --> 24:32.200
+on your domain age. But it makes way more sense if you're optimizing for speed and just trying
+
+24:32.200 --> 24:36.440
+to see which one is going to land to, hey, throw something up there, run some ads to it. If it
+
+24:36.440 --> 24:45.320
+doesn't work, move on. 100%. And I would argue, guys, if you are going into a niche like a concrete
+
+24:45.320 --> 24:51.560
+and you find a city that's really low-hanging fruit and it's questionable, you know that this
+
+24:51.560 --> 24:55.320
+example I'm giving you guys with the 35,000 population, it's slowly started to grow.
+
+24:55.880 --> 25:02.600
+You know people need concrete. So even if you build it and there's not a ton of leads,
+
+25:02.600 --> 25:09.880
+there's always a deal to be had. But because I believe in pre-selling, because I only sell
+
+25:10.840 --> 25:15.880
+using the pre-selling method, I know that some of you guys have been frustrated in the past
+
+25:15.880 --> 25:21.080
+because you go in, it looks good. It's low-hanging fruit. It's kind of on that teetering edge
+
+25:21.080 --> 25:25.400
+of volume. You do the ads and then all of a sudden you start like, it goes like a week and
+
+25:25.400 --> 25:30.280
+you don't see anything. So if you want to be very, very, very, very conservative,
+
+25:31.400 --> 25:38.520
+I would say 70 and above, as long as it's medium competition or less, you're good to go. But again,
+
+25:38.520 --> 25:43.240
+if it's low competition, I think you could go as low as 50 and be pretty safe. But again,
+
+25:43.240 --> 25:47.560
+there's variables. It's hard to just give a black and white. If there's no volume for the
+
+25:47.560 --> 25:55.000
+ancillary keywords, that could be a red flag. If there's just all kinds of different little
+
+25:55.000 --> 25:59.640
+tiny factors that you need to consider. So a couple of questions I want to address really quick.
+
+26:01.560 --> 26:07.240
+Gina says, I know a city near us in Georgia, but there is not a great search volume.
+
+26:07.880 --> 26:12.360
+Do you still go into it? I think she's referring to probably a city that's growing.
+
+26:14.840 --> 26:18.840
+She said there's not great search volume. I think in that case, just like what you just said,
+
+26:18.840 --> 26:24.520
+you can kind of get an age domain going, kind of make a long-term play, but you're probably not
+
+26:24.520 --> 26:28.920
+going to see a lot right out the gates, even if you run ads, if there's not much search volume.
+
+26:28.920 --> 26:35.880
+What are your thoughts? Yeah. It depends on your perception of that city, I think. So I've got a
+
+26:35.880 --> 26:42.280
+city in Tennessee that is really small on the search volume numbers, do not look good. But I
+
+26:42.280 --> 26:47.080
+know that that city is growing. I know that there are people moving there, that people want to live
+
+26:47.080 --> 26:54.840
+there, that it's got a upward trajectory that is unmatched by any other city really in Tennessee
+
+26:54.840 --> 27:02.040
+right now. So I put one there and that site kills it. It's doing great. So Gina, I'd say like, look,
+
+27:02.680 --> 27:06.360
+it depends on the way that you build your agency and your own personal approach to
+
+27:07.240 --> 27:10.840
+your risk assessment, right? Are you willing to see what happens if you put a hundred bucks
+
+27:10.840 --> 27:14.760
+of ads into it? Because it could mean that you find something that no one else is looking at
+
+27:14.760 --> 27:19.800
+and no one else is going to find. And if you do, that's a win, right? In my agency, I tend to go
+
+27:19.800 --> 27:25.080
+for those things. I tend to just say, hey, let's try it out. Let's see what happens and experiment.
+
+27:25.480 --> 27:34.200
+A lot of this business model I've found is try it, right? Just see what happens. And if it works,
+
+27:34.200 --> 27:38.280
+you've got a winner. And if it doesn't work, at least now you know, and you're not going to
+
+27:38.280 --> 27:44.360
+just always be wondering about it. Right. I think that's solid advice. Richard says,
+
+27:45.400 --> 27:49.080
+for the main keyword question mark, what about the long tail keyword? I think we addressed that,
+
+27:49.080 --> 27:52.600
+right? Maybe he said that before we got into it, but we kind of addressed that, correct?
+
+27:53.400 --> 27:59.960
+Yeah. Yeah. I think it's helpful to understand why would someone search for a long tail keyword?
+
+27:59.960 --> 28:07.640
+In your own search habits, why would a person search habits? Why would they search for a
+
+28:07.640 --> 28:14.120
+long tail keyword? And think about if I'm living in Memphis and I want a concrete contractor,
+
+28:14.120 --> 28:20.200
+I'm just going to search concrete contractor, right? Because I don't need to search. Google
+
+28:20.200 --> 28:25.000
+knows where I live. It's going to pull up local search. If someone searches the long tail keyword,
+
+28:25.000 --> 28:31.400
+concrete contractor in Memphis, Tennessee, they probably do not live in the Memphis area. So
+
+28:31.400 --> 28:38.360
+they're looking from outside. Who looks from outside of a city? General contractors, builders,
+
+28:38.360 --> 28:45.560
+investors, people that are looking to do projects in the city, commercial, people looking for
+
+28:45.560 --> 28:52.440
+commercial work that manage a commercial facility in the city. So I found that if the
+
+28:52.440 --> 28:58.520
+long tail keyword has search volume, it probably is a high growth area because it means that people
+
+28:58.520 --> 29:03.400
+from outside the city who have money, who want to invest in properties in that city by doing some
+
+29:03.400 --> 29:09.080
+kind of project related to that keyword are searching for it, right? That's kind of the
+
+29:09.080 --> 29:15.160
+psychology behind long tail keywords that I found has been indicative of a growth area.
+
+29:18.440 --> 29:23.240
+Okay, let's keep moving along. And guys, if you have any questions related to the search volume
+
+29:23.240 --> 29:30.280
+topic before we get into more of the software side. By the way, I didn't even mention this
+
+29:30.280 --> 29:36.840
+at the beginning, which is bad, but we're going to be, again, I said this at the beginning,
+
+29:36.840 --> 29:41.480
+we appreciate everyone that did the beta stuff. We're like one month, our original deal, we gave
+
+29:41.480 --> 29:48.360
+everybody two months of free beta, right? Was that what it was? Or two months of 20% off.
+
+29:49.640 --> 29:53.480
+And anyway, we just appreciate that feedback. And I know we've implemented, you've implemented
+
+29:53.480 --> 29:57.400
+quite a few of the changes already, haven't you, Ryan? Yeah. Yeah. So thanks to everyone that did
+
+29:57.400 --> 30:02.760
+beta. Some of these are here. So Richard particularly has been super helpful. He submitted
+
+30:02.760 --> 30:09.000
+a bunch of tickets. You guys, this is made by the people that do this business model. This isn't
+
+30:09.000 --> 30:16.040
+made by some corporation that's sitting in Silicon Valley. This is made by people that are doing
+
+30:16.040 --> 30:20.840
+rank and rent, people that are industry leaders in this area that have built agencies that are
+
+30:20.840 --> 30:27.240
+successful, what works, what doesn't. That's how this tool was created. So we're continuing that
+
+30:28.200 --> 30:33.240
+approach in the way that we build rank and rent engine, right? If you're a user and you're like,
+
+30:33.240 --> 30:37.720
+hey, be cool if it did this, be cool if it did this. We have a feature request that you could
+
+30:37.720 --> 30:41.480
+put in and that goes straight to my inbox. And I look at those and I'm like, you know what?
+
+30:42.200 --> 30:47.720
+That'd be great. Let's do that. And then I just task out the developers and they go and they create
+
+30:47.720 --> 30:52.520
+it, right? We add it to the product roadmap. So over the course of beta, we found edge cases
+
+30:52.520 --> 30:57.880
+and things like that that were important for you guys to have it in the platform.
+
+30:57.880 --> 31:01.160
+And we made those updates. And so it's been really, really useful. And part of the,
+
+31:02.200 --> 31:05.560
+there was a discount for the first two months for people that were the early signups for beta.
+
+31:05.560 --> 31:12.360
+And we really appreciate you guys. Yeah. Quick question, just a clarification, Ryan.
+
+31:13.240 --> 31:20.120
+The people that did do beta, if they want to, are they able to tap into an extended
+
+31:20.680 --> 31:25.320
+discount based on what we set up or do we have to, or is it just, is it done?
+
+31:26.040 --> 31:30.440
+Yeah. If they've already made an account and they took advantage of the beta pricing,
+
+31:30.440 --> 31:34.040
+that was for early access for the folks in the beta. And so they've got that.
+
+31:35.640 --> 31:41.320
+We'll have deals and things like that in the future. They'll get access to things that come
+
+31:41.320 --> 31:47.400
+out later on just as a gesture of saying, thank you. But they got locked into that early pricing
+
+31:47.640 --> 31:55.720
+from the job. Also for you guys that are in this, we're going to make sure that we take care of you
+
+31:55.720 --> 32:01.160
+guys above everybody. So just keep that in mind. And again, we just want to say we appreciate the
+
+32:01.160 --> 32:10.280
+feedback. Okay. Bo says, okay, this one I'm going to read the question. You can give your feedback.
+
+32:10.280 --> 32:14.120
+I'm going to give my feedback and I'm going to tell you what my answer is. But he says,
+
+32:15.080 --> 32:20.120
+can you touch on CPC on Rare? Before I read the whole question, I'm going to let you know this,
+
+32:20.120 --> 32:29.480
+Bo, is that I have a pretty solid answer because of course we're looking at this. There's another
+
+32:29.480 --> 32:35.400
+question that's related to the backlinks. There's a couple different components of due diligence.
+
+32:35.400 --> 32:42.040
+We're just making sure that we're dialed in. On the CPC, I'm at the same place I was a few weeks
+
+32:42.120 --> 32:51.080
+ago with the search volume, which is I'm in, this campaign's performing well. How does it look
+
+32:51.080 --> 32:56.280
+inside of RankinRen Engine? Okay. Now I can confidently say this is what it should be. So
+
+32:57.080 --> 33:05.160
+I don't have a solid answer. Do this every time. Is it the average of this for you just yet? But I
+
+33:05.160 --> 33:10.920
+just will answer by saying that's what I'm working on now. Now that we have the search volume piece,
+
+33:10.920 --> 33:17.160
+now we're working on what the CPC should be according to Rare, as well as the backlinks
+
+33:17.160 --> 33:20.200
+as well. So I don't know, Ryan, do you have anything else you want to add on that?
+
+33:22.200 --> 33:29.800
+Yeah. I'd say that you're trying to get on the high top of page to get the most leads,
+
+33:30.920 --> 33:36.840
+but it's not the end of the world if you don't. This goes back into like, this is a little bit
+
+33:36.840 --> 33:40.520
+squishy, right? You're going to have to try it out. You're going to have to see what works for you.
+
+33:40.520 --> 33:45.800
+And then see what kind of results that you're actually getting. So if I see a high top of page
+
+33:45.800 --> 33:51.400
+bid that is like 20 bucks, I'm not going to even fool with it, right? But if I see one that's $10
+
+33:51.400 --> 33:57.320
+and then the low top of page bid is $1 and it's averaging at five, I'm totally comfortable with
+
+33:57.320 --> 34:04.600
+that, right? Because what I'll do is also run ads that are a little bit off hours as well. So starting
+
+34:04.600 --> 34:11.800
+at 7.30 in the morning through, I don't know, 7 p.m. at night where others are not running ads,
+
+34:11.800 --> 34:16.440
+I'm going to take advantage of that high top of page bid when others are not running ads. Maybe
+
+34:16.440 --> 34:21.720
+there's end at 5 p.m. and mine runs until 7 p.m. I'm going to get cheaper ad clicks in that two
+
+34:21.720 --> 34:27.560
+hour delta between those times. So there's strategies and tactics that you can deploy to
+
+34:27.560 --> 34:33.000
+take advantage of the less expensive clicks. But I don't worry about the high top of page bid if I
+
+34:33.000 --> 34:39.720
+think that on an average across my keywords that I'm going to do okay for my campaign forecasting.
+
+34:41.960 --> 34:48.600
+Beautiful. So yeah, Bo, stay tuned. We'll have more details on that. I would rather let you know,
+
+34:48.600 --> 34:54.040
+say that to you than give you some random answer. I have to come back and correct. So anyway,
+
+34:54.760 --> 35:03.240
+so guys, that's search volume, okay? 50 on the low end, low competition, 50, medium competition,
+
+35:03.240 --> 35:07.800
+70. If you want to be extra safe, do 70 and above. To be honest, if it's your first project,
+
+35:08.520 --> 35:16.200
+maybe make sure it's 70 and above. But at the end of the day, guys, make sure that we're following
+
+35:16.200 --> 35:19.800
+the exact recipe, right? I've given you the recipe of how to bake the perfect cake.
+
+35:20.760 --> 35:25.000
+Can you deviate from it and still have success? Yeah, some of you guys have probably done that on
+
+35:25.000 --> 35:30.840
+accident and still have success. And then you get in your head, oh my gosh, this is untrue, but
+
+35:32.200 --> 35:36.600
+that's an anomaly. And we've done this a lot of times. I've lost a lot of money. I've made the
+
+35:36.600 --> 35:41.480
+mistakes. So the closer you can get to the advice that we're giving you, it's because we've tried
+
+35:41.480 --> 35:46.440
+it, we've tested it, and that is what we've seen to work. Can it still work if you deviate slightly?
+
+35:46.520 --> 35:51.960
+Yes. But every time you deviate, you're running the risk of messing up that recipe that actually
+
+35:51.960 --> 35:59.000
+works. All right. That is, I think, all the questions that we had so far on search volume.
+
+35:59.000 --> 36:02.760
+We've nailed that. I know you guys have been waiting on that. If anyone has any clarifications,
+
+36:02.760 --> 36:09.560
+keep going. Other than that, Ryan, why don't we open back the tool? I know last time,
+
+36:09.560 --> 36:12.920
+I'm going to give you co-host, I know last time we literally only got to talk about
+
+36:13.880 --> 36:20.040
+due diligence. We got to talk about the Explorer website, kind of do the metrics on that.
+
+36:20.680 --> 36:26.200
+We didn't get a ton into the project stuff, the list of projects, the CRM, that kind of stuff. So
+
+36:26.200 --> 36:36.360
+let me give you co-host real quick, sir. Let me see why this doesn't work. Hold on.
+
+36:36.360 --> 36:44.200
+All right. Beautiful. Okay, done.
+
+36:45.560 --> 36:49.800
+Cool. Fire it up. Where do you want to go with it? Where do you want to take this train today?
+
+36:51.320 --> 36:58.520
+I just want you to give them a bit more. Last time when we talked, I always get hung up talking
+
+36:58.520 --> 37:03.720
+and talking and talking about the due diligence, because to me, that's the easiest way that I could
+
+37:03.800 --> 37:08.600
+just see how valuable this is, because that's how much time it took me to do due diligence
+
+37:08.600 --> 37:13.560
+when I was coming up and doing them literally on sheets of paper. But there's so much more
+
+37:13.560 --> 37:20.840
+that this does. I think more of the project management, show them more on what they can
+
+37:20.840 --> 37:25.160
+do with the CRM, just some of that stuff, especially for the people that maybe weren't
+
+37:25.160 --> 37:29.160
+on the call last time. I don't think we had a ton of people on the last time we did it. We
+
+37:29.160 --> 37:36.920
+didn't promote it super hard because we were just doing a beta anyway. I think we could also talk
+
+37:36.920 --> 37:40.600
+about the Keyword Planner, but let's just get into this. Guys, for those that have no idea what
+
+37:40.600 --> 37:43.560
+that we're talking about, this is Rank and Run Engine. This is something that Ryan's been working
+
+37:43.560 --> 37:52.040
+on for 15 months. It's the version 2.0 of what he's used to scale his agency. It's our go-to
+
+37:52.040 --> 37:57.320
+standard tool that we are going to be using exclusively because it's getting data directly
+
+37:57.320 --> 38:02.440
+from Google and because we can control it and we can give Ryan feedback and a host of different
+
+38:02.440 --> 38:08.840
+reasons. It's super affordable. It's less than the price of a tool of it, like SEMrush, et cetera.
+
+38:08.840 --> 38:12.360
+But that is what this is, and we're just going to be talking about that a bit today. For those of
+
+38:12.360 --> 38:24.760
+you that did not get the beta code, you can message me and I have a code that you guys can use as a
+
+38:24.760 --> 38:30.520
+launch code that you guys can access as well. If you were not part of the beta and you're
+
+38:30.520 --> 38:34.760
+interested, message me. I'll send you a code. We can go from there. Ryan, let's go into some
+
+38:34.760 --> 38:38.040
+of these different features, some of these different benefits that this tool has.
+
+38:38.760 --> 38:45.480
+For sure. Let's talk about Bo's question. Bo asked about the difference between the low
+
+38:45.480 --> 38:51.800
+top of page bid and the high top of page bid. This is Keyword Planner. We're going to do the
+
+38:51.800 --> 38:59.400
+keyword masonry and we're doing it in Knoxville. You guys that are building your agencies need to,
+
+39:00.360 --> 39:04.760
+one of the most important things you can understand about this keyword tool is some of them are going
+
+39:04.760 --> 39:09.880
+to have local cities that are smaller. Some of them have DMA regions, which are much larger.
+
+39:09.880 --> 39:15.960
+You can go into bigger markets sometimes if you know that your search volume is good and your cost
+
+39:15.960 --> 39:22.520
+per click is really low. This is an example. Brick related things in the Knoxville area.
+
+39:23.160 --> 39:26.520
+I'm not saying that this meets the population requirements. I'm not saying that it's low
+
+39:26.520 --> 39:30.920
+hanging fruit. I'm just using this as an example to answer Bo's question. I had this pulled up.
+
+39:31.560 --> 39:35.400
+He was asking about the difference with low top of page bid and high top of page bid.
+
+39:36.200 --> 39:44.200
+Google's saying, hey, it's $1.43 per click for the low and $3.92 for the high. That's awesome.
+
+39:44.200 --> 39:48.200
+That's a great keyword. Some of these, though, guys are more expensive. I'm going to do masonry
+
+39:48.200 --> 39:53.720
+and masonry contractor near me. You can see that the difference between four bucks and $33 almost
+
+39:53.720 --> 40:02.600
+is pretty significant. There's other keywords in here that are going to be gold mines. Let me just
+
+40:02.600 --> 40:10.600
+do bricks, veneers. This goes to Gene's question a little bit about building a good keyword list.
+
+40:10.600 --> 40:20.040
+Look at this. 140 search volume and less than $2. Just because an industry has those really,
+
+40:20.040 --> 40:26.120
+really high dollar amounts doesn't mean that it's not viable. You can find these keywords
+
+40:26.120 --> 40:31.560
+that people look for brick veneers. That's a really high ticket service. You get to re-brick
+
+40:31.560 --> 40:35.720
+a whole house with brick veneers and it's going to be really expensive. You can get that click
+
+40:35.720 --> 40:42.840
+for less than two bucks. Until you and I talk, I didn't even know what that was.
+
+40:42.840 --> 40:49.560
+If somebody's searching brick veneers, they are buying the service. They are in buy mode. That
+
+40:49.560 --> 40:53.720
+means you've gone down the rabbit hole a little bit in your research. Am I correct in that?
+
+40:54.360 --> 41:01.560
+Yeah, man. Yeah. They're looking for ... Brick veneers is a specialty brick service that
+
+41:02.360 --> 41:06.360
+it's not a DIY thing, man. You're not doing DIY brick veneers usually unless you're
+
+41:07.400 --> 41:11.320
+Bob Villa, right? It's just not happening. Another is tuck pointing.
+
+41:12.680 --> 41:16.920
+Hold on. Is brick veneering just like doing veneers on your teeth? Do they whittle your
+
+41:16.920 --> 41:19.560
+teeth down so you look like a gremlin and then they put the caps on?
+
+41:20.120 --> 41:23.800
+Yeah. Yeah. They do that to your house. That's crazy, dude.
+
+41:24.600 --> 41:29.960
+They put brick veneers on the outside of the house to give that timeless brick look. It's
+
+41:29.960 --> 41:34.200
+really popular. You can see just on the search volume here how popular this is.
+
+41:34.200 --> 41:38.920
+That's another money keyword that ... There's these variations here, right? Brick paneling.
+
+41:39.560 --> 41:43.080
+People that search this don't know to call it brick veneers, but they know what it is.
+
+41:44.360 --> 41:50.120
+Thin brick, brick veneers. You can see that even though if you do masonry contractor and you're
+
+41:50.120 --> 41:54.840
+mean, it's 30 bucks a click. The people that are looking for brick veneers are looking brick
+
+41:54.840 --> 42:00.360
+paneling and these other brick-related overlay type keywords. They're looking for a masonry
+
+42:00.360 --> 42:06.680
+contractor. You don't have to get totally hung up on, oh, it's $30. This isn't going to work.
+
+42:07.800 --> 42:10.600
+This is just another way to search for that primary keyword.
+
+42:10.600 --> 42:14.840
+I have a question, Ryan. Let's say that we were looking that up. Let's say we're in masonry.
+
+42:14.840 --> 42:22.200
+We find out masonry is 30 bucks a click top, the high end. You're like, okay, I could go and target
+
+42:22.920 --> 42:29.080
+terms like this on my ads. On your SEO side, would you still be targeting the term masonry
+
+42:29.080 --> 42:35.960
+as your H1 on your page title, that kind of thing, or would you change that strategy at all?
+
+42:36.680 --> 42:42.760
+100%. This is still going to be masonry near me. They're looking for a brick masonry contractor.
+
+42:42.760 --> 42:48.760
+That's the expensive one. It's $18. It's a cost per click average. This is still what I'm targeting.
+
+42:48.760 --> 42:53.240
+This is still my primary keyword. It's still going to my H1. It's still going to my landing page,
+
+42:54.200 --> 42:59.000
+but if I run ads to it, it is probably not going to make the mix.
+
+42:59.720 --> 43:05.320
+The reason I wanted to bring that up, guys, is that the thing that's interesting is when you see
+
+43:05.320 --> 43:11.720
+high CPC, it's terrible for ads, but nothing's better than when you have organic
+
+43:12.520 --> 43:16.840
+leads coming in for those high CPC terms. That usually means that they're very highly sought
+
+43:16.840 --> 43:24.120
+after. The good strategy is get your clicks for the low cost terms, start ranking for the high
+
+43:24.120 --> 43:29.960
+cost terms, and between the two, you have a freaking smasher of a website. It also looks
+
+43:29.960 --> 43:34.200
+like the freaking hooptie of websites, the Geo Metro of websites while you're at it.
+
+43:35.800 --> 43:40.120
+Yeah, absolutely. That's a great strategy. You're able to take advantage of these other
+
+43:40.920 --> 43:45.960
+keywords that are overlooked. Let's see. Did I misspell that? Tuck, oink, ding.
+
+43:46.040 --> 43:51.080
+Okay. Spelling is hard when I'm doing it live. All right. This one is another good example of
+
+43:51.080 --> 43:55.560
+a keyword that between tuck pointing and tuck pointing near me and some of these others,
+
+43:55.560 --> 44:00.360
+there might be 40 or 50 searches a month, but it's going to be super cheap clicks.
+
+44:01.960 --> 44:08.200
+That's not a DIY thing. Someone's paying a mason to come out and do that. Be mindful of,
+
+44:08.200 --> 44:12.680
+just because you see that high top of page bid doesn't mean that it's not a viable market.
+
+44:12.680 --> 44:17.000
+Look for some of these keywords that they're looking for a specialist to do. They're just
+
+44:17.000 --> 44:24.120
+not using the specialist primary keyword that has that high cost per click.
+
+44:26.120 --> 44:29.800
+Gina had a really interesting suggestion. I don't know if you want to wrap up this thought,
+
+44:29.800 --> 44:33.000
+or if you're done, but maybe you could show ... You don't have to show a full,
+
+44:33.000 --> 44:37.240
+but maybe we could pick a niche and you could show us how you go about building a keyword list
+
+44:38.200 --> 44:43.960
+using rank and run engine, coming up with ideas, seeing what's highly searched,
+
+44:43.960 --> 44:46.680
+that kind of thing. I don't know if that's something you could show us.
+
+44:46.680 --> 44:50.440
+Yeah, dude. Let's do it live. What do you got? Give me a niche. What do you want to do?
+
+44:50.440 --> 44:58.520
+Let's stay away from the regulars, but let's keep it still. Let's ask Gina. Gina, what do you got?
+
+44:58.520 --> 45:05.400
+Give us something that's not concrete, tree service, spray foam insulation, and we'll do it.
+
+45:05.400 --> 45:12.920
+If it is one of those, then let's keep going. I love those niches. I still make money in those
+
+45:12.920 --> 45:18.520
+niches. We're still closing deals in those niches, but I guess I'm just a little tired of talking
+
+45:18.520 --> 45:24.760
+about concrete, personally. It's only because I've been doing it for three years. I'm still
+
+45:24.760 --> 45:29.720
+going to do it. I just am tired of talking about it. I love some demo.
+
+45:30.520 --> 45:36.280
+Yeah, exactly. If you're watching this car right now, demo, I've got some demo clients and they do
+
+45:36.280 --> 45:42.680
+not bat an eye at $1,500 a month. They don't think twice about it because the demo jobs,
+
+45:43.880 --> 45:48.200
+entry-level demo jobs are high ticket, but they'll get jobs that are like,
+
+45:49.320 --> 45:53.640
+I had a demo job come in for one of my clients that was a quarter million dollars.
+
+45:54.200 --> 45:57.880
+Crazy. Yeah. Let's do some demo. Let's do demo.
+
+45:57.960 --> 46:01.080
+Just to answer Gina's question really quick, she says, are we not using the Google Trends?
+
+46:01.080 --> 46:08.520
+No, guys. We want to see how Ryan's using this to build his keyword list. Remember, we're redoing
+
+46:08.520 --> 46:15.400
+the training 3.0. In the meantime, you can still follow everything the exact same. The training is
+
+46:15.400 --> 46:20.680
+still how I build my keyword list. You got to remember, this tool just came out three,
+
+46:20.680 --> 46:27.960
+four weeks ago. I'm still taking my strategy using how I used to and then how am I going to
+
+46:27.960 --> 46:32.680
+use it here, looking at what Ryan's doing. But no, for anybody that's confused, just keep following
+
+46:32.680 --> 46:37.320
+the training. It still works as how I've continually made thousands and thousands of dollars, but we
+
+46:37.320 --> 46:44.920
+want to see how Ryan's using Rare because we want to utilize and just beat the heck out of this tool
+
+46:44.920 --> 46:49.320
+as much as possible if we're going to have it. Let's do demolition and let's build a keyword
+
+46:49.320 --> 46:54.280
+list. But anyone else that's confused, keep doing what you're doing. This is just to see how Ryan's
+
+46:54.280 --> 46:59.560
+doing. This could also be a good way to generate additional ideas if you're hung up trying to find
+
+46:59.560 --> 47:05.400
+and build that keyword list. Let's see how you do it, man. Yeah, 100%. Guys, we're showing you a
+
+47:08.680 --> 47:15.880
+part of the keyword analysis process, Nick, and the training starts with Google Trends.
+
+47:15.880 --> 47:20.200
+You can look at the national, are we in the right ballpark for the cities we're looking at?
+
+47:22.120 --> 47:27.000
+That's very similar to talking about the chat GPT approach, looking nationally at what our
+
+47:27.000 --> 47:31.880
+search volume is. We're a little bit further along in that part, and we've got some areas
+
+47:31.880 --> 47:38.680
+that we're looking at now. This is not removing that part of the training. That's still essential,
+
+47:38.680 --> 47:43.720
+but we're just zoomed in a little bit here. Let's say that we see demolition is trending
+
+47:43.720 --> 47:49.400
+in Tennessee, and demolition is interesting, guys, because there's only so much real estate
+
+47:49.400 --> 47:55.720
+in a city, and there's only so much good real estate in a city. If there's old properties that
+
+47:55.720 --> 48:02.360
+are in a blight district or there's an area that is growing, but there's old properties there that
+
+48:02.360 --> 48:08.600
+people are buying up, they have to demolish those old properties to build new ones. It's required.
+
+48:09.240 --> 48:15.240
+There's only got so much space. Demolition is a really, really good one to go into. I'm a big fan
+
+48:15.240 --> 48:19.880
+of demolition. Demolition, let's do Tennessee. Let's just see what happens with some Knoxville.
+
+48:21.960 --> 48:24.520
+Just already in here, so let's just search it and see what happens.
+
+48:27.880 --> 48:32.520
+You guys can see 260 searches, probably three bucks a click.
+
+48:33.480 --> 48:45.480
+3F357 for demolition. Let's see what happens. That's more expensive. Demolition companies near me,
+
+48:45.480 --> 48:54.600
+though, is a good one. That's six bucks. What I'll do is I'll go through demolition-related
+
+48:54.600 --> 48:59.880
+keywords, demolition, demolition contractor, demolition company, demolition services,
+
+48:59.880 --> 49:08.360
+and I'll start looking at what these look like. As I build up my keyword list, I'm going to have
+
+49:08.360 --> 49:12.360
+my core, my primary keyword is going to be demolition or demolition contractor,
+
+49:13.560 --> 49:18.440
+and then I'm going to start adding these in as part of my core keyword list. It's also going
+
+49:18.440 --> 49:23.400
+to depend on what my vision is for this actual site. Do I want other services related demolition,
+
+49:23.400 --> 49:30.600
+because demolition guys will often also do excavation and trenching. It just depends on
+
+49:30.600 --> 49:35.320
+how you want to eventually build out the site. If you're wanting to just specialize in just straight
+
+49:35.320 --> 49:41.240
+up demolition, there's a lot of good keywords here that when you add all these up, there's
+
+49:41.240 --> 49:47.160
+probably another 100 or plus or more searches per month in this market just for demolition.
+
+49:47.880 --> 49:54.200
+Let's do another city. Let's do some nationals growing. These are bigger areas, but you can see
+
+49:54.200 --> 49:59.480
+that there's a lot of opportunity in these areas. Six bucks a click, six bucks a click,
+
+50:00.360 --> 50:10.120
+demolition companies near me. I will go and I'll build up my keyword list by looking at the primary
+
+50:10.120 --> 50:15.160
+keyword, making sure that it's got solid search volume standards that Nick and I talked about a
+
+50:15.160 --> 50:22.280
+second ago. Then I'll add in all these additional ones as part of my secondary keyword list where
+
+50:22.280 --> 50:26.920
+these are not primary, but they're variants of the primary. When you add all these up,
+
+50:26.920 --> 50:31.640
+you're going to get calls where other people are not optimizing for these keywords, and you're
+
+50:31.640 --> 50:36.120
+going to get the call for house demolition companies near me or pool removal contractors,
+
+50:36.680 --> 50:42.920
+because the guys that do demolition will also do some of these specialty services
+
+50:42.920 --> 50:47.080
+related to demolition. You can add these in commercial demolition contractors. That is a
+
+50:47.080 --> 50:54.840
+great keyword, and people are probably not looking for it. Build these out right into a sheet,
+
+50:55.560 --> 51:00.040
+and just add these in, or I'll go straight to my due diligence tab and I'll make a due diligence
+
+51:00.040 --> 51:04.040
+record where I'll add in these keywords that I see coming up over and over with good search volume.
+
+51:04.040 --> 51:08.280
+Yeah, what's up, Nick? I know a couple of different ideas that I would find this,
+
+51:08.280 --> 51:15.400
+but for somebody that may be asking, let's say that Gina thinks of a brand new service. She's
+
+51:15.400 --> 51:24.280
+like, I'm going to go into excavation or demolition. How do you go about finding out what's the main
+
+51:24.280 --> 51:29.240
+keyword? Do you just go off of what it's called and use your intuition and say, well, if it's
+
+51:29.240 --> 51:33.800
+excavation, it's probably excavation. Let me look at the difference between excavation and
+
+51:33.800 --> 51:39.400
+excavation contractor, excavation company. How do you determine that main keyword? I'm curious
+
+51:39.400 --> 51:43.400
+how you do it. I'll let you guys know how I would do it and how I would find it really quickly.
+
+51:44.120 --> 51:48.840
+Yeah, I would love to hear Nick's answer to this. I think this requires just a little bit of
+
+51:50.280 --> 51:54.040
+speculation, but making just sort of informed guesses. For example, there's a difference
+
+51:54.040 --> 52:00.520
+as in industries. If I just type in concrete, that is not going to give me the results that I want.
+
+52:00.520 --> 52:07.480
+If I just do straight up concrete, if we just use a tried and true example, there's 1900 searches,
+
+52:07.480 --> 52:13.880
+but that's not what I want because people are going to use that to find ready mix and delivery
+
+52:13.880 --> 52:19.000
+by the yard or whatever. But if I do demolition, and I know this because I've had campaigns that
+
+52:19.000 --> 52:28.920
+run ads and I've seen my organic clicks, demolition is likely going to, you can't buy just a demolition
+
+52:28.920 --> 52:33.960
+product. You know what I'm saying? It's not a product and a service. It's an action. It's a
+
+52:33.960 --> 52:41.080
+service. You're doing demolition. Now, what do they mean by that? Do they mean interior
+
+52:41.080 --> 52:47.000
+remodeling demo? That's very different than destroying a structure, removing it away,
+
+52:47.000 --> 52:51.400
+and then clearing the land. That's going to be more likely to be a demolition contractor.
+
+52:51.400 --> 52:58.120
+But in this case, that keyword or demolition company is a good one. In that case, I will look
+
+52:58.120 --> 53:06.760
+at the keyword and I will make a judgment about, okay, this is not a product. Concrete is the
+
+53:06.760 --> 53:15.400
+product, but it's also a keyword that is going to be used in concrete contractor. I want to make
+
+53:15.400 --> 53:21.400
+an assessment about whether this is going to be likely someone calling for someone to do this
+
+53:21.400 --> 53:27.080
+specialty service. In this case, demolition would be one that I would add. A demolition contractor
+
+53:27.080 --> 53:33.240
+very often would add that to. Concrete would not add that. Concrete contractor would be a great
+
+53:33.240 --> 53:38.680
+one. It varies by industry. I just really make a judgment call about really what the search volume
+
+53:38.680 --> 53:42.360
+looks like and how I would search for it, frankly. What would you do, Nick?
+
+53:44.360 --> 53:50.040
+I would be lazy and just tick-tapping other people's work. I'd go to some major cities,
+
+53:50.600 --> 53:55.640
+type in what I think it is, type in demolition. I'd look at the top three results in the organic,
+
+53:56.440 --> 54:01.000
+and I would look at the page title because those guys most likely are paying SEO companies. Make
+
+54:01.000 --> 54:07.480
+sure it's big cities, competitive cities, Atlanta, L.A., whatever. I guarantee the page title, the
+
+54:07.480 --> 54:13.080
+thing that shows up in the SERPs, the first word or the first two words is going to be demolition
+
+54:13.080 --> 54:17.480
+service, demolition service. That would be an interesting one to look at right there, demolition
+
+54:17.480 --> 54:22.040
+contractor. I would look at three, four cities and then I would come up with two, three ideas.
+
+54:22.040 --> 54:27.640
+Then I would go pump it into RankinRent engine and I would see which one. Again, this is just when
+
+54:27.640 --> 54:31.080
+you go into a new niche. This is why it's so important to stay in the same niche because
+
+54:32.600 --> 54:36.600
+concrete, me and you, we can just go off the top of our head and know our keyword list.
+
+54:38.600 --> 54:40.280
+I'm curious to see what demolition service is.
+
+54:41.960 --> 54:44.920
+It's going to pull up 10, but let's do a bigger...
+
+54:52.120 --> 54:56.200
+So it's going to pull up these related keywords and there's...
+
+54:56.200 --> 54:59.800
+And that's just to generate ideas. I would go in and do that in like three, four cities and I'd
+
+54:59.800 --> 55:04.680
+look, okay, I keep seeing demolition service, I keep seeing demolition contractor and then I would
+
+55:04.680 --> 55:09.480
+just look at that inside of this tool and go, all right, this is probably my target keyword.
+
+55:09.480 --> 55:15.400
+You could also go to the website, look at the H1, look at the page title, that kind of stuff
+
+55:15.480 --> 55:20.200
+right there. Full service demolition. Is that a Legion?
+
+55:21.240 --> 55:21.880
+I don't know, man.
+
+55:23.480 --> 55:26.840
+It almost looks like it, but then it's, I mean, it's kind of got a brand. They did a good job
+
+55:26.840 --> 55:33.560
+with it is. So again, these are just some ideas, but once again, this is the reason why you guys,
+
+55:33.560 --> 55:39.000
+if you go and you take the time to learn a niche, you don't have to keep... There you go.
+
+55:39.000 --> 55:39.960
+That's a Legion site.
+
+55:40.760 --> 55:44.600
+Yeah, we've built that for one of my students.
+
+55:45.240 --> 55:45.960
+Oh, there you go.
+
+55:47.000 --> 55:52.040
+This is a lead generator in Atlanta and you can see that he's made it in, right? So look how...
+
+55:52.600 --> 55:58.920
+Then that's a good looking site. Go up again, it's best demolition service.
+
+55:59.880 --> 56:00.840
+Oh, you're looking at the...
+
+56:03.720 --> 56:08.680
+The headline, yeah, right there. Demolition contractor, sorry. Yeah, that's another good
+
+56:08.680 --> 56:13.320
+thing. If you could find a lead generator, it doesn't necessarily mean they know what
+
+56:13.320 --> 56:16.600
+they're doing, but usually they know what they're doing more than everybody else. And if they're
+
+56:16.600 --> 56:21.720
+ranking, they probably know what they're doing. So these are just ideas. You could also ask in
+
+56:21.720 --> 56:28.120
+the group if you want. That's another idea, you know? But these are just when you're going
+
+56:28.120 --> 56:32.120
+into a new niche. And I just wanted to bring that up because she asked to build a keyword
+
+56:32.280 --> 56:38.760
+list from scratch. So again, guys, you could stick with how we do it until I'm continuing
+
+56:38.760 --> 56:44.840
+to do it, but I might, based on this, now that we're using rank and run engine, the version 3.0
+
+56:44.840 --> 56:50.360
+might have a slightly different way that we do it if it's faster, if it's more accurate, et cetera.
+
+56:51.640 --> 56:53.560
+So that's why I was curious to see your process.
+
+56:54.360 --> 56:59.880
+Totally, man. Yeah, it's great being on this call with you guys. Looking at the
+
+57:00.840 --> 57:04.200
+the fundamentals and constantly revisiting the fundamentals. I think that there's a lot
+
+57:04.200 --> 57:08.120
+of entrepreneurs that are very, very successful that I listen to that talk about, you know,
+
+57:08.120 --> 57:13.240
+revisiting your business model from first principles over and over and over and over again,
+
+57:13.240 --> 57:16.200
+right? Because there's people that are not doing that. They're getting left in the dust because
+
+57:16.200 --> 57:22.280
+the world changes, search changes, search volume changes. And I love that Digital Landlords is
+
+57:22.280 --> 57:27.320
+always thinking about like, how do we make sure that we're going to consistently get results for
+
+57:27.320 --> 57:30.360
+students? It's cool talking about this with you guys today.
+
+57:31.320 --> 57:34.600
+Gina, just to clarify Gina's question before we end this, she said, I'm just a little thrown off
+
+57:34.600 --> 57:38.120
+by her searching for it, I guess. Do you always search for Tennessee or do you choose a large
+
+57:38.120 --> 57:43.800
+city? I think it kind of goes back to the whole concept of like, people are people are people.
+
+57:44.920 --> 57:48.600
+The thinking with the Google Trends is that you can kind of cast a wider net.
+
+57:49.480 --> 57:56.600
+And so I think for now, I still like the, let me ask this, can you search on rank and
+
+57:56.600 --> 58:00.920
+rent without putting in a city and just go globally or nationwide? Or do you have to put
+
+58:00.920 --> 58:06.280
+in a city? It's made for local search. Okay. So maybe what you could do, Gina,
+
+58:06.280 --> 58:13.800
+to start to start to get ideas is just use trends to find those main terms and then come
+
+58:13.800 --> 58:17.240
+into rank and rent in the city you're looking at and then start going from there.
+
+58:18.600 --> 58:23.160
+Yeah. Yeah. I think, again, let's talk about earlier, like we were zoomed out
+
+58:23.960 --> 58:27.880
+and we were looking at trends, we were talking about JetCheap ET and prompting it for search.
+
+58:28.600 --> 58:33.880
+And then we zoom in the next part and we look at, you know, at the city level, right? The state
+
+58:33.880 --> 58:38.840
+city level and see like, okay, what is it actually? We know what the trend is and saying, hey, here's
+
+58:38.840 --> 58:43.480
+the trend, but what is in reality, right? Because we got to make a decision about whether it's a
+
+58:43.480 --> 58:49.640
+Bible market based on the very specific data as we have it for that area. Yeah.
+
+58:49.640 --> 58:57.720
+Yeah. Anyway, beautiful. Well, Jahil just joined and then Corey helped him out. He said 50th low
+
+58:57.720 --> 59:04.200
+competition. If you want to be very conservative, Jahil 70 is the very bottom of the list if you
+
+59:04.200 --> 59:13.000
+want to be very conservative. But, you know, this is what we found right now. As we roll out version
+
+59:13.000 --> 59:18.520
+3.0, I'm going to keep testing. I'm going to keep looking at this. Now I can go into rank and rent
+
+59:18.520 --> 59:24.200
+engine, refresh it and see if anything changed right before I release it and see if those numbers
+
+59:24.200 --> 59:32.760
+are any different. But as of right now, standing November 5th, 2024, 50 with a low competition
+
+59:32.760 --> 59:39.240
+and 70 with a medium competition. And that is that. So I also want to just mention one more thing.
+
+59:39.240 --> 59:43.960
+I do appreciate, I see those of you that post your wins and share your success and everything,
+
+59:43.960 --> 59:49.320
+I know it takes time. But I know, I don't know about you, Ryan, but when I was in these groups,
+
+59:49.320 --> 59:54.360
+like just learning the ropes, dude, I would feed off of these posts. When I saw people, even if
+
+59:54.360 --> 59:57.960
+they just got their first lead in, they just got their first website up, they just, you know,
+
+59:57.960 --> 01:00:03.800
+sometimes hearing about somebody's like failure even gave me encouragement. Like, hey, I just
+
+01:00:03.800 --> 01:00:07.800
+cold called this business owner. I got kicked in the teeth and whatever. So anyway, I just want
+
+01:00:07.800 --> 01:00:11.480
+to let you guys know, I really appreciate you guys sharing those wins in this group and the free group
+
+01:00:11.480 --> 01:00:16.760
+and that it's complete social proof. It helps us a ton. And just to want you guys know that I
+
+01:00:16.760 --> 01:00:23.720
+noticed that. So anything else you want to add, Ryan? Thanks for having me on, man. I am always
+
+01:00:23.720 --> 01:00:30.440
+happy to be with you guys and Digital Landlords. I love this group and I agree with what Nick said.
+
+01:00:30.440 --> 01:00:37.800
+You know, I think that I have my failures. I have, you know, to get to $87,000 a month was a bumpy
+
+01:00:37.800 --> 01:00:44.680
+road. I screwed up so many things, made so many mistakes, got told no so many times, lost Bo's.
+
+01:00:44.680 --> 01:00:51.000
+This is part of what we do, right? Like you're going to have success look like this, you know,
+
+01:00:51.000 --> 01:00:56.040
+and it's fun to watch people getting closes and wins and things like that. But behind every one
+
+01:00:56.040 --> 01:01:01.960
+of those, there's no's and there's, you know, people that are, you know, laser focused and
+
+01:01:01.960 --> 01:01:07.320
+don't give up and then they post their wins. So it's fun to be on this journey with you guys. And
+
+01:01:07.320 --> 01:01:12.680
+I'm glad to be on the call today. Well, Ryan, appreciate you, bro. And guys, again, for those
+
+01:01:12.680 --> 01:01:20.920
+of you that did not get the beta discount, if you guys want to give RankinRant Engine a try with,
+
+01:01:20.920 --> 01:01:25.800
+again, just for, just so everybody knows, you do not have to use this tool. It is just the tool
+
+01:01:25.800 --> 01:01:28.520
+that I'm going to be using exclusively. You're going to see it at the training. You're going to
+
+01:01:28.520 --> 01:01:34.280
+see me referencing it in every single aspect of this because we actually have Ryan who can control
+
+01:01:34.280 --> 01:01:39.480
+this tool. But you don't have to use it. If you guys want to, you know, throw some stuff together,
+
+01:01:39.480 --> 01:01:44.040
+use the sheets and the whole deal, I did that. But what I'm telling you is from experience,
+
+01:01:44.920 --> 01:01:49.720
+it's better to just start and build a proper foundation and scale it up than throw together
+
+01:01:49.720 --> 01:01:54.920
+a duct tape business and try to retroactively fix it. That is very, very difficult. It's so
+
+01:01:54.920 --> 01:01:58.120
+much easier if you build it from the ground up, you have your projects lined out, you have your
+
+01:01:58.120 --> 01:02:02.040
+tasks lined out, you have your freaking due diligence. It's all in one place. You log in,
+
+01:02:02.040 --> 01:02:07.240
+boom, boom, boom. You have one tool you need, done. But again, I don't want anyone to feel like they
+
+01:02:07.240 --> 01:02:11.160
+have to. But if you guys are interested, message me. I have a coupon code for you guys. Those of
+
+01:02:11.160 --> 01:02:16.360
+you that didn't get the beta discount, we have something for you. And with that said, we'll see
+
+01:02:16.360 --> 01:02:22.520
+you on the next call, Ryan. Cool. Thanks for having me on. Go close and flash. Go get some deals. It's
+
+01:02:22.520 --> 01:02:26.760
+only freaking Tuesday. We got time, man. It's Tuesday morning for you guys. We got time to go
+
+01:02:26.760 --> 01:02:30.760
+sling some freaking deals this week, man. By the way, let me mention one more thing.
+
+01:02:32.040 --> 01:02:36.360
+Today's Election Day, everyone's kind of been weird because it's like, I don't know what's going
+
+01:02:36.360 --> 01:02:41.560
+to happen. Well, hopefully after today, maybe by Saturday. I know I was reading earlier, like
+
+01:02:42.600 --> 01:02:49.400
+the George Bush Al Gore one took a couple weeks. But it seems like after this, whatever happens,
+
+01:02:49.400 --> 01:02:53.640
+people at least have some clarity. And I feel like that things start to become a little bit normal,
+
+01:02:53.640 --> 01:02:58.840
+at least until the holidays. And then it gets a little weird. But I know that the economy's weird,
+
+01:02:58.840 --> 01:03:04.360
+people are uncertain. So I'm super optimistic because no matter what, people are always anxious.
+
+01:03:04.360 --> 01:03:08.680
+After today, tomorrow, this week, we should start seeing things normalize a little bit. So
+
+01:03:08.680 --> 01:03:12.920
+I'm kind of looking forward to that. A hundred percent. A hundred percent.
+
+01:03:12.920 --> 01:03:16.360
+Okay guys, talk soon. Appreciate it, Ryan. Thanks for having me on, man. See you.
+

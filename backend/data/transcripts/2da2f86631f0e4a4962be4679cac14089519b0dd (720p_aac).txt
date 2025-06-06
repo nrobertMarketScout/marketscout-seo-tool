@@ -1,0 +1,1177 @@
+Beautiful, all right, Ryan Dalton.
+So guys, real quick before we get into this call, which by the way, we're gonna be talking
+about 2025.
+We're gonna be talking about how to, I called this stream, this live is how to gear up for
+the best year of your life.
+And I wanted to have, you know, I mean, arguably, not arguably, I think hands down out of anybody
+in this, not even, I think, I know, hands down without a doubt, 2024 was your year,
+man.
+Yeah, 2024 was a great year.
+Yeah, I mean, 2023 had a great year, but 2024, you did some incredible things, which we're
+gonna get into.
+But real quick, I just wanted to make one quick announcement.
+By the way, Jahil, what's going on?
+One quick announcement, guys, is we talked about this, I kind of alluded to this, I think
+it was last week, but we are constantly, you know, listening to feedback from you guys
+on Rankin' Ren Engine as you guys, if any of you guys have no idea what we're talking
+about, rankinrenengine.com, that's the only tool you need for this business.
+We listen to the feedback.
+My team gives it to Ryan, and I know that you guys are giving it and we're listening.
+Obviously, there's people in other countries that those are things that we're gonna be
+rolling out.
+But one of the, I think, only things that was left on the tool was the backlinking piece.
+And the nice part is it still, you know, when you do the due diligence on Rankin' Ren Engine,
+you can still see the backlinks, it still gives you data.
+When Ryan and I discussed, I'm like, if we could go a little deeper to have something
+similar to like a man ghouls, where we could not just see the backlinks so we could look
+at the backlink profile, see the referring domains, I think this thing would be the most
+complete tool out there for Rankin' Ren.
+So Ryan, can you give us some kind of update in terms of that, I know you told me, but
+just for everybody else, when we can expect kind of that rollout, a conservative estimate
+on when we can expect that feature to be added?
+Yeah, for sure.
+Yeah, so I think in the next conservatively, in the next 30 days, we got the holidays coming
+up.
+So that's gonna make things a little bit slower than normal.
+But all the data is there, actually.
+So we have all the data to create that.
+Right now, we're just making everything look real pretty on the front end so that when
+you actually use that part of the tool, it looks pretty, which I'm a big believer in.
+So we'll have that rollout pretty soon.
+And people want to be able to do copycat backlinks and know where they're comparing backlinks
+and all that.
+So that's an easy addition.
+Beautiful.
+And by the way, there's going to be a few people because I do see some people that have
+joined in the last week, copycat backlinking.
+Well, let me just even go a little bit deeper and go very basic.
+Backlinking is, I would call it, kind of like a steroid to get your website ranked.
+If, you know, there are times when you don't have to backlink.
+If you go into a very, very easy city and niche, you do really good content, you do
+everything else very sound, I have ranked websites without any backlinks.
+But when your website gets stuck on page two, bottom of page one, or you just want to speed
+things up, backlinking is a steroid.
+It is a way to get the website kind of out of that rut and get it to the top of page
+one.
+But essentially, maybe, I know this is very basic for some people, but maybe, Ryan, in
+30 seconds, for those that there's a few people I know that are brand new to online, to SEO,
+what is backlinking?
+Just so everybody knows what the heck we're talking about.
+It's not that complicated, but it sounds complicated.
+Yeah, a backlink is any time that your website is referenced somewhere else on the internet,
+basically, and Google will rank based on what they call their EAT, acronym, expertise,
+authoritativeness, and trustliness.
+And one of the things they look for is all these different signals to see if your website
+meets their standard for ranking, right?
+Ultimately, they're trying to decide, is the website, are the websites that they're returning
+the search results answering the searcher's question?
+And the websites that have the highest expertise, authoritativeness, and trustworthiness
+are going to answer the question better than ones that don't.
+So to find that, they look at all these different signals.
+And one of the key ones, one of the most important ones is backlinks, which are basically
+just a popular contest.
+It's other websites saying your website answers those questions about whatever that is, like
+a keyword, like concrete contractor, right?
+Other websites are talking about you as the concrete contractor and pointing to your URL
+from their website.
+That signals to Google, hey, this guy probably knows what he's doing with concrete.
+And then you rank higher than your competitors.
+That's it.
+Remember that, guys, the popularity contest.
+It's just like, I always think about like high school or your friends or whatever.
+It's like who you hang around is who people assume you are, right?
+So the way that you hang around people on the internet is people refer to you.
+People send you a backlink.
+And so, for example, let's just say, and it's kind of like a status thing, like Forbes.
+Forbes would have more status than any mommy blog or construction blog or whatever.
+So if Forbes gave me a backlink, they're telling Google, hey, Google, I have a lot
+of status.
+And this website, BentonvilleConcrete.com, I'm basically giving them my approval.
+And so then Google's looking at it going, OK, well, if Forbes says that, then they must
+have some status.
+And so it's basically this game of just getting people to link to you.
+And there are strategies.
+But one of the most common is called the copycat method.
+All it is is looking at other people that are winning, other people that are ranking,
+finding where they're getting backlinks, and just going and copycatting and doing the exact
+same.
+And so what we're saying to wrap all this up is this tool is going to allow you to go
+find those links and to be able to go and harvest them yourself.
+So it sounds like a lot.
+When I first got started, again, let's remember, I didn't know how to build a website.
+I didn't know what a domain was.
+And here we are talking about backlinks.
+It's not that complicated.
+So Gina says, I've been on a mission to figure out and set up backlinks for our sites.
+I'm still trying to figure it out.
+Yeah, it's really not that difficult.
+So what we'll do, maybe when we roll that feature out officially, we'll go and do a
+backlink training, just some basic one-on-one how to do backlinks.
+But yeah, guys, if you haven't already, you can use any tool you want.
+I know when I started, I was using a combination of seven different tools.
+I had all kinds of different stuff that we had opened up.
+I had even had a custom software built to track my paper lead stuff when I was doing
+that, which I don't recommend.
+But if you want to make it easy, go to RankinRentEngine.com, sign up for an account.
+It's ridiculously affordable.
+And we also have a code that...
+Ryan, for anybody that hasn't already, let's just write that code in the chat real quick.
+That's the one.
+And that's 20% off for the first two months.
+Yeah, I think I've got a bunch of codes.
+I think that's the one that has that one.
+So I can confirm that after the call.
+But yeah, I think it's 20% off for two months.
+Beautiful.
+So guys, go check it out.
+It's the only tool that we're using.
+It makes due diligence so much faster.
+Anyway, there's a million different things.
+That's not what this call is about.
+But just wanted to give a quick little plug for that and know that the backlinkings coming out.
+So move your stuff over.
+You can buy your phone.
+How much are your phone numbers through RankinRentEngine?
+Yeah, it depends on how you do it.
+So you could get additional, add additional sites.
+And if you add additional sites, the number comes free with it.
+Otherwise, they're $2.50 a month.
+Which is half the price.
+$2.50, right?
+Yeah.
+And I think on CallRail, even if you do...
+Even me, I've got a bunch of numbers because I'm moving my stuff over still.
+I think the cheapest I ever got them was like five bucks a number.
+I could be wrong.
+But that's very, very cheap.
+One of the things I realized about some of these other platforms is that they're
+like, they've got like different tiers that are kind of confusing versus like your
+programmable voice is add-on, your CRM is add-on.
+Look at some of these other competitors.
+And it just signals to me that it's just not made for RankinRent.
+It's made for like different marketing strategies or tools or whatever you're trying to do.
+But for RankinRent, it needs to be just pretty straightforward.
+Like you have to have programmable voice and messaging.
+So it's baked right in.
+Yep, yep.
+No, it's slick, man.
+It's super simple.
+So, okay, guys, that said, real quick, Jahil says, Ryan, quick question.
+I don't know if this is already in the works, but if it's possible,
+will there be a tracker in Rare that shows how many keywords someone here,
+someone has remaining for the day?
+Kind of similar to Mangools.
+Let me shut my door.
+Totally.
+Yeah.
+So that exists now.
+So if in the top right, you click on your profile and then you click on the usage tab,
+you can see daily keyword lookups remaining.
+And so your plan will determine how many that number is.
+But you can go in there and you can see for today how many lookups remain.
+You can also see your site lookups remaining.
+And those are really just basically API limitations
+to not spam the API at the end of the day for looking those up.
+But you can look at all your usage statuses under your profile on the usage tab.
+There you go.
+Hopefully that answered your question, Mr. Jahil.
+So let's get into this call, guys.
+It's December 17th.
+We have literally like two weeks to the day, like two weeks in a day, right?
+Yeah.
+It's almost over, man.
+Quarter four is almost done.
+That's crazy.
+I say this every year, dude.
+But it's like it feels like I just set my goals for 2024.
+Yeah.
+And here we freaking are.
+Okay.
+So let's talk about it, dude.
+I want to...
+So in 2024, Ryan, where were you at when 2024 started in terms of revenue?
+I will tell you right now.
+So January is a little bit weird because I did like trial or like discount rates for people,
+like in some areas in the winter.
+But I started...
+Yeah.
+So I came in at 2024 around $37,000 a month.
+Okay.
+Yeah.
+$38,000.
+I'm looking at my spreadsheet right now.
+$38,000 at the start of 2024.
+Okay.
+$37,000, $38,000 started 2024.
+And so, guys, let's keep in mind, Ryan, still...
+Up until, was it like a week and a half or two weeks ago, you had a full-time job?
+Still do.
+Through the 31st or the 50th year.
+I'm still got it.
+I'm done.
+Yeah.
+He's done after this.
+Two more weeks, but he's done.
+So he has a full-time job, which I still can't comprehend.
+He's got kids.
+He's got a wife.
+And he also does jujitsu.
+He's got a dog.
+He throws parties at his house.
+Not ragers, but like he brings his friends over.
+Like he has a million things going on, right?
+I'm sure you have a Christmas party because I know you do a 4th of July party.
+Yeah.
+So my friend group has, like everyone kind of does one of the parties.
+Mine are the summer ones.
+I've got Memorial Day, July 4th, and Labor Day.
+So they're the best ones.
+They're the best ones.
+Let's be honest.
+Yeah, for sure.
+So, okay, so let's just think about this.
+So in the last 11 and a half months, you've added $50,000 of revenue per month, right?
+So you're around, what are you at, 87, 88?
+Yeah, I'm at when I've got a couple of people, their own discount rates,
+but when they come off of those, I'll be at 89.5.
+Okay.
+I'm just, you just gave me a thought.
+So I want to write it down.
+89.5.
+So I added $50,000 of revenue while having a full-time job.
+And the most impressive part is on top of that, you also built rank and run engine.
+Yeah.
+Which, of course, he hired developers, but he was very tightly project managing that entire thing.
+And so as I sat here and I'm thinking about New Year's, or the New Year,
+I'm thinking about 2025.
+I'm thinking about all these things I want to accomplish.
+I'm like, what better person to have on than the person that had the best year out of anybody,
+not only in my group, but in the free group, not only in this group, but in the free group,
+but of, I would say any of the people that I know.
+So I want to talk about that, dude.
+I want to know, let's reverse engineer.
+What did you do that made such a difference from the year before,
+which you had a phenomenal year the year before?
+And guys, for those that are new, like some of you guys that are, reach your first call.
+Ryan, two, was it about two years ago?
+When did you start this?
+I'm going into my third year.
+That's crazy.
+Two years ago, I didn't know what this was.
+Yeah, so 2022 February was the first time that I turned on a Google ad.
+I'm not crazy.
+It's wild.
+And it's inspiring because that's the possibilities of what's possible.
+So two years ago, he didn't even know what this was.
+Now he's at $87,000, $89,000 a month, built a tool that's phenomenal for this space.
+I think it's the best tool out there already.
+It's going to be hands down the best tool once he had a few more features
+and done all this while having a family, while having a job.
+And I just want to know, dude.
+So I basically with this, I just want to, what did you do?
+How did you start the year?
+How did you gear up for 2025?
+What was your mindset?
+What was your planning?
+What was your, did you get rid of a bunch of unnecessary things?
+How did you manage all of this?
+So I mean, that was like five questions, but we could start with one of them.
+So let's get down.
+I love the mindset stuff, man.
+Like the mindset, I know some people think it's cheesy and they're like,
+oh, I'll talk about mindset again.
+But I am a, I'm just a huge believer in this business model.
+And it doesn't, I was telling my wife this other day, it doesn't feel like work to me.
+Like that's, I think one of the biggest differences, like people like, oh, like,
+you know, you're up at nine o'clock at night, like working on something.
+It doesn't feel like work.
+It feels like play to me.
+Like when I'm figuring out how to grow, how to expand, how to do the next thing,
+it doesn't feel like work.
+And I have like pretty good work-life balance.
+So I'm not always trying to like, you know, be in front of a computer,
+but when I am in front of a computer, it feels like something I really enjoy.
+And the other part of it is, is that I think the AI is going to change our future
+quite drastically.
+And I think that the trades, the services that we help enable
+through the lead that we provide are not going anywhere.
+And my guess is they're probably going to be the last to be impacted.
+Like, how are you going to have a robot put in a concrete driveway?
+You know what I'm saying?
+So like, I am thinking way forward because I work in tech, you know,
+I've worked in tech for years and I know that there's a lot of jobs
+that are just like all coming on the chopping block.
+But I don't think that the trades are anywhere near in jeopardy of that.
+Like think about it, right?
+Like you're going to have a brick mason that's going to be replaced by a robot.
+No, or a concrete guy, or none of the trades, the roofer or whatever,
+are going to be, I think, in the near term impacted by AI.
+And so I'm trying to align myself and my company and my finances
+and my vision for things that are enduring and lead generation for tradespeople
+is, I think, a really, really safe, safe move.
+And so I want to grow a business that is future proofed.
+Yeah.
+So, and that's one of the things when I started this business,
+there was a lot of different factors that were, you know, important to me,
+scalability, recurring, all those different things.
+But I didn't even really consider that piece or the piece that
+this is a pretty recession resistant industry, right?
+Obviously, we've all probably talked to our business owners,
+like I had a business owner during the elections,
+and right before that, he kind of got a little shaky on me.
+I don't know if people are still buying, and by the way, he's still with us.
+Now that the elections are over, I think it was all in his head.
+Now he's like, people are finally starting to buy again.
+Maybe not, but he's good now.
+But outside of that, dude, we really didn't have,
+like I don't think we had any cancellations, nothing that was directly tied to that.
+But I didn't think about the fact that this is very recession resistant,
+a business, a very recession resistant business.
+And I've also a very, it has a lot of longevity because it's just a very,
+guys, I think you probably realize this too, Ryan,
+but like the more I'm in business and just in life in general,
+the more I'm attracted to stuff that's simple, right?
+Simple scales, simple is sexy.
+It's like all these complex things I don't want anything to do with.
+And this is such a simple business model that it just makes sense.
+So going back to the mindset stuff, is there anything that you can give us?
+Like, what do you do?
+How did you prepare and how did that have to do with your year in 2024?
+And what advice would you give anyone that's on this call
+for how to get their mind right going into 2025?
+Yeah, so I agree with you about the simple stuff.
+I just, I got the chat over here on the left.
+I think Tim asked a question about AI chat bots.
+And this kind of goes with my answer to this question is that
+I think that there are a lot of ways to try to improve your agency
+that feel like you're improving your agency, but you're just getting distracted.
+So what I try to avoid is things that are going to become a problem at scale.
+And so that means, you know, like if there's some plugin that looks cool,
+or if there's some AI chat bot, or if there's, you know,
+whatever there is the thing that people are testing out
+and kind of the SEO world or whatever.
+Generally, I found those are distractions is that rarely do I find something
+that is so valuable, I will bake it into my agency from the top to bottom.
+And I will, if I'm not careful, I'm prone to this.
+I'm super prone to this.
+I will catch myself testing lots of different little things that are just time sucks,
+that are creating complexity in my agency instead of simplicity.
+Like I'm always thinking about how to make it simpler, actually.
+So if I'm putting my time into something, it's not adding complexity.
+It's reducing it in some areas, whether that's, you know,
+automations or like tying things together with like the finance stuff on the back end
+or those kinds of things, making it simpler rather than more complex.
+And sometimes maybe AI chat bots will actually make it simpler for you
+because you're able to get leads to a business owner
+in a way that is actually more streamlined, valid.
+But I'm always trying to think about how to simplify.
+Even at my current run rate, I'm thinking about how to make my agency simpler
+and just smoother in its operations.
+Yeah. Yeah, and it's also, I feel like when you first start out,
+it's always about addition and how, what do I need to add?
+What do I need to start doing?
+And then you realize it's more about what, it's about subtraction.
+What in this next year can I get rid of in my business
+and in my processes and my systems in my life
+so I can just focus on one single thing?
+And so that was a huge thing for me when I had my biggest year in terms of like growth
+when 2020 from 8 to 10,000 up to 100,000, that was a year of simplicity.
+And it was getting rid of a lot of distractions,
+getting rid of a lot of little micro businesses inside the business,
+selling the SEO, selling this service, that service, consulting,
+focusing on a bunch of different niches,
+trying a bunch of different strategies to onboard customers.
+And it was just, I was just cutting stuff, cutting stuff, cutting stuff.
+And I would just wake up, same thing.
+Get a new area, two areas, put up some ads, go do a deal.
+And that was it, man.
+And that's how I scaled.
+And it was so easy.
+It wasn't easy.
+It was just mentally, I had a lot of clarity.
+So for you mindset-wise, are there, are you somebody that does like,
+what do you do for that?
+Is it reading?
+Is it talking to certain people?
+Is it listening to certain things?
+Like, what do you do to gear up that way?
+Yeah, it's, I read a lot.
+I got this book.
+It's called Blitz Scaling.
+Have you read this?
+I've never even heard of that book.
+It looks interesting.
+It's the founder of, the co-founder of LinkedIn.
+He's a partner at a firm called Greylock Partners.
+Yeah, Greylock's is venture capital, right?
+And the tagline is the lightning fast path to building massively valuable companies.
+Interesting.
+And I was like, I can't read this.
+That I got to read that.
+So I'm reading it.
+Like one of his big ideas is that you have to, well, you don't have to,
+but he talks about growing to optimize for speed,
+which you talk about all the time over efficiency.
+And the idea is, is you'll figure out the efficiency later.
+And so my inclination is towards efficiency,
+where I want to have everything like buttoned up, like as I grow.
+And so it means my growth is kind of like this.
+Whereas if you focus on speed, you'll figure out the inefficiencies later on.
+You'll figure out like the, which is more your style, right?
+Which is more like you'll grow and then like you'll figure out the pieces
+that you got to figure out to make it real smooth.
+And so this book has really challenged my mindset.
+So I like to read.
+I like to read stuff.
+Okay. By the way, is that Reid Hoffman?
+Yeah. Reid Hoffman and Chris Yeh are the co-authors.
+Interesting guy. I like that guy.
+It's a good read.
+So give us three recommended books for mindset going into this year.
+And guys, again, also just as for the person that's going to go and be like,
+well, I'm going to go read for eight hours today,
+because that's what Warren Buffett does.
+No, that's just things to read.
+I'm sure Ryan probably reads 10 pages to 30 minutes a day.
+He probably doesn't sit and read for three hours.
+So let's not go too extreme here.
+But anyway, give us three recommended books on mindset that have really helped you.
+Three books on mindset that helped me.
+The three that come to mind are
+Humilitas.
+The theory behind Humilitas is the big idea with each book.
+And you can decide if you're interested.
+Humilitas is the idea that one of the missing things for success in life
+is the combination of steely grit and humility.
+Those two things are like what drives some of the most successful people in the world.
+Great book.
+Another is Meditations by Marcus Aurelius.
+You can see where my shoulder.
+See that guy right there?
+See the bust of the dude behind me?
+Is that Meditations?
+Yeah, boy.
+Yeah, of course.
+Yeah, dude.
+That's the good stuff.
+You got it on your desk.
+All right.
+Yeah, man.
+Meditations is the big idea.
+It's the Stoic principles.
+It's a little bit, it's philosophy, but the ideas in it are really good for business.
+I went through Y Combinator.
+And one of the things that Y Combinator said when they look for a founder
+is they want someone who a bomb can go off.
+And they just look at it.
+And they're like, huh, a bomb went off.
+And they go back to solving problems.
+Like whatever the problems that bomb caused.
+Like the James Bond kind of idea, right?
+Meditations is the operating system for the mind, right?
+Your brain, like a computer, needs an operating system.
+And if you don't have an operating system,
+it means that you're just sort of a kind of a mess, right?
+So having a deliberately created operating system for your brain
+is the purpose of philosophy.
+And Meditations is great for business
+because there are no shortage of problems in business.
+For example, if I've got a business owner
+who I'm killing it for, and I'm getting 80 liens a month,
+and he calls me and he cancels
+because he is getting tons of commercial job
+that I helped him get, right?
+I helped him get all that commercial work
+and now he's not interested in my 80% residential leads, right?
+He's canceling on me.
+That is completely outside of my control.
+I have no control over that.
+And so when I get upset about it, no, right?
+I shouldn't anyway, right?
+It's out of my control.
+Why should I get upset about it?
+That's one of the big concepts in Meditations
+is it teaches your brain to be like,
+oh, this problem happened.
+Huh, okay, I'm gonna go solve it, right?
+It's really good.
+And then the third one was
+Never Split the Difference by Chris Voss.
+The art of negotiation, persuasion, empathy, and active listening.
+All three great for business.
+Beautiful.
+So I've linked up two.
+I'm gonna link up this last one
+so everyone can have an easy way.
+By the way, there is no affiliate here.
+I just went to Amazon to type these in.
+I wish there was an affiliate for books.
+I need a bigger audience to get an affiliate for.
+Yeah, yeah, I agree.
+It would be nice.
+So those are the three that Ryan recommends, guys.
+Humilitas, Meditations, and Never Split the Difference.
+I've never even heard of the first one.
+I've heard of the other two, obviously, but that's awesome.
+Okay, so now tell us like, how did you set your,
+what was your goal setting that process like about a year ago?
+I guess it would have been December 2023
+as you're gearing up for 2024.
+What was that like, dude?
+Yeah, this is an area that I am not very good at actually,
+and I need to do it for this year.
+I'm really good at committing today to what I need is required
+and what will take to move the needle today.
+Like that's my strength.
+My weakness is I'm not good at setting a goal
+and backward planning with key performance indicators.
+I do this in my job, or I did in my job.
+I don't know why I didn't do it in my agency.
+It's weird, like a mental thing.
+So I wouldn't say that I sat down in December of last year
+and like planned out this year.
+The thing that I did in December though,
+is I realized I had like pretty significant chunk of time
+under my belt of like really knowing
+how to do this business model.
+And then realizing that going into next year,
+I need to be aggressive.
+And I invested, I reinvested back into my agency
+a significant amount of money
+that I could have taken as profit,
+that I just dumped back in.
+And I attribute a lot of that to my growth.
+So when you started the year, you didn't have in mind,
+hey, I want to hit this revenue number or anything like that?
+No, that's what's easy.
+Bad at that kind of thing.
+It's an air of opportunity for me for sure.
+That's crazy, bro.
+So you didn't have any idea,
+in the back of your mind, did you say, hey,
+like obviously you didn't sit down and write it down,
+but in the back of your mind, did you sit down and think,
+I want to hit this revenue target?
+Well, you had me on a call with two others a while back
+and we all joked about who's going to be the first to get to 83.
+And I said, I'm going to be the first.
+And so I knew in my brain, I never forgot that.
+And I was like, I don't know if I was the first.
+I don't know if those, I hope both of them did it.
+Both those guys are all small.
+Both those guys, I hope they both did it.
+I have no idea where their agencies are.
+But I was like, even if it's not a competition, I'm going to do it.
+And so I think in some ways, that was my goal for this year
+is to get to the million recurring.
+So just for anyone that hasn't been on any of these calls with Ryan.
+So Ryan has already made a million dollars.
+This has been months ago, total, since he started.
+But now he's on the run rate to make a million dollars per year.
+Which again is crazy because you literally just decided
+to start researching business models.
+And it's not like anything goes wrong with your job.
+It's not like you don't like your job.
+It's not like you aren't getting paid very well.
+You just saw the writing on the wall and you're like, dude,
+I don't want to be in a position of someone else controlling my future
+or controlling my paycheck.
+And so it's crazy, bro.
+It's a crazy...
+How many months of research did you do before you actually found this model?
+About three.
+I started in like, probably the end of 2021,
+just getting up in the morning and just reading about different business models.
+Like I knew I was going to commit to one going into the next year,
+where all year, full year, I was going to commit to one and not look back.
+And if I failed, I knew I gave it a real shot.
+You know what I'm saying?
+Like I really gave a real shot at it.
+That's the only way that you can know if something works or not.
+You can't flirt with it.
+You can't try it a little bit.
+You got to go for it.
+And so I wanted to make sure that the decision I made
+about the industry or business model or whatever that I went into
+was informed as much by my goals as possible.
+And it turned out all right.
+Yeah, I'd say it turned out all right, man.
+Yeah.
+That's insane.
+It's exciting even for me.
+By the way, Adair said he just closed a business owner just now for $800 a month.
+He'll have to watch the replay.
+So you got to love that.
+Love that.
+Got to love that.
+That's okay.
+Go ahead.
+Fires me up.
+I love closed deals.
+Me too.
+I love that because...
+And by the way, guys, if you ever have to come down to
+getting on this call or doing that, that is what you should be doing.
+So if you have to schedule a call, just schedule the call.
+Go close the deal.
+You can watch the replay.
+We do love having you on here if you don't have that going on.
+But that's what this business model is about.
+And going back to the simplicity thing,
+the way you're going to make the most amount of money,
+the most amount of progress in 2025, guys,
+is by focusing on how can you ask the most amount of people for money.
+Absolutely.
+As much as you need to learn the basics,
+you need to learn the back linking,
+you need to learn the content,
+you need to learn how to build sites,
+you need to focus on how to get business owners to pay you.
+That's it.
+I learned that from you, man.
+That was something that I can hear your voice in my head sometimes
+when I think about that.
+I think that is just great business advice is
+the more that you can ask people for money,
+the faster your agency is going to grow.
+That's one of the big things I learned in digital landlords is,
+and your calls and you talking about that concept,
+and my goal became one closing call a week.
+I have to have one closing call a week.
+If there's not a closing call in a week, I'm upset.
+It's not someone else's fault.
+It's my fault.
+But I have to have a closing call every week.
+And now I'm trying to get to where I want two closing calls per week.
+We've had as many as six in a week.
+That's an outlier.
+That's by far the exception.
+But it's based on that principle that I learned in digital landlords is
+you just have to be asking people for money
+because if you're not, it's a hobby.
+Yeah.
+Yeah.
+And people don't want to hear that.
+Especially people in other groups.
+Sometimes maybe I'll go and do a call with people in other groups.
+And I'll always ask how many people are making money and whatever.
+We'll raise our hand.
+I'm like, well, the rest of you guys just have a hobby.
+And it really makes people uncomfortable.
+But it's the truth.
+But yeah, I mean, to speak on that really, really quick, guys.
+For me, the thing that changed the entire game
+is I just sat there and looked at it.
+I'm like, look, there's certain things.
+By the way, Gabriel Ryan.
+Been a minute, bro.
+What's up, dude?
+Good to have you on.
+Gabriel Ryan is in, I think, Nashville, by the way.
+Just from my memory.
+All right, 2C, baby.
+What's up?
+Yeah, he was in Oregon, then Vegas, then Nashville.
+But anyway, good to see you on, Gabriel.
+But yeah, guys, for me, it was just like this idea of
+there are certain things in our life we never miss.
+We always find a way to sleep.
+Whether it's on the airport floor or whether it's in our car.
+We always find a way to eat.
+We always, well, not always, but typically find a way to shower.
+Even if it's like with a baby wipe, you know?
+Even if, whatever.
+So then I'm like, dude, if I took that exact...
+And for me, another thing that wasn't like a necessity,
+but I always found myself doing was going and exercising.
+And I was like, dude, I'm so dedicated to this.
+And that's great.
+But like, what if I took this same commitment
+where I never miss, I'll wake up at 3 before a vacation
+just to make the gym.
+Why don't I just take that and turn it
+and make it the same with my business and making money?
+I said, man, my business, my bank account would sure look a lot more fat.
+And that's what I did in 2020.
+It was like, if I didn't have a certain amount of closing calls
+every single week, I tried to go for one every single day,
+which obviously you have to have a lot of things going,
+a lot of things moving to get to that point.
+But that's it.
+It's like, how do we get...
+How do we ask somebody for money every single day?
+And if we don't, we're not okay.
+And that was the whole thing.
+And one little hack, I think I shared this...
+I can't remember if I shared this on here or on a WhatsApp message.
+But guys, a little thing that I did that was so valuable
+that helped me so much is in 2020,
+I started scheduling a sales call for Saturday morning
+at like 6.37 a.m. every single Saturday.
+And the reason why I would do it is the business owner,
+contrary to what you might think, the business owner actually is...
+That's the time they're actually getting stuff done on their business,
+not just in their business.
+They're usually undistracted.
+The other thing is you don't really feel like going out on Friday night
+if you know you got a 7 o'clock Saturday morning.
+So it caused me to have a really disciplined schedule.
+And then lastly is what a better way to start the weekend,
+not partying, not going out and getting drunk,
+but waking up at 7 a.m. and putting new money,
+injecting new money into your business.
+So anyway, that was something that really, really changed everything for me.
+It made me have a phenomenal weekend, got me excited for Sunday.
+I would give myself the rest of the day and Sunday off apart from the planning.
+But that was huge is just focusing on
+how do you get somebody to give you money?
+How do you ask somebody for money every single day?
+And if you could figure that out, you're going to make a lot of money
+because it's just a numbers game, you know?
+It is. Yeah.
+That's one of the major things I learned here in this group
+is you just have to be hitting up people for money as much as you possibly can.
+And then I realized that means having all the inventory.
+You know, got to have things moving on the back end to do that.
+100%, man. 100%.
+So for some, let's talk about somebody that's just starting out
+or maybe somebody that's like starting out, meaning there's no deals.
+Starting out, meaning, you know, maybe they've gotten distracted
+and they found their way back and they're like, hey, this is my year.
+I'm really going to give this year my all.
+What should they, what are some recommendations of what were,
+you know, some things that they should do or not do
+from somebody like yourself that started two years ago
+and in two years, for those that are just joining,
+has scaled up to $87,000 a month, built a software tool
+and is on track to absolutely obliterate those numbers this year.
+What's your advice for somebody that's brand new?
+And while you're doing that, I have got to turn down my heat.
+I'm sweating so bad. Keep going.
+Yeah, if you're brand new, I still like watch the posts of digital landlords
+and see people that post stuff.
+If you're brand new to this business model
+and you started in the last 30 to 45 days here in the group
+or started doing rank and rank in the last 30, 45 days
+and you're running ads and you're getting like okay performance,
+but not great performance and you're wondering about lead flow
+and things like that.
+If you're getting momentum in this time of year, that's awesome, right?
+Because it's only going to increase going into the spring.
+Going into quarter one is when you're going to see leads go like this.
+I've seen this happen every year for the last three years now.
+Going into the spring, the leads are going to increase.
+And so my word of encouragement is if you are just starting this business model
+and you're starting in December, you are going to see more momentum
+going into the spring, right?
+I've seen people post like, hey, what's up with lead flow, whatever.
+It's like, well, you've got to think about the psychology
+of the people who are picking up the phone.
+So the people who are picking up the phone
+and the people who need things done largely in home services
+is my guess is what you're still teaching in the course, Nick,
+is like largely in these high ticket niches.
+And high ticket niches means that they're going to spend a lot of money.
+And they're thinking right now about spending a lot of money
+on Christmas presents, on stuff at the end of the year,
+that's the psychology of the American consumer
+and homeowner and business owner right now.
+Now, business owners may be different
+because they're trying to get into the end of the year tax break
+and they're putting more into their property or whatever.
+But the homeowners, which can make up 80 plus percent of your leads on average,
+are thinking about their kids' Christmas,
+they're thinking about traveling,
+they're thinking about all of these things
+that are not related to their property.
+And then you go into quarter one and the magic happens.
+The magic happens when they're getting tax refunds,
+they're getting bonuses from the previous year,
+there's cash and capital infusion into a market
+and we're also past the election year.
+And so despite my growth this year,
+I think it could have been even higher
+if we were not in an election year
+because some of that stuff that Nick talked about
+with that squirrely business owner like people aren't buying, I don't know.
+I got a lot of that this year.
+I think that because we're past that,
+there's market confidence regardless of your politics.
+It doesn't matter what your political beliefs are.
+It's just the decision's been made, yeah.
+The decision's been made.
+It doesn't matter if you're Democrat or Republican,
+none of that matters.
+What matters is that we have stability
+in the sense of there is someone in the office
+and there's going to, every time this happens,
+happens every four years,
+there's capital infusion back into markets
+where money was on the sidelines.
+So what happens is, and this is maybe more complex,
+but I think this is a point worth bringing in,
+is that a lot of the purchasing decisions
+for people in this industry
+are made by homeowners and property owners
+who are always kind of the second money
+behind big commercial money,
+meaning that a lot of this big commercial money
+that's in private equity and commercial properties
+and all the growth around those kinds of things
+will put money into properties and rental properties
+and all that commercial money
+that comes back into the market
+is generally a good signal
+for what's going to happen in the residential market.
+And all that money is likely,
+because it happens every four years,
+going to come back in,
+and now that we're past the election year,
+we're past the holidays,
+and I think you can yell at me if you want to,
+but I think next year is going to be
+one of the biggest years for this industry
+because of these factors at play, right?
+We're past the election year.
+We're going into a brand new 2025.
+There's a lot of money that's been on the sidelines
+for the last year that we can all start coming back in
+and residential markets are going to follow behind that.
+And so I think the pump is primed for 2025.
+And so if you're in, if you just started
+and you're wondering about lead flow,
+think about what time of year it is, okay?
+And then realize that next year
+we're already primed for potentially
+one of the best years in this industry in a while.
+There's a noticeable difference.
+From right now, December 15th to December 31st,
+it can be a bit weird.
+By the way, don't think you can't close deals.
+By the way, Adair just closed the deal.
+Oh, I didn't even say this, by the way.
+Shout out to my little brother, Porter, who just hit 10K.
+He's been scrapping for 10K, man.
+He almost hit it in like a year ago,
+and then he got to nine and then he dropped to six.
+Then this year he went up to nine, four,
+and he's lost three deals.
+Some people don't know this.
+He lost three deals in a row.
+I think he was skipping steps, a little too excited.
+And then yesterday I got this call.
+I was actually on a sales call with Kyle,
+and I got this call and I called him back.
+He's like, dude, I finally hit 10K.
+So anyway, shout out to you, Porter.
+I know you've been scraping your way to get to 10K.
+But where was I going with that?
+What were we talking about?
+Oh, the new year.
+And so anyway, there's still deals right now,
+but what you're gonna see is from now
+till the January 1st can be a little bit weird
+with lead flow, with business owners being like,
+yeah, I'm taking the time off, whatever.
+But even though the weather is the same,
+generally speaking, the whole mindset shifts January 1.
+It's like business, because think about it, dude.
+The business owners you wanna work with,
+they're having these exact same conversations.
+What are we gonna do?
+What's our projections this year?
+What are we gonna accomplish?
+And as part of that, they need more leads.
+And so it's like January 1st,
+everyone all of a sudden is like, okay, this is my year.
+I see a night and day difference January 1 in the mentality.
+Night and day, dude.
+Night and day.
+Completely night and day.
+And I think that there's a trickle over,
+and I think it's like either they're looking for it more
+or they do see an increase in calls
+and interest from their homeowners.
+And sometimes holidays are up.
+Now let's get the house fixed up.
+Let's get everything tidied up.
+We're gonna have an amazing year.
+Everyone's in this new, fresh.
+It's such a good time of year.
+So guys, I know some of my Australian people,
+it's very weird right now.
+What I would recommend for you guys is
+if you don't wanna go run ads or whatever
+because you're worried that there's not gonna be a lot of leads,
+that's fine.
+Then spend the next two weeks
+finding your next five to 10 areas.
+Go and get familiar with Rank and Run Engine,
+the due diligence tool on Rank and Run Engine.
+And go knock out, the next two weeks,
+go knock out 300 due diligence.
+And go have your next 15 areas lined out.
+Get your ads ready to go.
+And January 1, kick those things on.
+I'm speaking for Australia because I've got this little,
+by the way, if you're from Australia
+and you're targeting Australia,
+send me a message.
+I've got a group chat specifically for Australia
+that I'm kind of trying to learn
+some of the more nuanced stuff there
+that I can add you to.
+But a lot of people there have told me
+it's a bit weird right now.
+But January 1st, everything changes.
+So if you're feeling a little weird
+or you just joined whatever,
+you could still get deals.
+But just know everything's about to change January 1st.
+So you got two weeks to get yourself prepared.
+I definitely wouldn't take my foot off the gas
+but just know in two weeks,
+things are gonna get Western as Kyle would say.
+Kyle by Kyle, yeah, man.
+I agree.
+I'm gonna use the word night and day difference.
+And I couldn't agree more.
+It truly is night and day.
+Some of these business owners
+are already thinking about January,
+but they're not actually doing anything yet.
+They're waiting to get past the holidays.
+January hits and they're thinking like,
+how do I grow my business this year more than last year?
+And then when you show up as the guy or girl,
+it's like, hey, I've got something to take you
+to the next level.
+They'll listen.
+I'm also, I've got, we've had two closing calls this week.
+We've got another one tonight at five o'clock.
+You can close deals in December.
+There's still deals happening in December.
+What I'm getting at is if you feel like things are,
+the momentum isn't quite where you want it.
+It's common is all I'm saying, right?
+That momentum is a different speed going into quarter one.
+One thing I would recommend to you guys,
+I know some of you that just joined,
+you guys probably just went through this,
+but for anybody that's like,
+that doesn't know where to start or kind of,
+you know, what should I do?
+I definitely think it would be worth you guys
+go and check out the video that we did
+that you guys are supposed to watch
+when you first joined called Exhausted But Satisfied.
+Watch that video, set your targets for 2025.
+And again, this isn't just financial targets.
+This could be any target.
+And then reverse engineer and break it up by quarter
+and by month and figure out exactly that your roadmap
+for how to get to that goal.
+And you're gonna realize as you do this,
+that the map to get to any goal is really not that difficult.
+It can be a straight line.
+You make it a zigzag because you get emotional
+and you get distracted and all these different things.
+But if anyone's looking for like some direction there,
+go and rewatch that video.
+It's called Exhausted But Satisfied.
+And go and set your targets because I know for me,
+I have to have that clear map to keep me on track.
+And admittedly, this year, I, yeah, this, this,
+I even think, I think I posted about this
+or I think I did a live about this.
+But we, you know, I've made, this year I made more money
+than I've ever made, I think.
+But it wasn't, because there wasn't like insane growth
+like there was, you know, in 2020, for example,
+those years always feel better
+because you have this, this huge growth.
+Even if you make the most amount of money ever,
+but you only made slightly more than last year,
+it doesn't feel near the same as going from zero to 10
+or from 30 to 87.
+And so I was, you know, in a lot of ways at my own fault
+because I made my road zigzag.
+I got distracted by a number of things.
+And I, you know, a lot of the stuff I blamed
+on personal stuff, which you can't bring into it.
+But I'm going back to the drawing board,
+back to creating my map,
+back to getting even more simple than I am
+because I've noticed I've let a lot of stuff creep in
+and, you know, it's about subtraction, man.
+That's what I've realized.
+So guys, we have just a few more minutes.
+If anybody has any questions for Ryan,
+as we're talking about 2025,
+gearing up for the best of your life,
+go ahead and drop that in.
+If not, I'm gonna go ahead and, in addition, or if not,
+I'm gonna go ahead and give away
+a little bit of swag ski on this call.
+So, by the way, Ryan, do you have the 10K hoodie?
+Is that it you're wearing it?
+Yeah, bro.
+I don't have a 10K hoodie.
+Oh, dude, you need the 10K hoodie.
+Text me.
+I've got the old flat feet mastery hoodie.
+I much love speed.
+Yeah.
+Yeah, money loves speed.
+Yeah.
+So message me, bro, anyone that's at 10K,
+Porter just got his as well.
+Well, just message me.
+I'll send you the code.
+It's completely free and you guys can get it.
+So, Ryan, it is cold.
+Let's get it before it gets warm again.
+Yeah, I want that hoodie.
+That's a dope hoodie.
+Yeah, dude, it's actually really soft, too.
+So it just goes right to your house.
+Be there in a few days.
+Okay, I want to give, because Adair closed the deal,
+I'm gonna give some swag to Adair.
+Let's go ahead and swag winner.
+Message Ashley for a t-shirt.
+All right, I'm gonna go ahead and give him.
+And then I gotta hook up some of my,
+I got a couple of my friends that are local
+that I gotta hook up.
+I'm gonna give, I gotta give,
+because I see them on the call.
+Let's see, I gotta give Mahmood, by the way.
+Mahmood, he's been here from the beginning, man.
+Mahmood's swag winner.
+I know you've been a swag winner before,
+but that's okay, I'm gonna give you more.
+Message Ashley, I'm gonna give Kevin, my man, Kevin Moss.
+Met him in West Africa, of all places.
+Go figure.
+And Mr. Kudlik as well.
+All right, oh, and I gotta give my friend Big Mill, hold on.
+All right, let's go right there.
+Beautiful.
+Okay, so Kevin Moss, message Ashley.
+Big Mill Dutton, message Ashley.
+Adair, Mahmood, if you won the swag,
+just message Ashley, she'll give you a code.
+Go to our store at shop, here, I dropped a thing.
+DigitalLandlords.com, and she'll give you the code.
+You can go right to your house.
+It goes right to your house.
+So, Ryan Dalton, dude, I appreciate you being on, man.
+I know you're super busy.
+And once again, guys, if you haven't already,
+go jump in, check out Rankin' Ren Engine.
+It is, like, with that code, it's like,
+with that code, what is it, like, 70 bucks, 80 bucks?
+$77, yeah.
+It's crazy.
+I mean, I don't, not to be that person that's like,
+you know, it's one dollar a day,
+but it's like two and a half bucks a day.
+Run your whole agency.
+Keep everything in one place.
+So go play around with it.
+Even if you guys just do a free account,
+to go see how smooth this thing is.
+Go start with the free account,
+but I would recommend jumping in.
+And that's just, that's one of the things
+I'm gonna use to scale this year.
+So check that out.
+There's a code if you scroll up in the chat,
+and let's go have the best year of our lives.
+Why not?
+Yeah, dude, for sure, man.
+Yeah, I'm excited about 2025.
+I think it's gonna be the best year
+in this industry for a lot of us.
+For everybody who's doing it,
+I think it's just gonna be off the rails.
+Like, it is crying for it.
+Pretty excited about it.
+What's your, let's speak it into existence.
+What's your revenue target by next year?
+Don't be shy.
+By the way, for anyone that thinks
+I'm sitting here going,
+oh, I don't want Ryan to pass me,
+no bigger compliment than Ryan destroying my,
+my highest was a 121, I think,
+121 to 124 in a month.
+It was one month.
+We didn't have the systems in place.
+We dropped back down.
+But I've been like an average hundred.
+I hope you obliterate, just so you know.
+And that's, I mean that from the bottom of my heart.
+So tell me the number now.
+Um, I want to be, I want to be at, um,
+my, my dream goal,
+the one I would push for is 2 million ARR
+by the end of 2020.
+But I love that.
+And that's my goal.
+I don't know.
+I don't know what that would be for my net.
+I mean, yeah, 2 million top line.
+Yeah, that'd be a great,
+that'd be amazing, bro.
+And it totally doable.
+I think it can be done.
+Yeah, guys.
+One of the reasons why being in this group
+and in groups like this is important
+is just being around people
+that have these big visions.
+And so I know some of us are sitting there.
+Oh my gosh, I got to get to 10K.
+And then we've got people like Ryan
+that's trying to get to $2 million this year.
+So when you find people like Ryan,
+keep them close to you.
+Yeah.
+Love this group.
+Love visual landlords.
+Learn tons here.
+You guys are an awesome community of people.
+I made probably lifelong friends in this group.
+Nick knows what he's talking about, you guys.
+Nick is the greatest resource
+in this industry that you could find.
+He does a phenomenal job
+of making it very relatable and understandable.
+And this is where I got started.
+I was homegrown first in AOP
+and then art of digital real estate now
+and then digital landlords.
+And there's so much that's possible in this industry.
+So thanks to Nick and digital landlords
+for having me on these calls
+and for this great community of people.
+Because honestly like the community
+is what one makes it fun to do the business model
+because you got people doing it with you.
+And you learn from people that are in the group, right?
+They try things and they work
+and you add it into your agency
+and you get better and they get better.
+And people that it's not cheap to get in here
+to get in this group, to be on this call ain't cheap.
+And you'll find that we'll pay for itself over and over
+and over again if you dedicate yourself to it.
+So thanks Nick for having a great group
+here in digital landlords
+and for bringing in the best to the content.
+Appreciate it, man.
+Okay. That said, let's get after it.
+Thanks, Ryan.
+Cool. See you.

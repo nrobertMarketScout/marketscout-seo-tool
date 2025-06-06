@@ -1,0 +1,248 @@
+1
+00:00:00,000 --> 00:00:02,160
+When doing due diligence, what are the ideal numbers
+
+2
+00:00:02,160 --> 00:00:04,960
+when looking for backlinks and citations, et cetera?
+
+3
+00:00:04,960 --> 00:00:07,920
+Okay, so as part of the due diligence,
+
+4
+00:00:07,920 --> 00:00:09,000
+you guys have probably noticed,
+
+5
+00:00:09,000 --> 00:00:11,000
+and we've talked about this in the training,
+
+6
+00:00:11,000 --> 00:00:12,480
+that one of the things you're gonna look at
+
+7
+00:00:12,480 --> 00:00:16,160
+is how many backlinks do your competitors have, right?
+
+8
+00:00:16,160 --> 00:00:18,480
+And you can use this, do this with other tools,
+
+9
+00:00:18,480 --> 00:00:21,040
+but that's the wrong question, Jaylen,
+
+10
+00:00:21,040 --> 00:00:22,040
+and I'm gonna tell you why.
+
+11
+00:00:22,040 --> 00:00:23,640
+Not because you said anything wrong,
+
+12
+00:00:23,640 --> 00:00:28,640
+but because it doesn't matter how many backlinks they have.
+
+13
+00:00:28,680 --> 00:00:32,200
+What matters is the quality of the backlinks that they have,
+
+14
+00:00:32,200 --> 00:00:34,080
+and I'm gonna explain it like this.
+
+15
+00:00:34,080 --> 00:00:39,080
+If I were to offer you, say, 100 links from whatever,
+
+16
+00:00:41,600 --> 00:00:45,600
+random directory sites, whatever,
+
+17
+00:00:45,600 --> 00:00:50,040
+or I would give you one link from Forbes,
+
+18
+00:00:51,240 --> 00:00:55,760
+which one do you think would help you more, okay?
+
+19
+00:00:55,760 --> 00:00:59,400
+I would take the Forbes one all day.
+
+20
+00:00:59,400 --> 00:01:00,240
+Why?
+
+21
+00:01:00,240 --> 00:01:03,560
+Because unless one of those 100 is some crazy site,
+
+22
+00:01:03,560 --> 00:01:06,400
+unless one of those 100 is entrepreneur,
+
+23
+00:01:06,400 --> 00:01:10,680
+that Forbes article is gonna hold far more weight
+
+24
+00:01:10,680 --> 00:01:14,880
+with Google than 100 of these little ones.
+
+25
+00:01:14,880 --> 00:01:17,400
+Going back to the social example,
+
+26
+00:01:17,400 --> 00:01:21,000
+you being friends and homies with the quarterback
+
+27
+00:01:21,000 --> 00:01:24,800
+or with the student body president holds far more weight
+
+28
+00:01:24,800 --> 00:01:27,160
+than you being friends with all the ninth graders,
+
+29
+00:01:27,160 --> 00:01:29,880
+if you're a ninth grader, right, that are no-namers, right?
+
+30
+00:01:29,880 --> 00:01:30,720
+And again, we're just talking
+
+31
+00:01:30,720 --> 00:01:32,400
+about some stupid popularity contest,
+
+32
+00:01:32,400 --> 00:01:33,960
+but that's kind of what this is.
+
+33
+00:01:34,840 --> 00:01:38,120
+So it's not about how many, it's about the quality.
+
+34
+00:01:38,120 --> 00:01:40,760
+So what you guys need to make sure you're doing is,
+
+35
+00:01:40,760 --> 00:01:43,280
+yes, how many backlinks they have,
+
+36
+00:01:43,280 --> 00:01:46,040
+but the backlinks they do have,
+
+37
+00:01:47,440 --> 00:01:49,280
+how are, what are those backlinks like?
+
+38
+00:01:49,280 --> 00:01:50,680
+Are those good backlinks?
+
+39
+00:01:50,680 --> 00:01:52,440
+Do those have domain authority?
+
+40
+00:01:52,440 --> 00:01:53,680
+Do those have trust flow?
+
+41
+00:01:53,720 --> 00:01:55,040
+Do those have citation flow?
+
+42
+00:01:55,040 --> 00:01:57,160
+These are all things that we're gonna be getting into.
+
+43
+00:01:57,160 --> 00:02:00,120
+So it's not an ideal number of backlinks,
+
+44
+00:02:00,120 --> 00:02:03,360
+but what I look for is I'm looking for people
+
+45
+00:02:03,360 --> 00:02:08,360
+that are ranking, that have no backlinks is great,
+
+46
+00:02:08,640 --> 00:02:10,880
+but maybe they have three or four backlinks
+
+47
+00:02:10,880 --> 00:02:13,600
+and they are no follow-back links,
+
+48
+00:02:13,600 --> 00:02:16,840
+which we'll get into in a later video and into the training,
+
+49
+00:02:16,840 --> 00:02:20,440
+or there do follow, or there do follow backlinks
+
+50
+00:02:20,440 --> 00:02:24,200
+that have no juice or they're no follow backlinks, okay?
+
+51
+00:02:24,200 --> 00:02:26,080
+And they only have a couple of them.
+
+52
+00:02:26,080 --> 00:02:29,040
+So I, the question, how I wanna answer this,
+
+53
+00:02:29,040 --> 00:02:31,080
+it doesn't, it's not about how many,
+
+54
+00:02:31,080 --> 00:02:32,600
+it's about the quality.
+
+55
+00:02:32,600 --> 00:02:36,600
+And if they have 10 backlinks that have zero trust flow
+
+56
+00:02:36,600 --> 00:02:38,920
+and a little bit of citation flow,
+
+57
+00:02:38,920 --> 00:02:40,880
+I don't even view that as a big deal
+
+58
+00:02:40,880 --> 00:02:43,960
+because I can go and get one good backlink
+
+59
+00:02:43,960 --> 00:02:47,960
+and I'm gonna beat their 10 crappy backlinks
+
+60
+00:02:47,960 --> 00:02:50,240
+that maybe are no follow-back links
+
+61
+00:02:50,240 --> 00:02:51,280
+or maybe don't have any juice.
+
+62
+00:02:51,280 --> 00:02:53,000
+So amazing question.
+

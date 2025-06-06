@@ -1,79 +1,114 @@
-// frontend/src/pages/Bot.jsx
-import React, { useState } from 'react'
-import Layout from '../components/Layout'
+// Bot.jsx (Enhanced with full Rank & Rent Expert integration)
 
-export default function Bot() {
-  const [question, setQuestion] = useState('')
-  const [answer, setAnswer] = useState('')
-  const [chunks, setChunks] = useState([])
-  const [loading, setLoading] = useState(false)
-  const [error, setError] = useState('')
+import React, { useEffect, useState, useRef } from 'react';
 
-  const askQuestion = async e => {
-    e.preventDefault()
-    setLoading(true)
-    setAnswer('')
-    setChunks([])
-    setError('')
+const LOCAL_STORAGE_KEY = 'rankrent_chat_memory';
+
+export default function Bot () {
+  const [messages, setMessages] = useState(() => {
+    const stored = localStorage.getItem(LOCAL_STORAGE_KEY);
+    return stored ? JSON.parse(stored) : [];
+  });
+  const [input, setInput] = useState('');
+  const [loading, setLoading] = useState(false);
+  const [examplesVisible, setExamplesVisible] = useState(true);
+  const messagesEndRef = useRef(null);
+
+  const exampleQuestions = [
+    'What are the best niches in low-CPC areas?',
+    'Summarize opportunities with low reviews and missing websites.',
+    'Which city and service combos have < 3 Map Pack listings?',
+    'What keyword-location pairs should I build next?',
+    'Are there opportunities with low search volume but weak competition?'
+  ];
+
+  useEffect(() => {
+    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  }, [messages]);
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    if (!input.trim()) return;
+
+    const userMsg = { sender: 'user', text: input.trim() };
+    setMessages(prev => [...prev, userMsg]);
+    setInput('');
+    setLoading(true);
+    setExamplesVisible(false);
 
     try {
-      const response = await fetch('/api/bot', {
+      const res = await fetch('http://localhost:11434/ask', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ question })
-      })
-
-      const data = await response.json()
-      if (data.answer) setAnswer(data.answer)
-      if (data.chunks) setChunks(data.chunks)
-      if (!response.ok) throw new Error(data.error || 'Unknown error')
+        body: JSON.stringify({ question: userMsg.text, history: messages })
+      });
+      const data = await res.json();
+      const botMsg = { sender: 'bot', text: data.answer };
+      const updated = [...messages, userMsg, botMsg];
+      setMessages(updated);
+      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(updated));
     } catch (err) {
-      setError(`Error: ${err.message}`)
+      setMessages(prev => [...prev, { sender: 'bot', text: '❌ Error fetching response.' }]);
     } finally {
-      setLoading(false)
+      setLoading(false);
     }
-  }
+  };
+
+  const resetChat = () => {
+    setMessages([]);
+    localStorage.removeItem(LOCAL_STORAGE_KEY);
+    setExamplesVisible(true);
+  };
+
+  const handleExampleClick = (example) => {
+    setInput(example);
+    setExamplesVisible(false);
+  };
 
   return (
-    <Layout title='Ask the Rank & Rent Expert'>
-      <form onSubmit={askQuestion} className='mb-6 space-y-4'>
-        <textarea
-          className='w-full p-3 border rounded resize-none'
-          rows={4}
-          placeholder='Ask a question about rank & rent, SOPs, outreach, content, etc...'
-          value={question}
-          onChange={e => setQuestion(e.target.value)}
-        />
-        <button
-          type='submit'
-          className='px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 disabled:opacity-50'
-          disabled={loading || !question}
-        >
-          {loading ? 'Thinking…' : 'Ask'}
-        </button>
-      </form>
-
-      {error && <div className='text-red-600 mb-4'>{error}</div>}
-
-      {answer && (
-        <div className='mb-4 p-4 bg-green-50 border border-green-200 rounded shadow-sm'>
-          <h2 className='font-semibold text-green-800 mb-2'>Answer</h2>
-          <p>{answer}</p>
+    <div className="p-4 h-full flex flex-col">
+      <div className="flex justify-between items-center mb-4">
+        <h1 className="text-xl font-bold">🤖 Rank & Rent Expert</h1>
+        <div className="space-x-2">
+          <a href="#matrix" className="text-blue-600 hover:underline">📊 Matrix</a>
+          <button onClick={resetChat} className="text-sm text-red-600 hover:underline">Reset</button>
         </div>
-      )}
+      </div>
 
-      {chunks.length > 0 && (
-        <div className='mt-6'>
-          <h3 className='text-lg font-semibold mb-2'>Supporting Evidence:</h3>
-          <ul className='list-disc list-inside space-y-2'>
-            {chunks.map((chunk, idx) => (
-              <li key={idx} className='text-gray-700'>
-                <span className='font-mono text-sm'>{chunk}</span>
+      <div className="flex-1 overflow-y-auto space-y-3">
+        {messages.map((m, idx) => (
+          <div key={idx} className={`p-3 rounded-lg w-fit max-w-xl ${m.sender === 'user' ? 'bg-blue-100 ml-auto' : 'bg-gray-200'}`}>
+            {m.text}
+          </div>
+        ))}
+        {loading && <div className="text-sm text-gray-500">🔄 Thinking...</div>}
+        <div ref={messagesEndRef} />
+      </div>
+
+      {examplesVisible && (
+        <div className="mt-4">
+          <p className="text-sm font-medium mb-2">💡 Try asking:</p>
+          <ul className="list-disc list-inside space-y-1 text-sm text-gray-700">
+            {exampleQuestions.map((q, i) => (
+              <li key={i} className="cursor-pointer hover:underline" onClick={() => handleExampleClick(q)}>
+                {q}
               </li>
             ))}
           </ul>
         </div>
       )}
-    </Layout>
-  )
+
+      <form onSubmit={handleSubmit} className="mt-4 flex gap-2">
+        <input
+          className="flex-1 border rounded px-3 py-2 text-sm"
+          placeholder="Ask a question about keyword/location pairs, audit scores, etc."
+          value={input}
+          onChange={(e) => setInput(e.target.value)}
+        />
+        <button type="submit" className="bg-blue-600 text-white px-4 py-2 rounded text-sm" disabled={loading}>
+          Ask
+        </button>
+      </form>
+    </div>
+  );
 }

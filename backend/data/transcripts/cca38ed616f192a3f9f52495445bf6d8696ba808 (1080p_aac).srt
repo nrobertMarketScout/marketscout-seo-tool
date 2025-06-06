@@ -1,0 +1,296 @@
+1
+00:00:00,000 --> 00:00:02,280
+Robert said, he's got clicks, but no phone calls.
+
+2
+00:00:02,280 --> 00:00:03,120
+Can you assist?
+
+3
+00:00:03,120 --> 00:00:08,120
+So guys, one thing I would love to just try
+
+4
+00:00:08,160 --> 00:00:11,780
+and just reiterate that something that I've tried
+
+5
+00:00:11,780 --> 00:00:14,320
+to really focus on is try to just,
+
+6
+00:00:14,320 --> 00:00:16,120
+whenever you have an issue in your business,
+
+7
+00:00:16,120 --> 00:00:19,400
+try to just use your intuition and think, okay.
+
+8
+00:00:19,400 --> 00:00:21,480
+And by the way, this goes for anything.
+
+9
+00:00:21,480 --> 00:00:24,520
+If you're not, if your business owners aren't closing,
+
+10
+00:00:24,520 --> 00:00:26,780
+but you're getting a bunch of people to a closing call,
+
+11
+00:00:26,780 --> 00:00:29,440
+then you could use the same exact logic, okay?
+
+12
+00:00:29,480 --> 00:00:31,280
+But with this situation, you're like, okay,
+
+13
+00:00:31,280 --> 00:00:33,360
+I'm getting clicks, but no phone calls.
+
+14
+00:00:33,360 --> 00:00:36,800
+So that means that people are clicking on my ads
+
+15
+00:00:36,800 --> 00:00:38,320
+and I'm getting no phone calls.
+
+16
+00:00:38,320 --> 00:00:41,120
+So well, then you start kind of digging deeper.
+
+17
+00:00:41,120 --> 00:00:43,160
+You go, all right, well, assuming that these people
+
+18
+00:00:43,160 --> 00:00:46,120
+are visiting my website, then that would mean
+
+19
+00:00:46,120 --> 00:00:50,160
+that I'm either getting the wrong people to my website,
+
+20
+00:00:50,160 --> 00:00:52,840
+right, because they're just not, they're not ready to buy.
+
+21
+00:00:52,840 --> 00:00:57,460
+They're not ready to call for an estimate.
+
+22
+00:00:57,460 --> 00:00:58,880
+So that could be number one.
+
+23
+00:00:58,920 --> 00:01:01,720
+The other thing is I have the right people,
+
+24
+00:01:01,720 --> 00:01:04,800
+but my landing page isn't converting, right?
+
+25
+00:01:04,800 --> 00:01:06,160
+So that's what you have to look at
+
+26
+00:01:06,160 --> 00:01:08,800
+and you have to kind of be logical about it, okay?
+
+27
+00:01:08,800 --> 00:01:12,520
+So what I would recommend is there's a couple
+
+28
+00:01:12,520 --> 00:01:14,320
+of different things that you can do.
+
+29
+00:01:15,440 --> 00:01:18,960
+If you have an idea that maybe your website's
+
+30
+00:01:18,960 --> 00:01:20,960
+not converting, you can go,
+
+31
+00:01:20,960 --> 00:01:22,600
+there's a software called Hotjar.
+
+32
+00:01:22,600 --> 00:01:24,040
+You can install Hotjar on your,
+
+33
+00:01:24,040 --> 00:01:24,960
+and there's other ones too,
+
+34
+00:01:24,960 --> 00:01:27,060
+but you can install Hotjar on your website.
+
+35
+00:01:27,060 --> 00:01:29,460
+You can track and look at what people,
+
+36
+00:01:29,460 --> 00:01:30,480
+you know, when they come to the page,
+
+37
+00:01:30,480 --> 00:01:31,320
+what are they doing?
+
+38
+00:01:31,320 --> 00:01:32,220
+Are they scrolling below the fold?
+
+39
+00:01:32,220 --> 00:01:33,060
+Are they doing this?
+
+40
+00:01:33,060 --> 00:01:33,900
+Are they doing that?
+
+41
+00:01:33,900 --> 00:01:34,720
+Whatever.
+
+42
+00:01:34,720 --> 00:01:35,560
+So that's an idea.
+
+43
+00:01:35,560 --> 00:01:37,100
+If you think it's a conversion issue,
+
+44
+00:01:37,100 --> 00:01:41,340
+if you think it's maybe the wrong type of customer,
+
+45
+00:01:41,340 --> 00:01:43,100
+or you think they're clicking on the ad
+
+46
+00:01:43,100 --> 00:01:44,860
+and they're not going to the website, for example,
+
+47
+00:01:44,860 --> 00:01:47,420
+I know sometimes I used to think it was my competitors,
+
+48
+00:01:47,420 --> 00:01:50,180
+maybe you could go and you could set up your analytics.
+
+49
+00:01:50,180 --> 00:01:52,500
+You could see, are you getting, you know,
+
+50
+00:01:52,500 --> 00:01:54,260
+how much traffic are you actually getting?
+
+51
+00:01:54,260 --> 00:01:55,100
+Is it increasing?
+
+52
+00:01:55,340 --> 00:01:57,820
+Is it lining up with how many clicks you're getting?
+
+53
+00:01:57,820 --> 00:01:59,660
+And you just kind of have to dissect it from there
+
+54
+00:01:59,660 --> 00:02:01,660
+and you just have to do a process of elimination.
+
+55
+00:02:01,660 --> 00:02:04,640
+But if you guys are using the core keywords,
+
+56
+00:02:04,640 --> 00:02:06,620
+you guys are following the training,
+
+57
+00:02:06,620 --> 00:02:09,660
+most likely you have the right traffic going to your website,
+
+58
+00:02:09,660 --> 00:02:11,860
+which means that you have a conversion issue,
+
+59
+00:02:11,860 --> 00:02:15,220
+which then I would go, hey, is your website,
+
+60
+00:02:15,220 --> 00:02:18,340
+you know, something that's actually converting,
+
+61
+00:02:18,340 --> 00:02:19,300
+is it user friendly?
+
+62
+00:02:19,300 --> 00:02:21,300
+Is it something that is scaring people off?
+
+63
+00:02:21,300 --> 00:02:23,060
+Is the number easy to find?
+
+64
+00:02:23,060 --> 00:02:24,540
+Is the quote form easy to find?
+
+65
+00:02:24,540 --> 00:02:26,820
+Or are you burying the stuff at the bottom,
+
+66
+00:02:26,820 --> 00:02:27,660
+making it difficult?
+
+67
+00:02:27,660 --> 00:02:29,580
+So you just kind of have to use your intuition there.
+
+68
+00:02:29,580 --> 00:02:31,300
+Go look at some of our example websites.
+
+69
+00:02:31,300 --> 00:02:33,620
+You can go look at BentonvilleConcrete.com.
+
+70
+00:02:33,620 --> 00:02:34,900
+It doesn't have to be complicated.
+
+71
+00:02:34,900 --> 00:02:36,140
+It's very simple.
+
+72
+00:02:36,140 --> 00:02:38,860
+I promise you guys, even the ugly websites convert.
+
+73
+00:02:38,860 --> 00:02:41,020
+So that's kind of how I would attack that.
+
+74
+00:02:41,020 --> 00:02:43,060
+But that's a really good question, Robert.
+

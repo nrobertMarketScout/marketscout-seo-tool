@@ -1,0 +1,656 @@
+Okay. Beautiful. All right. Let me see if I can see the comments properly. Marcus Dugas.
+What's going on, bro? One of our day, not quite day one, but almost day one. What's
+up Dev Nate? What's going on? Thad. We're seeing some OGs in here. Stephanie Prather,
+what's going on? Jackson, my friend. What's up? Says he can hear us. Aaron Vogler, Fred
+Sommer, Steven Pease, Richard Martes, Bo Hicks. All right. I think we wait just two, three
+minutes and then I think we're just going to get into it. But what do you think about
+that? Does it sound good? Let's do it. That works. I also recognize a bunch of these folks.
+You can do some OGs in here, man. Yeah, I'm seeing some names. There's Porter, by the
+way. What's up, Porter? He's probably out working on the farm this early morning. Matt
+Torres. Guys, this is an exciting day. Yeah, let's just get into it. Let's just get into
+it because I want to spend as much time as possible. We have 53 minutes and I want to
+get as much possible. So guys, welcome to the call. Actually, let me do the everyone
+tag really quick. That's what I'll do. I'm not even going to do any housekeeping. Why
+doesn't it not let you do everyone from your computer? Is that the dumbest thing ever?
+Dude, it's so weird. Like I, when I do a good lot of my group, I have to like open the group
+in a different window and then comment in there or do it from my phone. I don't know.
+It's like Mark Zuckerberg's figured out how to look like an alien on his own, but he can't
+figure out how to use the everyone tag.
+Yeah, or the whole issue. You connect to Zoom, I guess, right? Like the virtual is doing
+it natively and why is it so hard to do that?
+It's so hard. Like why are you making it so hard, Zucks? Okay, hold on. Let me see if I
+can get it. There we go. Okay. At everyone. Boom. By the way, I had the weirdest dreams,
+dude. David Beckham's son was in my dream. Dude, what a weird dream I had. Oh my goodness.
+People were stealing my stuff. So we're, we're trying to get back to reality here now that
+I am already go. Okay. Let's see. Brayden Johnson, what's up? Raphael, what's up? Chris
+Art, what's up? Emily Fisher, what's up? Okay. We got a crowd. Guys, welcome to the call.
+Welcome to the live call. We have Ryan Dalton joining us again. Mr. 80, is it 87 or 86 K?
+I float between 83 and 87. He's a float. He's a float. I love that. He is our, not basically,
+he is our very first student ever to achieve this milestone. He has got a run rate of he's
+going to be hitting a, he's, you've already made a million dollars in doing this business,
+but now we're at big boy numbers, which is a million dollars per year as our run rate
+and it's only climbing. So anyway, congrats to you, bro. Yeah, man. Thanks. Yeah. Homegrown
+in digital landlords and art of reselling. I love it, dude. I love it. So, okay, guys,
+here's what we're going to do. Jason already said he's stoked for this. Juan Martinez,
+another day one. I'm loving some of these OGs. They're, I think they, they're excited
+as well because they've been hobnobbing different stuff together. So here's what we're going
+to do. We, Ryan has been working on something for about 15 months. Is that about right?
+Yeah. And I'm going to let him just share five minutes of the story behind it. And then
+literally this entire, what I'm going to have him do is share his screen and I'm going to have him
+show you guys what he has built and how seamless this is. And then at the end of this call,
+we are going to be offering to a certain number of people, we're going to be offering a beta,
+we're going to be taking on beta students. We've already started doing this with a select few,
+but we're going to be taking on some beta students. So at any point, if you, if this
+looks interesting to you, stick around to the end, because this would be the time to test this out.
+What do we have? Like five people that have just, for a few days, we haven't really had
+many issues at all. So when we say beta, basically you're just getting a deal at this point.
+Yeah, you're basically getting a deal. I mean, it's not, it's not like, see, beta will sometimes
+be used like incomplete, but that's not the case. Like it's very complete. You're, you're just like
+one of the first users to know what you think. Now keep in mind, I will say this, I'll say this at
+the end too, because we'll, we'll drop a link or whatever for the people that want to do beta.
+This is a paid beta. So, you know, that just keep that in mind. This isn't a free base of paid beta
+because this is a, something that's taken a lot of time, a lot of money, a lot of effort. Secondly,
+because it's beta and there is a discount, expect that there could be a flaw. There could
+be something that goes sideways and you have to be patient. That's why the discount is offered.
+We don't anticipate there being that much that's weird about it or that goes sideways. However,
+keep that in mind. So don't, don't hit up Ryan and say, oh my gosh, this, this little thing
+happened. I couldn't log in instantly. Like there's going to be potentially some hiccups. So
+that's part of the game. So just you've been warned. Okay. That said, I don't anticipate
+there being many issues at all. But so Ryan, tell these guys what, what this, like why you built
+what you built and guys, I, the title of this stream is what I think is going to describe this
+tool as I think it's going to be the only tool you're ever going to need to scale your agency.
+And I think the challenging part is going to be trying to figure out what to show them, what not
+to show them because we only have 45 minutes. So right. All right. Let's get into it.
+Yeah. We'll show them all the, all the fun stuff. It's all fun, but we'll show, we'll show them
+good stuff. So, um, all right. So I've been in rank and rant for about two and a half years.
+And I got into this and realized pretty quickly that there's not
+a great solutions out there for tools. So we're usually, what happens is this,
+as people get into this industry, they're like, Hey, listen, I want to do local lead generation
+and they've got to go find a CRM. They got to find the right CRM, right? So their content relation
+or their customer relationship manager, they've got to go find a keyword tool. They've got to
+go find a site analyzer. They've got to go find programmable voice and messaging. So what happens
+is inevitably everyone that does this business model is using three to four, at least different
+tools at minimum, uh, that are all like scattered. And the problem with that is,
+is the data doesn't talk to each other, right? So this was my frustration is there was not
+anything out there. And, and, you know, there are some tools that do more things than others,
+right? But there wasn't one that did it all. And so I found myself using a whole bunch of different
+tools and having to manually connect that create the connective tissue and places where my data
+needs to talk to each other. So, uh, I see we got, uh, Deb Nate on the call. Um, he said he used
+version 1.0. So version 1.0 was a no-code solution connecting, uh, some of these things together,
+where the users basically through like a sort of a mini course could go and connect these using sort
+of off the shelf tools. Um, that was, that was great. We've got, you know, a lot of users that
+use that, but it also had limitations that have a lot of limitations that I wanted to
+make the next version to be a lot better. And so that's what we did. Right. So built, uh,
+rank and run engine, uh, as it exists today. And it's got, uh, really everything that you need
+to build an agency, no matter what level you're at. Right. So you can have, you know, be a million
+dollar run rate, or you could be like at your first day or your first couple of sites or whatever.
+And you've got everything you need in-house to grow and build your agency.
+So I know that there wasn't like, besides Dave, uh, Dev, Nate, there was, you had at least a couple
+hundred people that did this. Yeah, we've had over 300 that used it. And so it was so, it was like
+unexpectedly popular. Like it started with just what I was using, like, Hey, this is how I built
+my agency. And a buddy of mine, Alex, he, uh, he was like, Hey dude, you should have let other
+people try this and see how this works. Cause this works really well. Cause I set it up for him and
+worked great for him. And I was like, all right. And so I allowed, you know, really anyone to have
+access to it. And a lot of people really liked it, but I also got like consistent feedback. Like
+it was more involved to set up phone numbers. People have to set up these, you know, campaigns
+and Twilio. And basically I looked at all of the places of version one that people said, Hey,
+this part, can we make this better? And then built the version that we have today.
+Yep. And like another, another person I know, uh, Mike V used it to scale. Uh, we had Mike V on
+a couple of weeks ago. He's just hit $40,000 a month. So,
+it was awesome. Uh, but he also set this up for me. It was, it was low cost. It was easy to use.
+It was straightforward. And that's what we, we really enjoyed about it. So, um, I gave you co-hosts.
+I think what we do is get in there and let's just show the tools that we have today. So,
+just show the tool and show some of the things that this is going to streamline.
+Some of the things it's going to eliminate and just kind of from a, I mean, there's going to be
+a ton of stuff that we're not going to be able to get to, but basically, uh, this is going to be
+a CRM, a, a search volume, a due diligence, basically all wrapped into one. That's going
+to allow you to a project. I mean, everything all wrapped into one. Yeah, that's it. So the,
+the goal is for, not the goal, what we did is to make it an all in one platform
+to build scale and automates the tagline, right? So you can get it at rankinronengine.com. We'll
+talk more about that at the end of the call, but, uh, that was the point is to make it all in one.
+And you can read about it here. If you want to see like a super short seven minute demo, um,
+I made one for you to just click on this to see, uh, you know, top to bottom, how it all works,
+but I'm going to walk you through it and show you guys, uh, we've already got a bunch of people
+that are starting to sign up for it. So pretty excited about, uh, about this. So let's start with,
+um, just overview of the platform. I'm going to grab some water. Keep going. Great. Do your thing,
+man. Uh, well, I'm just going to give you guys an overview of this platform and I'm going to show
+you guys and gals, uh, what the value is for your agencies and why I built this, right? So ultimately
+what I found is, is that a lot of people were using all these things in this left column.
+There are free tools that were really bad or paid ones that were expensive
+or having to use a bunch of paid tools that were expensive. Uh, and it really became like,
+I don't know, expensive to, to run, to run an agency. And I noticed this cause I'm big on
+running a lean agency and having like the most affordable and high performing way to do every
+element of this business model. So, um, I'm going to walk you through this left hand column. Uh,
+I think that you guys might be able to, uh, see this. If anyone can't see it, if I need to zoom
+in, let me know. I'm going to make it a little bit bigger, but if you guys can't see it, let me know.
+So, all right. I'm going to take you through each of these, uh, core features of rake and run engine
+and show you how all these work together to build an agency. Right. The first thing is task tracker.
+So, um, a lot of people will use things like, uh, Google sheets or notion or, uh,
+monday.com or Trello, some of these organizational tools, um, that don't tie into the rest of your
+agency. And so, um, I found that in my agency, I've either created or assigned 3000 tasks
+to my team. So either ones that I've done or my team has done, and that has consistently moved
+the needle forward. So I wanted to integrate that into this platform where you can keep track of
+immeasurable, right? Anything in business needs to be measurable. So you're measuring how much
+progress that you're making and what needs to be accomplished for your agency and allows you to
+scale already with, you know, what's directly in here. So if you want to bring in your team,
+you're going to bring in VA's, it's really easy to just, you know, add them as a user to your
+company and you can, uh, keep track of that. Right? So there's four categories here. There's
+what needs to be done now, what we're working on in progress, what's been done is complete
+and what maybe has some kind of blocker, right? This is project management 101 stuff. So, um,
+I run a, uh, a hundred million dollar project, uh, for, um, the company that I worked for.
+And, um, this is based on those principles, right? Project management principles, right? Because
+that's what your business is. You're managing your business and you have got to make sure
+that you're, uh, tuned into what's most important to move the needle forward.
+So I'm not going to spend a lot of time on this part. Uh, it's pretty straightforward,
+right? You put in, you know, your task title, right? So to do more bill events,
+my keyboard is super loud. So I'm going to try to type a bunch, put in details here about
+whatever that task is, uh, set priority levels, uh, you know, you can add your labels.
+So, you know, what's involved to do bill events. Yeah. Uh, that you can add different options down
+here, right? So we want to put new bill events and add it. There it is. Add it in, uh, task owner.
+You can decide yourself or your team. Uh, so here I'm assigning it to me and then, uh, everything
+matters about due dates. So we're going to do this on Halloween. And then you can all color code it
+because I'm a nerd like that, right? So when we create this, you can, you know,
+add images and all that kind of stuff. It's not, let me click, hold on and make this a little bit
+smaller. Oh, task details is required. Um, test. Okay. And so you will begin to fill this up with
+what's most important for your agency. So you can add images, you can, you know, like tag people,
+put in comments. This is mission control. So, uh, I have used this extensively in version 1.0 and
+it's been the, the most, uh, valuable thing for me to go back and measure what kind of results
+am I getting and where am I putting my attention? Cause where you put your attention is where you're
+going to get your results. All right. And that's what task tracker is about something that's a little
+bigger. Real quick. Um, just, I think I might've missed this or maybe you covered it already.
+Or if my team, I have a VA or whatever, I can assign this task to them.
+Totally. So if I go in here and I click edit right now, I'm the only user in here.
+Okay. You can assign people here and you can assign the owner and you as the task right now
+only shows me, but you could go and you can click on your users and you can add, um, more users in
+here. All right. So you want to add more, you want to add your team and, uh, you can add seats
+basically. Yeah. So again, where you put your attention is where you can measure your results
+and that's what task tracker is about. Right. So pretty straightforward project management stuff.
+So now we're getting to like the meat of this. This is a due diligence and we covered this, uh,
+over the last week. I'm not going to like deep dive into this. Uh, on last week's call, we showed
+this Nick, you think like talk a little bit about this, but not going to the level of detail of
+last week or you want to go forward? I definitely think we should talk about this and guys, I think,
+um, you know, we've been taught for a long time. I mean, months, we, people have been said, you know,
+what's the state, like what's, uh, uh, the search volume that gives us confidence to go into what,
+what is the minimum search volume? And we've purposely not necessarily said, well, on this
+tool, it's this because we haven't, we don't have any control over Semrash or mangles or anything.
+Now we do. And so now we're going to be able to go in and over the next month, as we're also,
+you know, playing around with it, putting our agencies, uh, completely on this tool,
+we're going to be able to come up with a minimum search volume to say, Hey, if the tool says this,
+you can, you know, with 90% confidence, be sure there's going to be enough search volumes. I'm
+really excited about that. But any of you guys that are paying for Semrash and, uh, then you're
+paying for that tool and this tool and whatever this right here is going to do everything that
+you need. If it's just for this feature alone, like I realized I was paying 120 is $129 or $119
+for Semrash. I still haven't figured out, is it SCM rush or is it Semrash? I I've gone back and
+forth. I don't even know what the proper term is, whatever it is. Only thing I use that tool for
+is search volume. Like from the beginning, I've probably spent a hundred bucks a month, I spent
+let's just call it a thousand bucks a year, which is less than it is for, I probably spent five to
+$10,000 on the search function of Semrash. And that is this one piece of this tool.
+What am I going to talk about real quick, or I would cover it a little bit, but tell them how
+this data is, it doesn't go through any third parties. It comes directly into this tool.
+Yeah, absolutely. So, um, you're looking at due diligence records here. So, uh, you know, we'll
+dive into this and how we get this data, but I realized that there's such a variance in what
+data is out there. At the end of the day, uh, you gotta have the most accurate data to make decisions
+about which markets to enter. So this is a due diligence tool that automates this process,
+right? Where you will put in the essential information that you need to understand your
+market. And then you're going to get it spit back out, you know, what exactly the keyword,
+search volume, cost per click, and then your competitor analysis looks like.
+So, um, speeds up the due diligence process tremendously. Uh, you can pretty quickly
+assess if you've got a good market to go into, um, because it's also going to pull in population.
+So, um, I looked at like where this data comes from and what the most accurate data is. So this
+is being pulled straight out of a keyword planner where I'm getting it straight from the source.
+This is coming straight from Google. And so Google is saying, Hey, this is what the search
+volume is. This is what the cost per click is. And if you're not getting, you know, uh, a return,
+it's basically Google saying, we don't know. We can't tell you. So one of my frustrations was
+some of these other tools like main goals or whatever, um, would give a number for that,
+but it was a guess. And when I would run ads, it would be like very wrong.
+And so, um, having this pulled in with my due diligence into the same records, uh, for competitor
+analysis, you know, really allowed me to see what a picture, a snapshot of that market looks
+like. Um, so let's do an example. Um, Hey, real quick, Ryan, before we go any further,
+just a quick question from Gina. She said, can you add attachments or documents to the task?
+Yeah, sure can. So, um, you can upload files. Amazing. Yeah. So you can just add,
+yeah, um, uh, like a PDF or something like that. You could add to it. That's awesome.
+You have images, logos, whatever you'd add. Yeah. Beautiful. And then real quick, one more thing,
+just so we're keeping on top of these, Daniel Kelly says, so does rank and rent engine do away
+with the need to have multiple subscriptions? Answer is yes. Assuming that he's talking about
+having man goals and SEM rush and these things. This is the old guys, the only tool you need to
+scale. That's why I call it that live. That's called the live this, but anyway,
+I think that's what he's asking. Um, yeah. Absolutely. That's the, that's how we built it.
+This is the, this is the definitive tool that you need for this industry, right? So for local lead
+generation, you don't need anything else to grow. Now you may have some like, you know, something
+that you do with Adobe Photoshop for your editor images or whatever. It didn't have stuff like that,
+but like the essentials from local lead generation are here. This is everything you need.
+Beautiful. Okay. Sorry to cut you off. I just want to stay on top of that.
+So, but real quick, I just want to say on this guys, this is this again, the cool part about
+this from what everything that I've seen so far is each one of these, like for example,
+task tracker. I remember at one point in my career, I paid for a program or a software
+called pipe drive, right? All pipe drive does is exactly what task track tracker does, which is,
+I mean, it does it for your clients or whatever, which we're going to show you that this also does,
+but basically you just create these cards and you drag them. That's basically all that it did. And
+I was, I think it was like 50 bucks a month. And that's what task trackers now due diligence.
+I don't know about you guys, but I was one of those people in the beginning. I had stacks. I
+used to print off the due diligence. I would print off like 50 at a time, keep them on my desk.
+I'd take a pen and I was writing the information that I had stacks of these
+hundreds of these due diligence sheets. And then I thought I graduated and I was so smart and I
+went to Google drive. And now I have so many, and I've got, you know, folder inside a folder,
+inside a folder, inside a folder, inside a folder to get to, you know, and I've got it by niche and
+all this different stuff. Whereas this now I can log into my tool. I have my tasks and I have my
+search volume and I have my due diligence cards. And I think I asked this last time, is there a
+limit to how many of these due diligence you can have?
+Yeah. You've got to map out your empire, right? You've got to map out where you're going to put
+your, your sites. So it's unlimited. Right.
+And one other thing I like a lot who here has done the research on, let's say Las Vegas concrete.
+It doesn't look good or it does look good or whatever. You decide not to do it. And then like
+six months later, you're like, Oh, I should go into Las Vegas concrete or somebody hits you up
+and says, you know, you get a referral or whatever. And you're like, I remember doing
+the due diligence and you go back and you're like, Oh, I should probably do it again to see
+if it's like up to date. Guess what? All you have to do now is push one button.
+You go to it, you push refetch, correct? And it automatically runs the entire due diligence
+right within, what is it? Two and a half seconds, three seconds.
+It's pretty much instant. So you can refetch it or you can go in here and here's a, here's one for
+Brick Masonry in Nashville. Click edit. If you want to switch out your keywords, right? Like maybe
+we don't like retaining wall, but we like, you know, brick wall. I don't know. I'm just
+going to make up something. And we want to update our keyword because we found that maybe it's
+successful in other markets, right? We just go in here and we just update the location and it's
+going to refetch that data. So brick wall is a tool. Actually it's not a bad keyword, 140
+search volume. I don't know what the cost per click is, but you just edit that record and it
+pulls in the latest competitor data as well, right? So their domain age, authority, backlinks,
+page authority, citation flow, and trust flow. And it'll refresh all that for you where, you know,
+if you're kind of waiting, kind of eyeing it, right? Maybe, you know, your work sure, like your
+market was marked to be determined up here. And you're like, all right, I got to look at Masonry
+in Nashville. Like, all right, this is pretty good. And you can mark it and go.
+Um, let's just do a little math. Let's say you're, how long do you think it takes to do,
+take this tool out? Let's say the standard way. How long do you think it takes you to do a due
+diligence? I would guess for me, probably about 30 minutes. Yeah, that's probably right. I'll say 30
+minutes. Let's say you're average. Let's say you're not making that much money. Your time's worth
+$100 an hour, right? So let's say that 50 bucks every time you do one of these, what it costs you.
+And let's say that you do, you know, for every area, you have to look at 10. So let's say to do
+10 sites, you have to look at 100. So 10 is up by 100. That costs you $5,000 worth of your time
+to look at due diligence. You just literally eliminated that with this tool. I mean, it's
+insane. It takes you instance three seconds or less to get the same information. It take, it would
+take you 30 minutes to get. Yeah. Yeah. Look, I mean, money loves speed, right? You said it a
+million times. It's true. The faster that you can do this stuff, the more quickly you can make
+accurate decisions to go into a market. Not to mention you might miss something because
+you're human and you, you, you know, incorrectly anyway. So of everything, dude, the search volume
+and the due diligence, this might be my favorite part of the entire tool, but piece of it.
+Yeah. We spent a lot of time on the due diligence part to really make sure this is
+going to grab what you need. I see some of these questions in the chat. So
+I'll just talk through, when you add a record, this only works in the US for right now. We're
+going to expand to other markets outside the US, but you know, your country is the United States.
+You pick your state, you put in your city, you put in your niche, call driven, yes or no. That's
+just a reminder, like, you know, are we in the right niche? You're putting your primary keywords.
+This is your money keyword. Like this is the one, this is masonry, this is artificial grass,
+this is concrete contractor, this is fence installation. And then you put up your core
+keywords, which are the next six. So those are the ones that you're going to build your service
+pages out of when you build service pages. These are, you know, your core keywords and it covers
+that and the due diligence modules, right? And then you need to look at how many active
+businesses there are. Maybe now you don't know you market TBD and then you put in your top three
+competitor domains, right? So I just grabbed some URLs here. These are just kind of ones I, you know,
+put in and you're going to put in these domains. You can put in an available domain. So this is
+grayed out right now because I've already added it. But you'll put, you'll put in this big brick
+energy Nashville for a brick mason, but you can, you know, edit whatever your domain is that,
+you know, you check GoDaddy for to make sure you could buy the domain. Loading fruit, TBD,
+go or no go TBD, or maybe you already have a vibe for it and then you update the location,
+right? And it's going to pull in that data automatically. So you can see that it just
+loaded while we've been talking here, right? So all that data that you normally have to go
+type in domain age, like pull up domain authority, like how many backlinks, right? Like
+that is completely unnecessary. That's one of the things that frustrate me most is
+you just can make it the right API calls to the right services and you're going to get
+the data that you need. Yep. Beautiful. So let's just rapid fire through some of these questions
+because I know we're going to be just cutting it close here. So real quick, Richard said,
+I'm doing my business with my spouse. So can I assign a task to both of us
+or can she edit a task without being an admin? Yeah. So there's one company admin. So under users,
+there's the one admin, you can add someone as a seat on there who is, you know, an administrator,
+or you can both use the same account, you know, with the same password. If you want equal admin,
+right? So I don't know how you feel about that, but the invited users will appear here. So if you
+want to add somebody in, you can both be on the task. So this task here, you can assign, you can
+have, you know, the owner, you can have the person that's assigned to it and all that is going to
+appear just like RRB, right? There's my initials, Ryan Dalton. You would see here on the task who
+it belongs to. Beautiful. So it's designed for collaborative, you know, working together, right?
+Beautiful. Okay. So answer that one is yes.
+Prabh says, just hopping off, can we use this for SEO? Of course you can use this for SEO.
+LeadGen is SEO. We're just doing LeadGen. We're just doing SEO for ourselves, right?
+Richard says, is it pulling the competitor data on its own without entering that information?
+So I think your question is, is it pulling your top three by just virtually knowing what the market
+is? And the answer is no, you have to go in and you have to look at what your top three are, right?
+Because, you know, you've got to go see what those top three websites are for the ones that you want
+to beat. But all you have to do is paste the URL in here. So which is a good thing, by the way,
+because if not, maybe it would pull in like a home advisor and stuff like that. And we all know that
+home advisor, even though they may be your spot number one, they're not the same type of a
+competition as a local competitor, because Google likes to give the spot to the local. So yeah,
+you're going to go in, you're going to just choose those three, the ones that you keep seeing over
+and over, and boom, then you're going to have that information. So it's going to take you just a
+second. Bo asks the same question, how is it picking the top three competitors? So that's one,
+you're going to put in the top three competitors. Again, we can't, unless we had a formula that said,
+get rid of home advisor, do this, do this. There's no way that we could do that, because it would
+just be pulling the top three. And sometimes that would be the home advisor or Angie's list, which
+in which case it wouldn't be accurate. So that you do put in the top three competitors.
+Yeah. Yeah. There's limits to good software and automation. Like the best way to do it is to have
+a human in the loop, right? You want to have a human that is looking at that data and saying like,
+yeah, these are the top three, you plug those in and then everything else is done automatically
+for you after that. Okay. Beautiful. I agree. Gina says, I have stuff scattered everywhere.
+This is amazing. I a hundred percent agree with you. And then Bruce has said to this DD tool,
+find your top competitors. Well, no, that's, we covered that as well. Okay. Last one, Daniel
+Kelly says, not related to ranking or Angie, but would appreciate some input on choosing a niche.
+I joined last week. I spent a while looking at a tree service, but it seems almost impossible to
+rank for an ultra competitive. So I'd appreciate some ones Nick would recommend. Okay. I'll comment
+with some of the recommended ones. So we don't have to stop on that one. Daniel, just give me a
+second. I'll respond there. And then Kirk says, perhaps it could screen out. Yeah, it could. But
+again, as Ryan said, I think having a human in the loop is the best option, but it's not something
+that we can't update going forward. And then Raphael says, do I still need to use Google
+keyword planner for ads? No, you don't. So we can jump around here. We don't have to go in order.
+Uh, so I'm sure you keyword planner. So here's keyword planner. Uh, we're just going to do old
+faithful. Let's do concrete. It's a contractor. By the way, let me point something out quick,
+quick, quick. Um, everyone thinks concrete saturated literally yesterday when I was on
+the call, uh, with, I was going to call it Jason. He had to hop off. Jason already had to hop off,
+get on a closing call. He got on like 15 minutes later, 30 minutes later, and he closed a $1,400
+a month deal in concrete. There are deals out there. I'm not saying that you should go into
+concrete, but if you look hard enough, there's still deals. So, um, yeah, use old faithful for
+us. Yeah, we, we can, we can switch up. We do, uh, we'll do Mason. Let's do a fresh one. Right. So,
+um, I still get deals in concrete. Uh, we're we'll have a closing call this week for concrete. So,
+uh, I don't think it's, well, let's, let's do another one. Let's do, uh, let's do Mason. Right.
+So this data is your keyword planner, right? So think about how much time is lost hopping
+between all these platforms. You're not only paying for them, but you're jumping between them
+back and forth and it's, it's slowing you down. So, um, this is something that I felt very acutely.
+I don't want to have to always be jumping back and forth. You also have data fidelity issues when
+that happens, right? Like, am I making sure that I'm putting the right data in? Is my team putting
+the right data in? This is pulling straight from the source. This is pure keyword and, uh,
+calls per click and search volume data. So, uh, we did Masonry, Nashville area, search volume,
+calls per click. You can see the PPC competition level, right? So, um, the, you know, low, uh,
+and then the competition is just shown here as low, right? So, um, it also pulls your low, uh,
+top of page bid and your high top of page bid to see what it's going to cost you to get at the top
+of the page. Uh, and then you're obviously your average monthly search volume, uh, over the course
+of the last year. And then related keywords, right? So all the Mesa Green near me, um, if it
+doesn't have the data for that, it's not going to make up a number. This, again, this is what
+frustrated me about some of these other tools is it will make up a number based on, you know,
+whatever data brokers are pulling from, because that's what these keyword planners do is they go
+buy data from, from places. And, um, I found this to be pretty unreliable. I want as accurate as I
+can get. And if Google doesn't know, like, I need to know that, right? So, uh, this is a great
+example of the, like, you know, you put in that core keyword, this is my primary keyword and,
+you know, I'm going to get that, that search data to pull up. Beautiful. So I'm just looking at
+comments. Uh, Mike V is a tool limited to the United States. Obviously not all the features,
+but some of the, uh, the competitor analysis features, that kind of stuff. Um, of course that,
+that's, this is just beta. So we're going to be working on that, but yes, it is. Um, Aaron Smith
+said, I joined a bit late. How do we access this tool? We're going to be getting to that here in
+just a moment in the next 15 minutes. So hold on one second on that. And Richard said, is there
+a way to save previous keyword planner searches? Oh, that's a great idea. Yeah. So I've been talking
+to the developers about that. What we'd like to do is have a keyword search history where you can
+just select if you want to go back and look at that, that doesn't exist now, but you guys,
+this community drives the development of this tool. This is made by people doing rank and rent
+for people doing rank and rent. So, you know, as you guys are using this tool, I've got a,
+you know, up here in this corner, I've got a support button that you can click and you can say,
+hey, I've got this idea. Hey, why don't we do this? I'm going to take what the,
+what the people want and build it. Right. So things like that, that we continually,
+we'll make this the best in class tool for this industry. And, uh, you know, you guys are,
+are the ones that are informing that. Beautiful. What else should we cover? We have time to cover
+like, what else do you want to cover, man? We have programmable. So I want to talk about the
+biggest thing that you need for retention in this industry. And so let me tell you in 30 seconds,
+how I know this. I will also, in my agency, close sites for site owners. And one of the things that
+I coach the site owners who bring sites to me, they want to get them closed and on a profit
+split. Basically I'll say, Hey, you need to have a text message SMS notification set up in your
+programmable voice so that the business owner knows that you're getting those leads over to them,
+right? Where every time a call comes in, they get a text message that says you have a new
+lead from, and it shows the number. So what I've done is, um, when you guys get a number here,
+your first ones are included for free with your subscription. This has a full suite of programmable
+voice and messaging. So you can go in here and you can, you know, pull up this number and this
+one is for a little rock concrete, right? That exists. It's not a real site. I'm sure it's a
+real site for someone under that domain, but I just put some information in here. Um, and so you
+could put in your, you know, all this information in here, right? So you can put in your tracking
+number. You're, um, uh, pulled in automatically. You can put in your forwarding number and then
+down here, all of this stuff right here is about retention. So, um, when the call comes in, you
+want to be able to enable spam filtering or not. So one of the key complaints that business owners
+give is about spam. And they're like, Hey, I get great leads, but I've got this spam coming in.
+All you got to do is enable spam filtering. And now when someone calls, they press, uh, one to
+connect to the business owner, right? They hear a message that says something like, um, press,
+thank you for calling, uh, press one to be connected to one of our team. And the call will
+actually not go through until someone presses that input. So it saves you with one click, uh,
+spam concerns from your business owners. Um, you can choose your whisper message, male or female.
+It's also got state law compliance for call recordings. So, uh, you can click this right
+here to play it and listen to it if you want to. But basically it's just that message that says
+this call may be monitored or recorded for quality assurance or training purposes, which is,
+um, required by state law. If you do two party, uh, call recordings or one party call recording
+or other, right? So not true for every state, but it's true in a lot of states. And so I just leave
+it on by default to be compliant. Um, and then you can put in your whisper messages here, right? So
+you can do, uh, there's a default one that says, Hey, you have a new call generated from Little Rock
+Concrete, or you can do a custom one. If you want to like, Hey, Nick, uh, you have a call from
+Little Rock Concrete, like put in my business owner's name there. Uh, do you ask, does this
+take place a call rail? Yes. You can put in, uh, you, your numbers that exist now already,
+if you want to, or excuse me, or you can, uh, get new numbers through program of voice SMS.
+So let's say I have a call rail account. What I is there's a way to like bring all my numbers in and
+then get rid of my call rail account. Yeah. So we're going to do a number of, uh, porting, uh,
+in the future, right? We don't have porting set up, but what you can do is you can keep that number
+there. You don't have to buy numbers here. Uh, your numbers are included with your subscription
+up to a certain amount. Um, and then, uh, you can just add in your numbers here into your
+sites, into your site portfolio, right? Where you just type in what the number is instead of
+add a new one. So you keep that for now, your existing sites, you'd keep your call rail account
+and keep those numbers and, uh, and then you're, but going forward, new numbers,
+you could buy directly through this, through Twilio. And then once we, uh, add porting as
+part of, as one of the new features, then, um, you can go ahead and, and we could get rid of that.
+Absolutely. Yep. Yep. Um, and the cool thing about these numbers is on the backend,
+they have got a feature that I love is that you can do, if you do Google business profile
+verifications, you can do those through, uh, these numbers, through, uh, the call,
+whereas call rail blocks that. It doesn't let you do it. So, uh, pretty neat little, um, difference
+there. Here's the real moneymaker for me. I would not even do local lead generation if not for what
+I'm about to show you guys. Like I would not do it. It would be too frustrating for me.
+And that is SMS notifications. So, um, when the call comes in by default, this is enabled.
+It's going to show you have a new lead from, and then it shows the site name automatically
+pulled in and then the caller's number. And so that business owner, every time they get a call,
+uh, it says you have a new lead from, and it shows that, that phone number. And so it keeps you
+top of their mind. They are thinking like, okay, I'm getting these leads. They're still coming in.
+We've already blocked out the spam because we turned on spam filtering and they're getting
+this text message. And every time that they get that new lead coming in, they're seeing the value
+of your service. So this has been like the number one most valuable thing for me in my agency.
+I've baked it into a rank and run engine. So just from the jump, you've got access to it.
+I love that. That's it's so valuable because it, um, you like, even if you, even if it's only 10
+leads or 15 leads or whatever, just constantly reminding them, you know, that you're there,
+Hey, you know, it's like, you're poking them and say, Hey dude, that's me. That's me. That's me.
+Cause a lot of times these business owners, even though it's coming from you, they want to assume
+it's from their own stupid little go daddy site. And, and they would do everything to be like,
+Oh, I don't think so. I don't think so. Right. This is going to show them that like, this does,
+this does indeed come from you. So this is a great retention tool. And for those of us that
+have done nothing for retention and still retained people, imagine this is just going to be one more,
+you know, a nail in the coffin to keep these people just locked in with us. So, um, and by
+the way, uh, did you enable that or is that default? By default, they have this, you could
+customize it and change it, right. You put in, you know, a name or whatever, right. But by default,
+they get an SMS lead notification. I could see really buttering up the business owner and be
+like, hello, boss. Uh, here's a little call. Yeah. Something like that. Anyway. Yeah, man.
+Yeah. So, uh, you get all your tracking numbers in here. You can get a new one straight through
+the platform, right? So, you know, if you want to get, you know, your, your new tracking number,
+you can get it, configure it just like I showed you guys a second ago. Right now it's just the
+U S my idea. Love you, man. Sorry. It's not there for New Zealand yet, but we'll get you hooked up.
+Um, and then you'll, uh, be able to get those numbers, but, uh, right now it's just the U S
+but it's, it's, you know, it's everywhere in the U S so, uh, you can get those numbers and you can
+see your first ones are included for free on your account. Beautiful. How many, how many are included
+for free? Uh, your first five on your, if you do ignition, if you do full throttle, sorry, ignition,
+it's five turbo charges, 20 in full throttle. It's 50. Those are the three different levels.
+Okay. Beautiful. And then you can, you can add your own, uh, as well, right? So you can do add
+on numbers, uh, very affordably. So, uh, let's co can we cover one more, one more, uh, feature
+and then we can do a few questions and we can, uh, let anyone, we can share the beta information
+that want the people that want to, uh, get on the beta for a discount.
+For sure. Yeah. So, uh, we're going to cover this last one here, but, you know,
+I'm just going to run through these. You can do site portfolio. All your sites are in one spot,
+uh, put in all your sites, prospects, put in all your prospects, clients, all your clients show
+up here, right? You can put in the service type SEO lead generation paid advertising,
+your subscription type, et cetera, uh, put in all your leads. You can check all your leads here,
+and then you can see all your calls and the recordings. But the one I'll show you guys is
+this one. Uh, this is site analyzer. So this will allow you to go in and look at the performance of
+your own sites or look at your competition sites. So I put in, you know, one of my Legion sites here
+and, you know, you can see all the essential metrics at these cards, the top citation flow,
+trust flow, domain authority, page authority. Are you improving at these metrics over time
+to outrank your competition? Um, you can see your backlink profile, right? Like how many are you
+gaining the last 12 months? Uh, how many of you gained a loss over the last 12 months, right? Uh,
+here, this gets a little bit technical. I'll probably don't have time for all this, but
+gets into your referring IPs, your referring subnet nets and your external backlinks, and then, uh,
+your top referring domains, which you want some diversity on. So, uh, referring domains, uh,
+all times showing all the, the top ones where you're getting backlinks from basically and what,
+their trust flow and citation flow looks like. And then your anchor texts, right? Like how much
+anchor text diversity do you have and, uh, what kind of referring domains, all the essential
+information that you need that will give you an insight into the performance of your own
+lead generation site. And, you know, you can put in competitors too, right? So you can do your own
+or you can do another one, but, um, all that data gets piped into this, this one, uh, dashboard for
+you. Is it safe? You analyze it and then does it just read, when you put the new one, it doesn't
+get rid of this. Is it just like a standing tool or does it save past searches? Yeah, it'll put
+a new one in. So let's do, uh, oh, I didn't do that commonplace. Um, this is for like, uh,
+assessing a site at a time. If you want to do a due diligence record, you could pull that in
+for due diligence, right? So if I go back, it's just gonna, it's gonna refresh it. Um, but we'll
+add a, um, search history, like, uh, you know, here's the ones that you've done, the results
+that they got. So we'll add that in the future. Yeah. Beautiful. Okay. I think that's something
+we should add. I think it'd be nice. Concrete. One thing I want to mention guys is you can finish,
+you can finish this. Let me, so each one of these tabs is basically replacing a software tool,
+right? Like that's how, like I was just looking at it. Task tracker. Um, we, I mean, we've used all
+kinds of different stuff. I told you, we used to use, uh, like, what's this? There's notion,
+right? We use notion for task tracker, then the due diligence. We used Google sheets and we used
+SEMrush and then the site portfolio. We would use, uh, we used everything from Asana
+to Google sheets to pipe. Like I don't know what else we use. We said that was prospect pipeline.
+I used pipe drive client list. We use Entraport, like lead tracker, call rail. It's like every
+single one of these I was paying or using a different tool. Even if I wasn't paying,
+I had to go and toggle between all these tabs. And now each one of these little tabs on the
+left here is replacing a piece of software, putting it into one place that you can just,
+you know, scale your entire agency from, which is incredible. Money loves speed.
+That's the goal, man. Put it all in one spot. It doesn't need to be in 10 different places.
+It just creates inefficiencies. Here's the most important part. Can I put my own profile picture
+in the corner? For somebody like me, that's real. You can put it in the goofy avatars, right?
+Okay. But you can actually upload a picture. Yeah, you can upload your picture.
+Amazing. Obviously guys, that's not the most important thing, but I thought it's kind of a
+nice little touch. Okay. So let me look at this really quick. We have a few minutes. I'm super
+pumped to get my team in playing with it, me getting in playing with it.
+Let's just do a couple of questions. Then we're going to share the information on the beta. Okay.
+So let's see. Man, we got so many questions. Let me start at the bottom, actually.
+Jahil says, I joined late, but I have a question about the site portfolio section. Is there some
+type of filtering system where we can split sites we have rented from the sites we don't have rented?
+Yeah, for sure. So you could show ones that are in development, right? And those are basically
+unlimited, right? You could put just tons of in-development ones in there. And then when
+the development status is complete, you could put a market is complete and then edit whatever
+details you need to in here, right? So you can do your service type by lead generation, SEO,
+paid advertising, whatever your site is, and then indicate whether you actually have a client on it.
+So under your client list, you can tie it to a website, right? So that website will be assigned
+to a client and then they'll know if it's rented. Beautiful. Okay. Jeremy says, hey Ryan, congrats
+on building such a promising tool. It looks really great. Sorry if they've already been asked. I'm on
+the job. So you got a couple of questions. Let's rapid fire. And I know some of the answers,
+so I'll answer them. Can we bring in our own Twilio numbers, bring your own key style or
+must we purchase them in rare? They'll eventually be able to be ported in. In the meantime,
+what you can do is you can, when you create a site, you can just put in the phone number,
+the number you like to tracking number, or you can just add your own.
+Perfect. Number two, he says, if not, can we pour our tracking numbers in out of rare?
+Not yet, but that is, that has been asked a couple of times. So that's going to be at the top of what
+we want to, we want to update the next update. Okay. Does it have a web browser dialer in it
+so we can call the leads via the website tracking number? I don't think so right now.
+No. Okay. And again, guys, as it's crazy, because as you guys are asking these questions, it's,
+it would be really impossible to cover like from, remember this is version like, you know, 1.0,
+it's a version 2.0 of rare, but this is version 1.0 of this being an actual tool. And I think
+you've covered basically everything. So of course, there's going to be these little teeny
+things that are nice, whatever, but just keep in mind, there are going to be a lot of updates
+coming. This is just where we're starting at. Okay. One more question. He asks, he said, I see
+on your website, it says you only support USA number at this time. Do you have an estimated
+timeline for Canada and other countries? I don't know if we have a timeline, but of course,
+by popular demand, it's probably the order that we'll tackle. It'll probably be Canada slash
+Australia would be the second one. And then of course, Mike V, we got to hook up Mike V. He's
+over there just carrying the whole country on his back over there in New Zealand. New Zealand love.
+Yes. Okay. And then let's keep just a couple more and then we're going to have to go through
+and just answer these. Bruce says, one last question. Will you be doing a bit further
+training inside of the rare Facebook group? Yeah. So I made a ranking or an engine Facebook group.
+We can share that here, basically for this community, people using this platform. So if you
+guys want to join that, just search ranking or an engine and jump in. There's not much there right
+now, but I intend to share more trainings and more product roadmap and things like that. So you guys
+are constantly getting the latest from me in there as well. Let's answer one more question and we'll
+get into beta stuff. Luke Hill, and I think this is important, he says, so why wouldn't Google give
+that on Google Keyword Planner or why wouldn't other tools like Ahrefs or SEMrush use the same
+API? Why do you think that is? Because we're talking about how this data isn't going to third
+parties. Why do you think they're not using that? Good question. I can't speak for why other
+platforms were built the way that they were. Every keyword tool has its little nuances,
+has its differences, right? For our industry, we are very focused on the local search volume,
+the local keywords. There's nothing built for that. It's like, what is the fastest path to
+knowing in that local market what that search volume is, what that cost per click is, right?
+So I chose like, hey, the gold standard for this after running, you know, I've ran probably $300,
+$400,000 of ads now is going to come from Google, right? That is the place to get the gold standard
+of information and data for me. And so I wanted to tie that in, right? I can't speak to some of
+these other choices for the way they build theirs. They're catering off into much bigger
+corporations, right? Like how many people are searching for sneakers by Nike, right? You know,
+that's not what we're doing. And so I built our tool bespoke for our use case.
+Which I think is super interesting because a lot of people with tools, they want to, they're like
+thinking, well, I want to, I want to build this tool so that we can get people in this industry,
+in this industry, in this industry want to make. And of course, this is a moneymaking product.
+Ryan's isn't just a charity. However, Ryan makes his money from doing rank and rent. And so this is
+not only, of course, it's a way to make money, but it's also a way to scale his rank and rent
+agency even further. And so I think the best products, the best tools always come from people
+inside that industry because they know the pain points. Whereas somebody from the outside coming
+in to build it just to make money, it's never going to cater exactly because they don't know
+those pains. So anyway, let's, we only have a couple of minutes, right? How do people,
+and I'm going to try it. We'll try our best maybe to either do like a Q and a session later,
+or just go in and answer these questions. But how do people, if they want to get on the beta
+discount, how do they sign up? And what does that look like price wise, et cetera? We have 38 people
+on, let's show them that really quick. Give them the link and let them go start playing around with
+this amazing tool. For sure. Yeah. Yeah. Nick hooked it up. You guys are getting early access.
+So you go to rentandrentengine.com. You can click create a free account. And then for the first 50
+people that use Ignition 24, so all capitals, no spaces, Ignition 24, one word, will get 20%
+off. So the first tier is 97 bucks a month. You can cancel your main goals. You can cancel your
+SEM rush, right? Like you're going to go in here and see that, you know, this is very much a cost
+savings tool for you guys. And you're getting 20% off on top of that. What's the code? Ignition 24.
+That's the first two months at 20% off. So IGNITION24. We can put it in the, in the chat
+or 24, all lowercase, all uppercase. So you know, it's case sensitive, but I just put it in.
+Oh, I misspelled it. Time too fast. I don't delete that comment. All right. Ignition 24,
+like starting a car night. Beautiful.
+Also real quick, Daniel Kelly. Okay, good. I spelled it correctly too. Okay. Daniel Kelly,
+go look at your previous comment. I dropped the recommended niches for you specifically. I
+spent some time to write that comment out. So guys, if you are interested
+on a 20% discount for the first, I think it's 50 people is what it's capped at. What we're,
+and by the way, this is coming to you guys first. We haven't taken this to the free group. We haven't
+taken this to, you know, whatever. We're going to be doing an official, official, official, official
+launch next, probably in about a month, depending on how this beta test goes. Could be as early as
+two weeks, but most likely first of November. But yeah, go in, play with this and just know that
+you guys are, you guys are our people. We're excited. We want to get as much feedback as
+possible. If people have feedback, where would be the best place? Should they go in the Facebook
+group and drop a comment? Because I don't want to make a huge mess here, like DMing you and stuff
+like that. Where should they go for support? Should they go to the Facebook group and drop a
+question, comment? Like what would be the quickest way to give feedback?
+Yeah. If they want, it's only positive things that I accept. No, I'm just kidding. If you want to go
+to ask feedback, you could talk about it in the Facebook group, but if you want it the
+most direct and organized way that I'm categorizing this stuff is when you create an account in this
+top corner, you'll get your user profile information, click on support. It's going to pull up this form.
+And so this form is going to be refreshed. Here we go. It's your rare user support request form.
+So you put in anything that you see in here, hit submit. It's a super short form. It'll go straight
+to me, into my email. And so I can see anything going on. And you're also free to DM me as well.
+Just find me on Facebook and send me a DM. If you guys would though, I mean, for the benefit
+of the community, if you could do that form, it would make it easier for Ryan to address
+these things and also update. So I know sometimes you get frustrated when a fire off a message
+and, you know, whatever, but if you guys will do that, maybe you do both. If you're really,
+it's a really quick thing you want to get answered, but this is going to allow Ryan to continue to
+make this tool even better and better. Okay. So one more time. Okay. Shane real quick says,
+awesome. Can you increase your package at any time? Sure can. Yep. You can also do add on sites. So
+if you've got 10 sites, you can do add on sites as well without having to upgrade your package.
+Or you can, you know, choose the highest tier if you want to. Right. So anytime that's available
+for you guys. And then Jahil has a good question. He said, how does the search volume, how does the
+search volume do when searching for Metmo? That's exactly, well, guys, this tool, as of last week,
+right when we went live, that was like when we started basically being able to play with it as
+well. So that's one of the things that I'm going to be looking at in the next few weeks
+is when we type in a Bentonville concrete, when you type in that, that key site, what is that minimum
+search volume? So, uh, stay just a little bit patient with me as we figure that out. I don't
+want to come out and say, Oh, when it says this, you know, then that's a, uh, for sure, because I'm
+not a hundred percent there yet, but this is now I'm confident because we have control over the tool
+that we can give you that with a 90% confidence rating type of thing. So, um, again, guys,
+if you are interested in the beta, go to rankandrentengine.com and choose your package.
+And then the ignition all caps, we think ignition 24, maybe not case sensitive. I don't know to get
+20% off, uh, for the first, how many months? Two months, first two months. And then one more thing,
+Matt says, could an overseas VA team call using the tracking numbers? Uh, there's not anything to
+have, uh, those dial out right now. Um, but I've got some ideas for that. So stay tuned. Beautiful,
+beautiful. Okay. I think we, I mean, I think that's pretty much it guys. Um, go test it out,
+play with it. Uh, if you guys are like the lowest package is 99 bucks, 97, you get a 20% discount.
+We're at, let's call it 80 bucks, 80 bucks a month. SEM rush is 129 a month, just for the search
+volume. Like it's at the lowest package, it's, it's a no brainer, especially with the, with the
+discount. Okay. Um, you can use it for SEP. Okay. Anyway, um, Kirk says just registered,
+but it's us only, do we lose out on the offer? Any idea on the UK feature?
+Uh, so let's see, just registered. That's right. Yep. So it's, it's still just us only, right? So,
+um, if you're, if you're in the UK or Canada, Australia, like we've heard you guys, you know,
+we want to keep building this out for you guys. We're starting with the U S and then we're going
+to expand it out from there. Um, Kurt messaged me when, when that time comes, we'll do something
+special for every guy and, uh, gal in the UK. Um, one thing on, uh, dial outs, there are third
+party programs that you can use like talking to that you can actually plug in your, uh, SEP
+and SID. Oops. Um, this SID, I haven't tested that with this yet. Um, but you guys might be able to,
+do it that way, right? So, um, that's, that's a possibility in any case, in the future,
+we'll be able to make it to where you guys can use your numbers for dialing out using tools,
+um, either natively built in or third party, but, um, that doesn't exist right now.
+Beautiful. Ryan Dalton, you've done, you've done miracles, my friend. I'm excited to, uh,
+get in play with this myself, get our entire agency over here. And, uh, yeah, anybody else guys,
+again, Marcus just shared it one more time. Ignition 24, go to rankinventag.com sign up for
+the package and let's, let's, let's go, let's go test this thing out. Let's go and give Ryan
+as much feedback as possible and, and start, um, building our agencies on this. Yeah, man,
+go build scale and automate. Let's do it. Thanks, Ryan. See you.

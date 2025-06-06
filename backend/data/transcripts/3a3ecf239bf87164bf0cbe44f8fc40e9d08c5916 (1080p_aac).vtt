@@ -1,0 +1,491 @@
+WEBVTT
+
+00:00.000 --> 00:15.240
+Alright guys, congratulations. At this point, you've gotten your first deal and if you're
+
+00:15.240 --> 00:20.800
+watching this and you haven't, it's okay. Keep doing the process. Keep putting the reps
+
+00:20.800 --> 00:24.540
+in and you will get a deal. But I want to cover what do you do after the deal, right?
+
+00:24.540 --> 00:27.760
+You get the deal, the business owner gives you the credit card number, they give you
+
+00:27.760 --> 00:32.880
+their information, all that stuff. What do you do then? What I like to do, the last couple
+
+00:32.880 --> 00:37.080
+things that I like to do once they've given me the credit card before I end the call is
+
+00:37.080 --> 00:40.880
+I let them know, hey, so here's what's going to happen. I'm actually, Mr. Business Owner,
+
+00:40.880 --> 00:44.320
+I need first of all, what's the business address? Because I want to have the business address
+
+00:44.320 --> 00:47.960
+for the contract. I want to know the legal business name. I'm going to write that down.
+
+00:47.960 --> 00:51.680
+And I'm going to tell them, I'm going to be sending over two documents. I'm going to be
+
+00:51.680 --> 00:57.440
+sending over an exclusivity agreement, which is how I phrase it, which basically will tell
+
+00:57.480 --> 01:02.960
+you that this is 100% exclusive. It indicates the price. And by the way, and I'll say this,
+
+01:02.960 --> 01:07.000
+by the way, most people, I know it's 2,000 bucks a month, most people just like to do
+
+01:07.000 --> 01:11.600
+the 500 a week, so it's not as big of a deal. Do you want to do 500 a week? 2,000. Doesn't
+
+01:11.600 --> 01:16.200
+matter to me, okay? Let's do the 500 a week. Cool. I like weekly, by the way, guys, because
+
+01:16.200 --> 01:19.800
+I can monitor it more and you actually make a little bit more money over the course of
+
+01:19.800 --> 01:23.920
+the year. So I prefer the weekly, but it's up to you. And I'll say, I'm going to have
+
+01:23.960 --> 01:28.480
+two documents coming to, what's the best email? Let me grab that. I'll grab the email. Okay.
+
+01:28.480 --> 01:34.400
+I'm going to send over the exclusivity agreement and I'm going to send over a credit card preauthorization.
+
+01:34.400 --> 01:38.440
+All that's going to do is that's going to legally allow me to charge your card every
+
+01:38.440 --> 01:42.880
+week so I don't have to bug you every single week. Okay. So all I need is those two signatures
+
+01:42.880 --> 01:47.120
+and then who do you want the leads going to? Okay. Like what email, what address, et cetera?
+
+01:47.120 --> 01:50.880
+I just grab it right there. So, okay, so it's going to go to you. Cool. What's the number?
+
+01:50.920 --> 01:54.880
+Okay. Cool. And what's the email? Cool. So awesome. This sounds good. All I need you
+
+01:54.880 --> 01:58.680
+to do, I'm going to get this going immediately. We'll have calls coming to you. Could be as
+
+01:58.680 --> 02:03.680
+early as today. It may take a day or two depending on what comes in, but I'm going to get those
+
+02:03.680 --> 02:08.400
+two documents. All I need is two signatures and we are ready to rock and roll. Awesome.
+
+02:08.400 --> 02:15.400
+Thanks Brian. Thanks Jack. Thanks Tara. Thanks Tracy. Whatever. Boom. End the call. Okay.
+
+02:15.400 --> 02:19.340
+Immediately. I don't go take a pee. I don't go get a drink. I don't treat myself to lunch.
+
+02:19.340 --> 02:23.740
+I get the credit card signed. I get the deal run. So first thing I do is I run the card.
+
+02:23.740 --> 02:28.060
+Okay. I set up the, I create the customer, set up the subscription, run the card, which
+
+02:28.060 --> 02:31.900
+I'm going to show you how to do. Then I send over the contract and I send over the preauthorization
+
+02:31.900 --> 02:35.500
+before I take a deep breath because this deal ain't done yet. Okay. You do have the card,
+
+02:35.500 --> 02:40.300
+but the deal ain't done yet. So let's hop over to the screen. Okay guys. So first thing
+
+02:40.300 --> 02:45.860
+that I do is I come over to Stripe. I'm not going to go through how to set up Stripe.
+
+02:45.860 --> 02:50.140
+Google it, YouTube it. It's very simple. Go set up a Stripe account. If you have questions,
+
+02:50.140 --> 02:54.380
+by the way, they've all been asked in the Facebook group, go and Google Stripe and you'll
+
+02:54.380 --> 03:00.260
+see people have had some very specific questions. You can go look at those. Okay. Not difficult.
+
+03:00.260 --> 03:05.260
+I like Stripe. I know the fees are a little high or whatever. I don't care. I believe
+
+03:05.260 --> 03:09.780
+money loves speed. I'll take that for the speed, the convenience and all that. I love
+
+03:09.780 --> 03:13.820
+Stripe. Okay. So what you're going to do is once you come in, you're going to go over
+
+03:13.820 --> 03:20.820
+to the customers tab. Okay. And you are going to add a customer and you're going to put
+
+03:21.340 --> 03:26.740
+the customer in here. We'll just use this example. So we'll call it John Doe. Okay.
+
+03:26.740 --> 03:33.100
+John Doe. I only fill out two things. I do the name and then the email. So John at Doe.com
+
+03:33.100 --> 03:38.580
+add customer. Okay. That's step one. Step two is you need to come over and you need
+
+03:39.180 --> 03:45.500
+a product. Okay. And what I do is I go and I push add product. Okay. And I'm going to
+
+03:45.500 --> 03:52.500
+call this Queen Creek Concrete Leads. Okay. I leave the description blank or you can copy
+
+03:53.060 --> 03:56.180
+the same thing down. It doesn't matter. And if you're going to do monthly, you're going
+
+03:56.180 --> 04:01.380
+to put in 2000. If you're going to do weekly, you can put in 500, but do not forget to change
+
+04:01.380 --> 04:06.540
+this to weekly. Okay. Because if you do, if you don't, you're going to be charging 500
+
+04:06.700 --> 04:10.460
+a month and not realize it. Okay. So change it to weekly and just save it. Very simple.
+
+04:10.460 --> 04:14.260
+So we've created the customer. We've created the product. Now you can just go back to your
+
+04:14.260 --> 04:20.380
+customer list, click on John and go over where it says subscriptions and push create. You
+
+04:20.380 --> 04:24.660
+can do it there or you can go to actions and push create subscription. Doesn't matter.
+
+04:24.660 --> 04:28.820
+It's the same. And what's going to happen is you're going to search for first of all
+
+04:28.820 --> 04:33.080
+the customers there, then you're going to search for the product, which usually pops
+
+04:33.160 --> 04:37.400
+up first. Stripe smart enough to know you're probably going to be setting up that product,
+
+04:37.400 --> 04:42.280
+that subscription, click on your product says 500 a week. And now here's what you're going
+
+04:42.280 --> 04:47.480
+to do. Okay. You're going to go over and it's going to start on today's date and I'm going
+
+04:47.480 --> 04:51.800
+to put it to go forever. I'm not going to have a stop on it because I don't want there
+
+04:51.800 --> 04:57.320
+to be a stop and me losing money. I would rather the customer hit me up and say, Hey,
+
+04:57.320 --> 05:01.320
+you overcharge me and me refund it. And I lose a couple of bucks then to not get paid.
+
+05:01.320 --> 05:04.840
+So I leave it as forever because I plan on working with these guys forever. Just so you
+
+05:04.840 --> 05:09.840
+know, six months is just the beginning. Okay. You don't have to mess with any of this stuff,
+
+05:09.840 --> 05:12.640
+blah, blah, blah. Okay. And then what you're going to do because you already have the credit
+
+05:12.640 --> 05:17.040
+card number is you're going to go over and hit automatically charge a credit payment
+
+05:17.040 --> 05:21.800
+method on file, push add a payment. And guess what? You put in the credit card number, you
+
+05:21.800 --> 05:26.360
+put in the month and the year and you put in the CVC and you push add. Okay. And once
+
+05:26.360 --> 05:30.560
+you do that, I'm not, I don't have a credit card here. You're going to push start subscription.
+
+05:30.560 --> 05:36.720
+And that is immediately going to charge the customer immediately. Okay. And you're done.
+
+05:36.720 --> 05:41.600
+That is like, the crazy part is you are done with Stripe. It will continue to build them
+
+05:41.600 --> 05:46.280
+every single month forever or week. And you were done. That's how simple it is. This is
+
+05:46.280 --> 05:51.360
+why I love Stripe. That took me 30 seconds. Okay. That's it. That's it. And this is what
+
+05:51.360 --> 05:54.760
+I love about this too. I like to run the payment first before I worry about the contract because
+
+05:55.440 --> 06:00.960
+that card, it'll say insufficient funds. And now you're like, okay, this guy, this gate,
+
+06:00.960 --> 06:04.960
+this lady, she's yanking me around or this guy, this lady, they don't have money. Okay.
+
+06:04.960 --> 06:09.320
+Or they gave me the wrong card or they're messing with me or whatever, but you're going
+
+06:09.320 --> 06:14.600
+to know right there. So payments done. Okay. And it's set up. Then I'm going to go over
+
+06:14.600 --> 06:18.640
+and this is going to be, it's going to be included as a download. It's also in the file
+
+06:18.720 --> 06:24.720
+section of Stripe. You're going to fill out the lead generation and exclusivity agreement.
+
+06:24.720 --> 06:28.680
+Now, the only thing you're going to need to change on this because this is just a template
+
+06:28.680 --> 06:33.920
+is you need to go and change your information and just do it once and have it saved. Okay.
+
+06:33.920 --> 06:37.720
+So that's your company and all that, all that good stuff. And you're going to need to change
+
+06:37.720 --> 06:44.360
+down here in the governing law. You need to change this to your state and your county.
+
+06:44.360 --> 06:49.280
+So it should not say Washington County and it should not say Utah. Okay. That is it.
+
+06:49.280 --> 06:53.320
+And if you want to make sure you can search Utah, but those are the only two places is
+
+06:53.320 --> 06:58.200
+those two spots, change those, change your information. And then what you're going to
+
+06:58.200 --> 07:02.880
+do is you're going to drop in your customer's information. Okay. So I'll typically go file,
+
+07:02.880 --> 07:09.600
+make a copy so I can save my template. And then I'm going to put John, sorry, client
+
+07:09.600 --> 07:22.600
+is John's Concrete. Okay. Name of the company as I put, or sorry, name is John Doe address,
+
+07:22.600 --> 07:30.760
+blah, blah, blah, whatever, email john at doe.com. Okay. And only other thing I add
+
+07:30.760 --> 07:39.120
+here is I will put location is Queen Creek AZ industry is, and if you want, you can just
+
+07:39.120 --> 07:44.640
+do flatwork concrete if you want to, if you guys just agreed to flatwork and not decorative
+
+07:44.640 --> 07:49.880
+and change the term. So six months, whatever, put that in there. And then the monthly fee
+
+07:49.880 --> 07:54.920
+or you can change it to say weekly fee. So in this case, I'm going to put weekly fee
+
+07:54.920 --> 07:59.280
+is going to be 500 a month or 500 a week. And that's it. And then what you're going
+
+07:59.280 --> 08:06.840
+to do is you're going to go file, download as a PDF. Okay. That's it. You're going to
+
+08:06.840 --> 08:11.280
+come over and I like to use doc hub. Okay. The reason I like to use doc hub is because
+
+08:11.280 --> 08:16.920
+you get five free signatures. It's very simple. But you can use doc. You sign. It doesn't
+
+08:16.920 --> 08:20.880
+matter what you use. I've always used doc hub for my lead generation clients. Okay.
+
+08:20.880 --> 08:25.400
+You're going to come over here and you're going to sign up for the free. I'm going to
+
+08:25.400 --> 08:31.360
+sign in really quick with my account. So give me one moment. All right guys, here we are
+
+08:31.360 --> 08:35.560
+in doc hub. Very simple. You're just going to go new document. Okay. You're going to
+
+08:35.560 --> 08:41.960
+upload it and you're going to go to your downloads and you're going to find that download
+
+08:41.960 --> 08:45.520
+that you had. Okay. And you're going to want to name it something else than this. So I'll
+
+08:45.520 --> 08:52.960
+change it to put, you know, whatever I'll put queen up, shoot, sorry. Okay. I'll usually
+
+08:52.960 --> 09:00.720
+name it like this. Queen Creek concrete. And then I'll put, um, like John's concrete dash
+
+09:01.720 --> 09:05.440
+flat fee lead generation agreement, blah, blah, blah. I want this to be very, I'm thinking,
+
+09:05.440 --> 09:10.280
+okay, what happens if this client does a back charge or tries to refund? I want this to
+
+09:10.280 --> 09:16.080
+show like, I want striped look at this and go, okay, this guy could have never been confused.
+
+09:16.080 --> 09:20.800
+The document is called lead generation agreement. So he can't claim he didn't know. Okay. So
+
+09:20.800 --> 09:25.640
+just, just overkill, but I like to name it something there. It's also easily searchable.
+
+09:25.640 --> 09:28.400
+And then you're going to go and do a couple of easy things. Okay. You're going to hit
+
+09:28.480 --> 09:34.800
+this a tool and you're going to go drop in the date. So today's date is 23 June. Okay.
+
+09:34.800 --> 09:45.040
+Make it look good. Don't just slop it in there. Okay. And then again, June 23rd and 23 June,
+
+09:45.040 --> 09:54.720
+which clearly I'm being sloppy here. Boom. Okay. 23rd June. Okay. And that is all you
+
+09:54.720 --> 09:58.560
+need in terms of what you need to fill out. And then what you need to do is you need to go
+
+09:58.560 --> 10:03.040
+push sign. You're going to need to create your signature the first time. But then once you have
+
+10:03.040 --> 10:07.280
+it, you can just come in here, drop your signature. And by the way, just for those of you that missed
+
+10:07.280 --> 10:11.040
+that, just click sign and it's going to, you're going to grab your signature and draw it down.
+
+10:11.040 --> 10:14.880
+Okay. So I signed and then you're going to go to this little thing right here. It says manage
+
+10:14.880 --> 10:19.360
+fields. You're going to click on it and you're going to go to the signature one and you're going
+
+10:19.360 --> 10:24.560
+to drop it right here. Okay. And you're going to go over to the assignee and you're going to put
+
+10:24.560 --> 10:32.800
+john at doe.com and you're going to add. Okay. If you can see his initials, J O, which I don't
+
+10:32.800 --> 10:38.240
+know why it says J O, but it should say J D or I don't know, but it says J O whatever,
+
+10:38.240 --> 10:42.400
+but it says right here, he's assigned. So this says if that would be not assigned,
+
+10:42.400 --> 10:47.200
+I'm going to assign in that field and you are done. All you need to do is push prepare sign
+
+10:47.200 --> 10:53.520
+request. And when I push send request, this is going to send him to the email that you put on
+
+10:53.520 --> 10:58.640
+file right here. It's going to send him the document that he or she can open up and with
+
+10:58.640 --> 11:03.360
+their finger or from their computer sign, and it will send you a copy and you are done with
+
+11:03.360 --> 11:08.560
+the contract. That's it. Okay. Very, very simple. You're done. Then what I do is I hop over to the
+
+11:08.560 --> 11:12.800
+credit card authorization. So I go to new documents. I already have this thing saved as an
+
+11:12.800 --> 11:17.120
+authorization. I'll search for it. I don't know if I have it downloaded, so I might need to do that
+
+11:17.120 --> 11:22.960
+really quick. I do not. So let me go over to this. And by the way, this is in the file section. Let
+
+11:22.960 --> 11:29.840
+me download this on this computer really quick. Boom. Go back over to doc hub upload and let's
+
+11:29.840 --> 11:37.200
+look under my downloads. Credit card authorization is hiding right there. Beautiful. And same thing,
+
+11:37.200 --> 11:40.160
+you're just going to fill this out. So again, I'll probably put their company name. I'll put
+
+11:40.160 --> 11:47.280
+John's concrete credit card authorization. Okay. I'm going to put the, I'm going to use the a tool
+
+11:47.920 --> 11:56.320
+and I'm going to go card holder's name. John's or sorry, John dough. I'm going to make it look
+
+11:56.320 --> 12:03.600
+nice. I'm going to put the card number, uh, four, four, four, four, four, four, four, four, four,
+
+12:03.600 --> 12:09.920
+four, four, make it look nice. Okay. And then I'm going to put the expiration date. Let's call zero
+
+12:09.920 --> 12:16.320
+seven of 26, make it look nice. And then I don't know why this one doesn't include it. We need to
+
+12:16.320 --> 12:21.040
+just fix the template, but I always add the CBC here just so I don't honestly, so I don't forget
+
+12:21.040 --> 12:24.960
+it. Cause I'm going to throw that piece of paper away. So let's say it's six, four, two. Okay.
+
+12:25.920 --> 12:29.840
+Billing address eight, four, sorry, eight, four, seven. I know that's mine. We're just using an
+
+12:29.840 --> 12:40.240
+example. And then you're going to fill us out for them. So I John dough. Boom. Authorize whatever
+
+12:41.040 --> 12:48.160
+my company is called. This is my lead gen company called EMM ventures, LLC to charge my credit card,
+
+12:48.160 --> 12:56.640
+blah, blah, blah, blah, blah. And then you're going to put the date in June 23rd, 2022. Done.
+
+12:56.640 --> 13:02.080
+And you're going to go and one more time to this field right here, grab that signature box, put it
+
+13:02.080 --> 13:10.960
+in here. And you're going to add John at dough.com, push add and assign it to him. You push prepare
+
+13:10.960 --> 13:17.760
+sign request. You send the request and guys, you are done. You have the credit card charged. You
+
+13:17.760 --> 13:25.280
+have the auto pay set up through Stripe. You have the a flat fee lead generation exclusivity agreement
+
+13:25.280 --> 13:30.000
+sent out, filled out correctly. He just, he or she just needs to sign it. You have the credit card
+
+13:30.000 --> 13:34.080
+sent out, filled out correctly. He or she just needs to sign it. That will send you copies
+
+13:34.080 --> 13:41.120
+and you are done. And that my friends is what you call a big boy, big girl deal. That is start to
+
+13:41.120 --> 13:46.720
+finish exactly how you do it. That's all I do. So after the call, I do all those things. We're done.
+
+13:46.720 --> 13:51.040
+All the formalities are done. And then I'm immediately going to go and make sure that I
+
+13:51.040 --> 13:57.360
+go to Colorado, send him the leads directly. I'm going to go into my Weebly forms or WordPress.
+
+13:57.360 --> 14:02.800
+I'm going to make sure he's getting the, uh, the quote forms instant, uh, the, what they call them
+
+14:02.800 --> 14:11.200
+web submissions, whatever. And we are done. So guys, here's the game. You do this over and over
+
+14:11.200 --> 14:16.320
+and over. If you can do it one time, if you can make a thousand dollars one time, you can literally
+
+14:16.320 --> 14:20.480
+repeat that a hundred times to get to a hundred thousand dollars per month. That's exactly what I
+
+14:20.480 --> 14:25.600
+did. Go and do it as many times as you can and go and hit those goals.
+

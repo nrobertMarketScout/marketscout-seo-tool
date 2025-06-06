@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:03,600
+OK, Manuel says, using Ahrefs, are the numbers similar to SEMrush?
+
+2
+00:00:03,600 --> 00:00:05,320
+Or is it it?
+
+3
+00:00:05,320 --> 00:00:06,960
+They're going to be different.
+
+4
+00:00:06,960 --> 00:00:10,760
+So Manuel's asking, are the numbers, really the question is,
+
+5
+00:00:10,760 --> 00:00:13,400
+are the numbers on different tools the same?
+
+6
+00:00:13,400 --> 00:00:13,920
+No.
+
+7
+00:00:13,920 --> 00:00:17,360
+OK, you're going to have to use whatever tool you want to use.
+
+8
+00:00:17,360 --> 00:00:19,400
+If you want to use Ahrefs, awesome.
+
+9
+00:00:19,400 --> 00:00:20,360
+Doesn't matter.
+
+10
+00:00:20,360 --> 00:00:23,160
+You've got to get that baseline, right?
+
+11
+00:00:23,160 --> 00:00:26,440
+You've got to figure out what is that magic number that you can go off of.
+
+12
+00:00:26,440 --> 00:00:27,760
+It's going to be different for SEMrush.
+
+13
+00:00:27,760 --> 00:00:30,640
+It's going to be different for Ahrefs.
+
+14
+00:00:30,640 --> 00:00:32,760
+It's going to be different for Mangools.
+
+15
+00:00:32,760 --> 00:00:34,880
+It's going to be different for Keyword Planner.
+
+16
+00:00:34,880 --> 00:00:36,120
+You've got to find that baseline.
+
+17
+00:00:36,120 --> 00:00:38,320
+So no, they're going to be it's going to be different.
+

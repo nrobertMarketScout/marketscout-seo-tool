@@ -1,0 +1,212 @@
+1
+00:00:00,000 --> 00:00:09,780
+Alright, so this part is very short, but it's really, really important that you do it.
+
+2
+00:00:09,780 --> 00:00:16,180
+The reason why is because you want to make sure that you are protected legally in the
+
+3
+00:00:16,180 --> 00:00:17,860
+future for your website.
+
+4
+00:00:17,860 --> 00:00:26,600
+And so we go to the very bottom, right here, where it says Side Power by Nick Wood, you're
+
+5
+00:00:26,600 --> 00:00:31,040
+going to click in this section that Weebly automatically creates for you.
+
+6
+00:00:31,040 --> 00:00:36,640
+So this is not a section that we made previously in our framing asset video.
+
+7
+00:00:36,640 --> 00:00:39,000
+This is something that is automatically created for you.
+
+8
+00:00:39,000 --> 00:00:43,440
+So once you have created this, this is where we're going to add the terms of service for
+
+9
+00:00:43,440 --> 00:00:48,840
+your website, the privacy policy, and this is where you're going to add the fact that
+
+10
+00:00:48,840 --> 00:00:53,880
+you're affiliated to your client and you can also add, and it would suggest you're doing
+
+11
+00:00:53,880 --> 00:01:00,120
+so to avoid any trouble, you're going to add the contractor license of your client
+
+12
+00:01:00,120 --> 00:01:01,600
+right here at the bottom.
+
+13
+00:01:01,600 --> 00:01:03,160
+So let's get it started.
+
+14
+00:01:03,160 --> 00:01:09,880
+You're going to drag the text right here, okay?
+
+15
+00:01:09,880 --> 00:01:13,080
+You're going to add another text right here.
+
+16
+00:01:13,080 --> 00:01:20,920
+Alright, and we like to use this free tool called Terms Feed that generates privacy policies
+
+17
+00:01:20,920 --> 00:01:21,920
+for you.
+
+18
+00:01:21,920 --> 00:01:23,800
+It's very simple.
+
+19
+00:01:23,800 --> 00:01:30,640
+So I already have this pulled up, you're going to search for app.termsfeed.com and it's going
+
+20
+00:01:30,640 --> 00:01:36,760
+to take you right here and we are going to generate the terms and conditions first.
+
+21
+00:01:36,760 --> 00:01:46,280
+So click on here, click on start, select website, okay, the URL is whatever we bought earlier
+
+22
+00:01:46,280 --> 00:01:47,280
+from GoDaddy.
+
+23
+00:01:48,280 --> 00:01:52,880
+So make sure you copy and paste that in here.
+
+24
+00:01:52,880 --> 00:02:01,680
+The name of the website is in my case, Queen Creek Concrete, payment individual, oops,
+
+25
+00:02:01,680 --> 00:02:13,280
+individual, okay, enter, make sure the correct country is selected, select your state, no,
+
+26
+00:02:13,280 --> 00:02:23,280
+no, okay, this is going to be by visiting a page on our website, which again, put the
+
+27
+00:02:23,280 --> 00:02:31,280
+domain in here and the phone number is whatever you purchased on CallRail.
+
+28
+00:02:36,280 --> 00:02:39,280
+Let's see, hopefully I don't have to pull that back up for you.
+
+29
+00:02:43,280 --> 00:02:59,280
+Okay, your tracking number, so copy and paste it, next step, email address, so wherever
+
+30
+00:02:59,280 --> 00:03:11,280
+you want this privacy policy to be sent to, okay, generate and boom.
+
+31
+00:03:11,280 --> 00:03:18,280
+So you're going to copy this, now open a new tab, paste that in there, click search
+
+32
+00:03:18,280 --> 00:03:19,280
+and it's right here.
+
+33
+00:03:20,280 --> 00:03:26,280
+So copy this link again and you're going to, right at the bottom, you're going to type
+
+34
+00:03:26,280 --> 00:03:42,280
+terms and conditions, select all of it, insert a link, a website URL, you're going to paste
+
+35
+00:03:42,280 --> 00:03:49,280
+that same link, click out of it, reselect, let's bold it, underline it and let's make
+
+36
+00:03:49,280 --> 00:03:55,280
+it a color so people know that they can click on it, can make it red, perfect.
+
+37
+00:03:56,280 --> 00:04:06,280
+And now we are going to, let's align this, okay, actually delete the spacer right here
+
+38
+00:04:07,280 --> 00:04:12,280
+and again, make sure you add there, you're an affiliated company with your client and
+
+39
+00:04:12,280 --> 00:04:22,280
+put the license and contractor, okay, we're going to name this privacy policy, okay, back
+
+40
+00:04:22,280 --> 00:04:30,280
+to terms feed, so we can close this out, click on the logo, it should take you back to the
+
+41
+00:04:30,280 --> 00:04:43,280
+homepage, okay, perfect, privacy policy start, website, same thing, phone number, I would
+
+42
+00:04:43,280 --> 00:04:48,280
+just keep every tab open with everything that you need because these keep reoccurring and
+
+43
+00:04:48,280 --> 00:04:54,280
+you always need them so I would just leave it like it is, same as earlier, individual
+
+44
+00:04:54,280 --> 00:05:01,280
+United States, make sure you're putting every information correctly, email first number,
+
+45
+00:05:01,280 --> 00:05:16,280
+first name and phone number, visiting, same, oops, that's fine, put that phone number,
+
+46
+00:05:16,280 --> 00:05:33,280
+next step, no, we just want the basic one and generate, oops, boom, copy this, same
+
+47
+00:05:33,280 --> 00:05:40,280
+thing as we did earlier, I do this just to double check it looks correctly, you copy,
+
+48
+00:05:40,280 --> 00:05:49,280
+go back to Weebly, select everything, link it to a website URL, click out of it, now
+
+49
+00:05:49,280 --> 00:06:06,280
+we're going to make this bold, okay, now we're going to test it really quick, so click on
+
+50
+00:06:06,280 --> 00:06:15,280
+publish and that little footer is nice because it should copy automatically on every other
+
+51
+00:06:15,280 --> 00:06:22,280
+service page, so let's just pick a random one, it should be at the very bottom, perfect,
+
+52
+00:06:22,280 --> 00:06:27,280
+so we're just going to test it, click on both of them and make sure it takes you here and
+
+53
+00:06:27,280 --> 00:06:30,280
+you're done, that's all you need to do for that.
+

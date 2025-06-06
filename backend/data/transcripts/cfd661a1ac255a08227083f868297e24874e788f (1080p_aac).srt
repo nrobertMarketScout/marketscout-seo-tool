@@ -1,0 +1,912 @@
+1
+00:00:00,000 --> 00:00:10,960
+all right so I just logged in into our own designer Weebly account just because
+
+2
+00:00:10,960 --> 00:00:14,840
+we want the website to be in our own we're going to create a website for
+
+3
+00:00:14,840 --> 00:00:21,440
+Queens Creek Arizona concrete now concrete is pretty general make sure
+
+4
+00:00:21,440 --> 00:00:25,320
+you're talking obviously to your client like some concrete companies they do
+
+5
+00:00:25,320 --> 00:00:33,080
+driveway patios they do crack repairs they do concrete paving they do stamp
+
+6
+00:00:33,080 --> 00:00:38,640
+concrete so make sure and this it goes back to your keyword list that you are
+
+7
+00:00:38,640 --> 00:00:44,120
+targeting only the services that the company does because certain companies
+
+8
+00:00:44,120 --> 00:00:47,880
+do certain things and not everything so once you're logged in you're probably
+
+9
+00:00:47,880 --> 00:00:52,720
+not going to have any of these because these are all of our old websites so
+
+10
+00:00:52,720 --> 00:01:03,160
+you're going to click up here top right create website and okay so here you're
+
+11
+00:01:03,160 --> 00:01:08,760
+going to pick your theme this is kind of up to you I'm going to pick one of the
+
+12
+00:01:08,760 --> 00:01:18,080
+ones that we usually use and keep in mind that once you create one frame you
+
+13
+00:01:18,080 --> 00:01:22,680
+can actually duplicate your website so let's say you have a second concrete
+
+14
+00:01:22,680 --> 00:01:26,200
+company you can actually just duplicate your first one so you don't have to do
+
+15
+00:01:26,200 --> 00:01:30,120
+this whole thing from the very start but I am going to show you on how to get it
+
+16
+00:01:30,120 --> 00:01:39,200
+started for the first time so let's go with this one right here okay and we be
+
+17
+00:01:39,200 --> 00:01:44,520
+likes to kind of create a website for you but we're going to delete every page
+
+18
+00:01:44,520 --> 00:01:48,520
+that they made for you except for the home one so you're going to click start
+
+19
+00:01:48,520 --> 00:01:58,080
+editing right here and it should bring you down here reload editor okay so
+
+20
+00:01:58,080 --> 00:02:02,200
+you're going to delete that one can stay there for a second you're going to click
+
+21
+00:02:02,200 --> 00:02:06,320
+on pages up here and I just want to get rid of everything that we've created
+
+22
+00:02:06,320 --> 00:02:12,680
+for me because we're not going to need it so click on delete confirm let's
+
+23
+00:02:12,720 --> 00:02:19,200
+delete every page that they made for you because we want to create our own and in
+
+24
+00:02:19,200 --> 00:02:25,000
+the home one just click on SEO settings make sure there's nothing here okay go
+
+25
+00:02:25,000 --> 00:02:30,920
+back now we're going to delete everything so every element that was put
+
+26
+00:02:30,920 --> 00:02:36,160
+in here we want to delete because we're trying to make our own you might just be
+
+27
+00:02:36,160 --> 00:02:40,440
+able to click here perfect and delete the whole section that way you don't
+
+28
+00:02:40,520 --> 00:02:46,440
+have to delete every single piece manually so just click delete it should
+
+29
+00:02:46,440 --> 00:02:53,240
+just eliminate the whole thing okay and then do it again and delete perfect so
+
+30
+00:02:53,240 --> 00:03:00,880
+pretty fast pretty easy now click on build up here let's add a title up here
+
+31
+00:03:00,880 --> 00:03:10,480
+in the header section and then we are going to add okay so add so we're going
+
+32
+00:03:10,480 --> 00:03:15,280
+to click down here on installed apps click on the plus sign where it says add
+
+33
+00:03:15,280 --> 00:03:21,680
+app and we're going to add some elements are not into designer Weebly already so
+
+34
+00:03:21,680 --> 00:03:29,640
+in the search bar just type h1 and we're going to add this one right here h1 tag
+
+35
+00:03:29,640 --> 00:03:33,680
+okay should be free so you don't have to pay for it click on it then click on
+
+36
+00:03:33,680 --> 00:03:43,840
+add connect and done perfect and now it should show up here okay so we can add
+
+37
+00:03:43,840 --> 00:03:51,600
+that right here at the bottom okay perfect now we are going to add another
+
+38
+00:03:51,600 --> 00:03:59,280
+title under our title right here okay so in this top title in the header we're
+
+39
+00:03:59,280 --> 00:04:03,280
+going to put the company's name obviously we're not going to put the
+
+40
+00:04:03,280 --> 00:04:06,600
+actual company's name we're just putting the service that we're targeting and
+
+41
+00:04:06,600 --> 00:04:13,060
+the location so in our case it's going to be and I like to put everything in
+
+42
+00:04:13,060 --> 00:04:24,360
+capital letters Queens Creek oops concrete okay I don't like going into
+
+43
+00:04:24,400 --> 00:04:29,200
+separate sentences I like to be in the same line so I'm going to make it
+
+44
+00:04:29,200 --> 00:04:33,400
+smaller and then we can go back and edit the fonts because they look a little
+
+45
+00:04:33,400 --> 00:04:38,040
+cartoonish and then we're going to add a phone number right now we don't have a
+
+46
+00:04:38,040 --> 00:04:41,800
+phone number so you can just put like xxx just so you know that's where you're
+
+47
+00:04:41,800 --> 00:04:47,760
+going to put the phone number okay all right now we're going to put some text
+
+48
+00:04:47,760 --> 00:04:52,960
+at the bottom of the h1 I like to put a little spacer there this is up to you on
+
+49
+00:04:52,960 --> 00:04:56,280
+how you want to structure it you can put a spacer you can put a divider the
+
+50
+00:04:56,280 --> 00:05:03,040
+divider is just a line so it's right here and then under there right here so
+
+51
+00:05:03,040 --> 00:05:08,640
+what we like to do is have the h1 right here a text here we like to put a corner
+
+52
+00:05:08,640 --> 00:05:14,920
+image right here so drag the image until you see this little shape see how the
+
+53
+00:05:14,920 --> 00:05:18,600
+shape is gone and now the shape is back it looks like a square when you see that
+
+54
+00:05:18,600 --> 00:05:24,240
+square you just drop it the mouse and once you we put an image right here now
+
+55
+00:05:24,240 --> 00:05:28,360
+right now it looks a little funky but once you put the image right here you
+
+56
+00:05:28,360 --> 00:05:34,680
+are going to have the text right next to it and now we're going to put the quote
+
+57
+00:05:34,680 --> 00:05:39,640
+form the instant quote form right to your right of your text so right here
+
+58
+00:05:39,640 --> 00:05:46,680
+it's called a contact form on Weebly so we're just going to hold in grab it and
+
+59
+00:05:46,680 --> 00:05:54,480
+drop it right here perfect this is how we want it to look like and now we're
+
+60
+00:05:54,480 --> 00:06:00,640
+going to create the quote form and we usually put free a hundred percent
+
+61
+00:06:00,640 --> 00:06:06,120
+something again we're not making this website to make them look amazing and
+
+62
+00:06:06,120 --> 00:06:11,480
+fancy we just want them to convert so we wanted them to be simple clear to the
+
+63
+00:06:11,480 --> 00:06:17,640
+point of what people are getting and how to reach the contractor in the
+
+64
+00:06:17,640 --> 00:06:24,480
+easiest and fastest way as possible so free a hundred percent instant quote
+
+65
+00:06:24,480 --> 00:06:29,560
+because we want them to think that they're going to get the quote right away
+
+66
+00:06:29,560 --> 00:06:36,760
+okay I actually like to put this making myself so I'm going to delete that and
+
+67
+00:06:37,240 --> 00:06:46,520
+we don't need a comment section so let's just leave the email put a large text
+
+68
+00:06:46,520 --> 00:06:57,960
+box above the email this is no let's do a short short text box okay perfect and
+
+69
+00:06:57,960 --> 00:07:02,000
+you're going to click on it right here in the fill title you're going to put
+
+70
+00:07:02,000 --> 00:07:13,400
+name okay and then we are going to put checkboxes will we arrange the order
+
+71
+00:07:13,400 --> 00:07:20,720
+just put that and then we're going to put a drop-down box and then do not
+
+72
+00:07:20,720 --> 00:07:25,960
+forget this we need the phone number because if we don't then our client
+
+73
+00:07:25,960 --> 00:07:31,600
+cannot call the lead back so make sure the name phone number and the email
+
+74
+00:07:31,600 --> 00:07:35,600
+right there one important thing this should be automatically done by Weebly
+
+75
+00:07:35,600 --> 00:07:40,360
+but make sure there is a little asterisk it's red and tiny at the top quarter that
+
+76
+00:07:40,360 --> 00:07:44,840
+means that the person that is filling out the quote is required to fill out
+
+77
+00:07:44,840 --> 00:07:48,480
+that information in order to submit the quote if you don't do that then people
+
+78
+00:07:48,480 --> 00:07:52,520
+can't skip on the number and how you check it is actually right here once you
+
+79
+00:07:52,520 --> 00:07:57,640
+click on the field it's required is checked out see if I unmark it the
+
+80
+00:07:57,640 --> 00:08:02,400
+asterisk goes away so make sure that's on because we don't want anyone skipping
+
+81
+00:08:02,400 --> 00:08:06,480
+on any information because if someone fills this out and we don't have any
+
+82
+00:08:06,480 --> 00:08:11,560
+more phone number it's a lost lead so and how we like to order this is
+
+83
+00:08:11,560 --> 00:08:20,200
+actually to put what the client needs at the top and then gathers information at
+
+84
+00:08:20,200 --> 00:08:24,200
+the bottom because people are more likely to fill it out if they can fill
+
+85
+00:08:24,200 --> 00:08:27,600
+out their needs first and then tell you who they are instead of the other way
+
+86
+00:08:27,600 --> 00:08:39,320
+around okay so we're going to change this field to what service do you need
+
+87
+00:08:39,320 --> 00:08:43,640
+and again you can customize this to whatever your niche is to whatever you
+
+88
+00:08:43,640 --> 00:08:50,000
+think would be best option items right here you can add as many as you want so
+
+89
+00:08:50,000 --> 00:08:55,520
+I like to put the services that the client offers so in this case it could
+
+90
+00:08:55,520 --> 00:09:07,520
+be concrete driveway oops driveway concrete patio these are just some
+
+91
+00:09:07,520 --> 00:09:15,840
+samples we can put stamped concrete okay and if you click add option you can add
+
+92
+00:09:15,840 --> 00:09:21,520
+as many as you like if you click on edit you can actually delete them and you can
+
+93
+00:09:21,520 --> 00:09:25,920
+also move them so you can have stamp concrete at the second and stuff like
+
+94
+00:09:25,920 --> 00:09:31,440
+that and then you click on done click out of it and you're done with that this
+
+95
+00:09:31,440 --> 00:09:40,660
+one I like to put when do you need do you need it question mark option items
+
+96
+00:09:40,660 --> 00:09:59,500
+I'm going to put I am flexible this week and then as soon as possible okay so we
+
+97
+00:09:59,500 --> 00:10:04,020
+are done making the form and there is something else that we like to add but
+
+98
+00:10:04,020 --> 00:10:07,220
+make sure you check in with the client and make sure that that's something
+
+99
+00:10:07,220 --> 00:10:11,380
+that they could possibly offer so first of all we like to center this since
+
+100
+00:10:11,380 --> 00:10:16,380
+it's the title so center it right there then you're going to add a spacer so
+
+101
+00:10:16,380 --> 00:10:24,620
+it's not so cramped and then we usually like to add a text right under the free
+
+102
+00:10:24,620 --> 00:10:37,220
+instant quote where we say something like plus free bonus coupon just to kind
+
+103
+00:10:37,220 --> 00:10:41,060
+of get them more interested again checking with the client and see if they
+
+104
+00:10:41,060 --> 00:10:44,860
+could even offer a slight coupon or something like that if they don't then
+
+105
+00:10:44,860 --> 00:10:51,820
+just remove that and we're going to center that let's make that bold as well
+
+106
+00:10:52,220 --> 00:10:58,740
+see it and then lastly the button right here see how it's skirted to the left we
+
+107
+00:10:58,740 --> 00:11:04,580
+want to make a center as well so just click on the main thing you're going to
+
+108
+00:11:04,580 --> 00:11:10,220
+click on button you're going to align it to the center and we're actually going
+
+109
+00:11:10,220 --> 00:11:16,220
+to change what it says I like I would like to say get quote exclamation point
+
+110
+00:11:16,220 --> 00:11:23,380
+then click out of it then oops I don't know why I did that it's not a problem
+
+111
+00:11:23,380 --> 00:11:27,140
+just move them back how they wear
+
+112
+00:11:37,660 --> 00:11:44,020
+okay perfect and then one last thing when if you click on form options you can
+
+113
+00:11:44,060 --> 00:11:48,700
+actually name this and what we like to name it just to keep it organized it
+
+114
+00:11:48,700 --> 00:12:01,580
+would be the same as the title of the website in our case it's Queen Creek put
+
+115
+00:12:01,580 --> 00:12:07,580
+the state concrete and then since this is the form for the home page I like to
+
+116
+00:12:07,580 --> 00:12:12,300
+put in parentheses I like to put an H you can also put home whatever you are
+
+117
+00:12:12,340 --> 00:12:16,700
+more comfortable with something like that and then right here is where you're
+
+118
+00:12:16,700 --> 00:12:21,980
+going to put the email you want this form sent to you so I'm just gonna put
+
+119
+00:12:21,980 --> 00:12:29,340
+my email I wait every time I get this form so I get forwarded to mine okay
+
+120
+00:12:29,340 --> 00:12:35,660
+then click save and we're done with the form creation okay now I would like to
+
+121
+00:12:35,660 --> 00:12:39,060
+put more sections because especially on the home page we're going to add a lot
+
+122
+00:12:39,060 --> 00:12:47,340
+of content so go right here under structure you're going to select section
+
+123
+00:12:47,340 --> 00:12:52,940
+and you're going to drag it right below right here I like to put a couple of
+
+124
+00:12:52,940 --> 00:12:59,780
+section because this is the very first one let's put a second one okay and then
+
+125
+00:12:59,780 --> 00:13:11,700
+we're going to add some titles in here and text then you can put a divider once
+
+126
+00:13:11,700 --> 00:13:15,980
+we have the content and we're adding the content we can also switch things out
+
+127
+00:13:15,980 --> 00:13:21,460
+but just to have it there already prepared for us we'll do this and then
+
+128
+00:13:21,460 --> 00:13:32,780
+let's use this for images so let's put some images perfect let's add another
+
+129
+00:13:32,780 --> 00:13:49,180
+section underneath text put a divider spacer another title up here and we'll
+
+130
+00:13:49,180 --> 00:13:52,540
+go more in depth in the next videos about content and how to structure that
+
+131
+00:13:52,540 --> 00:14:00,860
+so don't worry about it right now right now we're just framing out our asset and
+
+132
+00:14:00,860 --> 00:14:10,140
+here at the bottom okay so this is the home page now what we usually do for our
+
+133
+00:14:10,140 --> 00:14:14,820
+websites and this depends on your competitors so when you do the due
+
+134
+00:14:14,820 --> 00:14:18,220
+diligence you're going to have the top three websites are ranking and you're
+
+135
+00:14:18,260 --> 00:14:22,500
+going to see what their website looks look like if your competitor has ten
+
+136
+00:14:22,500 --> 00:14:26,940
+service pages we definitely want to beat them but on average what we like to do
+
+137
+00:14:26,940 --> 00:14:34,340
+is create one home page three service pages and a contact page so what you do
+
+138
+00:14:34,340 --> 00:14:38,980
+after this one is the frame is built out you click on pages and you're actually
+
+139
+00:14:38,980 --> 00:14:43,060
+going to click on the plus sign right here we are going to make a non
+
+140
+00:14:43,260 --> 00:14:48,460
+clickable menu this is where you'll have drop down with the services and you're
+
+141
+00:14:48,460 --> 00:14:59,420
+going to put the page name as services out of it done okay now click I would
+
+142
+00:14:59,420 --> 00:15:02,820
+actually like to just duplicate the home page because we already have that quote
+
+143
+00:15:02,820 --> 00:15:11,100
+form it just saves you time so click on home and click on copy and it's just
+
+144
+00:15:11,100 --> 00:15:15,460
+going to duplicate it so we're going to change the name of it you're going to in
+
+145
+00:15:15,460 --> 00:15:20,900
+my sample for my client I would like to call this stamped concrete that's one of
+
+146
+00:15:20,900 --> 00:15:24,220
+the main services and again you want to pick the three service pages to
+
+147
+00:15:24,220 --> 00:15:30,260
+represent the main most searched three services in that niche in that location
+
+148
+00:15:30,260 --> 00:15:36,100
+that your client covers okay make sure there's nothing in the SEO settings
+
+149
+00:15:36,100 --> 00:15:40,820
+always make sure and you're very attentive to details this is very
+
+150
+00:15:40,820 --> 00:15:47,140
+important when you do things like that okay so the title and the number will
+
+151
+00:15:47,140 --> 00:15:52,540
+always remain consistent and the same in every page down here the h1 we haven't
+
+152
+00:15:52,540 --> 00:15:56,160
+even put in so we don't need to worry about the only thing is remember when we
+
+153
+00:15:56,160 --> 00:16:01,300
+created the quote form in the form name just make sure you switch that I just I
+
+154
+00:16:01,300 --> 00:16:06,500
+would just put service one oops service one save it and then everything else
+
+155
+00:16:06,500 --> 00:16:13,220
+can stay the same we should actually add the phone number at the bottom as well
+
+156
+00:16:13,220 --> 00:16:18,140
+so let's make a separate section right here at the bottom so we don't forget
+
+157
+00:16:18,140 --> 00:16:24,620
+and drag a title in and we're going to put another the same phone number we're
+
+158
+00:16:24,620 --> 00:16:28,220
+just going to put it down align it in the center and let's do that on the
+
+159
+00:16:28,220 --> 00:16:31,940
+homepage as well so right at the bottom after you're done writing all of your
+
+160
+00:16:31,940 --> 00:16:40,220
+content you're going to have a section that is just having the phone number
+
+161
+00:16:40,220 --> 00:16:48,140
+xxxx align the center let's create the other two pages and once you're done so
+
+162
+00:16:48,140 --> 00:16:51,860
+this looks perfect the only thing is we want to make it underneath the service
+
+163
+00:16:51,860 --> 00:16:56,700
+how you do that see you just see when you screwed it over it gives that gap
+
+164
+00:16:56,700 --> 00:17:04,260
+right here and boom it's right here so let's just copy this one as well and
+
+165
+00:17:04,260 --> 00:17:09,100
+make sure that it's underneath there as well we're going to call this concrete
+
+166
+00:17:09,100 --> 00:17:17,380
+driveway make sure the quote form says s2 so you know this is service page
+
+167
+00:17:17,380 --> 00:17:24,900
+number two and then we're going to copy it again make our last service page and
+
+168
+00:17:24,900 --> 00:17:28,860
+again you can go in and add it and make as many as you like this is just the
+
+169
+00:17:28,860 --> 00:17:35,780
+average of what we usually do I'm going to call this patio and just make sure the
+
+170
+00:17:35,780 --> 00:17:42,140
+quote form says three and then we're going to add a contact page the contact
+
+171
+00:17:42,140 --> 00:17:49,660
+page is very simple it's actually going to be so it's not going to be under
+
+172
+00:17:50,220 --> 00:17:56,980
+so we want home services and home again that is going to be contact contact us
+
+173
+00:17:56,980 --> 00:18:03,100
+and then you can actually delete every section because the only thing the
+
+174
+00:18:03,100 --> 00:18:07,980
+contact page is going to have is a big form to fill out for them and then on
+
+175
+00:18:07,980 --> 00:18:13,900
+the contact page we also add the link to the Google My Business so we definitely
+
+176
+00:18:13,900 --> 00:18:18,180
+want this phone number down there but you can go ahead and delete the content
+
+177
+00:18:18,180 --> 00:18:23,980
+and just have the main quote form right here I don't know why did that see
+
+178
+00:18:23,980 --> 00:18:28,660
+that's why you want to pay attention to you tell sometimes often designer we
+
+179
+00:18:28,660 --> 00:18:31,820
+believe it we believe in general we have little glitches so you want to make sure
+
+180
+00:18:31,820 --> 00:18:38,820
+that everything looks how we first set it up on every page
+
+181
+00:18:39,020 --> 00:18:50,260
+name number and email going to save it see it's already looking different for
+
+182
+00:18:50,260 --> 00:18:58,660
+some reason so just make sure it all looks the same
+
+183
+00:19:08,860 --> 00:19:15,700
+save again attention to details is very important when you're building out this
+
+184
+00:19:15,700 --> 00:19:20,220
+framework so just make sure that everything looks consistent because if
+
+185
+00:19:20,220 --> 00:19:23,780
+it if it doesn't you know if you have stuff like this coming up to someone
+
+186
+00:19:23,780 --> 00:19:29,300
+it's going to look not very professional so just touch it up make sure you're
+
+187
+00:19:29,300 --> 00:19:32,700
+checking every page even if we did duplicate them just double and triple
+
+188
+00:19:32,740 --> 00:19:40,540
+check on things being very consistent on each page same with the header and you
+
+189
+00:19:40,540 --> 00:19:48,260
+again you shouldn't have to do this all the time sometimes it does this
+
+190
+00:20:02,700 --> 00:20:25,580
+see that pretty sure there you go okay service to last service page and we are
+
+191
+00:20:25,620 --> 00:20:46,420
+almost done building the frame of our asset right here make sure you always
+
+192
+00:20:46,420 --> 00:20:53,980
+click save as well and then perfect this looks good the only thing that sometimes
+
+193
+00:20:54,100 --> 00:21:00,060
+we like to do but this is totally optional click on build and sometimes
+
+194
+00:21:00,060 --> 00:21:04,180
+just to make the quote pop especially if you're using a white background under
+
+195
+00:21:04,180 --> 00:21:11,500
+the header so just like this one is called we like to use a color block so
+
+196
+00:21:11,500 --> 00:21:16,180
+just drag this right above the quote okay like that and then you're going to
+
+197
+00:21:16,180 --> 00:21:22,740
+drag the whole quote form in it like that now it's not going to look like it's
+
+198
+00:21:22,740 --> 00:21:29,020
+anything but you can actually change that's how you make the quote in a
+
+199
+00:21:29,020 --> 00:21:34,860
+different color and this sucks in Weebly but you it's you don't only have this
+
+200
+00:21:34,860 --> 00:21:39,820
+option you can actually put your own colors here and how you do that is I
+
+201
+00:21:39,820 --> 00:21:46,020
+think if you click here and change color it will give you a color palette okay I
+
+202
+00:21:46,060 --> 00:21:55,100
+know it's at the bottom but let's say we wanted to make it a nice and bright
+
+203
+00:21:55,100 --> 00:22:05,980
+yellow a little more orange like that you can copy this code I don't know why
+
+204
+00:22:05,980 --> 00:22:16,860
+it's not copying it click out of it change color okay I'm just going to write
+
+205
+00:22:16,860 --> 00:22:25,780
+it down so it's F1 AB 40 okay you click again on the color block and you change
+
+206
+00:22:25,780 --> 00:22:30,860
+color and you can insert your own color so you don't have to pick out of these
+
+207
+00:22:30,860 --> 00:22:37,980
+ones one eight be forty click out of it and it will make it that color okay
+
+208
+00:22:37,980 --> 00:22:44,860
+perfect and it moved the surfaces again
+
+209
+00:22:51,940 --> 00:22:57,220
+okay perfect and you're going to this to do this for every page again now you're
+
+210
+00:22:57,220 --> 00:23:00,460
+probably looking at the quote from this is one when you make colors and
+
+211
+00:23:00,460 --> 00:23:03,860
+adjustments and stuff like that you're going to see well you can't really see
+
+212
+00:23:03,860 --> 00:23:07,780
+here right and if you click up here in this desktop you can actually see how
+
+213
+00:23:07,780 --> 00:23:14,180
+the website would look on phone so keep that in mind as well like this looks
+
+214
+00:23:14,180 --> 00:23:20,420
+gigantic it looks silly on a phone so and the spacer we probably want to remove
+
+215
+00:23:20,420 --> 00:23:24,940
+because it's a really big gap so click back here and once you we are done
+
+216
+00:23:24,980 --> 00:23:29,820
+adding the content we're going to do the little touch-ups but just really quick
+
+217
+00:23:29,820 --> 00:23:36,020
+click on theme this is where you can change the color and the fonts and we
+
+218
+00:23:36,020 --> 00:23:42,100
+please nice so he actually highlights what things are you see it's going to
+
+219
+00:23:42,100 --> 00:23:46,980
+highlight that the paragraph title can remain the same the paragraph text we
+
+220
+00:23:46,980 --> 00:23:52,100
+want to make it black because it's pretty hard to see there you go and then
+
+221
+00:23:52,100 --> 00:24:02,060
+you can change the font let's try things out okay feel like that's all more
+
+222
+00:24:02,060 --> 00:24:06,740
+visible and then we are going to delete the spacer again it's totally up to you
+
+223
+00:24:06,740 --> 00:24:12,900
+just kind of how you see things going and then this we like to do it a
+
+224
+00:24:12,900 --> 00:24:24,060
+different color and the one above this a little bigger oops make sure you save
+
+225
+00:24:24,060 --> 00:24:33,380
+save save let's make this a little more yellow and then again this is up to
+
+226
+00:24:33,380 --> 00:24:52,140
+your preference just can even make it blue okay 40 CDF one see if that looks
+
+227
+00:24:52,140 --> 00:24:59,860
+better again don't overthink this but you can definitely make smaller
+
+228
+00:24:59,860 --> 00:25:09,380
+adjustments okay and we are done building the frame
+

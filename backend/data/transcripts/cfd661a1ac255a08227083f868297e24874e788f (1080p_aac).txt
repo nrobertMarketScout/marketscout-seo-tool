@@ -1,0 +1,228 @@
+all right so I just logged in into our own designer Weebly account just because
+we want the website to be in our own we're going to create a website for
+Queens Creek Arizona concrete now concrete is pretty general make sure
+you're talking obviously to your client like some concrete companies they do
+driveway patios they do crack repairs they do concrete paving they do stamp
+concrete so make sure and this it goes back to your keyword list that you are
+targeting only the services that the company does because certain companies
+do certain things and not everything so once you're logged in you're probably
+not going to have any of these because these are all of our old websites so
+you're going to click up here top right create website and okay so here you're
+going to pick your theme this is kind of up to you I'm going to pick one of the
+ones that we usually use and keep in mind that once you create one frame you
+can actually duplicate your website so let's say you have a second concrete
+company you can actually just duplicate your first one so you don't have to do
+this whole thing from the very start but I am going to show you on how to get it
+started for the first time so let's go with this one right here okay and we be
+likes to kind of create a website for you but we're going to delete every page
+that they made for you except for the home one so you're going to click start
+editing right here and it should bring you down here reload editor okay so
+you're going to delete that one can stay there for a second you're going to click
+on pages up here and I just want to get rid of everything that we've created
+for me because we're not going to need it so click on delete confirm let's
+delete every page that they made for you because we want to create our own and in
+the home one just click on SEO settings make sure there's nothing here okay go
+back now we're going to delete everything so every element that was put
+in here we want to delete because we're trying to make our own you might just be
+able to click here perfect and delete the whole section that way you don't
+have to delete every single piece manually so just click delete it should
+just eliminate the whole thing okay and then do it again and delete perfect so
+pretty fast pretty easy now click on build up here let's add a title up here
+in the header section and then we are going to add okay so add so we're going
+to click down here on installed apps click on the plus sign where it says add
+app and we're going to add some elements are not into designer Weebly already so
+in the search bar just type h1 and we're going to add this one right here h1 tag
+okay should be free so you don't have to pay for it click on it then click on
+add connect and done perfect and now it should show up here okay so we can add
+that right here at the bottom okay perfect now we are going to add another
+title under our title right here okay so in this top title in the header we're
+going to put the company's name obviously we're not going to put the
+actual company's name we're just putting the service that we're targeting and
+the location so in our case it's going to be and I like to put everything in
+capital letters Queens Creek oops concrete okay I don't like going into
+separate sentences I like to be in the same line so I'm going to make it
+smaller and then we can go back and edit the fonts because they look a little
+cartoonish and then we're going to add a phone number right now we don't have a
+phone number so you can just put like xxx just so you know that's where you're
+going to put the phone number okay all right now we're going to put some text
+at the bottom of the h1 I like to put a little spacer there this is up to you on
+how you want to structure it you can put a spacer you can put a divider the
+divider is just a line so it's right here and then under there right here so
+what we like to do is have the h1 right here a text here we like to put a corner
+image right here so drag the image until you see this little shape see how the
+shape is gone and now the shape is back it looks like a square when you see that
+square you just drop it the mouse and once you we put an image right here now
+right now it looks a little funky but once you put the image right here you
+are going to have the text right next to it and now we're going to put the quote
+form the instant quote form right to your right of your text so right here
+it's called a contact form on Weebly so we're just going to hold in grab it and
+drop it right here perfect this is how we want it to look like and now we're
+going to create the quote form and we usually put free a hundred percent
+something again we're not making this website to make them look amazing and
+fancy we just want them to convert so we wanted them to be simple clear to the
+point of what people are getting and how to reach the contractor in the
+easiest and fastest way as possible so free a hundred percent instant quote
+because we want them to think that they're going to get the quote right away
+okay I actually like to put this making myself so I'm going to delete that and
+we don't need a comment section so let's just leave the email put a large text
+box above the email this is no let's do a short short text box okay perfect and
+you're going to click on it right here in the fill title you're going to put
+name okay and then we are going to put checkboxes will we arrange the order
+just put that and then we're going to put a drop-down box and then do not
+forget this we need the phone number because if we don't then our client
+cannot call the lead back so make sure the name phone number and the email
+right there one important thing this should be automatically done by Weebly
+but make sure there is a little asterisk it's red and tiny at the top quarter that
+means that the person that is filling out the quote is required to fill out
+that information in order to submit the quote if you don't do that then people
+can't skip on the number and how you check it is actually right here once you
+click on the field it's required is checked out see if I unmark it the
+asterisk goes away so make sure that's on because we don't want anyone skipping
+on any information because if someone fills this out and we don't have any
+more phone number it's a lost lead so and how we like to order this is
+actually to put what the client needs at the top and then gathers information at
+the bottom because people are more likely to fill it out if they can fill
+out their needs first and then tell you who they are instead of the other way
+around okay so we're going to change this field to what service do you need
+and again you can customize this to whatever your niche is to whatever you
+think would be best option items right here you can add as many as you want so
+I like to put the services that the client offers so in this case it could
+be concrete driveway oops driveway concrete patio these are just some
+samples we can put stamped concrete okay and if you click add option you can add
+as many as you like if you click on edit you can actually delete them and you can
+also move them so you can have stamp concrete at the second and stuff like
+that and then you click on done click out of it and you're done with that this
+one I like to put when do you need do you need it question mark option items
+I'm going to put I am flexible this week and then as soon as possible okay so we
+are done making the form and there is something else that we like to add but
+make sure you check in with the client and make sure that that's something
+that they could possibly offer so first of all we like to center this since
+it's the title so center it right there then you're going to add a spacer so
+it's not so cramped and then we usually like to add a text right under the free
+instant quote where we say something like plus free bonus coupon just to kind
+of get them more interested again checking with the client and see if they
+could even offer a slight coupon or something like that if they don't then
+just remove that and we're going to center that let's make that bold as well
+see it and then lastly the button right here see how it's skirted to the left we
+want to make a center as well so just click on the main thing you're going to
+click on button you're going to align it to the center and we're actually going
+to change what it says I like I would like to say get quote exclamation point
+then click out of it then oops I don't know why I did that it's not a problem
+just move them back how they wear
+okay perfect and then one last thing when if you click on form options you can
+actually name this and what we like to name it just to keep it organized it
+would be the same as the title of the website in our case it's Queen Creek put
+the state concrete and then since this is the form for the home page I like to
+put in parentheses I like to put an H you can also put home whatever you are
+more comfortable with something like that and then right here is where you're
+going to put the email you want this form sent to you so I'm just gonna put
+my email I wait every time I get this form so I get forwarded to mine okay
+then click save and we're done with the form creation okay now I would like to
+put more sections because especially on the home page we're going to add a lot
+of content so go right here under structure you're going to select section
+and you're going to drag it right below right here I like to put a couple of
+section because this is the very first one let's put a second one okay and then
+we're going to add some titles in here and text then you can put a divider once
+we have the content and we're adding the content we can also switch things out
+but just to have it there already prepared for us we'll do this and then
+let's use this for images so let's put some images perfect let's add another
+section underneath text put a divider spacer another title up here and we'll
+go more in depth in the next videos about content and how to structure that
+so don't worry about it right now right now we're just framing out our asset and
+here at the bottom okay so this is the home page now what we usually do for our
+websites and this depends on your competitors so when you do the due
+diligence you're going to have the top three websites are ranking and you're
+going to see what their website looks look like if your competitor has ten
+service pages we definitely want to beat them but on average what we like to do
+is create one home page three service pages and a contact page so what you do
+after this one is the frame is built out you click on pages and you're actually
+going to click on the plus sign right here we are going to make a non
+clickable menu this is where you'll have drop down with the services and you're
+going to put the page name as services out of it done okay now click I would
+actually like to just duplicate the home page because we already have that quote
+form it just saves you time so click on home and click on copy and it's just
+going to duplicate it so we're going to change the name of it you're going to in
+my sample for my client I would like to call this stamped concrete that's one of
+the main services and again you want to pick the three service pages to
+represent the main most searched three services in that niche in that location
+that your client covers okay make sure there's nothing in the SEO settings
+always make sure and you're very attentive to details this is very
+important when you do things like that okay so the title and the number will
+always remain consistent and the same in every page down here the h1 we haven't
+even put in so we don't need to worry about the only thing is remember when we
+created the quote form in the form name just make sure you switch that I just I
+would just put service one oops service one save it and then everything else
+can stay the same we should actually add the phone number at the bottom as well
+so let's make a separate section right here at the bottom so we don't forget
+and drag a title in and we're going to put another the same phone number we're
+just going to put it down align it in the center and let's do that on the
+homepage as well so right at the bottom after you're done writing all of your
+content you're going to have a section that is just having the phone number
+xxxx align the center let's create the other two pages and once you're done so
+this looks perfect the only thing is we want to make it underneath the service
+how you do that see you just see when you screwed it over it gives that gap
+right here and boom it's right here so let's just copy this one as well and
+make sure that it's underneath there as well we're going to call this concrete
+driveway make sure the quote form says s2 so you know this is service page
+number two and then we're going to copy it again make our last service page and
+again you can go in and add it and make as many as you like this is just the
+average of what we usually do I'm going to call this patio and just make sure the
+quote form says three and then we're going to add a contact page the contact
+page is very simple it's actually going to be so it's not going to be under
+so we want home services and home again that is going to be contact contact us
+and then you can actually delete every section because the only thing the
+contact page is going to have is a big form to fill out for them and then on
+the contact page we also add the link to the Google My Business so we definitely
+want this phone number down there but you can go ahead and delete the content
+and just have the main quote form right here I don't know why did that see
+that's why you want to pay attention to you tell sometimes often designer we
+believe it we believe in general we have little glitches so you want to make sure
+that everything looks how we first set it up on every page
+name number and email going to save it see it's already looking different for
+some reason so just make sure it all looks the same
+save again attention to details is very important when you're building out this
+framework so just make sure that everything looks consistent because if
+it if it doesn't you know if you have stuff like this coming up to someone
+it's going to look not very professional so just touch it up make sure you're
+checking every page even if we did duplicate them just double and triple
+check on things being very consistent on each page same with the header and you
+again you shouldn't have to do this all the time sometimes it does this
+see that pretty sure there you go okay service to last service page and we are
+almost done building the frame of our asset right here make sure you always
+click save as well and then perfect this looks good the only thing that sometimes
+we like to do but this is totally optional click on build and sometimes
+just to make the quote pop especially if you're using a white background under
+the header so just like this one is called we like to use a color block so
+just drag this right above the quote okay like that and then you're going to
+drag the whole quote form in it like that now it's not going to look like it's
+anything but you can actually change that's how you make the quote in a
+different color and this sucks in Weebly but you it's you don't only have this
+option you can actually put your own colors here and how you do that is I
+think if you click here and change color it will give you a color palette okay I
+know it's at the bottom but let's say we wanted to make it a nice and bright
+yellow a little more orange like that you can copy this code I don't know why
+it's not copying it click out of it change color okay I'm just going to write
+it down so it's F1 AB 40 okay you click again on the color block and you change
+color and you can insert your own color so you don't have to pick out of these
+ones one eight be forty click out of it and it will make it that color okay
+perfect and it moved the surfaces again
+okay perfect and you're going to this to do this for every page again now you're
+probably looking at the quote from this is one when you make colors and
+adjustments and stuff like that you're going to see well you can't really see
+here right and if you click up here in this desktop you can actually see how
+the website would look on phone so keep that in mind as well like this looks
+gigantic it looks silly on a phone so and the spacer we probably want to remove
+because it's a really big gap so click back here and once you we are done
+adding the content we're going to do the little touch-ups but just really quick
+click on theme this is where you can change the color and the fonts and we
+please nice so he actually highlights what things are you see it's going to
+highlight that the paragraph title can remain the same the paragraph text we
+want to make it black because it's pretty hard to see there you go and then
+you can change the font let's try things out okay feel like that's all more
+visible and then we are going to delete the spacer again it's totally up to you
+just kind of how you see things going and then this we like to do it a
+different color and the one above this a little bigger oops make sure you save
+save save let's make this a little more yellow and then again this is up to
+your preference just can even make it blue okay 40 CDF one see if that looks
+better again don't overthink this but you can definitely make smaller
+adjustments okay and we are done building the frame

@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:05,600
+Okay, Ariel says, why do you not touch the ones that have CPC as NA?
+
+2
+00:00:05,600 --> 00:00:10,960
+So the reason why real quick on that, Ariel, is because typically with CPC,
+
+3
+00:00:10,960 --> 00:00:12,240
+think about it, right?
+
+4
+00:00:12,240 --> 00:00:13,280
+Supply and demand.
+
+5
+00:00:13,280 --> 00:00:19,760
+So if the cost per click is zero, that means there's nobody else bidding on it, right?
+
+6
+00:00:19,760 --> 00:00:21,120
+There's no marketers.
+
+7
+00:00:21,120 --> 00:00:22,240
+There's no business owners.
+
+8
+00:00:22,240 --> 00:00:24,080
+There's no one else that's wanting to pay for those ads,
+
+9
+00:00:25,040 --> 00:00:29,680
+which I can therefore infer that it's worth nothing, right?
+
+10
+00:00:29,680 --> 00:00:31,840
+So for example, you're going to have a keyword like
+
+11
+00:00:32,640 --> 00:00:36,640
+cheap concrete companies in Newport, whatever, right?
+
+12
+00:00:36,640 --> 00:00:38,320
+That CPC is zero.
+
+13
+00:00:38,320 --> 00:00:40,560
+Why? Because no one cares about it.
+
+14
+00:00:40,560 --> 00:00:43,760
+So if you want to go like those CPCs,
+
+15
+00:00:43,760 --> 00:00:45,840
+the reason why is because it's typically it's a waste of time, right?
+
+16
+00:00:45,840 --> 00:00:47,280
+There's no volume.
+
+17
+00:00:47,840 --> 00:00:50,640
+It says there's volume, but it's not worth anything.
+
+18
+00:00:50,640 --> 00:00:52,320
+So if you want to go test it out, cool.
+
+19
+00:00:52,320 --> 00:00:55,760
+And there's probably like a couple situations where, yeah, it's going to work.
+
+20
+00:00:55,760 --> 00:01:02,640
+But I'm just using my intuition of saying, okay, there's CPC that's zero,
+
+21
+00:01:02,640 --> 00:01:05,440
+which means nobody cares enough to pay for it,
+
+22
+00:01:05,440 --> 00:01:09,280
+which means there's like one of many things, right?
+
+23
+00:01:09,280 --> 00:01:12,880
+There's too much supply and not enough demand or vice versa.
+
+24
+00:01:12,880 --> 00:01:14,240
+So that's why, okay?
+
+25
+00:01:14,240 --> 00:01:15,040
+Hope that makes sense.
+
