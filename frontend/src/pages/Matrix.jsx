@@ -1,112 +1,159 @@
-// frontend/src/pages/Matrix.jsx
 import React, { useEffect, useState } from 'react';
 
 export default function Matrix () {
-  const [matrix, setMatrix] = useState([]);
-  const [sortKey, setSortKey] = useState('Opportunity_Score');
-  const [sortAsc, setSortAsc] = useState(false);
+  const [data, setData] = useState([]);
+  const [filtered, setFiltered] = useState([]);
+
+  const [groupFilter, setGroupFilter] = useState('');
+  const [keywordFilter, setKeywordFilter] = useState('');
+  const [locationFilter, setLocationFilter] = useState('');
+  const [volumeMin, setVolumeMin] = useState(0);
+  const [volumeMax, setVolumeMax] = useState(1000000);
+  const [cpcMin, setCpcMin] = useState(0);
+  const [cpcMax, setCpcMax] = useState(100);
+  const [competitorsMax, setCompetitorsMax] = useState(1000);
+  const [minScore, setMinScore] = useState(0);
+  const [maxScore, setMaxScore] = useState(100);
+  const [levelFilter, setLevelFilter] = useState('');
 
   useEffect(() => {
-    fetch('/api/matrix')
+    fetch('/api/summary')
       .then(res => res.json())
-      .then(json => setMatrix(json.matrix || []))
-      .catch(() => setMatrix([]));
+      .then(json => {
+        const rows = json.summary || [];
+        setData(rows);
+        setFiltered(rows);
+      });
   }, []);
 
-  const handleSort = (key) => {
-    if (key === sortKey) setSortAsc(!sortAsc);
-    else {
-      setSortKey(key);
-      setSortAsc(true);
-    }
-  };
-
-  const sorted = [...matrix].sort((a, b) => {
-    const valA = a[sortKey];
-    const valB = b[sortKey];
-    if (typeof valA === 'number' && typeof valB === 'number') {
-      return sortAsc ? valA - valB : valB - valA;
-    }
-    return sortAsc
-      ? String(valA || '').localeCompare(String(valB || ''))
-      : String(valB || '').localeCompare(String(valA || ''));
-  });
-
-  const visibleCols = [
-    'Group', 'Keyword', 'Location', 'Rating', 'Reviews', 'Address', 'Website',
-    'Opportunity_Score', 'Opportunity_Level', 'Opportunity_Insights'
-  ];
-
-  const columnLabels = {
-    Group: 'Group',
-    Keyword: 'Keyword',
-    Location: 'Location',
-    Rating: '⭐️ Rating',
-    Reviews: '💬 Reviews',
-    Address: '📍 Address',
-    Website: '🔗 Website',
-    Opportunity_Score: '🏆 Score',
-    Opportunity_Level: '🔥 Level',
-    Opportunity_Insights: '💡 Insights'
-  };
-
-  const levelColor = level => {
-    if (level === 'High') return 'text-green-600 font-semibold';
-    if (level === 'Medium') return 'text-yellow-600 font-semibold';
-    if (level === 'Low') return 'text-red-600 font-semibold';
-    return '';
-  };
-
-  const renderInsights = (str) => {
-    const insights = str?.split(',').map(i => i.trim()).filter(Boolean) || [];
-    return (
-      <div className="flex flex-wrap gap-1">
-        {insights.map((tag, i) => (
-          <span
-            key={i}
-            className="bg-yellow-100 text-yellow-800 text-xs px-2 py-1 rounded-full border border-yellow-300"
-          >
-            {tag}
-          </span>
-        ))}
-      </div>
-    );
-  };
+  useEffect(() => {
+    const filteredData = data.filter(row => {
+      const score = Number(row.Opportunity_Score ?? 0);
+      const volume = Number(row.Volume ?? 0);
+      const cpc = Number(row.CPC ?? 0);
+      const competitors = Number(row.Competitors ?? 0);
+      return (
+        (!groupFilter || row.Group?.toLowerCase().includes(groupFilter.toLowerCase())) &&
+        (!keywordFilter || row.Keyword?.toLowerCase().includes(keywordFilter.toLowerCase())) &&
+        (!locationFilter || row.Location?.toLowerCase().includes(locationFilter.toLowerCase())) &&
+        volume >= volumeMin &&
+        volume <= volumeMax &&
+        cpc >= cpcMin &&
+        cpc <= cpcMax &&
+        competitors <= competitorsMax &&
+        score >= minScore &&
+        score <= maxScore &&
+        (!levelFilter || row.Opportunity_Level === levelFilter)
+      );
+    });
+    setFiltered(filteredData);
+  }, [
+    data,
+    groupFilter,
+    keywordFilter,
+    locationFilter,
+    volumeMin,
+    volumeMax,
+    cpcMin,
+    cpcMax,
+    competitorsMax,
+    minScore,
+    maxScore,
+    levelFilter
+  ]);
 
   return (
-    <div className="p-6">
-      <h2 className="text-2xl font-bold mb-4">📈 Combined Opportunity Matrix</h2>
+    <div className="p-6 space-y-8">
+      <h2 className="text-2xl font-bold mb-4">📈 Opportunity Matrix</h2>
+
+      {/* Filters */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 bg-gray-50 p-4 rounded shadow">
+        <div>
+          <label className="block text-sm font-medium">Group</label>
+          <input type="text" value={groupFilter} onChange={e => setGroupFilter(e.target.value)} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Keyword</label>
+          <input type="text" value={keywordFilter} onChange={e => setKeywordFilter(e.target.value)} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Location</label>
+          <input type="text" value={locationFilter} onChange={e => setLocationFilter(e.target.value)} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Min Volume</label>
+          <input type="number" min="0" value={volumeMin} onChange={e => setVolumeMin(Math.max(0, Number(e.target.value)))} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Max Volume</label>
+          <input type="number" min="0" value={volumeMax} onChange={e => setVolumeMax(Math.max(0, Number(e.target.value)))} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Min CPC</label>
+          <input type="number" min="0" value={cpcMin} onChange={e => setCpcMin(Math.max(0, Number(e.target.value)))} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Max CPC</label>
+          <input type="number" min="0" value={cpcMax} onChange={e => setCpcMax(Math.max(0, Number(e.target.value)))} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Max Competitors</label>
+          <input type="number" min="0" value={competitorsMax} onChange={e => setCompetitorsMax(Math.max(0, Number(e.target.value)))} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Min Score</label>
+          <input type="number" min="0" value={minScore} onChange={e => setMinScore(Math.max(0, Number(e.target.value)))} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Max Score</label>
+          <input type="number" min="0" value={maxScore} onChange={e => setMaxScore(Math.max(0, Number(e.target.value)))} className="border rounded p-1 w-full" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium">Level</label>
+          <select value={levelFilter} onChange={e => setLevelFilter(e.target.value)} className="border rounded p-1 w-full">
+            <option value="">— Any —</option>
+            <option value="High">High</option>
+            <option value="Medium">Medium</option>
+            <option value="Low">Low</option>
+          </select>
+        </div>
+      </div>
+
+      {/* Table */}
       <div className="overflow-auto border rounded-xl shadow text-sm">
         <table className="min-w-full table-auto">
           <thead className="bg-gray-100">
             <tr>
-              {visibleCols.map(col => (
-                <th
-                  key={col}
-                  onClick={() => handleSort(col)}
-                  className={`px-3 py-2 border cursor-pointer select-none ${sortKey === col ? 'bg-yellow-200' : ''
-                    }`}
-                >
-                  {columnLabels[col] || col}
-                  {sortKey === col && (sortAsc ? ' 🔼' : ' 🔽')}
-                </th>
-              ))}
+              <th className="px-4 py-2">Group</th>
+              <th className="px-4 py-2">Keyword</th>
+              <th className="px-4 py-2">Location</th>
+              <th className="px-4 py-2 text-right">Volume</th>
+              <th className="px-4 py-2 text-right">CPC</th>
+              <th className="px-4 py-2 text-right">Competitors</th>
+              <th className="px-4 py-2 text-right">Score</th>
+              <th className="px-4 py-2 text-center">Level</th>
             </tr>
           </thead>
           <tbody>
-            {sorted.map((row, i) => (
-              <tr key={i} className="even:bg-gray-50 hover:bg-yellow-50 transition">
-                {visibleCols.map(col => (
-                  <td key={col} className="px-3 py-2 border whitespace-nowrap">
-                    {col === 'Opportunity_Level' ? (
-                      <span className={levelColor(row[col])}>{row[col]}</span>
-                    ) : col === 'Opportunity_Insights' ? (
-                      renderInsights(row[col])
-                    ) : (
-                      row[col] || '—'
-                    )}
-                  </td>
-                ))}
+            {filtered.map((row, i) => (
+              <tr key={i} className="even:bg-gray-50">
+                <td className="px-4 py-2">{row.Group}</td>
+                <td className="px-4 py-2">{row.Keyword}</td>
+                <td className="px-4 py-2">{row.Location}</td>
+                <td className="px-4 py-2 text-right">{row.Volume}</td>
+                <td className="px-4 py-2 text-right">
+                  {row.CPC !== undefined && !isNaN(row.CPC)
+                    ? `$${Number(row.CPC).toFixed(2)}`
+                    : '—'}
+                </td>
+                <td className="px-4 py-2 text-right">{row.Competitors}</td>
+                <td className="px-4 py-2 text-right font-semibold">{row.Opportunity_Score}</td>
+                <td className={`px-4 py-2 text-center font-bold ${row.Opportunity_Level === 'High' ? 'text-green-600'
+                    : row.Opportunity_Level === 'Medium' ? 'text-yellow-600'
+                      : 'text-red-600'
+                  }`}>
+                  {row.Opportunity_Level}
+                </td>
               </tr>
             ))}
           </tbody>
