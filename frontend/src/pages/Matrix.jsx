@@ -3,22 +3,35 @@ import React, { useEffect, useState } from 'react';
 
 export default function Matrix () {
   const [matrix, setMatrix] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [sortKey, setSortKey] = useState('Opportunity_Score');
+  const [sortAsc, setSortAsc] = useState(false);
 
   useEffect(() => {
     fetch('/api/matrix')
       .then(res => res.json())
       .then(json => setMatrix(json.matrix || []))
-      .catch(() => setError('Failed to load matrix data'))
-      .finally(() => setLoading(false));
+      .catch(() => setMatrix([]));
   }, []);
 
-  if (loading) return <p className="p-4">Loading matrix...</p>;
-  if (error) return <p className="text-red-600 p-4">{error}</p>;
-  if (!matrix.length) return <p className="p-4">No matrix data found.</p>;
+  const handleSort = (key) => {
+    if (key === sortKey) setSortAsc(!sortAsc);
+    else {
+      setSortKey(key);
+      setSortAsc(true);
+    }
+  };
 
-  // Define visible columns and their display labels
+  const sorted = [...matrix].sort((a, b) => {
+    const valA = a[sortKey];
+    const valB = b[sortKey];
+    if (typeof valA === 'number' && typeof valB === 'number') {
+      return sortAsc ? valA - valB : valB - valA;
+    }
+    return sortAsc
+      ? String(valA || '').localeCompare(String(valB || ''))
+      : String(valB || '').localeCompare(String(valA || ''));
+  });
+
   const visibleCols = [
     'Group', 'Keyword', 'Location', 'Rating', 'Reviews', 'Address', 'Website',
     'Opportunity_Score', 'Opportunity_Level', 'Opportunity_Insights'
@@ -37,7 +50,6 @@ export default function Matrix () {
     Opportunity_Insights: '💡 Insights'
   };
 
-  // Style helper for Level
   const levelColor = level => {
     if (level === 'High') return 'text-green-600 font-semibold';
     if (level === 'Medium') return 'text-yellow-600 font-semibold';
@@ -45,7 +57,6 @@ export default function Matrix () {
     return '';
   };
 
-  // Convert CSV insight string into pill tags
   const renderInsights = (str) => {
     const insights = str?.split(',').map(i => i.trim()).filter(Boolean) || [];
     return (
@@ -70,14 +81,20 @@ export default function Matrix () {
           <thead className="bg-gray-100">
             <tr>
               {visibleCols.map(col => (
-                <th key={col} className="px-3 py-2 border text-left">
+                <th
+                  key={col}
+                  onClick={() => handleSort(col)}
+                  className={`px-3 py-2 border cursor-pointer select-none ${sortKey === col ? 'bg-yellow-200' : ''
+                    }`}
+                >
                   {columnLabels[col] || col}
+                  {sortKey === col && (sortAsc ? ' 🔼' : ' 🔽')}
                 </th>
               ))}
             </tr>
           </thead>
           <tbody>
-            {matrix.map((row, i) => (
+            {sorted.map((row, i) => (
               <tr key={i} className="even:bg-gray-50 hover:bg-yellow-50 transition">
                 {visibleCols.map(col => (
                   <td key={col} className="px-3 py-2 border whitespace-nowrap">
