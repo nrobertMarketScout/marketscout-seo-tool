@@ -19,6 +19,13 @@ app.use(express.json())
 import runRoute from './api/run.js' // ← adjust path if in different folder
 app.use('/api/run', runRoute)
 
+import resultsRoute from './api/results.js';
+app.use('/api/results', resultsRoute);
+
+import summaryRoute from './api/summary.js';
+app.use('/api/summary', summaryRoute);
+
+
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
 const encoder = encoding_for_model('gpt-4')
 

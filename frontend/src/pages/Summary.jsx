@@ -65,10 +65,10 @@ export default function Summary () {
                       : '—'}
                   </td>
                   <td className={`px-2 py-1 border text-center font-bold ${row.Opportunity_Level === 'High'
-                      ? 'text-green-600'
-                      : row.Opportunity_Level === 'Medium'
-                        ? 'text-yellow-600'
-                        : 'text-red-600'
+                    ? 'text-green-600'
+                    : row.Opportunity_Level === 'Medium'
+                      ? 'text-yellow-600'
+                      : 'text-red-600'
                     }`}>
                     {row.Opportunity_Level || '—'}
                   </td>
@@ -83,6 +83,23 @@ export default function Summary () {
       <div>
         <h2 className="text-2xl font-bold mb-4">📋 Full Scrape Results</h2>
         <ResultsTable />
+        {/* CSV Downloads */}
+        <div className="mt-12">
+          <h3 className="text-lg font-semibold mb-2">⬇️ Download CSVs</h3>
+          <div className="space-x-4">
+            {['results.csv', 'competitor_audit_summary.csv', 'combined_opportunity_matrix.csv'].map(file => (
+              <a
+                key={file}
+                href={`/api/summary/download/${file}`}
+                download
+                className="bg-blue-600 text-white px-4 py-2 rounded shadow hover:bg-blue-700"
+              >
+                {file}
+              </a>
+            ))}
+          </div>
+        </div>
+
       </div>
     </div>
   );
