@@ -3,20 +3,22 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const navItems = [
-  { name: 'Summary', path: '/summary' },
-  { name: 'Matrix', path: '/matrix' },
-  { name: 'Heatmap', path: '/heatmap' },
-  { name: 'Scraper', path: '/scraper' },
-  { name: 'Bot', path: '/bot' },
-  { name: 'Estimator', path: '/estimator' }
+  { name: '📊 Summary', path: '/summary' },
+  { name: '📈 Matrix', path: '/matrix' },
+  { name: '🌍 Heatmap', path: '/heatmap' },
+  { name: '🛠️ Scraper', path: '/scraper' },
+  { name: '🤖 Rank & Rent Bot', path: '/bot' },
+  { name: '📐 Estimator', path: '/estimator' },
+  { name: '🧠 Memory', path: '/memory' }
 ];
 
-export default function Layout({ children }) {
+
+export default function Layout ({ children }) {
   return (
     <div className="min-h-screen flex flex-col">
       <header className="bg-white shadow p-4 flex items-center justify-between">
         <h1 className="text-xl font-bold">MarketScout</h1>
-        <nav className="space-x-4">
+        <nav className="flex space-x-4 overflow-x-auto max-w-full scrollbar-hide">
           {navItems.map(({ name, path }) => (
             <NavLink
               key={path}
