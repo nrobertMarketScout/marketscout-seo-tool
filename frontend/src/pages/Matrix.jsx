@@ -1,4 +1,4 @@
-// client/src/pages/Matrix.jsx
+// frontend/src/pages/Matrix.jsx
 import React, {
   useEffect,
   useMemo,
@@ -6,13 +6,20 @@ import React, {
   useCallback,
   useRef,
 } from "react";
-import { Star, StarOff, Settings2, ChevronDown } from "lucide-react";
+import {
+  Star,
+  StarOff,
+  Settings2,
+  ChevronDown,
+  ChevronUp,
+  ChevronDown as ArrowDown,
+} from "lucide-react";
 import clsx from "clsx";
 
 /* ────────────────── CONFIG */
 const FAV_KEY = "marketscout:favorites";
 
-/* Local-storage helpers */
+/* Helpers: favorites in localStorage */
 const loadFavorites = () => {
   try {
     return new Set(JSON.parse(localStorage.getItem(FAV_KEY) || "[]"));
@@ -23,7 +30,7 @@ const loadFavorites = () => {
 const saveFavorites = (set) =>
   localStorage.setItem(FAV_KEY, JSON.stringify([...set]));
 
-/* Pull rows out even if the backend wraps them */
+/* Extract rows even if backend wraps them */
 const extractRows = (payload) => {
   if (Array.isArray(payload)) return payload;
   for (const k of ["summary", "data", "rows", "results"])
@@ -32,7 +39,7 @@ const extractRows = (payload) => {
   return [];
 };
 
-/* Convert "1,200" or "$4.50" → number (or null) */
+/* Convert strings like "1,200" or "$4.50" → number (or null) */
 const toNum = (val) => {
   if (val == null || val === "" || val === "-") return null;
   if (typeof val === "number") return val;
@@ -40,20 +47,26 @@ const toNum = (val) => {
   return Number.isFinite(n) ? n : null;
 };
 
-/* Which filter inputs start visible */
-const FILTERS = {
-  keyword: true,
-  location: true,
-  group: true,
-  minOpp: true,
-  maxOpp: true,
-  minVol: true,
-  maxVol: true,
-  minCpc: true,
-  maxCpc: true,
-  oppLevel: true,
-  insights: true,
-};
+/* Ordered list of filter keys */
+const FILTER_KEYS = [
+  "keyword",
+  "location",
+  "group",
+  "minOpp",
+  "maxOpp",
+  "minVol",
+  "maxVol",
+  "minCpc",
+  "maxCpc",
+  "oppLevel",
+  "insights",
+];
+
+/* All filters hidden by default */
+const DEFAULT_VIS = Object.fromEntries(FILTER_KEYS.map((k) => [k, false]));
+
+/* Custom opportunity-level sort weight */
+const oppRank = { High: 3, Med: 2, Low: 1 };
 
 export default function Matrix () {
   /* ───────── DATA */
@@ -64,7 +77,8 @@ export default function Matrix () {
   const [favorites, setFavorites] = useState(loadFavorites);
 
   /* ───────── FILTER STATE */
-  const [vis, setVis] = useState(FILTERS);
+  const [vis, setVis] = useState(DEFAULT_VIS);
+  const [dropdownOpen, setDropdownOpen] = useState(false); // keeps panel open
   const [keyword, setKeyword] = useState("");
   const [location, setLocation] = useState("");
   const [group, setGroup] = useState("");
@@ -77,6 +91,9 @@ export default function Matrix () {
   const [oppLevel, setOppLevel] = useState("");
   const [insightsFilter, setInsightsFilter] = useState([]);
 
+  /* ───────── SORT STATE */
+  const [sort, setSort] = useState({ key: null, dir: "asc" });
+
   /* ───────── FETCH once */
   useEffect(() => {
     (async () => {
@@ -86,7 +103,6 @@ export default function Matrix () {
         const payload = await res.json();
         const raw = extractRows(payload);
 
-        /* Add insights + unique _rowId */
         const withMeta = raw.map((r, idx) => ({
           ...r,
           _rowId: `${r.Keyword || ""}::${r.Location || ""}::${r.Group || ""}::${idx}`,
@@ -105,7 +121,7 @@ export default function Matrix () {
     })();
   }, []);
 
-  /* ───────── FILTER helper */
+  /* ───────── FILTER helpers */
   const passesNumeric = useCallback((value, min, max) => {
     const num = toNum(value);
     if (num == null) return true;
@@ -114,9 +130,10 @@ export default function Matrix () {
     return true;
   }, []);
 
-  /* ───────── Derived filtered rows */
-  const filtered = useMemo(() => {
-    return rows.filter((r) => {
+  /* ───────── Derived filtered + sorted rows */
+  const processed = useMemo(() => {
+    /* 1) Filter */
+    let out = rows.filter((r) => {
       if (keyword && !r.Keyword.toLowerCase().includes(keyword.toLowerCase()))
         return false;
       if (
@@ -141,6 +158,27 @@ export default function Matrix () {
 
       return true;
     });
+
+    /* 2) Sort */
+    if (sort.key) {
+      const dir = sort.dir === "asc" ? 1 : -1;
+      out = [...out].sort((a, b) => {
+        const valA = a[sort.key];
+        const valB = b[sort.key];
+        /* Numeric columns */
+        if (["Volume", "CPC", "OpportunityScore"].includes(sort.key)) {
+          return (toNum(valA) - toNum(valB)) * dir;
+        }
+        /* Opportunity level custom order */
+        if (sort.key === "OpportunityLevel") {
+          return (oppRank[valA] - oppRank[valB]) * dir;
+        }
+        /* Fallback string compare */
+        return valA.localeCompare(valB) * dir;
+      });
+    }
+
+    return out;
   }, [
     rows,
     keyword,
@@ -155,6 +193,7 @@ export default function Matrix () {
     oppLevel,
     insightsFilter,
     passesNumeric,
+    sort,
   ]);
 
   /* ───────── FAVORITES */
@@ -167,35 +206,60 @@ export default function Matrix () {
     });
   };
 
-  /* ───────── Filter-visibility dropdown */
+  /* ───────── Column-header sort handler */
+  const handleSort = (key) => {
+    setSort((prev) => {
+      if (prev.key === key) {
+        return { key, dir: prev.dir === "asc" ? "desc" : "asc" };
+      }
+      return { key, dir: "asc" };
+    });
+  };
+
+  /* ───────── Filter dropdown (checkbox list) */
   const FilterToggle = () => {
-    const [open, setOpen] = useState(false);
     const ref = useRef(null);
+
+    /* Close when clicking outside */
     useEffect(() => {
       const handler = (e) =>
-        ref.current && !ref.current.contains(e.target) && setOpen(false);
+        ref.current && !ref.current.contains(e.target) && setDropdownOpen(false);
       window.addEventListener("mousedown", handler);
       return () => window.removeEventListener("mousedown", handler);
     }, []);
+
+    /* Select-all logic */
+    const allOn = FILTER_KEYS.every((k) => vis[k]);
+    const toggleAll = () =>
+      setVis(Object.fromEntries(FILTER_KEYS.map((k) => [k, !allOn])));
+
     return (
       <div className="relative mb-4">
         <button
-          onClick={() => setOpen(!open)}
+          onClick={() => setDropdownOpen((o) => !o)}
           className="flex items-center gap-1 text-sm font-medium"
         >
           <Settings2 className="h-4 w-4" />
           Filters
           <ChevronDown
-            className={clsx("h-4 w-4 transition-transform", open && "rotate-180")}
+            className={clsx(
+              "h-4 w-4 transition-transform",
+              dropdownOpen && "rotate-180"
+            )}
           />
         </button>
 
-        {open && (
+        {dropdownOpen && (
           <div
             ref={ref}
-            className="absolute z-10 mt-2 rounded-2xl bg-white p-4 shadow-lg"
+            className="absolute z-10 mt-2 w-56 rounded-2xl bg-white p-4 shadow-lg"
           >
-            {Object.keys(FILTERS).map((k) => (
+            <label className="mb-3 flex cursor-pointer items-center gap-2 font-semibold">
+              <input type="checkbox" checked={allOn} onChange={toggleAll} />
+              {allOn ? "Clear All" : "Select All"}
+            </label>
+
+            {FILTER_KEYS.map((k) => (
               <label key={k} className="flex items-center gap-2 py-1">
                 <input
                   type="checkbox"
@@ -350,17 +414,46 @@ export default function Matrix () {
           <thead>
             <tr className="bg-gray-50">
               <th className="px-4 py-2"></th>
-              <Header>Keyword</Header>
-              <Header>Location</Header>
-              <Header>Group</Header>
-              <Header numeric>Volume</Header>
-              <Header numeric>CPC</Header>
-              <Header numeric>Opportunity</Header>
-              <Header>Level</Header>
+              <SortableHeader
+                onSort={handleSort}
+                sort={sort}
+                column="Keyword"
+              />
+              <SortableHeader
+                onSort={handleSort}
+                sort={sort}
+                column="Location"
+              />
+              <SortableHeader onSort={handleSort} sort={sort} column="Group" />
+              <SortableHeader
+                onSort={handleSort}
+                sort={sort}
+                column="Volume"
+                numeric
+              />
+              <SortableHeader
+                onSort={handleSort}
+                sort={sort}
+                column="CPC"
+                numeric
+              />
+              <SortableHeader
+                onSort={handleSort}
+                sort={sort}
+                column="OpportunityScore"
+                label="Opportunity"
+                numeric
+              />
+              <SortableHeader
+                onSort={handleSort}
+                sort={sort}
+                column="OpportunityLevel"
+                label="Level"
+              />
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-100">
-            {filtered.map((r) => {
+            {processed.map((r) => {
               const fav = favorites.has(r._rowId);
               return (
                 <tr key={r._rowId} className="hover:bg-gray-50">
@@ -410,17 +503,29 @@ export default function Matrix () {
   );
 }
 
-/* ───────── Helper cells */
-const Header = ({ children, numeric }) => (
-  <th
-    className={clsx(
-      "px-4 py-2 text-left text-xs font-semibold uppercase tracking-wider text-gray-600",
-      numeric && "text-right"
-    )}
-  >
-    {children}
-  </th>
-);
+/* ───────── Helper components */
+const SortableHeader = ({ column, label, numeric, sort, onSort }) => {
+  const isActive = sort.key === column;
+  const dirIcon =
+    sort.dir === "asc" ? (
+      <ChevronUp className="inline h-3 w-3" />
+    ) : (
+      <ArrowDown className="inline h-3 w-3" />
+    );
+  return (
+    <th
+      onClick={() => onSort(column)}
+      className={clsx(
+        "cursor-pointer select-none px-4 py-2 text-left text-xs font-semibold uppercase tracking-wider text-gray-600 hover:text-gray-900",
+        numeric && "text-right"
+      )}
+    >
+      {label || column}
+      {isActive && dirIcon}
+    </th>
+  );
+};
+
 const Cell = ({ children, numeric }) => (
   <td
     className={clsx("px-4 py-2 text-sm", numeric && "text-right font-mono")}
@@ -429,7 +534,8 @@ const Cell = ({ children, numeric }) => (
   </td>
 );
 
-/* Tailwind .input utility (add once globally if missing)
+/*
+Tailwind .input utility
 .input {
   @apply rounded-xl border border-gray-300 px-3 py-2 text-sm shadow-sm focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200;
 }
