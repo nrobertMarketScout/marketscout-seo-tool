@@ -1,3 +1,4 @@
+// backend/api/run.js
 import express from 'express';
 import multer from 'multer';
 import fs from 'fs/promises';
@@ -31,20 +32,26 @@ router.post('/', upload.single('file'), async (req, res) => {
 
       for (const keyword of keywords) {
         const results = await fetchMapsResults(keyword, location);
+        console.log(`🔍 fetchMapsResults("${keyword}", "${location}") →`, results);
 
         for (const res of results) {
+          console.log('📍 Res geometry:', res.geometry);
+          console.log('📍 Res GPS:', res.gps_coordinates);
+
           if (res.place_id && !groupResults[res.place_id]) {
             groupResults[res.place_id] = {
               Group: groupName,
               Keyword: keyword,
               Location: location,
-              Name: res.title || res.name,
-              Rating: res.rating,
-              Reviews: res.rating_total || res.reviews_count,
-              Address: res.address,
-              Phone: res.phone_number,
+              Name: res.title || res.name || '',
+              Rating: res.rating || '',
+              Reviews: res.rating_total || res.reviews_count || '',
+              Address: res.address || '',
+              Phone: res.phone_number || '',
               PlaceId: res.place_id,
               Website: res.website || '',
+              Latitude: res.gps_coordinates?.latitude ?? res.geometry?.location?.lat ?? '',
+              Longitude: res.gps_coordinates?.longitude ?? res.geometry?.location?.lng ?? ''
             };
           }
         }
@@ -53,11 +60,24 @@ router.post('/', upload.single('file'), async (req, res) => {
       allResults.push(...Object.values(groupResults));
     }
 
-    await fs.writeFile('results.csv', Papa.unparse(allResults, { quotes: true }));
-
     const summaryData = auditAndScore(allResults);
+    const scoreMap = {};
+    for (const row of summaryData) {
+      const key = `${row.Keyword}::${row.Location}`;
+      scoreMap[key] = row.OpportunityScore;
+    }
+
+    const finalResults = allResults.map((entry) => {
+      const key = `${entry.Keyword}::${entry.Location}`;
+      return {
+        ...entry,
+        'Opportunity Score': scoreMap[key] || 0
+      };
+    });
+
+    await fs.writeFile('results.csv', Papa.unparse(allResults, { quotes: true }));
     await fs.writeFile('competitor_audit_summary.csv', Papa.unparse(summaryData, { quotes: true }));
-    await fs.writeFile('combined_opportunity_matrix.csv', Papa.unparse(allResults, { quotes: true }));
+    await fs.writeFile('combined_opportunity_matrix.csv', Papa.unparse(finalResults, { quotes: true }));
 
     res.json({ summary: summaryData });
   } catch (err) {
