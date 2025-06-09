@@ -1,0 +1,972 @@
+,State,City/Town/CDP,Population
+0,AK,Anchorage,291826
+1,AK,Fairbanks,32515
+2,AK,Juneau,32255
+3,AL,Auburn,76143
+4,AL,Birmingham,197575
+5,AL,Dothan,71072
+6,AL,Hoover,92606
+7,AL,Huntsville,216963
+8,AL,Mobile,184952
+9,AL,Montgomery,198665
+10,AL,Tuscaloosa,101129
+11,AR,Bentonville,65142
+12,AR,Conway,64134
+13,AR,Fayetteville,96612
+14,AR,Fort Smith,89187
+15,AR,Jonesboro,80838
+16,AR,Little Rock,202591
+17,AR,Rogers,70737
+18,AR,Springdale,87609
+19,AZ,Apache Junction,38499
+20,AZ,Avondale,85835
+21,AZ,Buckeye,101315
+22,AZ,Bullhead City,61247
+23,AZ,Casa Grande,57699
+24,AZ,Chandler,283839
+25,AZ,Flagstaff,76989
+26,AZ,Gilbert,273136
+27,AZ,Glendale,248325
+28,AZ,Goodyear,101733
+29,AZ,Lake Havasu City,58939
+30,AZ,Mesa,504258
+31,AZ,Peoria,191502
+32,AZ,Phoenix,1640641
+33,AZ,Prescott Valley,48801
+34,AZ,Scottsdale,242753
+35,AZ,Sierra Vista,43398
+36,AZ,Surprise,150204
+37,AZ,Tempe,180587
+38,AZ,Tucson,543242
+39,AZ,Yuma,99203
+40,CA,Alameda,78280
+41,CA,Alhambra,82868
+42,CA,Aliso Viejo,52176
+43,CA,Anaheim,340508
+44,CA,Antioch,117103
+45,CA,Apple Valley,75791
+46,CA,Bakersfield,413556
+47,CA,Baldwin Park,66642
+48,CA,Bellflower,77077
+49,CA,Berkeley,118962
+50,CA,Buena Park,84034
+51,CA,Burbank,99921
+52,CA,Carlsbad,113938
+53,CA,Carson,92051
+54,CA,Cathedral City,51493
+55,CA,Ceres,49302
+56,CA,Cerritos,49578
+57,CA,Chico,101475
+58,CA,Chino,93797
+59,CA,Chino Hills,78411
+60,CA,Citrus Heights,87583
+61,CA,Clovis,125852
+62,CA,Coachella,41941
+63,CA,Compton,95740
+64,CA,Concord,122315
+65,CA,Costa Mesa,111918
+66,CA,Daly City,99890
+67,CA,Downey,111126
+68,CA,El Cajon,102326
+69,CA,El Monte,113475
+70,CA,Elk Grove,178997
+71,CA,Escondido,151038
+72,CA,Fairfield,120350
+73,CA,Folsom,80454
+74,CA,Fontana,210759
+75,CA,Fremont,226551
+76,CA,Fresno,545769
+77,CA,Fullerton,139921
+78,CA,Garden Grove,168283
+79,CA,Glendale,196543
+80,CA,Hanford,55645
+81,CA,Hawthorne,84833
+82,CA,Hayward,162954
+83,CA,Hemet,89833
+84,CA,Hesperia,100749
+85,CA,Huntington Beach,198711
+86,CA,Indio,93297
+87,CA,Inglewood,99846
+88,CA,Irvine,314998
+89,CA,Jurupa Valley,107521
+90,CA,La Habra,63702
+91,CA,Lake Elsinore,71124
+92,CA,Lake Forest,85858
+93,CA,Lancaster,173516
+94,CA,Livermore,87955
+95,CA,Lodi,67586
+96,CA,Lompoc,44444
+97,CA,Long Beach,454333
+98,CA,Los Angeles,3898747
+99,CA,Lynwood,67051
+100,CA,Manteca,83498
+101,CA,Menifee,113328
+102,CA,Merced,83676
+103,CA,Milpitas,80273
+104,CA,Mission Viejo,93653
+105,CA,Modesto,218464
+106,CA,Montebello,62500
+107,CA,Monterey Park,60016
+108,CA,Moreno Valley,213055
+109,CA,Murrieta,112941
+110,CA,Napa,79246
+111,CA,Newport Beach,85239
+112,CA,Norwalk,103949
+113,CA,Oakland,440646
+114,CA,Oceanside,174068
+115,CA,Ontario,175265
+116,CA,Orange,139911
+117,CA,Oxnard,202063
+118,CA,Palmdale,169450
+119,CA,Palo Alto,68572
+120,CA,Pasadena,138699
+121,CA,Perris,78700
+122,CA,Petaluma,59776
+123,CA,Pittsburg,76416
+124,CA,Placentia,51233
+125,CA,Pleasanton,79871
+126,CA,Pomona,151713
+127,CA,Porterville,62623
+128,CA,Rancho Cordova,79148
+129,CA,Rancho Cucamonga,174453
+130,CA,Redding,93462
+131,CA,Rialto,103526
+132,CA,Richmond,115639
+133,CA,Riverside,314998
+134,CA,Roseville,147773
+135,CA,Sacramento,524943
+136,CA,Salinas,163542
+137,CA,San Bernardino,222203
+138,CA,San Buenaventura (Ventura),110763
+139,CA,San Diego,1386932
+140,CA,San Francisco,873965
+141,CA,San Jose,1013240
+142,CA,San Leandro,91008
+143,CA,San Marcos,94833
+144,CA,San Mateo,105661
+145,CA,Santa Ana,310227
+146,CA,Santa Barbara,88665
+147,CA,Santa Clara,127647
+148,CA,Santa Clarita,228673
+149,CA,Santa Maria,109707
+150,CA,Santa Monica,93076
+151,CA,Santa Rosa,170488
+152,CA,Santee,60037
+153,CA,Seaside,30638
+154,CA,Simi Valley,126356
+155,CA,South Gate,92726
+156,CA,South Whittier,56415
+157,CA,Stockton,320804
+158,CA,Sunnyvale,155805
+159,CA,Temecula,110003
+160,CA,Thousand Oaks,126966
+161,CA,Torrance,147067
+162,CA,Tracy,98601
+163,CA,Tulare,69200
+164,CA,Turlock,72740
+165,CA,Twentynine Palms,28065
+166,CA,Upland,79040
+167,CA,Vacaville,102386
+168,CA,Vallejo,126090
+169,CA,Victorville,134810
+170,CA,Visalia,141384
+171,CA,Vista,98381
+172,CA,Watsonville,52590
+173,CA,West Covina,105180
+174,CA,Whittier,87306
+175,CA,Yorba Linda,68336
+176,CO,Arvada,124402
+177,CO,Aurora,386261
+178,CO,Boulder,108250
+179,CO,Broomfield,74112
+180,CO,Centennial,108417
+181,CO,Colorado Springs,478961
+182,CO,Denver,715522
+183,CO,Fort Collins,169810
+184,CO,Grand Junction,65560
+185,CO,Greeley,108795
+186,CO,Lakewood,155984
+187,CO,Longmont,100758
+188,CO,Loveland,76378
+189,CO,Parker,60312
+190,CO,Pueblo,111876
+191,CO,Thornton,144449
+192,CO,Westminster,116317
+193,CT,Bridgeport,148654
+194,CT,Bristol,60833
+195,CT,Danbury,86518
+196,CT,East Hartford,50272
+197,CT,Greenwich,63518
+198,CT,Hamden,61169
+199,CT,Hartford,121054
+200,CT,Manchester,58241
+201,CT,Meriden,60850
+202,CT,Middletown,47717
+203,CT,Milford,54732
+204,CT,New Britain,74135
+205,CT,New Haven,134023
+206,CT,North Stamford,121230
+207,CT,Norwalk,91184
+208,CT,Stamford,135470
+209,CT,Stratford,52355
+210,CT,Waterbury,114403
+211,CT,West Hartford,64083
+212,CT,West Haven,55584
+213,CT,Weston,10354
+214,CT,Westport,27141
+216,DC,Washington,689545
+217,DE,Bear,20850
+218,DE,Dover,39403
+219,DE,Middletown,24164
+220,DE,Newark,31155
+221,DE,Wilmington,70750
+222,FL,Boca Raton,98776
+223,FL,Bonita Springs,57755
+224,FL,Bradenton,55698
+225,FL,Brandon,116000
+226,FL,Cape Coral,194016
+227,FL,Clearwater,117292
+228,FL,Clermont,48861
+229,FL,Coconut Creek,57833
+230,FL,Coral Gables,49743
+231,FL,Coral Springs,134394
+232,FL,Daytona Beach,73032
+233,FL,Deerfield Beach,86859
+234,FL,Delray Beach,66846
+235,FL,Deltona,93692
+236,FL,Doral,75874
+237,FL,Fort Lauderdale,182760
+238,FL,Fort Myers,86395
+239,FL,Fort Pierce,47297
+240,FL,Gainesville,141085
+241,FL,Hialeah,223109
+242,FL,Hollywood,153067
+243,FL,Homestead,80737
+244,FL,Jacksonville,949611
+245,FL,Jupiter,61047
+246,FL,Kissimmee,79226
+247,FL,Lakeland,112641
+248,FL,Largo,82485
+249,FL,Lauderhill,74482
+250,FL,Melbourne,84678
+251,FL,Miami,442241
+252,FL,Miami Beach,82890
+253,FL,Miami Gardens,111640
+254,FL,Miramar,134721
+255,FL,Navarre,39403
+256,FL,North Fort Myers,44676
+257,FL,North Miami,60191
+258,FL,Ocala,63591
+259,FL,Orlando,309154
+260,FL,Palm Bay,122942
+261,FL,Palm Beach Gardens,59182
+262,FL,Pembroke Pines,171178
+263,FL,Pensacola,54312
+264,FL,Pinellas Park,53093
+265,FL,Plantation,95550
+266,FL,Pompano Beach,112046
+267,FL,Port Charlotte,64000
+268,FL,Port Orange,64842
+269,FL,Port St. Lucie,217523
+270,FL,Sarasota,54842
+271,FL,Spring Hill,113568
+272,FL,St. Augustine,14329
+273,FL,St. Cloud,58964
+274,FL,St. Petersburg,258308
+275,FL,Tallahassee,196169
+276,FL,Tamarac,71897
+277,FL,Tampa,392890
+278,FL,The Villages,79077
+279,FL,Titusville,49168
+280,FL,West Palm Beach,117415
+281,FL,Weston,68305
+282,FL,Winter Garden,47180
+283,FL,Winter Haven,49219
+284,FL,Winter Park,30189
+285,GA,Albany,69647
+286,GA,Alpharetta,66566
+287,GA,Athens-Clarke County,127315
+288,GA,Atlanta,498715
+289,GA,Augusta-Richmond County,202081
+290,GA,Columbus,206922
+291,GA,Dunwoody,51683
+292,GA,Gainesville,43232
+293,GA,Johns Creek,82453
+294,GA,Macon-Bibb County,157346
+295,GA,Marietta,61497
+296,GA,Peachtree Corners,43509
+297,GA,Roswell,94884
+298,GA,Sandy Springs,108080
+299,GA,Savannah,147780
+300,GA,Smyrna,55976
+301,GA,South Fulton,107436
+302,GA,Valdosta,56457
+303,GA,Warner Robins,80121
+304,HI,East Honolulu,50922
+305,HI,Hilo,44186
+306,HI,Honolulu CDP,345510
+307,HI,Kahului,28219
+308,HI,Kailua (Honolulu Co.),40514
+309,HI,Kaneohe,37430
+310,HI,Kapolei,21474
+311,HI,Mililani Town,27562
+312,HI,Pearl City,45159
+313,HI,Waipahu,43485
+314,IA,Ames,66427
+315,IA,Cedar Rapids,137710
+316,IA,Council Bluffs,62799
+317,IA,Davenport,101724
+318,IA,Des Moines,214133
+319,IA,Dubuque,59667
+320,IA,Iowa City,74828
+321,IA,Sioux City,85797
+322,IA,Waterloo,67314
+323,ID,Boise City,235684
+324,ID,Caldwell,63629
+325,ID,Coeur d’Alene,54628
+326,ID,Idaho Falls,64618
+327,ID,Meridian,125963
+328,ID,Nampa,100200
+329,ID,Pocatello,56320
+330,ID,Rexburg,39409
+331,IL,Addison,35177
+332,IL,Algonquin,30134
+333,IL,Alton,25676
+334,IL,Arlington Heights,77676
+335,IL,Aurora,180542
+336,IL,Bartlett,40647
+337,IL,Batavia,26098
+338,IL,Belleville,41543
+339,IL,Berwyn,54585
+340,IL,Bloomington,78680
+341,IL,Bolingbrook,73922
+342,IL,Buffalo Grove,41496
+343,IL,Burbank (IL),28429
+344,IL,Calumet City,34345
+345,IL,Carol Stream,39854
+346,IL,Carpentersville,37983
+347,IL,Champaign,88302
+348,IL,Chicago,2746388
+349,IL,Chicago Heights,26450
+350,IL,Cicero,85268
+351,IL,Collinsville,24938
+352,IL,Crystal Lake,40269
+353,IL,Danville,29204
+354,IL,Decatur,70522
+355,IL,DeKalb,40290
+356,IL,Des Plaines,60675
+357,IL,Downers Grove,50247
+358,IL,East St. Louis,18469
+359,IL,Elgin,114797
+360,IL,Elmhurst,46746
+361,IL,Elk Grove Village,32812
+362,IL,Evanston,78110
+363,IL,Freeport,23973
+364,IL,Galesburg,30405
+365,IL,Glen Ellyn,28846
+366,IL,Glenview,48705
+367,IL,Granite City,27549
+368,IL,Gurnee,30706
+369,IL,Hanover Park,37973
+370,IL,Highland Park,30176
+371,IL,Hoffman Estates,50932
+372,IL,Joliet,150362
+373,IL,Kankakee,24052
+374,IL,Lake Forest,19367
+375,IL,Lake in the Hills,28982
+376,IL,Lansing (IL),27580
+377,IL,Lombard,44303
+378,IL,Marion,16903
+379,IL,Moline,42985
+380,IL,Mount Prospect,56852
+381,IL,Naperville,149540
+382,IL,New Lenox,27214
+383,IL,Normal,52736
+384,IL,North Chicago,30465
+385,IL,Northbrook,35222
+386,IL,O’Fallon,32289
+387,IL,Oak Lawn,58362
+388,IL,Oak Park,54583
+389,IL,Orland Park,58703
+390,IL,Ottawa,18840
+391,IL,Palatine,67908
+392,IL,Pekin,31731
+393,IL,Peoria,113150
+394,IL,Plainfield,44762
+395,IL,Quincy,39463
+396,IL,Rock Island,37108
+397,IL,Rockford,148655
+398,IL,Romeoville,39863
+399,IL,Round Lake Beach,27252
+400,IL,Schaumburg,78723
+401,IL,Skokie,67824
+402,IL,Springfield (IL),114394
+403,IL,St. Charles (IL),33081
+404,IL,Streamwood,39577
+405,IL,Tinley Park,55971
+406,IL,Urbana,38336
+407,IL,Vernon Hills,26850
+408,IL,Waukegan,89321
+409,IL,Wheaton,53270
+410,IL,Wheeling,38505
+411,IL,Wilmette,27087
+412,IL,Woodridge,34158
+413,IN,Anderson,54788
+414,IN,Bloomington (IN),79168
+415,IN,Carmel,99753
+416,IN,Elkhart,53923
+417,IN,Evansville,117298
+418,IN,Fishers,98977
+419,IN,Fort Wayne,263886
+420,IN,Gary,69093
+421,IN,Greenwood,64880
+422,IN,Hammond,77879
+423,IN,Indianapolis,887642
+424,IN,Kokomo,59604
+425,IN,Lafayette,70783
+426,IN,Lawrence,50154
+427,IN,Michigan City,31279
+428,IN,Mishawaka,51063
+429,IN,Muncie,65194
+430,IN,Noblesville,69604
+431,IN,South Bend,103453
+432,IN,Terre Haute,58389
+433,KS,Kansas City (KS),156607
+434,KS,Lawrence,94934
+435,KS,Lenexa,57434
+436,KS,Manhattan,54100
+437,KS,Olathe,141290
+438,KS,Overland Park,197238
+439,KS,Salina,46889
+440,KS,Shawnee,67311
+441,KS,Topeka,126587
+442,KS,Wichita,397532
+443,KY,Bowling Green,72294
+444,KY,Lexington-Fayette,321959
+445,KY,Louisville/Jefferson,633045
+446,KY,Owensboro,59809
+447,KY,Richmond (KY),36312
+448,KY,Jeffersontown,28474
+449,LA,Alexandria,45275
+450,LA,Baton Rouge,227470
+451,LA,Bossier City,62701
+452,LA,Hammond,20005
+453,LA,Kenner,66448
+454,LA,Lafayette,121374
+455,LA,Lake Charles,84872
+456,LA,Monroe,47702
+457,LA,New Iberia,28555
+458,LA,New Orleans,383997
+459,LA,Shreveport,187593
+460,MA,Arlington (MA),46308
+461,MA,Barnstable,48916
+462,MA,Boston,675647
+463,MA,Brockton,105643
+464,MA,Brookline,63191
+465,MA,Cambridge,118403
+466,MA,Chicopee,55560
+467,MA,Dartmouth,33783
+468,MA,Fall River,94000
+469,MA,Framingham,72362
+470,MA,Haverhill,67787
+471,MA,Lawrence (MA),89143
+472,MA,Lowell,115554
+473,MA,Lynn,101253
+474,MA,Malden,66263
+475,MA,Medford,59659
+476,MA,New Bedford,101079
+477,MA,Newton,88923
+478,MA,Peabody,54481
+479,MA,Pittsfield,43927
+480,MA,Plymouth,61217
+481,MA,Quincy,101636
+482,MA,Revere,62186
+483,MA,Salem (MA),44480
+484,MA,Somerville,81045
+485,MA,Springfield (MA),155929
+486,MA,Tauton,59408
+487,MA,Waltham,65218
+488,MA,Weymouth,57046
+489,MA,Worcester (MA),206518
+490,MD,Aspen Hill,51063
+491,MD,Baltimore,585708
+492,MD,Bethesda,68056
+493,MD,Bowie,58329
+494,MD,Columbia,104681
+495,MD,Dundalk,58955
+496,MD,Ellicott City,75947
+497,MD,Frederick,78171
+498,MD,Germantown,91249
+499,MD,Glen Burnie,72891
+500,MD,Potomac,45940
+501,MD,Rockville,67117
+502,MD,Silver Spring,81015
+503,MD,Towson,58329
+504,MD,Waldorf,81410
+505,MD,Wheaton,52150
+506,ME,Portland (ME),68313
+507,ME,Lewiston,37121
+508,ME,Bangor,31903
+509,MI,Ann Arbor,121536
+510,MI,Battle Creek,52721
+511,MI,Bay City,32661
+512,MI,Canton township,98659
+513,MI,Clinton township,100781
+514,MI,Dearborn,109976
+515,MI,Dearborn Heights,63292
+516,MI,Detroit,639111
+517,MI,East Lansing,47741
+518,MI,Farmington Hills,83986
+519,MI,Flint,96448
+520,MI,Grand Rapids,198917
+521,MI,Kalamazoo,73598
+522,MI,Kentwood,54304
+523,MI,Lansing,112644
+524,MI,Livonia,95535
+525,MI,Muskegon,38318
+526,MI,Novi,66243
+527,MI,Pontiac,61606
+528,MI,Redford township,49504
+529,MI,Rochester Hills,76300
+530,MI,Roseville (MI),47710
+531,MI,Royal Oak,58211
+532,MI,Saginaw,44202
+533,MI,Shelby township,80005
+534,MI,Southfield,76618
+535,MI,Sterling Heights,134346
+538,MI,Warren,139387
+539,MI,Westland,85420
+540,MN,Bloomington (MN),89987
+541,MN,Brooklyn Park,86478
+542,MN,Burnsville,64317
+543,MN,Coon Rapids,63771
+544,MN,Duluth,86697
+545,MN,Eagan,68855
+546,MN,Eden Prairie,64198
+547,MN,Maple Grove,70253
+548,MN,Minneapolis,429954
+549,MN,Plymouth (MN),81026
+550,MN,Rochester (MN),121395
+551,MN,Saint Paul,311527
+552,MN,St. Cloud,68881
+553,MN,Woodbury,75102
+554,MO,Blue Springs,58604
+555,MO,Columbia (MO),126254
+556,MO,Florissant,52533
+557,MO,Independence,123011
+558,MO,Joplin,51762
+559,MO,Kansas City (MO),508090
+560,MO,Lee’s Summit,101108
+561,MO,O’Fallon (MO),91316
+562,MO,Saint Charles,70493
+563,MO,Saint Joseph,72473
+564,MO,Saint Louis,301578
+565,MO,Saint Peters,58043
+566,MO,Springfield (MO),169724
+567,MS,Gulfport,72105
+568,MS,Hattiesburg,46862
+569,MS,Jackson,153701
+570,MS,Southaven,55000
+571,MT,Billings,117116
+572,MT,Bozeman,53293
+573,MT,Great Falls,60442
+574,MT,Helena,32091
+575,MT,Missoula,73489
+576,NC,Asheville,94589
+577,NC,Burlington (NC),57303
+578,NC,Cary,174721
+579,NC,Chapel Hill,61960
+580,NC,Charlotte,879709
+581,NC,Concord,105240
+582,NC,Durham,283506
+583,NC, Fayetteville (NC),208778
+584,NC,Greensboro,299946
+585,NC,Greenville (NC),87521
+586,NC,High Point,114059
+587,NC,Jacksonville (NC),72723
+588,NC,Raleigh,467665
+589,NC,Rocky Mount,54341
+590,NC,Wilmington (NC),115955
+591,NC,Winston-Salem,249545
+592,ND,Bismarck,73622
+593,ND,Fargo,125990
+594,ND,Grand Forks,59166
+595,ND,Minot,48377
+596,NE,Bellevue (NE),64176
+597,NE,Grand Island,53131
+598,NE,Kearney,33790
+599,NE,Lincoln,291082
+600,NE,Omaha,486051
+601,NE,Papillion,24784
+602,NH,Concord (NH),43976
+603,NH,Derry CDP,34317
+604,NH,Dover (NH),32741
+605,NH,Manchester (NH),115644
+606,NH,Nashua,91322
+607,NH,Rochester (NH),32492
+608,NJ,Bayonne,71686
+609,NJ,Bergenfield,34141
+610,NJ,Bloomfield,53105
+611,NJ,Brick,73620
+612,NJ,Camden,71791
+613,NJ,Cherry Hill township,74553
+614,NJ,Clifton,90296
+615,NJ,Edison,107588
+616,NJ,Elizabeth,137298
+617,NJ,Franklin township,68364
+618,NJ,Gloucester township,64634
+619,NJ,Hamilton township (Mercer),87065
+620,NJ,Hamilton township (Atlantic),26491
+621,NJ,Hoboken,60419
+622,NJ,Irvington,61176
+623,NJ,Jackson township,58544
+624,NJ,Jersey City,292449
+625,NJ,Kearny,41999
+626,NJ,Lakewood township,135158
+627,NJ,Lyndhurst,22519
+628,NJ,Middletown township,67106
+629,NJ,New Brunswick,55266
+630,NJ,Newark,311549
+631,NJ,North Bergen,63361
+632,NJ,Old Bridge,66876
+633,NJ,Parsippany-Troy Hills,56162
+634,NJ,Passaic,70537
+635,NJ,Paterson,159732
+636,NJ,Piscataway,60804
+637,NJ,Sayreville,45652
+638,NJ,Somerset CDP,24799
+639,NJ,Toms River,95438
+640,NJ,Trenton,90871
+641,NJ,Union City,68589
+642,NJ,Union township (Union),59728
+643,NJ,Vineland,60780
+644,NJ,Warren township,15313
+645,NJ,Willingboro,31889
+646,NJ,Woodbridge township,103639
+647,NM,Albuquerque,564559
+648,NM,Las Cruces,111385
+649,NM,Rio Rancho,104046
+650,NM,Roswell,48422
+651,NM,Santa Fe,87505
+652,NV,Carson City,58639
+653,NV,Enterprise,221831
+654,NV,Henderson,317610
+655,NV,Las Vegas,641903
+656,NV,North Las Vegas,262527
+657,NV,Paradise,191238
+658,NV,Reno,264165
+659,NV,Sparks,108445
+660,NV,Spring Valley,215597
+661,NV,Sunrise Manor,189372
+662,NV,Whitney,40667
+663,NV,Winchester,36403
+664,NY,Albany,99224
+665,NY,Amherst town,125000
+666,NY,Babylon town,217000
+667,NY,Bay Shore CDP,30343
+668,NY,Binghamton,47969
+669,NY,Brookhaven town,485000
+670,NY,Buffalo,278349
+671,NY,Cheektowaga,88119
+672,NY,Clarkstown town,86855
+673,NY,Clay town,60497
+674,NY,Colonie town,85590
+675,NY,Deer Park CDP,27953
+676,NY,East Meadow CDP,38132
+677,NY,Freeport village,43646
+678,NY,Greece town,95499
+679,NY,Greenburgh town,90000
+680,NY,Hempstead town,777000
+681,NY,Hempstead village,59169
+682,NY,Huntington town,204127
+683,NY,Irondequoit,50055
+684,NY,Islip town,333000
+685,NY,Ithaca,32108
+686,NY,Jamaica CDP,217000
+687,NY,Jamestown,28712
+688,NY,Levittown CDP,52575
+689,NY,Long Beach,33454
+690,NY,Mount Vernon,73893
+691,NY,New Rochelle,79726
+692,NY,New York City,8804190
+693,NY,Niagara Falls,48671
+694,NY,North Hempstead town,226322
+695,NY,Oyster Bay town,294000
+696,NY,Palm Tree town,41600
+697,NY,Perinton town,46462
+698,NY,Ramapo town,148000
+699,NY,Rochester,211328
+700,NY,Rome,32127
+701,NY,Rye town,48000
+702,NY,Schenectady,66135
+703,NY,Syracuse,148620
+704,NY,Tonawanda town,71000
+705,NY,Troy,50487
+706,NY,Utica,65283
+707,NY,Valley Stream,40000
+708,NY,Wallkill town,31800
+709,NY,West Seneca,44711
+710,NY,Yonkers,211569
+711,OH,AkrON,189347
+712,OH,Beavercreek,46549
+713,OH,Boardman CDP,35308
+714,OH,Canton,70872
+715,OH,Cincinnati,309317
+716,OH,Cleveland,372624
+717,OH,Colerain township,58499
+718,OH,Columbus,905748
+719,OH,Cuyahoga Falls,51114
+720,OH,Dayton,137644
+721,OH,Dublin,49328
+722,OH,Elyria,52656
+723,OH,Euclid,49692
+724,OH,Fairfield,42623
+725,OH,Findlay,40313
+726,OH,Grove City,41252
+727,OH,Hamilton (OH),63399
+728,OH,Hilliard,37195
+729,OH,Kettering,57862
+730,OH,Lakwood,50942
+731,OH,Lima,35579
+732,OH,Lorain,65211
+733,OH,Mansfield,47534
+734,OH,Mason,34790
+735,OH,Mentor,47450
+736,OH,Miami township (Montgomery),50735
+737,OH,Middletown,50987
+738,OH,Parma,81146
+739,OH,Riverside (OH),24474
+740,OH,Shaker Heights,29439
+741,OH,Springfield (OH),58662
+742,OH,Strongsville,46491
+743,OH,Toledo,270871
+744,OH,Upper Arlington,36800
+745,OH,Warren (OH),41558
+746,OH,Westerville,39190
+747,OH,Westlake,34228
+748,OH,Youngstown,60068
+749,OK,Bartlesville,37290
+750,OK,Broken Arrow,113540
+751,OK,Edmond,94428
+752,OK,Enid,49379
+753,OK,Lawton,90381
+754,OK,Moore,62793
+755,OK,Norman,128026
+756,OK,Oklahoma City,681054
+757,OK,Stillwater,48394
+758,OK,Tulsa,413066
+759,OR,Albany (OR),56472
+760,OR,Aloha CDP,55205
+761,OR,Beaverton,99037
+762,OR,Bend,99178
+763,OR,Corvallis,58028
+764,OR,Eugene,168302
+765,OR,Gresham,114247
+766,OR,Hillsboro,106447
+767,OR,Keizer,39376
+768,OR,Medford,85824
+769,OR,Portland,652503
+770,OR,Salem,175535
+771,OR,Springfield (OR),62353
+772,OR,Tigard,54539
+773,OR,Tualatin,27942
+774,PA,Abington township,55310
+775,PA,Allentown,125845
+776,PA,Altoona,43963
+777,PA,Bethlehem,75781
+778,PA,Bensalem township,62707
+779,PA,Chester,32626
+780,PA,Doylestown township,17332
+781,PA,Drexel Hill CDP,28043
+782,PA,Erie,94831
+783,PA,Harrisburg,50099
+784,PA,Haverford township,49213
+785,PA,Hempfield township,43241
+786,PA,Lancaster (PA),58039
+787,PA,Levittown CDP,52983
+788,PA,Lower Merion township,63633
+789,PA,Middletown township (Bucks),46040
+790,PA,Millcreek township,53515
+791,PA,Monroeville,28640
+792,PA,Mount Lebanon,33137
+793,PA,Philadelphia,1603797
+794,PA,Pittsburgh,302205
+795,PA,Plum,27135
+796,PA,Redding,95112
+797,PA,Ross township,31105
+798,PA,Scranton,76328
+799,PA,State College,40501
+800,PA,Tredyffrin township,29332
+801,PA,Upper Darby township,85681
+802,PA,Warminster township,32373
+803,PA,Williamsport,27754
+804,RI,Cranston,82934
+805,RI,East Providence,47139
+806,RI,Pawtucket,75604
+807,RI,Providence,190934
+808,RI,Warwick,82823
+809,RI,Woonsocket,43240
+810,SC,Anderson (SC),28908
+811,SC,Charleston,150227
+812,SC,Columbia (SC),136632
+813,SC,Florence,39899
+814,SC,Goose Creek,45946
+815,SC,Greenville (SC),70720
+816,SC,Hilton Head Island,37661
+817,SC,Mount Pleasant,90801
+818,SC,Myrtle Beach,35826
+819,SC,North Charleston,114852
+820,SC,Rock Hill,74372
+821,SC,Spartanburg,38401
+822,SC,Summerville,52549
+823,SC,Sumter,42976
+824,SD,Rapid City,74703
+825,SD,Sioux Falls,192517
+826,TN,Chattanooga,181099
+827,TN,Clarksville,166722
+828,TN,Franklin (TN),83454
+829,TN,Hendersonville,61753
+830,TN,Jackson (TN),68205
+831,TN,Johnson City,71046
+832,TN,Knoxville,190740
+833,TN,Murfreesboro,152769
+834,TN,Nashville-Davidson,715884
+835,TN,Spring Hill,50005
+836,TN,Smyrna,55663
+837,TX,Abilene,125182
+838,TX,Allen,111876
+839,TX,Amarillo,200393
+840,TX,Arlington,394266
+841,TX,Atascocita CDP,93874
+842,TX,Austin,961855
+843,TX,Baytown,77192
+844,TX,Beaumont,115282
+845,TX,Brownsville,188281
+846,TX,Bryan,85732
+847,TX,Carrollton,133434
+848,TX,Cedar Park,77595
+849,TX,College Station,120511
+850,TX,Conroe,98081
+851,TX,Corpus Christi,317863
+852,TX,Dallas,1288457
+853,TX,Denton,139869
+854,TX,DeSoto,56831
+855,TX,Edinburg,101233
+856,TX,El Paso,678415
+857,TX,Flower Mound,77243
+858,TX,Fort Worth,918915
+859,TX,Frisco,210719
+860,TX,Galveston,53695
+861,TX,Garland,246018
+862,TX,Georgetown,79604
+863,TX,Grand Prairie,200640
+864,TX,Harlingen,71920
+865,TX,Houston,2304580
+866,TX,Huntsville (TX),45941
+867,TX,Irving,256684
+868,TX,Killeen,153095
+870,TX,League City,114392
+871,TX,Leander,81000
+872,TX,Longview,81638
+873,TX,Lubbock,258870
+874,TX,McAllen,142210
+875,TX,McKinney,202690
+876,TX,Mansfield,75697
+877,TX,Mesquite,147691
+878,TX,Midland,132524
+879,TX,Mission,86223
+880,TX,Missouri City,74557
+881,TX,New Braunfels,104707
+882,TX,North Richland Hills,70670
+883,TX,Odessa,114428
+884,TX,Pasadena (TX),152171
+885,TX,Pearland,125817
+886,TX,Pharr,79112
+887,TX,Plano,285537
+888,TX,Port Arthur,55510
+889,TX,Richardson,119469
+890,TX,Round Rock,119468
+891,TX,San Angelo,99893
+892,TX,San Antonio,1451853
+893,TX,San Marcos,67553
+894,TX,Sugar Land,111026
+895,TX,Temple,82073
+896,TX,Tyler,105995
+897,TX,Victoria,62500
+898,TX,Waco,139594
+899,TX, Wichita Falls,102316
+900,UT,Lehi,79867
+901,UT,Logan,55934
+902,UT,Ogden,87321
+903,UT,Orem,98129
+904,UT,Provo,115162
+905,UT,St. George,95342
+906,UT,Salt Lake City,200133
+907,UT,Sandy,96904
+908,UT,South Jordan,80113
+909,UT,Taylorsville,60448
+910,UT,West Jordan,116961
+911,UT,West Valley City,140230
+912,VA,Alexandria,159467
+913,VA,Arlington CDP,238643
+914,VA,Chesapeake,249422
+915,VA,Dale City CDP,73470
+916,VA,Fredericksburg,28622
+917,VA,Hampton,137148
+918,VA,Harrisonburg,51814
+919,VA,Leesburg,48250
+920,VA,Lynchburg,79009
+921,VA,Newport News,186247
+922,VA,Norfolk,238005
+923,VA,Portsmouth,97915
+924,VA,Reston CDP,63226
+925,VA,Richmond,226604
+926,VA,Roanoke,100011
+927,VA,Suffolk,94324
+928,VA,Virginia Beach,450349
+929,VA,Winchester,28136
+930,WA,Auburn (WA),87256
+931,WA,Bellevue,151854
+932,WA,Bellingham,91610
+933,WA,Bremerton,46941
+934,WA,Everett,110629
+935,WA,Federal Way,101030
+936,WA,Kennewick,83921
+937,WA,Kent,136588
+938,WA,Kirkland,92175
+939,WA,Lacey,52592
+940,WA,Lakewood (WA),63612
+941,WA,Pasco,77108
+942,WA,Renton,106785
+943,WA,Richland,60560
+944,WA,Sammamish,67455
+945,WA,Seattle,737015
+946,WA,Shoreline,57904
+947,WA,Spokane,228989
+948,WA,Spokane Valley,102976
+949,WA,Tacoma,219346
+950,WA,Vancouver (WA),190915
+951,WA,Wenatchee,35508
+952,WA,Yakima,96968
+953,WI,Appleton,75644
+954,WI,Eau Claire,69421
+955,WI,Green Bay,107015
+956,WI,Janesville,65615
+957,WI,Kenosha,99986
+958,WI,La Crosse,52680
+959,WI,Madison,269840
+960,WI,Milwaukee,577222
+961,WI,Oshkosh,66816
+962,WI,Racine,77816
+963,WI,Sheboygan,49929
+964,WI,Waukesha,71158
+965,WI,Wauwatosa,48387
+966,WI,West Allis,60325
+967,WV,Charleston (WV),48864
+968,WV,Huntington,46842
+969,WV,Morgantown,30953
+970,WV,Parkersburg,29749
+971,WY,Casper,59038
+972,WY,Cheyenne,65132
+973,WY,Gillette,34267
+974,WY,Laramie,32473
