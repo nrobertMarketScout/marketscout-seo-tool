@@ -1,48 +1,133 @@
 // backend/api/bot.js
-const express = require('express')
-const router = express.Router()
-const fs = require('fs')
-const path = require('path')
-const { Configuration, OpenAIApi } = require('openai')
-const { getRelevantChunks } = require('../utils/embeddings')
-const { querySerpAPI } = require('../utils/serpapi')
+import express from 'express';
+import fs from 'fs/promises';
+import path from 'path';
+import Papa from 'papaparse';
+import { OpenAI } from 'openai';
+import { fetchMapsResults } from '../lib/serpapi_client.js';
+import { auditAndScore } from '../lib/audit_and_score.js';
 
-const openai = new OpenAIApi(
-  new Configuration({ apiKey: process.env.OPENAI_API_KEY })
-)
+
+const router = express.Router();
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+const SERVICES_CSV = path.join(process.cwd(), 'services_list.csv');
+const OUTPUT_CSV = path.join(process.cwd(), 'combined_opportunity_matrix.csv');
 
 router.post('/', async (req, res) => {
-  const question = req.body.question
-  if (!question) return res.status(400).json({ error: 'Missing question' })
+  const { question } = req.body;
+  if (!question) return res.status(400).json({ error: 'Missing question' });
 
   try {
-    const chunks = await getRelevantChunks(question)
+    // Step 1: Load master list of niches
+    const raw = await fs.readFile(SERVICES_CSV, 'utf-8');
+    const services = raw.split('\n').map(line => line.trim()).filter(Boolean);
 
-    let answer = ''
-    if (chunks.length > 0) {
-      const context = chunks.join('\n---\n').slice(0, 12000) // token safety
-      const response = await openai.createChatCompletion({
-        model: 'gpt-4o',
-        messages: [
-          { role: 'system', content: 'You are a helpful Rank & Rent Expert.' },
-          {
-            role: 'user',
-            content: `Using the following context:\n${context}\n\nAnswer: ${question}`
-          }
-        ],
-        temperature: 0.4
-      })
-      answer = response.data.choices[0].message.content
-    } else {
-      const fallback = await querySerpAPI(question)
-      answer = `Transcript match not found. Here’s what I found online:\n\n${fallback}`
+    // Step 2: Ask GPT to extract {city + matching niches}
+    const chat = await openai.chat.completions.create({
+      model: 'gpt-4',
+      messages: [
+        {
+          role: 'system',
+          content: `You are a niche matching engine for a rank & rent SEO platform.
+    
+    Extract the U.S. city and all matching services from the provided list of known niches.
+    Match only exact or partial terms from the list — do not generate new services.
+    
+    Respond using the function format provided.`
+        },
+        {
+          role: 'user',
+          content: `Query: ${question}
+    
+    Valid niches:
+    ${services.join(', ')}`
+        }
+      ],
+      functions: [{
+        name: 'set_location_and_niches',
+        parameters: {
+          type: 'object',
+          properties: {
+            location: { type: 'string' },
+            niches: { type: 'array', items: { type: 'string' } }
+          },
+          required: ['location', 'niches']
+        }
+      }],
+      function_call: { name: 'set_location_and_niches' }
+    });
+    
+
+    const parsed = JSON.parse(chat.choices[0].message.function_call.arguments || '{}');
+    const { location, niches } = parsed;
+
+    if (!location || !niches?.length) {
+      return res.json({ text: 'Could not extract location and valid niches from your question.' });
     }
 
-    res.json({ answer, chunks })
-  } catch (err) {
-    console.error('❌ Bot error:', err)
-    res.status(500).json({ error: 'Internal server error' })
-  }
-})
+    // Step 3: Prepare scrape input
+    const inputCSV = [
+      'Group,Keyword,Location',
+      ...niches.map(niche => `"${niche}","${niche} ${location}","${location}"`)
+    ].join('\n');
+    await fs.writeFile(path.join(process.cwd(), 'data', 'input.csv'), inputCSV);
 
-module.exports = router
+    // Step 4: Run scrape
+    const allResults = [];
+
+    for (const niche of niches) {
+      const keyword = `${niche} ${location}`;
+      const results = await fetchMapsResults(keyword, location);
+
+      for (const r of results) {
+        allResults.push({
+          Group: niche,
+          Keyword: keyword,
+          Location: location,
+          Name: r.title || '',
+          Rating: r.rating || '',
+          Reviews: r.rating_total || '',
+          Address: r.address || '',
+          Phone: r.phone_number || '',
+          PlaceId: r.place_id || '',
+          Website: r.website || '',
+          Latitude: r.gps_coordinates?.latitude ?? '',
+          Longitude: r.gps_coordinates?.longitude ?? ''
+        });
+      }
+    }
+
+    // Step 5: Score and summarize
+    const summary = auditAndScore(allResults);
+    const scoreMap = {};
+    for (const row of summary) {
+      scoreMap[`${row.Keyword}::${row.Location}`] = row.OpportunityScore;
+    }
+
+    const finalResults = allResults.map(entry => ({
+      ...entry,
+      'Opportunity Score': scoreMap[`${entry.Keyword}::${entry.Location}`] || 0
+    }));
+
+    const topResults = finalResults
+      .sort((a, b) => b['Opportunity Score'] - a['Opportunity Score'])
+      .slice(0, 10);
+
+    // Step 6: Write output CSV
+    await fs.writeFile(OUTPUT_CSV, Papa.unparse(finalResults, { quotes: true }));
+
+    // ✅ Return to frontend
+    return res.json({
+      summary: `Top niches in ${location}: ${topResults.map(r => r.Group).join(', ')}`,
+      location,
+      niches,
+      csv: '/data/combined_opportunity_matrix.csv'
+    });
+  } catch (err) {
+    console.error('❌ /api/bot error:', err);
+    res.status(500).json({ error: 'Failed to process bot request.' });
+  }
+});
+
+export default router;

@@ -1,24 +1,29 @@
 // backend/utils/serpapi.js
-const axios = require('axios')
+import fetch from 'node-fetch';
 
-async function querySerpAPI(question) {
-  const params = {
-    q: question,
-    api_key: process.env.SERPAPI_API_KEY,
-    engine: 'google',
-    num: 3
-  }
+const SERP_API_KEY = process.env.SERPAPI_API_KEY;
 
-  try {
-    const response = await axios.get('https://serpapi.com/search', { params })
-    const snippets = response.data.organic_results
-      ?.map(r => `• ${r.title}: ${r.snippet}`)
+export async function querySerpAPI(query) {
+  const url = `https://serpapi.com/search.json?q=${encodeURIComponent(query)}&engine=google_maps&api_key=${SERP_API_KEY}`;
+
+  const res = await fetch(url);
+  if (!res.ok) throw new Error('SerpAPI fetch failed');
+  const data = await res.json();
+
+  const results = (data?.local_results || []).map(biz => ({
+    name: biz.title,
+    address: biz.address,
+    phone: biz.phone,
+    website: biz.website,
+    rating: biz.rating,
+    reviews: biz.reviews,
+    type: biz.type,
+    latitude: biz.gps_coordinates?.latitude,
+    longitude: biz.gps_coordinates?.longitude,
+  }));
+
+  return results.length
+    ? results.map(b => `- ${b.name}, ${b.address || 'no address'}, ${b.rating || 'no rating'} (${b.reviews || 0} reviews)`)
       .join('\n')
-    return snippets || 'No useful results from Google Search.'
-  } catch (err) {
-    console.error('❌ SerpAPI error:', err)
-    return 'SerpAPI request failed.'
-  }
+    : 'No local results found.';
 }
-
-module.exports = { querySerpAPI }

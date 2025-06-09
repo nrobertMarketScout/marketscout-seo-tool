@@ -16,16 +16,29 @@ const PORT = process.env.PORT || 3001
 app.use(cors())
 app.use(express.json())
 
-import runRoute from './api/run.js' // ← adjust path if in different folder
+// Register routes
+import runRoute from './api/run.js'
 app.use('/api/run', runRoute)
 
-import resultsRoute from './api/results.js';
-app.use('/api/results', resultsRoute);
+import resultsRoute from './api/results.js'
+app.use('/api/results', resultsRoute)
 
-import summaryRoute from './api/summary.js';
-app.use('/api/summary', summaryRoute);
+import summaryRoute from './api/summary.js'
+app.use('/api/summary', summaryRoute)
 
+import matrixRoute from './api/matrix.js'
+app.use('/api/matrix', matrixRoute)
 
+import heatmapRoute from './api/heatmap.js'
+app.use('/api/heatmap', heatmapRoute)
+
+import botRoute from './api/bot.js'
+app.use('/api/bot', botRoute)
+
+import ingestRoute from './api/ingest.js' // ✅ NEW
+app.use('/api/ingest', ingestRoute)       // ✅ NEW
+
+// Vector config
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY })
 const encoder = encoding_for_model('gpt-4')
 
