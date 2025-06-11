@@ -1,68 +1,46 @@
-/* eslint-disable camelcase */
 import { Router } from 'express';
 import path from 'path';
-import fs from 'fs/promises';
+import fs from 'fs';              // stream methods
+import fsp from 'fs/promises';    // promise helpers
 import { fileURLToPath } from 'url';
 import slugify from 'slugify';
 import { nanoid } from 'nanoid';
+import archiver from 'archiver';
 import SiteContentChain from '../services/SiteContentChain.js';
 
 const router = Router();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname  = path.dirname(__filename);
+const sitesDir   = path.join(process.cwd(), 'sites');
 
-// helpers ----------------------------------------------------
-function htmlTemplate({ seo_title, meta_description, heading, intro_section, phone }) {
-  return `<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>${seo_title}</title>
-  <meta name="description" content="${meta_description}">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.4/dist/tailwind.min.css" rel="stylesheet">
-</head>
-<body class="bg-gray-50 font-sans leading-relaxed tracking-wide p-8">
-  <main class="max-w-3xl mx-auto bg-white rounded-2xl shadow-md p-10">
-    <h1 class="text-3xl font-bold text-indigo-600 mb-4">${heading}</h1>
-    <p class="text-gray-800 mb-6">${intro_section}</p>
-    <a href="tel:${phone}" class="inline-flex items-center px-6 py-3 rounded-full bg-indigo-600 text-white font-semibold shadow hover:bg-indigo-700 transition">
-      Call Now → ${phone}
-    </a>
-  </main>
-</body>
-</html>`;
+// helper – write a file
+async function writeFile(outPath, html) {
+  await fsp.mkdir(path.dirname(outPath), { recursive: true });
+  await fsp.writeFile(outPath, html, 'utf8');
 }
 
-// POST /api/site ------------------------------------------------
+/* ------------------------------------------------------------------ *
+ *  POST /api/site        → one-pager (“lite”)
+ *  POST /api/site/full   → multi-page site + ZIP
+ * ------------------------------------------------------------------ */
+
+// 1 · Lite
 router.post('/', async (req, res) => {
   try {
     const { city, niche, competitors, phone, writingStyle = 'professional' } = req.body;
+    if (!city || !niche) return res.status(400).json({ error: 'city & niche required' });
 
-    if (!city || !niche) {
-      return res.status(400).json({ error: 'city and niche are required' });
-    }
+    const slug = slugify(`${city}-${niche}-${nanoid(6)}`, { lower: true });
+    const html = await SiteContentChain({ city, niche, competitors, phone, writingStyle, pageType: 'index' });
 
-    // 1) use LangChain SiteContentChain (RAG over transcripts + competitor notes)
-    const content = await SiteContentChain({ city, niche, competitors, phone, writingStyle });
+    await writeFile(path.join(sitesDir, `${slug}.html`), html);
 
-    // 2) build HTML
-    const html = htmlTemplate({ ...content, phone });
-
-    // 3) persist for download / preview
-    const slug   = slugify(`${city}-${niche}-${nanoid(6)}`, { lower: true });
-    const outDir = path.join(process.cwd(), 'sites');
-    await fs.mkdir(outDir, { recursive: true });
-    const filePath = path.join(outDir, `${slug}.html`);
-    await fs.writeFile(filePath, html, 'utf8');
-
-    // 4) respond
     res.json({
-      success: true,
+      success    : true,
       slug,
-      downloadUrl: `/api/site/download/${slug}`,
       previewUrl : `/sites/${slug}.html`,
-      content    // front-end may show generated fields
+      downloadUrl: `/api/site/download/${slug}`,
+      content    : html
     });
   } catch (err) {
     console.error(err);
@@ -70,27 +48,92 @@ router.post('/', async (req, res) => {
   }
 });
 
-// GET /api/site/download/:slug  -------------------------------
-router.get('/download/:slug', async (req, res) => {
+// 2 · Full-site
+router.post('/full', async (req, res) => {
   try {
-    const { slug } = req.params;
-    const filePath = path.join(process.cwd(), 'sites', `${slug}.html`);
-    res.download(filePath, `${slug}.html`);
+    const { city, niche, competitors, phone, writingStyle = 'professional' } = req.body;
+    if (!city || !niche) return res.status(400).json({ error: 'city & niche required' });
+
+    const slug      = slugify(`${city}-${niche}-${nanoid(6)}`, { lower: true });
+    const fullDir   = path.join(sitesDir, 'full', slug);
+    const pages     = ['index', 'services', 'about', 'contact'];
+    const pageFiles = [];
+
+    for (const page of pages) {
+      const html = await SiteContentChain({ city, niche, competitors, phone, writingStyle, pageType: page });
+      const file = path.join(fullDir, `${page}.html`);
+      await writeFile(file, html);
+      pageFiles.push(file);
+    }
+
+    // zip it
+    const zipPath = path.join(sitesDir, 'full', `${slug}.zip`);
+    await new Promise((resolve, reject) => {
+      const output  = fs.createWriteStream(zipPath);
+      const archive = archiver('zip', { zlib: { level: 9 } });
+      archive.pipe(output);
+      pageFiles.forEach((file) => archive.file(file, { name: path.basename(file) }));
+      archive.finalize();
+      output.on('close', resolve);
+      archive.on('error', reject);
+    });
+
+    res.json({
+      success    : true,
+      slug,
+      previewUrl : `/sites/full/${slug}/index.html`,
+      downloadUrl: `/api/site/full/download/${slug}`,
+      zipUrl     : `/sites/full/${slug}.zip`
+    });
   } catch (err) {
-    res.status(404).json({ error: 'File not found' });
-  }
-});
-// GET /api/site/source/:slug  -------------------------------
-router.get('/source/:slug', async (req, res) => {
-  try {
-    const { slug } = req.params;
-    const filePath = path.join(process.cwd(), 'sites', `${slug}.html`);
-    const html     = await fs.readFile(filePath, 'utf8');
-    res.type('text/plain').send(html);
-  } catch (err) {
-    res.status(404).send('Source not found');
+    console.error(err);
+    res.status(500).json({ error: 'Full-site generation failed' });
   }
 });
 
+// download endpoints
+router.get('/download/:slug', (req, res) => {
+  res.download(path.join(sitesDir, `${req.params.slug}.html`));
+});
+router.get('/full/download/:slug', (req, res) => {
+  res.download(path.join(sitesDir, 'full', `${req.params.slug}.zip`));
+});
+
+ // plain-text source – one-pager
+ router.get('/source/:slug', async (req, res) => {
+   const file = path.join(sitesDir, `${req.params.slug}.html`);
+   try {
+     const html = await fsp.readFile(file, 'utf8');
+     res.type('text/plain').send(html);
+   } catch {
+     res.status(404).send('Source not found');
+   }
+ });
+
+ // plain-text source – full-site specific page
+ router.get('/source/:slug/:page', async (req, res) => {
+   const { slug, page } = req.params;
+   const file = path.join(sitesDir, 'full', slug, `${page}.html`);
+   try {
+     const html = await fs.readFile(file, 'utf8');
+     res.type('text/plain').send(html);
+   } catch {
+     res.status(404).send('Source not found');
+   }
+ });
+
+// competitor pre-fill
+import summaryRouter from '../api/summary.js';
+router.get('/competitors', async (req, res) => {
+  const { city, niche } = req.query;
+  try {
+    const data = await summaryRouter.getSummaryJSON();             // helper exported in summary route
+    const rows = data.filter(r => r.Location === city && r.Group === niche);
+    const urls = [...new Set(rows.map(r => r.Website).filter(Boolean))].slice(0, 3);
+    res.json({ urls });
+  } catch {
+    res.json({ urls: [] });
+  }
+});
 
 export default router;
