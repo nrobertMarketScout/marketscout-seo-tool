@@ -10,6 +10,7 @@ import { OpenAI } from 'openai';
 import { cosineSimilarity } from './utils/math.js';
 import { encoding_for_model } from 'tiktoken';
 
+
 const app  = express();
 const PORT = process.env.PORT || 3001;
 
@@ -51,6 +52,10 @@ app.use('/api/ingest', ingestRoute);        // (already in your code)
 import siteRoute    from './routes/site.js';        // ✅ NEW
 app.use('/api/site', siteRoute);                    // ✅ NEW
 // ------------------------------------------------------------
+
+import cloudUpload from './routes/uploads/cloudinary.js';
+app.use('/api/uploads', cloudUpload);
+
 
 // ---------------- vector / /ask endpoint --------------------
 const openai  = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });

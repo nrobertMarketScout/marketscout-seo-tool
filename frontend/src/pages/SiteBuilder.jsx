@@ -2,29 +2,35 @@ import React, { useState, useEffect } from 'react';
 import Select from 'react-select';
 import SideNav from '@/components/SideNav';
 import HelpTip from '@/components/HelpTip';
+import HeroEditor from '@/components/HeroEditor';           // ⬅️ new modal
 
 export default function SiteBuilder () {
-  /* form state */
+  /* form state ----------------------------------------------------------- */
   const [city, setCity] = useState(null);
   const [niche, setNiche] = useState(null);
   const [phone, setPhone] = useState('');
   const [mode, setMode] = useState('lite');
   const [competitors, setComp] = useState('');
+
   const [metaKw, setMetaKw] = useState('');
   const [ogTitle, setOgTitle] = useState('');
   const [ogDesc, setOgDesc] = useState('');
   const [schema, setSchema] = useState(false);
 
-  /* dropdown data */
+  /* hero-section state */
+  const [hero, setHero] = useState({ image: '', heading: '', sub: '' });
+  const [showHero, setShowHero] = useState(false);
+
+  /* options -------------------------------------------------------------- */
   const [cityOpts, setCityOpts] = useState([]);
   const [nicheOpts, setNicheOpts] = useState([]);
 
-  /* result */
+  /* generation result */
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
   const apiBase = 'http://localhost:3001';
 
-  /* load city & niche lists once */
+  /* load City + Niche lists once */
   useEffect(() => {
     async function load () {
       const c = await fetch('/api/meta/cities').then(r => r.json());
@@ -35,7 +41,7 @@ export default function SiteBuilder () {
     load();
   }, []);
 
-  /* helpers */
+  /* tiny helper ---------------------------------------------------------- */
   const TextInput = ({ label, val, setVal }) => (
     <div>
       <label className="mb-1 block text-sm font-semibold text-gray-700">{label}</label>
@@ -44,6 +50,7 @@ export default function SiteBuilder () {
     </div>
   );
 
+  /* generate site -------------------------------------------------------- */
   async function generate () {
     if (!city || !niche) return alert('Choose a city and niche');
     setLoading(true);
@@ -52,7 +59,9 @@ export default function SiteBuilder () {
       const payload = {
         city: city.value,
         niche: niche.value,
-        phone, competitors,
+        phone,
+        competitors,
+        hero,                           // ⬅️ pass hero block
         writingStyle: 'professional',
         meta_keywords: metaKw,
         og_title: ogTitle,
@@ -60,7 +69,8 @@ export default function SiteBuilder () {
         schema_toggle: schema
       };
       const res = await fetch(endpoint, {
-        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
       }).then(r => r.json());
       if (!res.success) throw new Error(res.error || 'Generation failed');
@@ -68,7 +78,7 @@ export default function SiteBuilder () {
     } catch (err) { alert(err.message); } finally { setLoading(false); }
   }
 
-  /* ───────────────────────── UI ───────────────────────── */
+  /* ui ------------------------------------------------------------------- */
   return (
     <div className="flex min-h-screen">
       <SideNav />
@@ -76,10 +86,19 @@ export default function SiteBuilder () {
       <div className="flex-1 overflow-y-auto bg-gradient-to-br from-[#0052ff] via-[#306dff] to-[#4782ff] py-12 px-4 sm:px-8">
         <div className="mx-auto max-w-5xl">
 
+          {/* hero editor button */}
+          <div className="mb-4 text-right">
+            <button onClick={() => setShowHero(true)}
+              className="rounded-lg bg-gray-200 px-4 py-2 text-sm font-medium shadow hover:bg-gray-300">
+              ✏️ Edit Hero Section
+            </button>
+          </div>
+
+          {/* main card */}
           <div className="rounded-3xl bg-white/95 backdrop-blur shadow-2xl">
             <div className="space-y-8 p-8 sm:p-12">
 
-              {/* city/niche/phone/mode */}
+              {/* row 1 ------------------------------------------------------ */}
               <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
                 <div>
                   <label className="mb-1 block text-sm font-semibold text-gray-700">City</label>
@@ -102,14 +121,14 @@ export default function SiteBuilder () {
                 </div>
               </div>
 
-              {/* competitors */}
+              {/* competitors ------------------------------------------------ */}
               <div>
                 <label className="mb-1 block text-sm font-semibold text-gray-700">Top Competitor URLs (optional)</label>
                 <textarea rows={3} value={competitors} onChange={e => setComp(e.target.value)}
                   className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:border-indigo-500 focus:ring-indigo-500" />
               </div>
 
-              {/* SEO / Social */}
+              {/* SEO / OG --------------------------------------------------- */}
               <fieldset className="rounded-2xl border border-gray-200 p-6">
                 <legend className="px-2 text-sm font-semibold text-gray-700">SEO / Social</legend>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
@@ -130,6 +149,7 @@ export default function SiteBuilder () {
                 </label>
               </fieldset>
 
+              {/* generate button ------------------------------------------- */}
               <button onClick={generate} disabled={loading}
                 className="w-full rounded-xl bg-gradient-to-r from-indigo-600 to-blue-600 py-3 font-semibold text-white shadow-lg hover:opacity-90">
                 {loading ? 'Generating…' : 'Generate Site'}
@@ -137,12 +157,13 @@ export default function SiteBuilder () {
             </div>
           </div>
 
-          {/* result pane */}
+          {/* result pane --------------------------------------------------- */}
           {result && (
             <div className="mt-8 space-y-4 rounded-3xl bg-white/95 p-8 shadow-lg backdrop-blur">
               <h2 className="text-xl font-semibold text-gray-800">Generated Site</h2>
               <div className="flex flex-wrap gap-3">
-                <a href={result.downloadUrl} className="rounded-lg bg-gray-200 px-4 py-2 text-gray-800 shadow hover:bg-gray-300">Download</a>
+                <a href={result.downloadUrl}
+                  className="rounded-lg bg-gray-200 px-4 py-2 text-gray-800 shadow hover:bg-gray-300">Download</a>
                 <a href={`${apiBase}${result.previewUrl}`} target="_blank" rel="noopener noreferrer"
                   className="rounded-lg bg-indigo-600 px-4 py-2 text-white shadow hover:bg-indigo-700">Preview</a>
                 {mode === 'lite'
@@ -165,6 +186,15 @@ export default function SiteBuilder () {
 
         </div>
       </div>
+
+      {/* hero editor modal */}
+      {showHero && (
+        <HeroEditor
+          value={hero}
+          onChange={setHero}
+          onClose={() => setShowHero(false)}
+        />
+      )}
     </div>
   );
 }
