@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{businessName}}",
+  {{#if phone}}"telephone": "{{phone}}",{{/if}}
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{city}}",
+    "addressRegion": "{{state}}",
+    "addressCountry": "US"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "{{city}}"
+  },
+  "serviceType": "{{niche}}",
+  "url": "{{url}}"
+}
+</script>
