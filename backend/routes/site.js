@@ -136,4 +136,15 @@ router.get('/competitors', async (req, res) => {
   }
 });
 
+
+router.post('/bundle', async (req, res) => {
+  try {
+    const result = await generateBundle(req.body);
+    res.json({ success: true, ...result });
+  } catch (err) {
+    console.error('/bundle error', err.message);
+    res.status(501).json({ success: false, error: err.message });
+  }
+});
+
 export default router;
