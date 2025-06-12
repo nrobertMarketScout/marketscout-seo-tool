@@ -1,30 +1,43 @@
 import fs from 'fs/promises';
 import path from 'path';
+import { fileURLToPath } from 'url';
 import Handlebars from 'handlebars';
 import slugify from '../utils/slugify.js';
 
-/* register partials once */
-const tplDir = path.join(path.dirname(import.meta.url.replace('file://', '')), '..', 'templates');
-const heroTpl     = Handlebars.compile(await fs.readFile(path.join(tplDir, 'hero.hbs'), 'utf8'));
-const servicesTpl = Handlebars.compile(await fs.readFile(path.join(tplDir, 'services.hbs'), 'utf8'));
-const baseTpl     = Handlebars.compile(await fs.readFile(path.join(tplDir, 'base.hbs'), 'utf8'));
+/* ---------- resolve templates dir safely ---------- */
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const tplDir    = path.join(__dirname, '..', 'templates');
+
+/* ---------- compile partials ---------- */
+const heroTpl     = Handlebars.compile(
+  await fs.readFile(path.join(tplDir, 'hero.hbs'), 'utf8')
+);
+const servicesTpl = Handlebars.compile(
+  await fs.readFile(path.join(tplDir, 'services.hbs'), 'utf8')
+);
+const baseTpl     = Handlebars.compile(
+  await fs.readFile(path.join(tplDir, 'base.hbs'), 'utf8')
+);
 
 export default async function buildSections(payload) {
-  const { city, niche, hero, services } = payload;
+  const { city, niche, hero, services = [] } = payload;
 
-  const heroHTML     = heroTpl({ hero });
-  const servicesHTML = services?.length ? servicesTpl({ services }) : '';
+  const bodyHTML = [
+    heroTpl({ hero }),
+    services.length ? servicesTpl({ services }) : ''
+  ].join('\n');
 
-  const html = baseTpl({
-    title : `${niche} in ${city}`,
-    body  : `${heroHTML}\n${servicesHTML}`
+  const page = baseTpl({
+    title: `${niche} in ${city}`,
+    body : bodyHTML
   });
 
-  /* write to dist/<slug>/index.html */
+  /* ---------- write to /uploads/<slug>/index.html ---------- */
   const slug = slugify(`${city}-${niche}`);
   const dist = path.join(process.cwd(), 'uploads', slug);
   await fs.mkdir(dist, { recursive: true });
-  await fs.writeFile(path.join(dist, 'index.html'), html, 'utf8');
+  const indexPath = path.join(dist, 'index.html');
+  await fs.writeFile(indexPath, page, 'utf8');
 
-  return { slug, indexPath: path.join(dist, 'index.html') };
+  return { slug, indexPath };
 }

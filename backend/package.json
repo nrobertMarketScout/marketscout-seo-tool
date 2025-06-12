@@ -8,6 +8,7 @@
     "generate": "node generate_embeddings.js"
   },
   "dependencies": {
+    "archiver": "^7.0.1",
     "axios": "^1.9.0",
     "cloudinary": "^2.6.1",
     "cors": "^2.8.5",

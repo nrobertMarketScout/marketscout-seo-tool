@@ -3,10 +3,11 @@ import Select from 'react-select';
 import SideNav from '@/components/SideNav';
 import HelpTip from '@/components/HelpTip';
 import HeroEditor from '@/components/HeroEditor';
-import ServiceSelector from '@/components/ServiceSelectorInline';   // ⬅️ new import
+import ServiceSelector from '@/components/ServiceSelectorInline';
+import { buildSiteBundle } from '@/api/site';
 
 export default function SiteBuilder () {
-  /* ─── state ─────────────────────────────────────────────────────────── */
+  /* ---- state ---- */
   const [city, setCity] = useState(null);
   const [niche, setNiche] = useState(null);
   const [phone, setPhone] = useState('');
@@ -28,9 +29,8 @@ export default function SiteBuilder () {
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
   const resultRef = useRef(null);
-  const apiBase = 'http://localhost:3001';
 
-  /* ─── load picklists ────────────────────────────────────────────────── */
+  /* ---- load picklists ---- */
   useEffect(() => {
     (async () => {
       const c = await fetch('/api/meta/cities').then(r => r.json());
@@ -40,10 +40,10 @@ export default function SiteBuilder () {
     })();
   }, []);
 
-  /* auto-scroll */
+  /* ---- auto-scroll ---- */
   useEffect(() => { result && resultRef.current?.scrollIntoView({ behavior: 'smooth' }); }, [result]);
 
-  /* ─── helpers ───────────────────────────────────────────────────────── */
+  /* ---- helpers ---- */
   const Txt = ({ label, val, setVal }) => (
     <div>
       <label className="mb-1 block text-sm font-semibold text-gray-700">{label}</label>
@@ -53,24 +53,21 @@ export default function SiteBuilder () {
   );
 
   async function generate () {
-    if (!city || !niche) return alert('Choose a city & niche');
+    if (!city || !niche) return alert('Choose city & niche');
     setLoading(true);
     try {
-      const endpoint = mode === 'full' ? '/api/site/full' : '/api/site';
-      const payload = {
+      const res = await buildSiteBundle({
         city: city.value, niche: niche.value, phone, competitors,
-        hero, services, writingStyle: 'professional',
+        hero, services,
         meta_keywords: metaKw, og_title: ogTitle, og_description: ogDesc,
-        schema_toggle: schema
-      };
-      const res = await fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })
-        .then(r => r.json());
+        schema_toggle: schema, writingStyle: 'professional', mode
+      });
       if (!res.success) throw new Error(res.error || 'Generation failed');
       setResult(res);
     } catch (e) { alert(e.message); } finally { setLoading(false); }
   }
 
-  /* ─── UI ────────────────────────────────────────────────────────────── */
+  /* ---- UI ---- */
   return (
     <div className="flex min-h-screen">
       <SideNav />
@@ -86,14 +83,13 @@ export default function SiteBuilder () {
           <div className="rounded-3xl bg-white/95 backdrop-blur shadow-2xl">
             <div className="space-y-8 p-8 sm:p-12">
 
-              {/* row 1 */}
               <div className="grid grid-cols-1 gap-6 sm:grid-cols-2">
                 <div>
                   <label className="mb-1 block text-sm font-semibold text-gray-700">City</label>
                   <Select options={cityOpts} value={city} onChange={setCity} isClearable />
                 </div>
                 <div>
-                  <label className="mb-1 block text-sm font-semibold text-gray-700">Niche / Service</label>
+                  <label className="mb-1 block text-sm font-semibold text-gray-700">Niche</label>
                   <Select options={nicheOpts} value={niche} onChange={setNiche} isClearable />
                 </div>
                 <Txt label="Phone (optional)" val={phone} setVal={setPhone} />
@@ -101,26 +97,23 @@ export default function SiteBuilder () {
                   <label className="mb-1 block text-sm font-semibold text-gray-700">Site Type</label>
                   <select value={mode} onChange={e => setMode(e.target.value)}
                     className="w-full rounded-lg border border-gray-300 px-3 py-2">
-                    <option value="lite">One-Pager (Lite)</option>
-                    <option value="full">Full Site (4 pages)</option>
+                    <option value="lite">Lite</option>
+                    <option value="full">Full</option>
                   </select>
                 </div>
               </div>
 
-              {/* competitors */}
               <div>
-                <label className="mb-1 block text-sm font-semibold text-gray-700">Top Competitor URLs (optional)</label>
+                <label className="mb-1 block text-sm font-semibold text-gray-700">Competitor URLs (optional)</label>
                 <textarea rows={3} value={competitors} onChange={e => setComp(e.target.value)}
                   className="w-full rounded-lg border border-gray-300 px-3 py-2" />
               </div>
 
-              {/* services inline */}
               <ServiceSelector
                 city={city?.value} niche={niche?.value}
                 value={services} onChange={setServices}
               />
 
-              {/* SEO / Social */}
               <fieldset className="rounded-2xl border border-gray-200 p-6">
                 <legend className="px-2 text-sm font-semibold text-gray-700">SEO / Social</legend>
                 <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
@@ -130,7 +123,7 @@ export default function SiteBuilder () {
                 </div>
                 <div className="mt-4">
                   <label className="flex items-center gap-1 text-xs font-medium text-gray-600">
-                    OG Description <HelpTip text="Shown under OG title" />
+                    OG Description <HelpTip text="Description in social shares" />
                   </label>
                   <textarea rows={2} value={ogDesc} onChange={e => setOgDesc(e.target.value)}
                     className="w-full rounded-lg border border-gray-300 px-3 py-2" />
@@ -148,21 +141,19 @@ export default function SiteBuilder () {
             </div>
           </div>
 
-          {/* result */}
           {result && (
             <div ref={resultRef} className="mt-8 space-y-4 rounded-3xl bg-white/95 p-8 shadow-lg backdrop-blur">
               <h2 className="text-xl font-semibold text-gray-800">Generated Site</h2>
-              <div className="flex gap-3 flex-wrap">
+              <div className="flex flex-wrap gap-3">
                 <a href={result.downloadUrl} className="rounded-lg bg-gray-200 px-4 py-2 shadow">Download</a>
-                <a href={`${apiBase}${result.previewUrl}`} target="_blank" rel="noopener noreferrer"
-                  className="rounded-lg bg-indigo-600 px-4 py-2 text-white shadow">Preview</a>
+                <a href={result.previewUrl} className="rounded-lg bg-indigo-600 px-4 py-2 text-white shadow" target="_blank" rel="noopener noreferrer">Preview</a>
+                <a href={result.sourceUrl} className="rounded-lg bg-gray-200 px-4 py-2 shadow" target="_blank" rel="noopener noreferrer">View Source</a>
               </div>
             </div>
           )}
         </div>
       </div>
 
-      {/* hero modal */}
       {showHero && <HeroEditor value={hero} onChange={setHero} onClose={() => setShowHero(false)} />}
     </div>
   );

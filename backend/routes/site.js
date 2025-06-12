@@ -7,6 +7,8 @@ import slugify from 'slugify';
 import { nanoid } from 'nanoid';
 import archiver from 'archiver';
 import SiteContentChain from '../services/SiteContentChain.js';
+import generateBundle from '../generator/index.js';
+
 
 const router = Router();
 const __filename = fileURLToPath(import.meta.url);
@@ -142,7 +144,9 @@ router.post('/bundle', async (req, res) => {
     const result = await generateBundle(req.body);
     res.json({ success: true, ...result });
   } catch (err) {
-    console.error('/bundle error', err.message);
+    /*  ⬇️  add this line  */
+    console.error('FULL STACK TRACE\n', err);
+    /* ------------------------------------------------ */
     res.status(500).json({ success: false, error: err.message });
   }
 });
