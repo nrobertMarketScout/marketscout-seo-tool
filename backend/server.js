@@ -40,6 +40,10 @@ app.use('/api/heatmap', heatmapRoute);
 import botRoute     from './api/bot.js';
 app.use('/api/bot', botRoute);
 
+import metaRoute from './routes/meta.js';
+app.use('/api/meta', metaRoute);
+
+
 import ingestRoute  from './api/ingest.js'; // ✅ NEWER INGEST FEATURE
 app.use('/api/ingest', ingestRoute);        // (already in your code)
 

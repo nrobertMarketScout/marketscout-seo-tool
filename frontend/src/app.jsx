@@ -6,7 +6,8 @@ import Scraper from './pages/Scraper';
 import Bot from './pages/Bot';
 import Summary from './pages/Summary';
 import MemoryArchive from './pages/MemoryArchive';
-import SiteBuilder from './pages/SiteBuilder';          // ← NEW
+import SiteBuilder from './pages/SiteBuilder';
+import TopNav from './components/TopNav';
 
 function App () {
   return (
@@ -23,10 +24,11 @@ function App () {
       <Routes>
         <Route path="/matrix" element={<Matrix />} />
         <Route path="/summary" element={<Summary />} />
-        <Route path="/heatmap" element={<Heatmap />} />
-        <Route path="/scraper" element={<Scraper />} />
+        <Route path="/heatmap" element={<><TopNav title="Heatmap" /><Heatmap /></>} />
         <Route path="/bot" element={<Bot />} />
-        <Route path="/site-builder" element={<SiteBuilder />} />  {/* NEW */}
+        <Route path="/scraper" element={<><TopNav title="Scrape Builder" /><Scraper /></>} />
+        {/* Site Builder already has side-nav → no TopNav */}
+        <Route path="/site-builder" element={<SiteBuilder />} />
       </Routes>
     </div>
   );
