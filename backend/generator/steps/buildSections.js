@@ -1,3 +1,4 @@
+// backend/generator/steps/buildSections.js  ← FULL FILE
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -20,24 +21,24 @@ const baseTpl     = Handlebars.compile(
 export default async function buildSections(payload) {
   const { city, niche, hero, services = [] } = payload;
 
-  /* fallback: avoid double “service” */
+  /* ------- guarantee ≥1 service card ------- */
   const hasSvc   = /service(s)?$/i.test(niche.trim());
   const fallback = hasSvc ? niche : `${niche} service`;
   const svcList  = services.length ? services : [fallback];
 
+  /* ------- NOTE the placeholder ↓ -------- */
   const bodyHTML = [
     heroTpl({ hero }),
-    servicesTpl({ services: svcList })
+    servicesTpl({ services: svcList }),
+    '<!--FEATURES-->'                     // ← MUST remain exactly this
   ].join('\n');
 
-  const page = baseTpl({
-    title: `${niche} in ${city}`,
-    body : bodyHTML
-  });
+  const page = baseTpl({ title: `${niche} in ${city}`, body: bodyHTML });
 
   const slug = slugify(`${city}-${niche}`);
   const dist = path.join(process.cwd(), 'uploads', slug);
   await fs.mkdir(dist, { recursive: true });
+
   const indexPath = path.join(dist, 'index.html');
   await fs.writeFile(indexPath, page, 'utf8');
 

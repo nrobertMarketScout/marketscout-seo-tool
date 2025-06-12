@@ -1,0 +1,15 @@
+<section class="py-16 bg-white">
+  <div class="max-w-5xl mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-10">Why Choose Us</h2>
+    <div class="grid gap-8 md:grid-cols-3">
+      {{#each features}}
+      <div class="rounded-2xl shadow hover:shadow-lg transition overflow-hidden">
+        <img src="{{img}}" alt="" class="w-full h-44 object-cover">
+        <div class="p-4 text-gray-700 text-sm leading-relaxed">
+          {{text}}
+        </div>
+      </div>
+      {{/each}}
+    </div>
+  </div>
+</section>

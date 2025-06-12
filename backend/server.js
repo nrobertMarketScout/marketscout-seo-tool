@@ -1,121 +1,115 @@
-// server.js
+// backend/server.js
 import dotenv from 'dotenv';
 dotenv.config();
 
-import express from 'express';
-import cors from 'cors';
-import fs from 'fs';
-import path from 'path';
+import express  from 'express';
+import cors     from 'cors';
+import fs       from 'fs';
+import path     from 'path';
 import { OpenAI } from 'openai';
-import { cosineSimilarity } from './utils/math.js';
 import { encoding_for_model } from 'tiktoken';
+import { cosineSimilarity }  from './utils/math.js';
 
+/* ----------------─ Express app ─---------------- */
 const app  = express();
 const PORT = process.env.PORT || 3001;
 
 app.use(cors());
 app.use(express.json());
 
-/* ------------------------------------------------------------
-   STATIC PREVIEWS
-   ------------------------------------------------------------ */
-app.use('/sites',    express.static(path.join(process.cwd(), 'sites')));     // old previews
-app.use('/uploads',  express.static(path.join(process.cwd(), 'uploads')));   // ✅ new bundles
-/* ------------------------------------------------------------ */
+/* -------- static previews & downloads -------- */
+app.use('/sites',    express.static(path.join(process.cwd(), 'sites')));
+app.use('/uploads',  express.static(path.join(process.cwd(), 'uploads')));
 
-/* ---------------- existing feature routes ------------------- */
+/* ----- view-source helper  (regex avoids *) ---- */
+app.get(/^\/uploads\/(.+\.(?:html|htm))$/, (req, res, next) => {
+  if (req.query.view === 'source') {
+    const rel = req.params[0];                           // regex capture
+    const abs = path.join(process.cwd(), 'uploads', rel);
+    return res.sendFile(abs);
+  }
+  next();
+});
+
+/* ---------------- feature routes -------------- */
 import runRoute     from './api/run.js';
-app.use('/api/run', runRoute);
-
 import resultsRoute from './api/results.js';
-app.use('/api/results', resultsRoute);
-
 import summaryRoute from './api/summary.js';
-app.use('/api/summary', summaryRoute);
-
 import matrixRoute  from './api/matrix.js';
-app.use('/api/matrix', matrixRoute);
-
 import heatmapRoute from './api/heatmap.js';
-app.use('/api/heatmap', heatmapRoute);
-
 import botRoute     from './api/bot.js';
-app.use('/api/bot', botRoute);
-
+import ingestRoute  from './api/ingest.js';
 import metaRoute    from './routes/meta.js';
-app.use('/api/meta', metaRoute);
+import siteRoute    from './routes/site.js';
+import uploadRoute  from './routes/uploads/cloudinary.js';
+import serviceRoute from './routes/services.js';
 
-import ingestRoute  from './api/ingest.js';   // newer ingest feature
-app.use('/api/ingest', ingestRoute);
+app.use('/api/run',      runRoute);
+app.use('/api/results',  resultsRoute);
+app.use('/api/summary',  summaryRoute);
+app.use('/api/matrix',   matrixRoute);
+app.use('/api/heatmap',  heatmapRoute);
+app.use('/api/bot',      botRoute);
+app.use('/api/ingest',   ingestRoute);
+app.use('/api/meta',     metaRoute);
+app.use('/api/site',     siteRoute);
+app.use('/api/uploads',  uploadRoute);
+app.use('/api/services', serviceRoute);
 
-/* ---------------- new Site-Builder routes ------------------- */
-import servicesRoute from './routes/services.js';  // /api/services/suggest
-app.use('/api/services', servicesRoute);
-
-import siteRoute     from './routes/site.js';      // /api/site/bundle
-app.use('/api/site', siteRoute);
-/* ------------------------------------------------------------ */
-
-import cloudUpload   from './routes/uploads/cloudinary.js';
-app.use('/api/uploads', cloudUpload);
-
-/* ---------------- vector / /ask endpoint -------------------- */
+/* --------------- /ask vector search ----------- */
 const openai  = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 const encoder = encoding_for_model('gpt-4');
 
-const CHUNK_PATH = path.join(process.cwd(), 'data', 'chunks.json');
-const EMB_PATH   = path.join(process.cwd(), 'data', 'embeddings.json');
-const LOG_PATH   = path.join(process.cwd(), 'data', 'rank_and_rent_bot_log.json');
+const DATA_DIR   = path.join(process.cwd(), 'data');
+const CHUNK_PATH = path.join(DATA_DIR, 'chunks.json');
+const EMB_PATH   = path.join(DATA_DIR, 'embeddings.json');
+const LOG_PATH   = path.join(DATA_DIR, 'rank_and_rent_bot_log.json');
 
 app.post('/ask', async (req, res) => {
   const { question } = req.body;
   if (!question) return res.status(400).json({ error: 'Missing question' });
 
   try {
-    const chunks     = JSON.parse(fs.readFileSync(CHUNK_PATH, 'utf-8'));
-    const embeddings = JSON.parse(fs.readFileSync(EMB_PATH,   'utf-8'));
+    const chunks     = JSON.parse(fs.readFileSync(CHUNK_PATH, 'utf8'));
+    const embeddings = JSON.parse(fs.readFileSync(EMB_PATH,   'utf8'));
 
-    const embRes = await openai.embeddings.create({
+    const embedResp  = await openai.embeddings.create({
       model: 'text-embedding-3-large',
       input: question
     });
-    const qEmbed = embRes.data[0].embedding;
+    const qVec = embedResp.data[0].embedding;
 
-    const sims = embeddings.map((emb, i) => ({
-      score : cosineSimilarity(qEmbed, emb),
-      chunk : chunks[i]
-    }));
-
-    const top = sims.sort((a,b)=>b.score-a.score).slice(0,5)
-                    .map(({chunk})=>`- ${chunk.text}`).join('\n\n');
+    const top = embeddings
+      .map((v, i) => ({ score: cosineSimilarity(qVec, v), chunk: chunks[i] }))
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 5)
+      .map(o => `- ${o.chunk.text}`)
+      .join('\n\n');
 
     const prompt = `Use the context below to answer the question. If it isn't relevant, say so.\n\nContext:\n${top}\n\nQuestion:\n${question}`;
 
     const chat = await openai.chat.completions.create({
-      model:'gpt-4',
-      messages:[
-        {role:'system',content:'You are a helpful SEO and rank & rent business expert.'},
-        {role:'user',  content:prompt}
+      model: 'gpt-4',
+      messages: [
+        { role: 'system', content: 'You are a helpful SEO and rank & rent business expert.' },
+        { role: 'user',   content: prompt }
       ]
     });
 
     const answer = chat.choices[0].message.content.trim();
 
-    /* save memory log */
-    const log = fs.existsSync(LOG_PATH)
-      ? JSON.parse(fs.readFileSync(LOG_PATH, 'utf-8'))
-      : [];
+    const log = fs.existsSync(LOG_PATH) ? JSON.parse(fs.readFileSync(LOG_PATH, 'utf8')) : [];
     log.push({ timestamp: new Date().toISOString(), question, response: answer });
     fs.writeFileSync(LOG_PATH, JSON.stringify(log, null, 2));
 
     res.json({ answer });
   } catch (err) {
-    console.error('❌ /ask failed:', err);
+    console.error('/ask failed', err);
     res.status(500).json({ error: 'AI request failed' });
   }
 });
-/* ------------------------------------------------------------ */
 
+/* -------------------- start ------------------- */
 app.listen(PORT, () => {
   console.log(`✅ Server listening on http://localhost:${PORT}`);
 });
