@@ -56,6 +56,8 @@ app.use('/api/site', siteRoute);                    // ✅ NEW
 import cloudUpload from './routes/uploads/cloudinary.js';
 app.use('/api/uploads', cloudUpload);
 
+import serviceRoute from './routes/services.js';
+app.use('/api/services', serviceRoute);
 
 // ---------------- vector / /ask endpoint --------------------
 const openai  = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });

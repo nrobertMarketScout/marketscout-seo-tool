@@ -19,10 +19,12 @@
     "gpt-3-encoder": "^1.1.4",
     "langchain": "^0.0.189",
     "multer": "^2.0.1",
+    "node-cache": "^5.1.2",
     "node-fetch": "^3.3.2",
     "openai": "^5.1.1",
     "papaparse": "^5.5.3",
     "pdf-parse": "^1.1.1",
+    "pluralize": "^8.0.0",
     "tiktoken": "^1.0.21",
     "tinify": "^1.8.0"
   }
