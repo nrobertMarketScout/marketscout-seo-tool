@@ -1,15 +1,11 @@
-<section class="py-16 bg-white">
-  <div class="max-w-5xl mx-auto px-4">
-    <h2 class="text-3xl font-bold text-center mb-10">Why Choose Us</h2>
-    <div class="grid gap-8 md:grid-cols-3">
-      {{#each features}}
-      <div class="rounded-2xl shadow hover:shadow-lg transition overflow-hidden">
-        <img src="{{img}}" alt="" class="w-full h-44 object-cover">
-        <div class="p-4 text-gray-700 text-sm leading-relaxed">
-          {{text}}
-        </div>
-      </div>
-      {{/each}}
-    </div>
+<section class="py-16 bg-[#f7f9fa]">
+  <h2 class="text-center text-3xl font-semibold mb-10">Why&nbsp;Choose&nbsp;Us</h2>
+
+  <div class="mx-auto grid max-w-6xl gap-8 px-6 sm:grid-cols-2 lg:grid-cols-3">
+    {{#each features}}
+    <figure class="overflow-hidden rounded-2xl shadow hover:shadow-lg transition">
+      <img loading="lazy" src="{{this.img}}" alt="Why choose us" class="h-56 w-full object-cover" />
+    </figure>
+    {{/each}}
   </div>
 </section>
