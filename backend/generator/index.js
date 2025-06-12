@@ -1,12 +1,18 @@
-// backend/generator/index.js
-import fs from 'fs/promises';
-import path from 'path';
-import fetchContent from './steps/fetchContent.js';
+import buildSections from './steps/buildSections.js';
 
 export default async function generateBundle(payload) {
-  // 1. fetch competitor content + images
-  const scraped = await fetchContent(payload);
-  // 2. TODO: build sections & assemble HTML
-  // 3. TODO: write assets, compress images, zip
-  throw new Error('Not implemented – Ticket 3 sub-tasks will fill this');
+  /* Step A – build index with hero + services */
+  const { slug, indexPath } = await buildSections(payload);
+
+  /* TODO Steps:
+     B – competitor scrape & image compression
+     C – write styles.css / main.js
+     D – zip folder for download
+  */
+
+  return {
+    slug,
+    downloadUrl : `/api/site/download/${slug}.zip`,  // placeholder
+    previewUrl  : `/uploads/${slug}/index.html`
+  };
 }

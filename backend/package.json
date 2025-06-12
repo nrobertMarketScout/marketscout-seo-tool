@@ -17,6 +17,7 @@
     "express": "^5.1.0",
     "fs-extra": "^11.3.0",
     "gpt-3-encoder": "^1.1.4",
+    "handlebars": "^4.7.8",
     "langchain": "^0.0.189",
     "multer": "^2.0.1",
     "node-cache": "^5.1.2",
@@ -25,6 +26,7 @@
     "papaparse": "^5.5.3",
     "pdf-parse": "^1.1.1",
     "pluralize": "^8.0.0",
+    "slugify": "^1.6.6",
     "tiktoken": "^1.0.21",
     "tinify": "^1.8.0"
   }
