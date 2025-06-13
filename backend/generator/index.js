@@ -5,99 +5,73 @@ import { fileURLToPath } from 'url';
 import Handlebars      from 'handlebars';
 import archiver        from 'archiver';
 
-import buildSections      from './steps/buildSections.js';
-import scrapeCompetitors  from './steps/scrapeCompetitors.js';
-import fetchPexels        from './steps/fetchPexels.js';
+import buildSections     from './steps/buildSections.js';   // your working pipeline
+import scrapeCompetitors from './steps/scrapeCompetitors.js';
+import fetchPexels       from './steps/fetchPexels.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const tplDir    = path.join(__dirname, 'templates');
 const ORIGIN    = process.env.BACKEND_PUBLIC_URL || 'http://localhost:3001';
-const viewSite  = slug => `${ORIGIN}/uploads/${slug}/index.html`;
 
-/* ──────────────────────────  Handlebars helpers ────────────────────────── */
-Handlebars.registerHelper('trimService', txt =>
-  String(txt).replace(/\s+service$/i, '')
-);
-/* ─────────────────────────────────────────────────────────────────────────── */
-
-/* compile shared templates once */
-const featuresTpl = Handlebars.compile(
-  await fs.readFile(path.join(tplDir, 'features.hbs'), 'utf8')
-);
-const schemaTpl = Handlebars.compile(
-  await fs.readFile(path.join(tplDir, 'schema.hbs'), 'utf8')
-);
-
-export default async function generateBundle (payload) {
-  /* ------------------------------------------------------------------ */
-  /* 1️⃣  Create basic folder + hero / services section                  */
-  /* ------------------------------------------------------------------ */
+export default async function generateBundle(payload) {
+  // ── 1) Build slug & index.html with Hero → Services → <!--FEATURES-->
   const { slug, indexPath } = await buildSections(payload);
 
-  /* ------------------------------------------------------------------ */
-  /* 2️⃣  Competitor cards  →  fallback to Pexels if SerpAPI quota hit   */
-  /* ------------------------------------------------------------------ */
+  // ── 2) Fetch competitor images or fallback to Pexels
   let features = await scrapeCompetitors({ slug, ...payload });
-
   if (!features.length) {
     const imgs = await fetchPexels(payload.niche);
-    features   = imgs.map(url => ({ img: url }));
+    features   = imgs.map(img => ({ img }));
   }
+  // ── 3) Insert those into the output
+  const featuresHtml = Handlebars.compile(
+    await fs.readFile(path.join(__dirname, 'templates', 'features.hbs'), 'utf8')
+  )({ features });
+  let html = await fs.readFile(indexPath, 'utf8');
+  html = html.replace('<!--FEATURES-->', featuresHtml);
 
-  /* ------------------------------------------------------------------ */
-  /* 3️⃣  Inject feature gallery & JSON-LD schema                        */
-  /* ------------------------------------------------------------------ */
-  const rawHtml     = await fs.readFile(indexPath, 'utf8');
+  // ── 4) Inject your JSON-LD schema immediately *after* the Why Choose Us
+  const [cityName, stateCode = ''] = payload.city.split(',').map(s => s.trim());
+  const schemaJson = {
+    "@context": "https://schema.org",
+    "@type":    "LocalBusiness",
+    name:       `${payload.niche} – ${payload.city}`,
+    address: {
+      "@type":           "PostalAddress",
+      addressLocality:  cityName,
+      addressRegion:    stateCode,
+      addressCountry:   "US"
+    },
+    areaServed: { "@type": "City", name: payload.city },
+    serviceType: payload.niche,
+    url:         `${ORIGIN}/uploads/${slug}/index.html`
+  };
+  const schemaBlock = `<script type="application/ld+json">
+${JSON.stringify(schemaJson, null, 2)}
+</script>`;
+  html = html.replace('<!--SCHEMA-->', schemaBlock);
 
-  const htmlWithGal = rawHtml.replace(
-    '<!--FEATURES-->',
-    featuresTpl({ features })
-  );
+  // ── 5) Write it back
+  await fs.writeFile(indexPath, html, 'utf8');
 
-  const schemaBlock = schemaTpl({
-    businessName : `${payload.niche} – ${payload.city}`,
-    phone        : payload.phone || undefined,
-    city         : payload.city,
-    state        : payload.state || '',
-    niche        : payload.niche,
-    url          : viewSite(slug)
-  });
-
-  const finalHtml   = htmlWithGal.replace('<!--SCHEMA-->', schemaBlock);
-  await fs.writeFile(indexPath, finalHtml, 'utf8');
-
-  /* ------------------------------------------------------------------ */
-  /* 4️⃣  Stub asset folder (reserved for Ticket 3-C)                    */
-  /* ------------------------------------------------------------------ */
+  // ── 6) Zip your folder as before
   const dist      = path.dirname(indexPath);
-  const assetsDir = path.join(dist, 'assets');
-  await fs.mkdir(assetsDir, { recursive: true });
-  await fs.writeFile(path.join(assetsDir, 'styles.css'), '/* placeholder */');
-  await fs.writeFile(path.join(assetsDir, 'main.js'),   'console.log("Site loaded");');
-
-  /* ------------------------------------------------------------------ */
-  /* 5️⃣  ZIP the site for download                                      */
-  /* ------------------------------------------------------------------ */
   const zipName   = `${slug}.zip`;
   const zipPath   = path.join(process.cwd(), 'uploads', zipName);
   const archive   = archiver('zip', { zlib: { level: 9 } });
   const zipStream = (await fs.open(zipPath, 'w')).createWriteStream();
-
   await new Promise((res, rej) =>
     archive.directory(dist, false).on('error', rej).pipe(zipStream).on('close', res) &&
     archive.finalize()
   );
 
-  /* ------------------------------------------------------------------ */
-  /* 6️⃣  Return bundle metadata                                         */
-  /* ------------------------------------------------------------------ */
+  // ── 7) Return exactly what your front-end expects
   return {
-    success      : true,
+    success:     true,                           // <-- this must be a literal `true`
     slug,
-    previewUrl   : viewSite(slug),
-    downloadUrl  : `${ORIGIN}/uploads/${zipName}`,
-    sourceUrl    : viewSite(slug),
-    imageCount   : features.length,
-    featureCount : features.length
+    previewUrl:  `${ORIGIN}/uploads/${slug}/index.html`,
+    downloadUrl: `${ORIGIN}/uploads/${slug}.zip`,
+    sourceUrl:   `${ORIGIN}/view-source?file=uploads/${slug}/index.html`,
+    imageCount:   features.length,
+    featureCount: features.length
   };
 }
