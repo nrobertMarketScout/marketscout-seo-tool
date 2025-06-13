@@ -27,7 +27,7 @@ import serviceRoute   from './routes/services.js'
 import rawRoute       from './routes/uploads/raw.js'
 import compressRoute  from './routes/uploads/compress.js'
 
-const ROOT = path.resolve(__dirname)  // now points at backend/, but .env loaded from project root
+const ROOT = path.resolve(__dirname)  // now points at backend/, .env loaded from project root
 const app  = express()
 const PORT = process.env.PORT || 3001
 
@@ -45,21 +45,20 @@ app.use(
 )
 
 // ─── Core API routes ──────────────────────────────────────────────────────────
-app.use('/api/run',     runRoute)
-app.use('/api/results', resultsRoute)
-app.use('/api/summary', summaryRoute)
-app.use('/api/matrix',  matrixRoute)
-app.use('/api/heatmap', heatmapRoute)
-app.use('/api/bot',     botRoute)
-app.use('/api/ingest',  ingestRoute)
-app.use('/api/meta',    metaRoute)
-app.use('/api/site',    siteRoute)
-app.use('/api/services',serviceRoute)
+app.use('/api/run',      runRoute)
+app.use('/api/results',  resultsRoute)
+app.use('/api/summary',  summaryRoute)
+app.use('/api/matrix',   matrixRoute)
+app.use('/api/heatmap',  heatmapRoute)
+app.use('/api/bot',      botRoute)
+app.use('/api/ingest',   ingestRoute)
+app.use('/api/meta',     metaRoute)
+app.use('/api/site',     siteRoute)
+app.use('/api/services', serviceRoute)
 
 // ─── Uploads routes ───────────────────────────────────────────────────────────
 // 1️⃣ Receive file → stream to Cloudinary
 app.use('/api/uploads/raw', rawRoute)
-
 // 2️⃣ Compress existing upload via TinyPNG + re-upload to Cloudinary
 app.use('/api/uploads/compress', compressRoute)
 
@@ -74,6 +73,13 @@ app.get('/view-source', async (req, res) => {
   } catch {
     res.status(404).send('File not found')
   }
+})
+
+// ─── Centralized error handler ────────────────────────────────────────────────
+app.use((err, req, res, next) => {
+  console.error('❌ Unhandled error:', err.stack || err)
+  if (res.headersSent) return next(err)
+  res.status(500).json({ error: 'Internal Server Error' })
 })
 
 // ─── Start server ─────────────────────────────────────────────────────────────
