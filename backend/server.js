@@ -11,7 +11,7 @@ import express from 'express'
 import cors    from 'cors'
 import fs      from 'fs/promises'
 
-// your existing imports…
+// Existing imports…
 import runRoute       from './api/run.js'
 import resultsRoute   from './api/results.js'
 import summaryRoute   from './api/summary.js'
@@ -23,15 +23,18 @@ import metaRoute      from './routes/meta.js'
 import siteRoute      from './routes/site.js'
 import serviceRoute   from './routes/services.js'
 
-// only these under /api/uploads
+// DataForSEO API route (newly added)
+import apiDataForSEORoute from './routes/apiDataForSEO.js'
+
+// Upload routes
 import rawRoute       from './routes/uploads/raw.js'
 import compressRoute  from './routes/uploads/compress.js'
 
-const ROOT = path.resolve(__dirname)  // now points at backend/, .env loaded from project root
+const ROOT = path.resolve(__dirname)
 const app  = express()
 const PORT = process.env.PORT || 3001
 
-// ─── Log out the TinyPNG/ Tinify key for sanity check ─────────────────────────
+// ─── Log out the TinyPNG/Tinify key for sanity check ──────────────────────────
 console.log('⏳ TinyPNG API key is:', process.env.TINYPNG_API_KEY || process.env.TINIFY_API_KEY)
 
 // ─── Middleware ───────────────────────────────────────────────────────────────
@@ -56,10 +59,11 @@ app.use('/api/meta',     metaRoute)
 app.use('/api/site',     siteRoute)
 app.use('/api/services', serviceRoute)
 
-// ─── Uploads routes ───────────────────────────────────────────────────────────
-// 1️⃣ Receive file → stream to Cloudinary
+// ─── DataForSEO API Integration ───────────────────────────────────────────────
+app.use('/api/dataforseo', apiDataForSEORoute)
+
+// ─── Upload routes ────────────────────────────────────────────────────────────
 app.use('/api/uploads/raw', rawRoute)
-// 2️⃣ Compress existing upload via TinyPNG + re-upload to Cloudinary
 app.use('/api/uploads/compress', compressRoute)
 
 // ─── View-source helper ───────────────────────────────────────────────────────
