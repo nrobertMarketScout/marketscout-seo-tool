@@ -6,6 +6,8 @@ import dotenv from 'dotenv'
 // — load the .env at the project root (one level up from backend/) —
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 dotenv.config({ path: path.resolve(__dirname, '../.env') })
+console.log('[AUTH CHECK]', process.env.DATAFORSEO_LOGIN, process.env.DATAFORSEO_PASSWORD);
+
 
 import express from 'express'
 import cors    from 'cors'
@@ -22,9 +24,12 @@ import ingestRoute    from './api/ingest.js'
 import metaRoute      from './routes/meta.js'
 import siteRoute      from './routes/site.js'
 import serviceRoute   from './routes/services.js'
-
-// DataForSEO API route (newly added)
+import dataForSEORoute from './routes/apiDataForSEO.js'
 import apiDataForSEORoute from './routes/apiDataForSEO.js'
+
+
+// DataForSEO route (newly added)
+
 
 // Upload routes
 import rawRoute       from './routes/uploads/raw.js'
@@ -61,6 +66,8 @@ app.use('/api/services', serviceRoute)
 
 // ─── DataForSEO API Integration ───────────────────────────────────────────────
 app.use('/api/dataforseo', apiDataForSEORoute)
+app.use('/api/dataforseo', dataForSEORoute)
+
 
 // ─── Upload routes ────────────────────────────────────────────────────────────
 app.use('/api/uploads/raw', rawRoute)

@@ -1,31 +1,27 @@
-import express from 'express';
-import { keywordService } from '../services/index.js';
+// backend/routes/apiDataForSEO.js
+import express from 'express'
+import { DataForSEOProvider } from '../services/providers/DataForSEOProvider.js'
 
-const router = express.Router();
+const router = express.Router()
 
-router.get('/keyword-data', async (req, res) => {
+router.post('/metrics', async (req, res) => {
   try {
-    const { keywords, location } = req.query; // comma-separated keywords
-    const keywordList = keywords.split(',');
-
-    const metrics = await keywordService.getKeywordMetrics(keywordList, location);
-    res.json(metrics);
-  } catch (error) {
-    console.error('API Error:', error);
-    res.status(500).json({ error: error.message });
+    const { keywords } = req.body
+    const result = await DataForSEOProvider.getKeywordMetrics(keywords)
+    res.json(result)
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to fetch keyword metrics' })
   }
-});
+})
 
-router.get('/serp-insights', async (req, res) => {
+router.post('/serp', async (req, res) => {
   try {
-    const { keyword, location } = req.query;
-
-    const serpData = await keywordService.getSERPInsights(keyword, location);
-    res.json(serpData);
-  } catch (error) {
-    console.error('SERP API Error:', error);
-    res.status(500).json({ error: error.message });
+    const { keyword } = req.body
+    const result = await DataForSEOProvider.getSERPInsights(keyword)
+    res.json(result)
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to fetch SERP insights' })
   }
-});
+})
 
-export default router;
+export default router
