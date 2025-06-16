@@ -1,59 +1,85 @@
-// src/pages/Scraper.jsx
-import React, { useState } from 'react'
-import { runScrape } from '../api/run'
+import React, { useState } from 'react';
+import axios from 'axios';
 
-const Scraper = () => {
-  const [file, setFile] = useState(null)
-  const [status, setStatus] = useState('')
-  const [isLoading, setIsLoading] = useState(false)
-
-  const handleFileChange = (e) => {
-    setFile(e.target.files[0])
-    setStatus('')
-  }
+export default function Scraper () {
+  const [file, setFile] = useState(null);
+  const [results, setResults] = useState([]);
+  const [errors, setErrors] = useState([]);
+  const [loading, setLoading] = useState(false);
 
   const handleSubmit = async () => {
-    if (!file) {
-      setStatus('❌ Please select a CSV file.')
-      return
-    }
+    if (!file) return alert('Please upload a CSV file.');
 
-    setIsLoading(true)
-    setStatus('⏳ Uploading and starting scrape...')
+    const formData = new FormData();
+    formData.append('file', file);
+
+    setLoading(true);
+    setResults([]);
+    setErrors([]);
 
     try {
-      const response = await runScrape(file)
-      setStatus(`✅ Scrape complete. ${response.message || 'Results generated.'}`)
+      const res = await axios.post('/api/run', formData);
+      setResults(res.data.results || []);
+      setErrors(res.data.errors || []);
     } catch (err) {
-      console.error('Scrape failed:', err)
-      setStatus(`❌ Error: ${err.message}`)
+      console.error('Scrape error:', err);
+      alert('Failed to run scrape.');
     } finally {
-      setIsLoading(false)
+      setLoading(false);
     }
-  }
+  };
 
   return (
-    <div className="p-6 max-w-xl mx-auto">
-      <h1 className="text-2xl font-bold mb-4">🗂️ Upload Input CSV</h1>
-
+    <div className="p-6">
+      <h2 className="text-xl font-bold mb-4">Scrape Builder</h2>
       <input
         type="file"
         accept=".csv"
-        onChange={handleFileChange}
+        onChange={e => setFile(e.target.files[0])}
         className="mb-4"
       />
-
       <button
         onClick={handleSubmit}
-        disabled={isLoading}
-        className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded"
+        disabled={loading}
+        className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
       >
-        {isLoading ? 'Running...' : 'Start Scrape'}
+        {loading ? 'Running...' : 'Start Scrape'}
       </button>
 
-      {status && <p className="mt-4 text-sm">{status}</p>}
-    </div>
-  )
-}
+      {results.length > 0 && (
+        <div className="mt-6">
+          <h3 className="text-lg font-semibold mb-2">Results</h3>
+          <table className="min-w-full text-sm border border-gray-300">
+            <thead className="bg-gray-200">
+              <tr>
+                {Object.keys(results[0]).map((col) => (
+                  <th key={col} className="px-2 py-1 border border-gray-300">{col}</th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {results.map((row, i) => (
+                <tr key={i} className="odd:bg-white even:bg-gray-50">
+                  {Object.values(row).map((val, j) => (
+                    <td key={j} className="px-2 py-1 border border-gray-300">{val}</td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
 
-export default Scraper
+      {errors.length > 0 && (
+        <div className="mt-4 text-red-600">
+          <h4 className="font-bold">Errors</h4>
+          <ul className="list-disc ml-5">
+            {errors.map(({ keyword, location, error }, i) => (
+              <li key={i}>{keyword} ({location}) – {error}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+  );
+}

@@ -1,3 +1,5 @@
+// backend/lib/audit_and_score.js
+
 export function auditAndScore(allResults) {
   const groups = {}
 
@@ -20,10 +22,31 @@ export function auditAndScore(allResults) {
     const { Location, Keywords, Competitors } = data
     const reviewThreshold = 50
 
+    if (Competitors.length === 0) {
+      summary.push({
+        Group: group,
+        Location,
+        Keywords: Array.from(Keywords).join(', '),
+        Map_Pack_Count: 0,
+        Any_Map_Review_Under_20: 'No',
+        Missing_Website: 'No',
+        ResultsOverThreshold: 0,
+        OpportunityScore: 0
+      })
+      continue
+    }
+
     const mapPackCount = Math.min(3, Competitors.length)
     const anyLowReview = Competitors.some(c => parseInt(c.Reviews || '0', 10) < 20)
     const missingWebsite = Competitors.some(c => !c.Website || c.Website.trim() === '')
     const overThreshold = Competitors.filter(c => parseInt(c.Reviews || '0', 10) >= reviewThreshold)
+
+    // Stubbed scoring logic – revise later with volume/CPC/competition
+    const score =
+      (mapPackCount < 3 ? 10 : 0) +
+      (anyLowReview ? 5 : 0) +
+      (missingWebsite ? 5 : 0) +
+      (3 - Math.min(overThreshold.length, 3)) * 3
 
     summary.push({
       Group: group,
@@ -33,6 +56,7 @@ export function auditAndScore(allResults) {
       Any_Map_Review_Under_20: anyLowReview ? 'Yes' : 'No',
       Missing_Website: missingWebsite ? 'Yes' : 'No',
       ResultsOverThreshold: overThreshold.length,
+      OpportunityScore: score
     })
   }
 

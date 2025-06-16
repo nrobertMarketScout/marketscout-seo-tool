@@ -26,6 +26,7 @@ import siteRoute      from './routes/site.js'
 import serviceRoute   from './routes/services.js'
 import dataForSEORoute from './routes/apiDataForSEO.js'
 import apiDataForSEORoute from './routes/apiDataForSEO.js'
+import { loadValidLocations } from './utils/locationValidator.js';
 
 
 // DataForSEO route (newly added)
@@ -38,6 +39,7 @@ import compressRoute  from './routes/uploads/compress.js'
 const ROOT = path.resolve(__dirname)
 const app  = express()
 const PORT = process.env.PORT || 3001
+loadValidLocations();
 
 // ─── Log out the TinyPNG/Tinify key for sanity check ──────────────────────────
 console.log('⏳ TinyPNG API key is:', process.env.TINYPNG_API_KEY || process.env.TINIFY_API_KEY)

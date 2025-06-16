@@ -1,88 +1,59 @@
-// backend/api/run.js
 import express from 'express';
 import multer from 'multer';
-import fs from 'fs/promises';
-import Papa from 'papaparse';
+import fs from 'fs';
 import path from 'path';
-import { fetchMapsResults } from '../lib/serpapi_client.js';
-import { auditAndScore } from '../lib/audit_and_score.js';
+import csvParser from 'csv-parser';
+import { getKeywordMetrics } from '../services/providers/DataForSEOProvider.js';
+import { normalizeLocation } from '../utils/locationValidator.js';
 
 const router = express.Router();
 const upload = multer({ dest: 'uploads/' });
 
 router.post('/', upload.single('file'), async (req, res) => {
+  if (!req.file) return res.status(400).json({ error: 'No file uploaded.' });
+
+  const inputPath = req.file.path;
+  const results = [];
+  const errors = [];
+
   try {
-    const filePath = req.file.path;
-    const file = await fs.readFile(filePath, 'utf8');
-    const { data: rows } = Papa.parse(file, { header: true });
-
-    const groups = {};
-    for (const row of rows) {
-      const groupKey = row.Group?.trim() || `${row.Keyword}_${row.Location}`;
-      if (!groups[groupKey]) {
-        groups[groupKey] = { location: row.Location, keywords: [] };
-      }
-      groups[groupKey].keywords.push(row.Keyword);
-    }
-
-    const allResults = [];
-
-    for (const [groupName, { location, keywords }] of Object.entries(groups)) {
-      const groupResults = {};
-
-      for (const keyword of keywords) {
-        const results = await fetchMapsResults(keyword, location);
-        console.log(`🔍 fetchMapsResults("${keyword}", "${location}") →`, results);
-
-        for (const res of results) {
-          console.log('📍 Res geometry:', res.geometry);
-          console.log('📍 Res GPS:', res.gps_coordinates);
-
-          if (res.place_id && !groupResults[res.place_id]) {
-            groupResults[res.place_id] = {
-              Group: groupName,
-              Keyword: keyword,
-              Location: location,
-              Name: res.title || res.name || '',
-              Rating: res.rating || '',
-              Reviews: res.rating_total || res.reviews_count || '',
-              Address: res.address || '',
-              Phone: res.phone_number || '',
-              PlaceId: res.place_id,
-              Website: res.website || '',
-              Latitude: res.gps_coordinates?.latitude ?? res.geometry?.location?.lat ?? '',
-              Longitude: res.gps_coordinates?.longitude ?? res.geometry?.location?.lng ?? ''
-            };
-          }
-        }
-      }
-
-      allResults.push(...Object.values(groupResults));
-    }
-
-    const summaryData = auditAndScore(allResults);
-    const scoreMap = {};
-    for (const row of summaryData) {
-      const key = `${row.Keyword}::${row.Location}`;
-      scoreMap[key] = row.OpportunityScore;
-    }
-
-    const finalResults = allResults.map((entry) => {
-      const key = `${entry.Keyword}::${entry.Location}`;
-      return {
-        ...entry,
-        'Opportunity Score': scoreMap[key] || 0
-      };
+    const rows = await new Promise((resolve, reject) => {
+      const parsedRows = [];
+      fs.createReadStream(inputPath)
+        .pipe(csvParser())
+        .on('data', (row) => parsedRows.push(row))
+        .on('end', () => resolve(parsedRows))
+        .on('error', reject);
     });
 
-    await fs.writeFile('results.csv', Papa.unparse(allResults, { quotes: true }));
-    await fs.writeFile('competitor_audit_summary.csv', Papa.unparse(summaryData, { quotes: true }));
-    await fs.writeFile('combined_opportunity_matrix.csv', Papa.unparse(finalResults, { quotes: true }));
+    const cleanRows = rows
+      .map(({ Keyword, Location }) => {
+        const keyword = (Keyword || '').trim();
+        const location = normalizeLocation(Location || '');
+        return keyword && location ? { keyword, location } : null;
+      })
+      .filter(Boolean);
 
-    res.json({ summary: summaryData });
+    for (const { keyword, location } of cleanRows) {
+      try {
+        const data = await getKeywordMetrics(keyword, location);
+        results.push({ keyword, location, ...data });
+      } catch (e) {
+        errors.push({ keyword, location, error: e.message });
+      }
+    }
+
+    const outputPath = path.join('results.csv');
+    const header = Object.keys(results[0] || { keyword: '', location: '', cpc: '', volume: '', competition: '' }).join(',');
+    const csvData = results.map(r => Object.values(r).join(',')).join('\n');
+
+    fs.writeFileSync(outputPath, `${header}\n${csvData}`);
+    res.json({ success: true, results, errors });
   } catch (err) {
-    console.error('❌ /api/run error:', err);
-    res.status(500).json({ error: 'Scrape and audit failed.' });
+    console.error('Scrape error:', err);
+    res.status(500).json({ error: 'Failed to process scrape input.' });
+  } finally {
+    fs.unlinkSync(inputPath);
   }
 });
 

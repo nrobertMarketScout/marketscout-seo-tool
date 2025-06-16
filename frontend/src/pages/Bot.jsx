@@ -15,7 +15,7 @@ export default function Bot () {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [drawerOpen, setDrawer] = useState(false);
-  const [tab, setTab] = useState('chat');      // chat | upload
+  const [tab, setTab] = useState('chat'); // chat | upload
   const messagesEndRef = useRef(null);
 
   const exampleQuestions = [
@@ -43,15 +43,18 @@ export default function Bot () {
     setLoading(true);
     try {
       const res = await askQuestion(input);
+      const isStructured = res.type === 'structured';
+
       const botMessage = {
         role: 'assistant',
-        content:
-          res.type === 'structured' ? res.summary : res.text || 'No answer returned.',
+        content: isStructured ? res.summary : res.text || 'No answer returned.',
         tags: res.tags || [],
         location: res.location || '',
         niches: res.niches || [],
-        csv: res.csv || ''
+        csv: res.csv || '',
+        source: res.source || ''
       };
+
       setMessages((prev) => [...prev, botMessage]);
     } catch (err) {
       setMessages((prev) => [...prev, { role: 'assistant', content: 'Error fetching response.' }]);
@@ -63,7 +66,6 @@ export default function Bot () {
   const saveReply = (msg) => setSaved((prev) => [...prev, msg]);
   const clearMemory = () => { setSaved([]); localStorage.removeItem(MEMORY_KEY); };
 
-  // ------- UI -------
   return (
     <div className="flex h-screen bg-white text-gray-800">
       {/* Left sidebar */}
@@ -119,9 +121,15 @@ export default function Bot () {
                 <CardContent className="p-3 whitespace-pre-wrap">
                   {msg.content}
                   {msg.role === 'assistant' && (
-                    <div className="mt-2 text-right text-xs text-gray-500 space-x-2">
-                      <button onClick={() => saveReply(msg)}>💾 Save</button>
-                      {msg.csv && <a href={msg.csv} download className="text-blue-600">⬇️ CSV</a>}
+                    <div className="mt-2 text-right text-xs text-gray-500 space-y-1">
+                      {msg.tags?.length > 0 && <div>🏷️ {msg.tags.join(', ')}</div>}
+                      {msg.location && <div>📍 {msg.location}</div>}
+                      {msg.niches?.length > 0 && <div>🧱 Niches: {msg.niches.join(', ')}</div>}
+                      {msg.source && <div>📖 From: {msg.source}</div>}
+                      <div className="space-x-2">
+                        <button onClick={() => saveReply(msg)}>💾 Save</button>
+                        {msg.csv && <a href={msg.csv} download className="text-blue-600">⬇️ CSV</a>}
+                      </div>
                     </div>
                   )}
                 </CardContent>
@@ -138,6 +146,7 @@ export default function Bot () {
             onKeyDown={(e) => e.key === 'Enter' && handleSend()}
             placeholder="Ask the assistant..."
             className="flex-1"
+            disabled={loading}
           />
           <Button onClick={handleSend} disabled={loading}>
             {loading ? '...' : 'Send'}
@@ -145,7 +154,7 @@ export default function Bot () {
         </div>
       </div>
 
-      {/* Slide-out memory drawer */}
+      {/* Memory drawer */}
       <MemoryDrawer
         open={drawerOpen}
         onClose={() => setDrawer(false)}

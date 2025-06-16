@@ -1,31 +1,17 @@
+// frontend/src/pages/Matrix.jsx
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 
 export default function Matrix () {
-  const [data, setData] = useState([])
-  const [serpData, setSerpData] = useState({})
+  const [rows, setRows] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
 
-  const keywords = ['plumber', 'electrician', 'hvac']
-  const location = 'Portland,OR'
-
   useEffect(() => {
-    const fetchMetrics = async () => {
+    const fetchMatrix = async () => {
       try {
-        setLoading(true)
-
-        const metricsRes = await axios.get('/api/dataforseo/keyword-data', {
-          params: { keywords: keywords.join(','), location }
-        })
-
-        const serpRes = await axios.get('/api/dataforseo/serp-insights', {
-          params: { keyword: keywords[0], location }
-        })
-
-        setData(metricsRes.data)
-        setSerpData(serpRes.data)
-
+        const res = await axios.get('/api/matrix')
+        setRows(res.data.matrix || [])
       } catch (err) {
         setError(err.message)
       } finally {
@@ -33,46 +19,41 @@ export default function Matrix () {
       }
     }
 
-    fetchMetrics()
+    fetchMatrix()
   }, [])
 
-  if (loading) return <div>Loading data...</div>
+  if (loading) return <div>Loading...</div>
   if (error) return <div>Error: {error}</div>
 
   return (
     <div>
-      <h1>Keyword Metrics for {location}</h1>
+      <h2>📊 Opportunity Matrix</h2>
       <table>
         <thead>
           <tr>
             <th>Keyword</th>
+            <th>Location</th>
             <th>Volume</th>
             <th>CPC</th>
             <th>Competition</th>
+            <th>Map Pack</th>
+            <th>Score</th>
           </tr>
         </thead>
         <tbody>
-          {data.map((d, idx) => (
+          {rows.map((row, idx) => (
             <tr key={idx}>
-              <td>{d.keyword}</td>
-              <td>{d.search_volume}</td>
-              <td>${d.cpc}</td>
-              <td>{d.competition}</td>
+              <td>{row.Keyword}</td>
+              <td>{row.Location}</td>
+              <td>{row.Volume}</td>
+              <td>${row.CPC}</td>
+              <td>{row.Competition}</td>
+              <td>{row['Map Pack'] === '1' ? '✅' : '❌'}</td>
+              <td>{row.Score}</td>
             </tr>
           ))}
         </tbody>
       </table>
-
-      <h2>SERP Insights for "{keywords[0]}"</h2>
-      <p>Local Pack: {serpData.hasLocalPack ? '✅' : '❌'}</p>
-      <ul>
-        {serpData.organicResults.slice(0, 5).map((r, idx) => (
-          <li key={idx}>
-            <a href={r.url}>{r.title}</a>
-            <p>{r.snippet}</p>
-          </li>
-        ))}
-      </ul>
     </div>
   )
 }
