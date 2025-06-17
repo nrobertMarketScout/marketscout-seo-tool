@@ -8,6 +8,7 @@ import dotenv from 'dotenv';
 
 import { fetchSERPFromDataForSEO } from '../lib/dataforseo_client.js';
 import { auditAndScore } from '../lib/audit_and_score.js';
+import { getRelevantChunks } from '../utils/embeddings.js';
 import { loadRetriever } from '../vectorstore/retriever.js';
 
 dotenv.config();
@@ -34,34 +35,58 @@ router.post('/', async (req, res) => {
   if (!question) return res.status(400).json({ error: 'Missing question' });
 
   try {
-    // Step 1: Try vectorstore knowledge base first
-    const retriever = await loadRetriever();
-    const docs = await retriever.getRelevantDocuments(question);
-    if (docs.length > 0) {
-      const injected = docs
-        .map((d, i) => `# Source ${i + 1} — ${d.metadata?.source || 'unknown'}\n${d.pageContent}`)
+    // Step 1: Try cache-backed embedding chunks
+    let injectedChunks = [];
+    try {
+      injectedChunks = await getRelevantChunks(question, 4);
+    } catch (err) {
+      console.warn('⚠️ getRelevantChunks failed:', err.message);
+    }
+
+    // Step 2: Fallback to LangChain retriever if chunks not found
+    if (injectedChunks.length === 0) {
+      try {
+        const retriever = await loadRetriever();
+        const docs = await retriever.getRelevantDocuments(question);
+        injectedChunks = docs.map(d => ({ text: d.pageContent, metadata: d.metadata || {} }));
+      } catch (err) {
+        console.warn('⚠️ FAISS retriever failed:', err.message);
+      }
+    }
+
+    // Step 3: Inject into GPT prompt if found
+    if (injectedChunks.length > 0) {
+      const formatted = injectedChunks
+        .map((d, i) => `(${i + 1}) ${d.text.trim()}`)
         .join('\n\n');
 
-      const kbAnswer = await openai.chat.completions.create({
+      const answer = await openai.chat.completions.create({
         model: 'gpt-4',
         messages: [
           {
             role: 'system',
-            content: `You are a rank & rent SEO expert. Use only the content below to answer the question as best you can.\n\n${injected}`
+            content: `You are a rank & rent SEO expert. Use these retrieved notes to answer the question:\n\n${formatted}`
           },
           { role: 'user', content: question }
         ]
       });
 
-      const text = kbAnswer.choices?.[0]?.message?.content?.trim();
-
-      return res.json({
-        text: text || 'No answer returned.',
-        source: 'vectorstore'
+      const responseText = answer.choices?.[0]?.message?.content?.trim();
+      const tags = injectedChunks.flatMap(d => {
+        const src = d.metadata?.file || d.metadata?.source;
+        return src ? [src] : [];
       });
+
+      if (responseText) {
+        return res.json({
+          text: responseText,
+          source: tags[0] || '',
+          tags: tags
+        });
+      }
     }
 
-    // Step 2: Try location + niche extraction only if no KB result
+    // Step 4: If not a KB question, try structured scrape inference
     const [services, cities] = await Promise.all([
       loadListFromCSV(SERVICES_CSV),
       loadListFromCSV(CITIES_CSV)
@@ -150,6 +175,7 @@ router.post('/', async (req, res) => {
       await fs.writeFile(OUTPUT_CSV, Papa.unparse(finalResults, { quotes: true }));
 
       return res.json({
+        type: 'structured',
         summary: `Top niches in ${location}: ${uniqueNiches.join(', ')}`,
         location,
         niches,
