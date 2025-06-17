@@ -19,14 +19,6 @@ export default function Bot () {
   const [tab, setTab] = useState('chat');
   const messagesEndRef = useRef(null);
 
-  const exampleQuestions = [
-    'What are the best niches in low-CPC areas?',
-    'Summarize opportunities with low reviews and missing websites.',
-    'Which city and service combos have < 3 Map Pack listings?',
-    'What keyword-location pairs should I build next?',
-    'What niche in Portland looks promising for lead gen?'
-  ];
-
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
     localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(messages));
@@ -54,7 +46,6 @@ export default function Bot () {
         csv: res.csv ?? '',
         source: res.source ?? (isStructured ? 'structured_scrape' : 'vectorstore')
       };
-
       setMessages(prev => [...prev, botMessage]);
     } catch (err) {
       setMessages(prev => [...prev, { role: 'assistant', content: 'Error fetching response.' }]);
@@ -76,7 +67,6 @@ export default function Bot () {
       const json = await res.json();
       alert(json.message || '✅ Rebuild complete.');
     } catch (err) {
-      console.error('Rebuild failed', err);
       alert('❌ Vectorstore rebuild failed.');
     } finally {
       setRebuilding(false);
@@ -87,15 +77,21 @@ export default function Bot () {
     <div className="flex h-screen text-gray-800">
       {/* Sidebar */}
       <div className="w-72 border-r border-gray-200 p-4 bg-gray-50 flex flex-col">
-        <div className="text-lg font-semibold mb-3">🧠 Assistant</div>
-        <div className="space-y-2 mb-4">
-          <Button variant={tab === 'chat' ? 'default' : 'outline'} onClick={() => setTab('chat')} className="w-full">💬 Chat</Button>
-          <Button variant={tab === 'upload' ? 'default' : 'outline'} onClick={() => setTab('upload')} className="w-full">📁 Upload</Button>
-          <Button variant="secondary" onClick={() => setDrawer(true)} className="w-full">🧠 View Memory</Button>
+        <h1 className="text-xl font-bold mb-4 leading-snug">
+          <span className="text-blue-900">Market</span>
+          <span className="text-amber-600">Scout</span>
+          <span className="block text-slate-500 italic text-sm mt-1">Assistant</span>
+        </h1>
+
+        <div className="space-y-2">
+          <Button variant={tab === 'chat' ? 'default' : 'outline'} onClick={() => setTab('chat')} className="w-full">Chat</Button>
+          <Button variant={tab === 'upload' ? 'default' : 'outline'} onClick={() => setTab('upload')} className="w-full">Upload</Button>
+          <Button variant="secondary" onClick={() => setDrawer(true)} className="w-full">View Memory</Button>
         </div>
+
         {tab === 'upload' && (
-          <>
-            <div className="text-sm font-semibold mb-2">Upload a file</div>
+          <div className="mt-6 text-sm">
+            <p className="font-semibold mb-2">Upload a file</p>
             <Input
               type="file"
               accept=".csv,.pdf,.md"
@@ -111,45 +107,38 @@ export default function Bot () {
                   alert('File upload failed.');
                 }
               }}
-              className="text-xs"
+              className="text-xs mt-1"
             />
-            <div className="text-[11px] text-gray-500 mt-1">Supported: .csv, .pdf, .md</div>
-
-            <div className="mt-4">
-              <Button onClick={rebuildVectorstore} className="w-full text-xs" variant="outline" disabled={rebuilding}>
-                {rebuilding ? '♻️ Rebuilding...' : '♻️ Rebuild Knowledge Base'}
-              </Button>
-            </div>
-          </>
+            <Button onClick={rebuildVectorstore} className="w-full mt-4 text-xs" variant="outline" disabled={rebuilding}>
+              {rebuilding ? '♻️ Rebuilding...' : '♻️ Rebuild Knowledge Base'}
+            </Button>
+          </div>
         )}
+
         {tab === 'chat' && (
-          <div className="mt-4 space-y-1 text-sm text-gray-700">
-            {exampleQuestions.map((ex) => (
-              <div key={ex}>
-                <button onClick={() => setInput(ex)} className="hover:underline text-blue-600">{ex}</button>
-              </div>
-            ))}
+          <div className="mt-6 text-sm text-gray-500 italic">
+            Session history coming soon...
           </div>
         )}
       </div>
 
       {/* Chat area */}
       <div className="flex flex-col flex-1 bg-white h-full">
-        <div className="flex-1 overflow-y-auto p-4 space-y-4">
+        <div className="flex-1 overflow-y-auto p-6 space-y-4">
           {messages.map((msg, idx) => (
             <div key={idx} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
-              <Card className="max-w-[70%]">
-                <CardContent className="p-3 whitespace-pre-wrap">
+              <Card className="max-w-[70%] shadow border border-gray-200">
+                <CardContent className="p-4 whitespace-pre-wrap text-sm text-gray-800 leading-relaxed">
                   {msg.content}
                   {msg.role === 'assistant' && (
-                    <div className="mt-2 text-right text-xs text-gray-500 space-y-1">
+                    <div className="mt-3 text-right text-xs text-gray-500 space-y-1">
                       {msg.tags?.length > 0 && <div>🏷️ {msg.tags.join(', ')}</div>}
                       {msg.location && <div>📍 {msg.location}</div>}
                       {msg.niches?.length > 0 && <div>🧱 Niches: {msg.niches.join(', ')}</div>}
                       {msg.source && <div>📖 From: {msg.source}</div>}
                       <div className="space-x-2">
-                        <button onClick={() => saveReply(msg)}>💾 Save</button>
-                        {msg.csv && <a href={msg.csv} download className="text-blue-600">⬇️ CSV</a>}
+                        <button onClick={() => saveReply(msg)} className="text-indigo-600 hover:underline">Save</button>
+                        {msg.csv && <a href={msg.csv} download className="text-blue-600 hover:underline">Download CSV</a>}
                       </div>
                     </div>
                   )}
@@ -170,13 +159,12 @@ export default function Bot () {
             className="flex-1"
             disabled={loading}
           />
-          <Button onClick={handleSend} disabled={loading}>
+          <Button onClick={handleSend} disabled={loading} className="px-6">
             {loading ? '...' : 'Send'}
           </Button>
         </div>
       </div>
 
-      {/* Memory drawer */}
       <MemoryDrawer
         open={drawerOpen}
         onClose={() => setDrawer(false)}
