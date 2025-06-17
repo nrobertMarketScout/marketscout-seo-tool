@@ -15,7 +15,7 @@ export default function Bot () {
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [drawerOpen, setDrawer] = useState(false);
-  const [tab, setTab] = useState('chat'); // chat | upload
+  const [tab, setTab] = useState('chat');
   const messagesEndRef = useRef(null);
 
   const exampleQuestions = [
@@ -38,13 +38,12 @@ export default function Bot () {
   const handleSend = async () => {
     if (!input.trim()) return;
     const userMessage = { role: 'user', content: input };
-    setMessages((prev) => [...prev, userMessage]);
+    setMessages(prev => [...prev, userMessage]);
     setInput('');
     setLoading(true);
     try {
       const res = await askQuestion(input);
       const isStructured = res.type === 'structured';
-
       const botMessage = {
         role: 'assistant',
         content: isStructured ? res.summary : res.text || 'No answer returned.',
@@ -54,21 +53,23 @@ export default function Bot () {
         csv: res.csv || '',
         source: res.source || ''
       };
-
-      setMessages((prev) => [...prev, botMessage]);
+      setMessages(prev => [...prev, botMessage]);
     } catch (err) {
-      setMessages((prev) => [...prev, { role: 'assistant', content: 'Error fetching response.' }]);
+      setMessages(prev => [...prev, { role: 'assistant', content: 'Error fetching response.' }]);
     } finally {
       setLoading(false);
     }
   };
 
-  const saveReply = (msg) => setSaved((prev) => [...prev, msg]);
-  const clearMemory = () => { setSaved([]); localStorage.removeItem(MEMORY_KEY); };
+  const saveReply = (msg) => setSaved(prev => [...prev, msg]);
+  const clearMemory = () => {
+    setSaved([]);
+    localStorage.removeItem(MEMORY_KEY);
+  };
 
   return (
-    <div className="flex h-screen bg-white text-gray-800">
-      {/* Left sidebar */}
+    <div className="flex h-screen text-gray-800">
+      {/* Sidebar */}
       <div className="w-72 border-r border-gray-200 p-4 bg-gray-50 flex flex-col">
         <div className="text-lg font-semibold mb-3">🧠 Assistant</div>
         <div className="space-y-2 mb-4">
@@ -76,7 +77,6 @@ export default function Bot () {
           <Button variant={tab === 'upload' ? 'default' : 'outline'} onClick={() => setTab('upload')} className="w-full">📁 Upload</Button>
           <Button variant="secondary" onClick={() => setDrawer(true)} className="w-full">🧠 View Memory</Button>
         </div>
-
         {tab === 'upload' && (
           <>
             <div className="text-sm font-semibold mb-2">Upload a file</div>
@@ -100,7 +100,6 @@ export default function Bot () {
             <div className="text-[11px] text-gray-500 mt-1">Supported: .csv, .pdf, .md</div>
           </>
         )}
-
         {tab === 'chat' && (
           <div className="mt-4 space-y-1 text-sm text-gray-700">
             {exampleQuestions.map((ex) => (
@@ -113,8 +112,8 @@ export default function Bot () {
       </div>
 
       {/* Chat area */}
-      <div className="flex-1 flex flex-col">
-        <div className="flex-1 overflow-y-auto p-4 space-y-4 bg-white">
+      <div className="flex flex-col flex-1 bg-white h-full">
+        <div className="flex-1 overflow-y-auto p-4 space-y-4">
           {messages.map((msg, idx) => (
             <div key={idx} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
               <Card className="max-w-[70%]">
@@ -139,6 +138,7 @@ export default function Bot () {
           <div ref={messagesEndRef} />
         </div>
 
+        {/* Input area */}
         <div className="p-4 border-t border-gray-200 bg-gray-50 flex gap-2">
           <Input
             value={input}

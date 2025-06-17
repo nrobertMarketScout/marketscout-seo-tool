@@ -11,7 +11,7 @@ import TopNav from './components/TopNav';
 
 function App () {
   return (
-    <div className="min-h-screen">
+    <div className="h-screen flex flex-col">
       <nav className="flex gap-4 p-4 shadow text-sm font-medium">
         <NavLink to="/matrix" className={({ isActive }) => isActive ? 'text-blue-600 font-bold' : 'text-gray-700'}>📈 Matrix</NavLink>
         <NavLink to="/heatmap" className={({ isActive }) => isActive ? 'text-blue-600 font-bold' : 'text-gray-700'}>🗺 Heatmap</NavLink>
