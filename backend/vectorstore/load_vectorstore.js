@@ -36,4 +36,7 @@ async function run() {
   }
 }
 
-run();
+if (import.meta.url === process.argv[1]) {
+  run();
+}
+export const buildVectorstore = run;

@@ -27,6 +27,7 @@ import metaRoute        from './routes/meta.js'
 import siteRoute        from './routes/site.js'
 import serviceRoute     from './routes/services.js'
 import apiDataForSEORoute from './routes/apiDataForSEO.js'
+import vectorstoreRoute from './api/vectorstore.js';
 
 // Upload modules
 import rawRoute         from './routes/uploads/raw.js'
@@ -65,6 +66,8 @@ app.use('/api/meta',       metaRoute)
 app.use('/api/site',       siteRoute)
 app.use('/api/services',   serviceRoute)
 app.use('/api/dataforseo', apiDataForSEORoute)
+app.use('/api/vectorstore', vectorstoreRoute);
+
 
 // ─── Upload routes ────────────────────────────────────────────────────────────
 app.use('/api/uploads/raw',      rawRoute)

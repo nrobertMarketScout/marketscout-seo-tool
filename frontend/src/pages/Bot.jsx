@@ -14,6 +14,7 @@ export default function Bot () {
   const [savedMemory, setSaved] = useState(() => JSON.parse(localStorage.getItem(MEMORY_KEY) || '[]'));
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
+  const [rebuilding, setRebuilding] = useState(false);
   const [drawerOpen, setDrawer] = useState(false);
   const [tab, setTab] = useState('chat');
   const messagesEndRef = useRef(null);
@@ -67,6 +68,20 @@ export default function Bot () {
     localStorage.removeItem(MEMORY_KEY);
   };
 
+  const rebuildVectorstore = async () => {
+    setRebuilding(true);
+    try {
+      const res = await fetch('/api/vectorstore/rebuild', { method: 'POST' });
+      const json = await res.json();
+      alert(json.message || '✅ Rebuild complete.');
+    } catch (err) {
+      console.error('Rebuild failed', err);
+      alert('❌ Vectorstore rebuild failed.');
+    } finally {
+      setRebuilding(false);
+    }
+  };
+
   return (
     <div className="flex h-screen text-gray-800">
       {/* Sidebar */}
@@ -98,6 +113,12 @@ export default function Bot () {
               className="text-xs"
             />
             <div className="text-[11px] text-gray-500 mt-1">Supported: .csv, .pdf, .md</div>
+
+            <div className="mt-4">
+              <Button onClick={rebuildVectorstore} className="w-full text-xs" variant="outline" disabled={rebuilding}>
+                {rebuilding ? '♻️ Rebuilding...' : '♻️ Rebuild Knowledge Base'}
+              </Button>
+            </div>
           </>
         )}
         {tab === 'chat' && (
