@@ -2,41 +2,75 @@
 import express from 'express';
 import fs from 'fs/promises';
 import path from 'path';
+import Papa from 'papaparse';
 import { OpenAI } from 'openai';
-import { fetchMapsResults } from '../lib/serpapi_client.js';
+import dotenv from 'dotenv';
+
+import { fetchSERPFromDataForSEO } from '../lib/dataforseo_client.js';
 import { auditAndScore } from '../lib/audit_and_score.js';
 import { loadRetriever } from '../vectorstore/retriever.js';
+
+dotenv.config();
 
 const router = express.Router();
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 const SERVICES_CSV = path.join(process.cwd(), 'services_list.csv');
+const CITIES_CSV = path.join(process.cwd(), 'US_City_Population_Data__Cleaned_.csv'); // optional for city validation
 const OUTPUT_CSV = path.join(process.cwd(), 'combined_opportunity_matrix.csv');
 const INPUT_CSV_PATH = path.join(process.cwd(), 'data', 'input.csv');
+
+async function loadListFromCSV(csvPath) {
+  try {
+    const raw = await fs.readFile(csvPath, 'utf-8');
+    return raw.split('\n').map(line => line.trim()).filter(Boolean);
+  } catch {
+    return [];
+  }
+}
 
 router.post('/', async (req, res) => {
   const { question } = req.body;
   if (!question) return res.status(400).json({ error: 'Missing question' });
 
   try {
-    // Load known services
-    const raw = await fs.readFile(SERVICES_CSV, 'utf-8');
-    const services = raw.split('\n').map(line => line.trim()).filter(Boolean);
+    // Step 1: Try vectorstore knowledge base first
+    const retriever = await loadRetriever();
+    const docs = await retriever.getRelevantDocuments(question);
+    if (docs.length > 0) {
+      const injected = docs.map(d => d.pageContent).slice(0, 3).join('\n\n');
 
-    // Try to extract location + niches
+      const kbAnswer = await openai.chat.completions.create({
+        model: 'gpt-4',
+        messages: [
+          {
+            role: 'system',
+            content: `You are a rank & rent SEO expert. Use this knowledge base:\n\n${injected}`
+          },
+          { role: 'user', content: question }
+        ]
+      });
+
+      const text = kbAnswer.choices?.[0]?.message?.content?.trim();
+      if (text) return res.json({ text });
+    }
+
+    // Step 2: Try location + niche extraction only if no KB result
+    const [services, cities] = await Promise.all([
+      loadListFromCSV(SERVICES_CSV),
+      loadListFromCSV(CITIES_CSV)
+    ]);
+
     const chat = await openai.chat.completions.create({
       model: 'gpt-4',
       messages: [
         {
           role: 'system',
-          content: `You are a niche matching engine for a rank & rent SEO platform.
-Extract the U.S. city and all matching services from the provided list of known niches.
-Match only exact or partial terms from the list — do not generate new services.
-Respond using the function format provided.`
+          content: `You are a fuzzy matcher for a rank & rent SEO tool. Match ONLY U.S. cities and known service niches from provided lists. Do not invent services or locations.`
         },
         {
           role: 'user',
-          content: `Query: ${question}\n\nValid niches:\n${services.join(', ')}`
+          content: `Query: ${question}\n\nCities: ${cities.join(', ')}\nServices: ${services.join(', ')}`
         }
       ],
       functions: [{
@@ -57,19 +91,17 @@ Respond using the function format provided.`
     const { location, niches } = parsed;
 
     if (location && niches?.length) {
-      // Save input.csv
       const inputCSV = [
         'Group,Keyword,Location',
         ...niches.map(niche => `"${niche}","${niche} ${location}","${location}"`)
       ].join('\n');
       await fs.writeFile(INPUT_CSV_PATH, inputCSV);
 
-      // Scrape loop
+      // Scrape using DataForSEO
       const allResults = [];
       for (const niche of niches) {
         const keyword = `${niche} ${location}`;
-        const results = await fetchMapsResults(keyword, location);
-
+        const results = await fetchSERPFromDataForSEO(keyword, location);
         for (const r of results) {
           allResults.push({
             Group: niche,
@@ -90,11 +122,10 @@ Respond using the function format provided.`
 
       if (allResults.length === 0) {
         return res.json({
-          text: '⚠️ No data could be scraped — likely hit SerpAPI free tier quota. Try again later.'
+          text: '⚠️ No data could be scraped — possibly hit DataForSEO quota or bad keywords.'
         });
       }
 
-      // Score & save
       const summary = auditAndScore(allResults);
       const scoreMap = {};
       for (const row of summary) {
@@ -121,21 +152,7 @@ Respond using the function format provided.`
       });
     }
 
-    // ❗ Fallback: Use vectorstore retrieval
-    const retriever = await loadRetriever();
-    const docs = await retriever.getRelevantDocuments(question);
-    const injected = docs.map(d => d.pageContent).slice(0, 3).join('\n\n');
-
-    const fallback = await openai.chat.completions.create({
-      model: 'gpt-4',
-      messages: [
-        { role: 'system', content: `You are an expert rank & rent assistant. Use the following knowledge base:\n\n${injected}` },
-        { role: 'user', content: question }
-      ]
-    });
-
-    const answer = fallback.choices?.[0]?.message?.content?.trim() || 'No answer found.';
-    return res.json({ text: answer });
+    return res.json({ text: '❌ Could not extract valid location and services from your query.' });
   } catch (err) {
     console.error('❌ /api/bot error:', err);
     res.status(500).json({ error: 'Failed to process bot request.' });

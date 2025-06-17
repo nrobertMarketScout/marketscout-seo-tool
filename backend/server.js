@@ -3,79 +3,74 @@ import path from 'path'
 import { fileURLToPath } from 'url'
 import dotenv from 'dotenv'
 
-// — load the .env at the project root (one level up from backend/) —
-const __dirname = path.dirname(fileURLToPath(import.meta.url))
-dotenv.config({ path: path.resolve(__dirname, '../.env') })
-console.log('[AUTH CHECK]', process.env.DATAFORSEO_LOGIN, process.env.DATAFORSEO_PASSWORD);
+// — resolve correct __dirname and load the .env from project root —
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
+// 🛡️ Safe load for any working directory: always loads from root
+dotenv.config({ path: path.resolve(__dirname, '../.env') })
+console.log('[AUTH CHECK]', process.env.DATAFORSEO_LOGIN, process.env.DATAFORSEO_PASSWORD)
 
 import express from 'express'
 import cors    from 'cors'
 import fs      from 'fs/promises'
 
-// Existing imports…
-import runRoute       from './api/run.js'
-import resultsRoute   from './api/results.js'
-import summaryRoute   from './api/summary.js'
-import matrixRoute    from './api/matrix.js'
-import heatmapRoute   from './api/heatmap.js'
-import botRoute       from './api/bot.js'
-import ingestRoute    from './api/ingest.js'
-import metaRoute      from './routes/meta.js'
-import siteRoute      from './routes/site.js'
-import serviceRoute   from './routes/services.js'
-import dataForSEORoute from './routes/apiDataForSEO.js'
+// Core route modules
+import runRoute         from './api/run.js'
+import resultsRoute     from './api/results.js'
+import summaryRoute     from './api/summary.js'
+import matrixRoute      from './api/matrix.js'
+import heatmapRoute     from './api/heatmap.js'
+import botRoute         from './api/bot.js'
+import ingestRoute      from './api/ingest.js'
+import metaRoute        from './routes/meta.js'
+import siteRoute        from './routes/site.js'
+import serviceRoute     from './routes/services.js'
 import apiDataForSEORoute from './routes/apiDataForSEO.js'
-import { loadValidLocations } from './utils/locationValidator.js';
 
+// Upload modules
+import rawRoute         from './routes/uploads/raw.js'
+import compressRoute    from './routes/uploads/compress.js'
 
-// DataForSEO route (newly added)
+import { loadValidLocations } from './utils/locationValidator.js'
 
-
-// Upload routes
-import rawRoute       from './routes/uploads/raw.js'
-import compressRoute  from './routes/uploads/compress.js'
-
+// ─── Initialize ───────────────────────────────────────────────────────────────
 const ROOT = path.resolve(__dirname)
 const app  = express()
 const PORT = process.env.PORT || 3001
-loadValidLocations();
+loadValidLocations()
 
-// ─── Log out the TinyPNG/Tinify key for sanity check ──────────────────────────
+// ─── Confirm key loading ──────────────────────────────────────────────────────
 console.log('⏳ TinyPNG API key is:', process.env.TINYPNG_API_KEY || process.env.TINIFY_API_KEY)
 
 // ─── Middleware ───────────────────────────────────────────────────────────────
 app.use(cors())
 app.use(express.json())
 
-// ─── Serve generated sites & ZIPs ─────────────────────────────────────────────
+// ─── Serve static uploads ─────────────────────────────────────────────────────
 app.use(
   '/uploads',
   express.static(path.resolve(ROOT, 'uploads'), { extensions: ['html'] })
 )
 
 // ─── Core API routes ──────────────────────────────────────────────────────────
-app.use('/api/run',      runRoute)
-app.use('/api/results',  resultsRoute)
-app.use('/api/summary',  summaryRoute)
-app.use('/api/matrix',   matrixRoute)
-app.use('/api/heatmap',  heatmapRoute)
-app.use('/api/bot',      botRoute)
-app.use('/api/ingest',   ingestRoute)
-app.use('/api/meta',     metaRoute)
-app.use('/api/site',     siteRoute)
-app.use('/api/services', serviceRoute)
-
-// ─── DataForSEO API Integration ───────────────────────────────────────────────
+app.use('/api/run',        runRoute)
+app.use('/api/results',    resultsRoute)
+app.use('/api/summary',    summaryRoute)
+app.use('/api/matrix',     matrixRoute)
+app.use('/api/heatmap',    heatmapRoute)
+app.use('/api/bot',        botRoute)
+app.use('/api/ingest',     ingestRoute)
+app.use('/api/meta',       metaRoute)
+app.use('/api/site',       siteRoute)
+app.use('/api/services',   serviceRoute)
 app.use('/api/dataforseo', apiDataForSEORoute)
-app.use('/api/dataforseo', dataForSEORoute)
-
 
 // ─── Upload routes ────────────────────────────────────────────────────────────
-app.use('/api/uploads/raw', rawRoute)
+app.use('/api/uploads/raw',      rawRoute)
 app.use('/api/uploads/compress', compressRoute)
 
-// ─── View-source helper ───────────────────────────────────────────────────────
+// ─── View-source utility ──────────────────────────────────────────────────────
 app.get('/view-source', async (req, res) => {
   try {
     const rel  = req.query.file || ''
