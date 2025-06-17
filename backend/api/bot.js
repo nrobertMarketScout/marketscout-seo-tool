@@ -1,4 +1,4 @@
-// backend/api/bot.js
+// backend/api/bot.js (patched metadata injection in KB path)
 import express from 'express';
 import fs from 'fs/promises';
 import path from 'path';
@@ -16,7 +16,7 @@ const router = express.Router();
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 const SERVICES_CSV = path.join(process.cwd(), 'services_list.csv');
-const CITIES_CSV = path.join(process.cwd(), 'US_City_Population_Data__Cleaned_.csv'); // optional for city validation
+const CITIES_CSV = path.join(process.cwd(), 'US_City_Population_Data__Cleaned_.csv');
 const OUTPUT_CSV = path.join(process.cwd(), 'combined_opportunity_matrix.csv');
 const INPUT_CSV_PATH = path.join(process.cwd(), 'data', 'input.csv');
 
@@ -52,10 +52,20 @@ router.post('/', async (req, res) => {
       });
 
       const text = kbAnswer.choices?.[0]?.message?.content?.trim();
-      if (text) return res.json({ text });
+      if (text) {
+        return res.json({
+          type: 'structured',
+          summary: text,
+          source: 'vectorstore',
+          tags: [],
+          location: '',
+          niches: [],
+          csv: ''
+        });
+      }
     }
 
-    // Step 2: Try location + niche extraction only if no KB result
+    // Step 2: Try location + niche extraction
     const [services, cities] = await Promise.all([
       loadListFromCSV(SERVICES_CSV),
       loadListFromCSV(CITIES_CSV)
@@ -145,10 +155,13 @@ router.post('/', async (req, res) => {
       await fs.writeFile(OUTPUT_CSV, Papa.unparse(finalResults, { quotes: true }));
 
       return res.json({
+        type: 'structured',
         summary: `Top niches in ${location}: ${uniqueNiches.join(', ')}`,
         location,
         niches,
-        csv: '/data/combined_opportunity_matrix.csv'
+        tags: [],
+        csv: '/data/combined_opportunity_matrix.csv',
+        source: 'structured_scrape'
       });
     }
 

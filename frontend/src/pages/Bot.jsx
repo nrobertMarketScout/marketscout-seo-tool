@@ -48,12 +48,13 @@ export default function Bot () {
       const botMessage = {
         role: 'assistant',
         content: isStructured ? res.summary : res.text || 'No answer returned.',
-        tags: res.tags || [],
-        location: res.location || '',
-        niches: res.niches || [],
-        csv: res.csv || '',
-        source: res.source || ''
+        tags: res.tags ?? [],
+        location: res.location ?? '',
+        niches: res.niches ?? [],
+        csv: res.csv ?? '',
+        source: res.source ?? (isStructured ? 'structured_scrape' : 'vectorstore')
       };
+
       setMessages(prev => [...prev, botMessage]);
     } catch (err) {
       setMessages(prev => [...prev, { role: 'assistant', content: 'Error fetching response.' }]);
