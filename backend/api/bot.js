@@ -1,4 +1,4 @@
-// backend/api/bot.js (patched metadata injection in KB path)
+// backend/api/bot.js
 import express from 'express';
 import fs from 'fs/promises';
 import path from 'path';
@@ -38,34 +38,30 @@ router.post('/', async (req, res) => {
     const retriever = await loadRetriever();
     const docs = await retriever.getRelevantDocuments(question);
     if (docs.length > 0) {
-      const injected = docs.map(d => d.pageContent).slice(0, 3).join('\n\n');
+      const injected = docs
+        .map((d, i) => `# Source ${i + 1} — ${d.metadata?.source || 'unknown'}\n${d.pageContent}`)
+        .join('\n\n');
 
       const kbAnswer = await openai.chat.completions.create({
         model: 'gpt-4',
         messages: [
           {
             role: 'system',
-            content: `You are a rank & rent SEO expert. Use this knowledge base:\n\n${injected}`
+            content: `You are a rank & rent SEO expert. Use only the content below to answer the question as best you can.\n\n${injected}`
           },
           { role: 'user', content: question }
         ]
       });
 
       const text = kbAnswer.choices?.[0]?.message?.content?.trim();
-      if (text) {
-        return res.json({
-          type: 'structured',
-          summary: text,
-          source: 'vectorstore',
-          tags: [],
-          location: '',
-          niches: [],
-          csv: ''
-        });
-      }
+
+      return res.json({
+        text: text || 'No answer returned.',
+        source: 'vectorstore'
+      });
     }
 
-    // Step 2: Try location + niche extraction
+    // Step 2: Try location + niche extraction only if no KB result
     const [services, cities] = await Promise.all([
       loadListFromCSV(SERVICES_CSV),
       loadListFromCSV(CITIES_CSV)
@@ -107,7 +103,6 @@ router.post('/', async (req, res) => {
       ].join('\n');
       await fs.writeFile(INPUT_CSV_PATH, inputCSV);
 
-      // Scrape using DataForSEO
       const allResults = [];
       for (const niche of niches) {
         const keyword = `${niche} ${location}`;
@@ -155,13 +150,10 @@ router.post('/', async (req, res) => {
       await fs.writeFile(OUTPUT_CSV, Papa.unparse(finalResults, { quotes: true }));
 
       return res.json({
-        type: 'structured',
         summary: `Top niches in ${location}: ${uniqueNiches.join(', ')}`,
         location,
         niches,
-        tags: [],
-        csv: '/data/combined_opportunity_matrix.csv',
-        source: 'structured_scrape'
+        csv: '/data/combined_opportunity_matrix.csv'
       });
     }
 
