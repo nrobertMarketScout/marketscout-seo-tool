@@ -1,14 +1,35 @@
+// backend/services/KeywordService.js
+import axios from 'axios';
+
 export class KeywordService {
   constructor(volumeProvider, serpProvider) {
     this.volumeProvider = volumeProvider;
     this.serpProvider = serpProvider;
   }
 
-  async getKeywordMetrics(keywords, location) {
-    return this.volumeProvider.getKeywordMetrics(keywords, location);
+  async getLocationCode(locationName) {
+    try {
+      const res = await axios.get(`http://localhost:3001/api/locations/code`, {
+        params: { name: locationName }
+      });
+      return res.data.location_code;
+    } catch (err) {
+      console.error(`❌ Failed to resolve location code for ${locationName}:`, err.message);
+      return null;
+    }
   }
 
-  async getSERPInsights(keyword, location) {
-    return this.serpProvider.getSERPInsights(keyword, location);
+  async getKeywordMetrics(keywords, locationName) {
+    const locationCode = await this.getLocationCode(locationName);
+    if (!locationCode) return [];
+
+    return this.volumeProvider.getKeywordMetrics(keywords, locationCode);
+  }
+
+  async getSERPInsights(keyword, locationName) {
+    const locationCode = await this.getLocationCode(locationName);
+    if (!locationCode) return {};
+
+    return this.serpProvider.getSERPInsights(keyword, locationCode);
   }
 }

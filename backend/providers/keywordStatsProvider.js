@@ -1,5 +1,13 @@
-// Google Ads API placeholder
-export async function getKeywordStats(keyword, location) {
-  console.warn('Keyword stats stub – Google Ads API not configured');
-  return { volume: null, cpc: null };
+// backend/services/providers/keywordStatsProvider.js
+import { DataForSEOProvider } from './DataForSEOProvider.js';
+
+const dataProvider = new DataForSEOProvider();
+
+export async function getKeywordStats(keywords, locationCode) {
+  try {
+    return await dataProvider.getKeywordMetrics(keywords, locationCode);
+  } catch (err) {
+    console.error('❌ getKeywordStats failed:', err.message);
+    return [];
+  }
 }
