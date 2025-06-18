@@ -76,7 +76,7 @@ export async function getKeywordMetrics(keywords, location) {
     }
 
     for (const keyword of keywords) {
-      const cacheKey = `${keyword.toLowerCase()}::${location.toLowerCase()}`;
+      const cacheKey = `${keyword.toLowerCase()}::${location}`;
 
       // Check cache
       if (cache.has(cacheKey)) {
@@ -97,7 +97,7 @@ export async function getKeywordMetrics(keywords, location) {
       if (match) {
         const data = {
           volume: match.search_volume || 0,
-          cpc: match.cpc?.value || 0,
+          cpc: match.cpc || 0,
           competition: match.competition || 0,
           trend: (match.monthly_searches || []).map(item => ({
             year: item.year,

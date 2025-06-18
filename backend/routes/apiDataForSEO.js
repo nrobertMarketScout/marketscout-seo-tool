@@ -1,10 +1,17 @@
 // backend/routes/apiDataForSEO.js
 import express from 'express';
-import { getKeywordMetrics } from '../services/providers/DataForSEOProvider.js';
+import { KeywordService } from '../services/KeywordService.js';
+import { getKeywordStats } from '../providers/keywordStatsProvider.js';
+import { scoreKeyword } from '../utils/scoring.js';
 
 const router = express.Router();
 
-// GET /api/dataforseo/metrics?keywords=plumber,electrician&location=Portland
+const keywordService = new KeywordService(
+  { getKeywordMetrics: getKeywordStats },
+  {} // placeholder for serpProvider if needed later
+);
+
+// GET /api/dataforseo/metrics?keywords=plumber,electrician&location=Portland, OR
 router.get('/metrics', async (req, res) => {
   try {
     const { keywords, location } = req.query;
@@ -13,14 +20,20 @@ router.get('/metrics', async (req, res) => {
     }
 
     const keywordList = keywords.split(',').map(k => k.trim()).filter(Boolean);
-    const metrics = await getKeywordMetrics(keywordList, location);
+    const metrics = await keywordService.getKeywordMetrics(keywordList, location);
 
-    res.json(metrics);
+    const withScores = metrics.map(metric => {
+      return {
+        ...metric,
+        score: scoreKeyword(metric)
+      };
+    });
+
+    res.json(withScores);
   } catch (err) {
     console.error('❌ /metrics error:', err);
     res.status(500).json({ error: 'Failed to fetch keyword metrics' });
   }
 });
 
-// Other routes (e.g. /serp-insights) remain unchanged
 export default router;
