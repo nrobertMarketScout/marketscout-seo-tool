@@ -2,53 +2,57 @@
 import express from 'express';
 import fs from 'fs/promises';
 import path from 'path';
-import { parse } from 'csv-parse/sync';
+import dotenv from 'dotenv';
+import stringSimilarity from 'string-similarity';
+import { fileURLToPath } from 'url';
 
 const router = express.Router();
-const cityCSVPath = path.join(process.cwd(), 'US_City_Population_Data__Cleaned_.csv');
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+dotenv.config({ path: path.resolve(__dirname, '../../.env') });
 
-function normalizeCity(cityRaw, stateRaw) {
-  let city = cityRaw.trim();
-  let st = stateRaw.trim().toUpperCase();
+const LOCATION_FILE = path.resolve(__dirname, '../data/locations-dataforseo.json');
 
-  // Handle "City (ST)" format
-  const match = city.match(/^(.*?)\s*\(([^)]+)\)$/);
-  if (match) {
-    city = match[1].trim();
-    st = match[2].trim().toUpperCase();
+let locationsCache = null;
+
+// Load + cache locations at startup
+const loadLocations = async () => {
+  if (!locationsCache) {
+    const raw = await fs.readFile(LOCATION_FILE, 'utf-8');
+    locationsCache = JSON.parse(raw);
+  }
+  return locationsCache;
+};
+
+// GET /api/locations/code?name=Portland, OR
+router.get('/code', async (req, res) => {
+  const { name } = req.query;
+  if (!name) {
+    return res.status(400).json({ error: 'Missing location name' });
   }
 
-  return `${city}, ${st}`;
-}
-
-async function loadCitiesFromCSV() {
-  const raw = await fs.readFile(cityCSVPath);
-  const records = parse(raw, { columns: true, skip_empty_lines: true });
-
-  const citySet = new Set();
-  for (const row of records) {
-    const city = row['City/Town/CDP']?.trim();
-    const state = row['State']?.trim() || row['ST']?.trim();
-    if (!city || !state) continue;
-    citySet.add(normalizeCity(city, state));
-  }
-
-  return [...citySet].sort((a, b) => a.localeCompare(b));
-}
-
-router.get('/', async (req, res) => {
   try {
-    const allCities = await loadCitiesFromCSV();
+    const locations = await loadLocations();
 
-    const q = req.query.q?.toLowerCase();
-    const filtered = q
-      ? allCities.filter(c => c.toLowerCase().includes(q))
-      : allCities;
+    const bestMatch = stringSimilarity.findBestMatch(
+      name.toLowerCase(),
+      locations.map(l => l.location_name.toLowerCase())
+    );
 
-    res.json(filtered.slice(0, 100));
+    const matchIndex = bestMatch.bestMatchIndex;
+    const result = locations[matchIndex];
+
+    if (!result) {
+      return res.status(404).json({ error: 'Location not found' });
+    }
+
+    return res.json({
+      location_name: result.location_name,
+      location_code: result.location_code
+    });
   } catch (err) {
-    console.error('❌ Failed to load cities:', err.message);
-    res.status(500).json({ error: 'Could not load city list' });
+    console.error('❌ Location code lookup failed:', err.message);
+    return res.status(500).json({ error: 'Internal error' });
   }
 });
 
