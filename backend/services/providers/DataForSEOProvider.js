@@ -1,16 +1,19 @@
 // backend/services/providers/DataForSEOProvider.js
 import axios from 'axios';
-import fs from 'fs/promises';
-import path from 'path';
 import dotenv from 'dotenv';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
-// ✅ Load env vars directly in module to avoid premature access issues
-dotenv.config();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+dotenv.config({ path: path.resolve(__dirname, '../../../.env') });
+
 
 const API_BASE = 'https://api.dataforseo.com/v3';
 const SLEEP = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const MAX_POLL_ATTEMPTS = 3;
 const POLL_INTERVAL_MS = 2500;
+const CACHE_TTL = 24 * 60 * 60 * 1000; // 24 hours
 
 const user = process.env.DATAFORSEO_LOGIN;
 const pass = process.env.DATAFORSEO_PASSWORD;
@@ -19,56 +22,103 @@ if (!user || !pass) {
   throw new Error('❌ Missing DataForSEO credentials in environment.');
 }
 
-const auth = {
-  username: user,
-  password: pass
-};
+const auth = { username: user, password: pass };
 
-export async function getKeywordMetrics(keyword, location) {
-  const data = [{
-    keyword,
-    location_name: location,
+// In-memory cache (per keyword::location)
+const cache = new Map();
+
+export async function getKeywordMetrics(keywords, location) {
+  if (!Array.isArray(keywords)) {
+    throw new Error('keywords must be an array');
+  }
+
+  const now = Date.now();
+  const results = [];
+
+  const payload = [{
+    keywords,
+    location_code: Number(location),
     language_name: 'English'
   }];
 
   try {
-    // 🚀 Submit search volume task
-    const volumeRes = await axios.post(
+    const postRes = await axios.post(
       `${API_BASE}/keywords_data/google_ads/search_volume/task_post`,
-      data,
+      payload,
       { auth }
     );
 
-    const taskId = volumeRes.data.tasks?.[0]?.id;
-    if (!taskId) throw new Error(`❌ No task ID returned for keyword "${keyword}"`);
+    const taskId = postRes.data.tasks?.[0]?.id;
+    if (!taskId) throw new Error('❌ No task ID returned');
 
     const getPath = `${API_BASE}/keywords_data/google_ads/search_volume/task_get/${taskId}`;
+    let taskResults = [];
 
     for (let attempt = 1; attempt <= MAX_POLL_ATTEMPTS; attempt++) {
       await SLEEP(POLL_INTERVAL_MS);
       try {
         const result = await axios.get(getPath, { auth });
-        const items = result.data.tasks?.[0]?.result || [];
-
-        const found = items.find(
-          (entry) => entry.keyword.toLowerCase() === keyword.toLowerCase()
-        );
-
-        if (found) {
-          const volume = found.search_volume || 0;
-          const cpc = found.cpc?.value || 0;
-          const competition = found.competition || 0;
-          console.log(`✅ ${keyword} in ${location}: Vol=${volume}, CPC=$${cpc}, Comp=${competition}`);
-          return { volume, cpc, competition };
-        }
+    
+        // 👇 Add this log:
+        console.log(`[DEBUG] Poll response attempt ${attempt}:`, JSON.stringify(result.data, null, 2));
+    
+        taskResults = result.data.tasks?.[0]?.result || [];
+    
+        if (taskResults.length) break;
       } catch (err) {
-        console.warn(`⚠️ Polling attempt ${attempt} failed: ${err.response?.statusText || err.message}`);
+        console.warn(`[${new Date().toISOString()}] ⚠️ Poll attempt ${attempt} failed: ${err.message}`);
+      }
+    }
+    
+
+    if (!taskResults.length) {
+      throw new Error(`❌ No keyword data found after ${MAX_POLL_ATTEMPTS} tries.`);
+    }
+
+    for (const keyword of keywords) {
+      const cacheKey = `${keyword.toLowerCase()}::${location.toLowerCase()}`;
+
+      // Check cache
+      if (cache.has(cacheKey)) {
+        const { data, timestamp } = cache.get(cacheKey);
+        if (now - timestamp < CACHE_TTL) {
+          console.log(`[Cache] ✅ Using cached data for "${keyword}" in ${location}`);
+          results.push({ keyword, ...data });
+          continue;
+        } else {
+          cache.delete(cacheKey);
+        }
+      }
+
+      const match = taskResults.find(
+        (entry) => entry.keyword.toLowerCase() === keyword.toLowerCase()
+      );
+
+      if (match) {
+        const data = {
+          volume: match.search_volume || 0,
+          cpc: match.cpc?.value || 0,
+          competition: match.competition || 0,
+          trend: (match.monthly_searches || []).map(item => ({
+            year: item.year,
+            month: item.month,
+            volume: item.search_volume
+          }))
+        };
+
+        results.push({ keyword, ...data });
+        cache.set(cacheKey, { data, timestamp: now });
+
+        console.log(`[DataForSEO] ✅ ${keyword} in ${location}: Vol=${data.volume}, CPC=${data.cpc}`);
+      } else {
+        console.warn(`[DataForSEO] ❌ No result for ${keyword} in ${location}`);
+        results.push({ keyword, volume: 0, cpc: 0, competition: 0, trend: [] });
       }
     }
 
-    throw new Error(`❌ No keyword volume result found after ${MAX_POLL_ATTEMPTS} tries.`);
+    return results;
   } catch (err) {
-    console.error(`❌ DataForSEO error (${keyword}): ${err.message}`);
-    return { volume: 0, cpc: 0, competition: 0 };
+    console.error(`[${new Date().toISOString()}] ❌ Batch fetch failed: ${err.message}`);
+    return keywords.map(k => ({ keyword: k, volume: 0, cpc: 0, competition: 0, trend: [] }));
   }
 }

@@ -1,10 +1,14 @@
 // backend/lib/serpapi_client.js
 import axios from 'axios';
-import dotenv from 'dotenv';
 import fs from 'fs/promises';
+import dotenv from 'dotenv';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-dotenv.config();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+dotenv.config({ path: path.resolve(__dirname, '../../.env') });
+
 
 const SERPAPI_KEY = process.env.SERPAPI_API_KEY;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));

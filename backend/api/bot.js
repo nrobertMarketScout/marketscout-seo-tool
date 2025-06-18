@@ -1,17 +1,19 @@
 // backend/api/bot.js
 import express from 'express';
 import fs from 'fs/promises';
-import path from 'path';
 import Papa from 'papaparse';
 import { OpenAI } from 'openai';
-import dotenv from 'dotenv';
-
 import { fetchSERPFromDataForSEO } from '../lib/dataforseo_client.js';
 import { auditAndScore } from '../lib/audit_and_score.js';
 import { getRelevantChunks } from '../utils/embeddings.js';
 import { loadRetriever } from '../vectorstore/retriever.js';
+import dotenv from 'dotenv';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
-dotenv.config();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+dotenv.config({ path: path.resolve(__dirname, '../../.env') });
 
 const router = express.Router();
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });

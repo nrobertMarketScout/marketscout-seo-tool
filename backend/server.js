@@ -29,7 +29,9 @@ import serviceRoute     from './routes/services.js'
 import apiDataForSEORoute from './routes/apiDataForSEO.js'
 import vectorstoreRoute from './api/vectorstore.js'
 import vectorstoreTest  from './api/vectorstore_test.js'
-import memoryRoute      from './api/memory.js' // ✅ NEW
+import memoryRoute      from './api/memory.js'
+import locationRoutes from './routes/locations.js';
+
 
 // Upload modules
 import rawRoute         from './routes/uploads/raw.js'
@@ -70,11 +72,15 @@ app.use('/api/services',   serviceRoute)
 app.use('/api/dataforseo', apiDataForSEORoute)
 app.use('/api/vectorstore', vectorstoreRoute)
 app.use('/api/vectorstore/test', vectorstoreTest)
-app.use('/api/memory',     memoryRoute) // ✅ NEW
+app.use('/api/memory',     memoryRoute)
+app.use('/api/locations', locationRoutes);
+
 
 // ─── Upload routes ────────────────────────────────────────────────────────────
 app.use('/api/uploads/raw',      rawRoute)
 app.use('/api/uploads/compress', compressRoute)
+
+
 
 // ─── View-source utility ──────────────────────────────────────────────────────
 app.get('/view-source', async (req, res) => {
