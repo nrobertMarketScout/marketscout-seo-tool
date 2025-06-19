@@ -27,6 +27,7 @@
     "react-leaflet-cluster": "^2.1.0",
     "react-router-dom": "^6.17.0",
     "react-select": "^5.10.1",
+    "react-window": "^1.8.11",
     "tailwind-variants": "^1.0.0"
   },
   "devDependencies": {

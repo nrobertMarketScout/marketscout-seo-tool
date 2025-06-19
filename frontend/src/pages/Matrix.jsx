@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState, useRef } from 'react'
 import axios from 'axios'
+import { FixedSizeList as List } from 'react-window'
 
 export default function Matrix () {
   const [rows, setRows] = useState([])
@@ -7,6 +8,9 @@ export default function Matrix () {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [sortConfig, setSortConfig] = useState({ key: null, direction: 'asc' })
+  const [expandedRows, setExpandedRows] = useState(new Set())
+  const fetchedOnce = useRef(false)
+
   const [filters, setFilters] = useState({
     keyword: '',
     location: '',
@@ -20,6 +24,9 @@ export default function Matrix () {
   })
 
   useEffect(() => {
+    if (fetchedOnce.current) return
+    fetchedOnce.current = true
+
     const fetchMatrix = async () => {
       try {
         const res = await axios.get('/api/matrix')
@@ -85,9 +92,22 @@ export default function Matrix () {
     setSortConfig({ key, direction })
   }
 
+  const toggleRow = index => {
+    const updated = new Set(expandedRows)
+    if (updated.has(index)) updated.delete(index)
+    else updated.add(index)
+    setExpandedRows(updated)
+  }
+
   const downloadCSV = () => {
     const header = Object.keys(rows[0] || {}).join(',')
-    const body = rows.map(row => Object.values(row).join(',')).join('\n')
+    const body = rows.map(row =>
+      Object.values({
+        ...row,
+        score_breakdown: JSON.stringify(row.score_breakdown || [])
+      }).join(',')
+    ).join('\n')
+
     const blob = new Blob([header + '\n' + body], { type: 'text/csv' })
     const url = URL.createObjectURL(blob)
     const a = document.createElement('a')
@@ -133,32 +153,66 @@ export default function Matrix () {
         </select>
       </div>
 
-      <table className="w-full border border-gray-300 text-sm">
-        <thead>
-          <tr className="bg-gray-100 text-left cursor-pointer">
-            {['keyword', 'location', 'volume', 'cpc', 'competition', 'score'].map(field => (
-              <th key={field} className="p-2" onClick={() => requestSort(field)}>
-                {field.charAt(0).toUpperCase() + field.slice(1)}
-                {sortConfig.key === field ? (sortConfig.direction === 'asc' ? ' 🔼' : ' 🔽') : ''}
-              </th>
-            ))}
-            <th className="p-2">Map Pack</th>
-          </tr>
-        </thead>
-        <tbody>
-          {filteredRows.map((row, idx) => (
-            <tr key={idx} className="border-t border-gray-200">
-              <td className="p-2">{row.keyword}</td>
-              <td className="p-2">{row.location}</td>
-              <td className="p-2">{row.volume}</td>
-              <td className="p-2">${row.cpc}</td>
-              <td className="p-2">{row.competition}</td>
-              <td className="p-2">{row.score}</td>
-              <td className="p-2">{row.hasMapPack ? '✅' : '❌'}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <div className="overflow-x-auto">
+        <div className="grid grid-cols-8 bg-gray-100 font-bold border border-gray-300 sticky top-0 z-10 text-sm">
+          <div className="p-2">Keyword</div>
+          <div className="p-2">Location</div>
+          <div className="p-2">Volume</div>
+          <div className="p-2">Cpc</div>
+          <div className="p-2">Competition</div>
+          <div className="p-2">Score</div>
+          <div className="p-2">Map Pack</div>
+          <div className="p-2">Breakdown</div>
+        </div>
+
+        <div style={{ height: 500 }} className="overflow-auto border border-t-0 border-gray-300">
+          <List
+            height={500}
+            itemCount={filteredRows.length}
+            itemSize={110}
+            width="100%"
+          >
+            {({ index, style }) => {
+              const row = filteredRows[index]
+              return (
+                <div
+                  key={index}
+                  className="grid grid-cols-8 border-t border-gray-200 text-sm items-start"
+                  style={style}
+                >
+                  <div className="p-2">{row.keyword}</div>
+                  <div className="p-2">{row.location}</div>
+                  <div className="p-2">{row.volume}</div>
+                  <div className="p-2">${row.cpc}</div>
+                  <div className="p-2">{row.competition}</div>
+                  <div className="p-2">{row.score}</div>
+                  <div className="p-2">{row.hasMapPack ? '✅' : '❌'}</div>
+                  <div className="p-2">
+                    {row.score_breakdown ? (
+                      <>
+                        {(expandedRows.has(index)
+                          ? row.score_breakdown
+                          : row.score_breakdown.slice(0, 2)
+                        ).map((line, i) => (
+                          <div key={i}>• {line}</div>
+                        ))}
+                        {row.score_breakdown.length > 2 && (
+                          <div
+                            onClick={() => toggleRow(index)}
+                            className="text-blue-500 cursor-pointer text-xs mt-1 inline-block"
+                          >
+                            {expandedRows.has(index) ? '[−] See less' : '[+] See more'}
+                          </div>
+                        )}
+                      </>
+                    ) : null}
+                  </div>
+                </div>
+              )
+            }}
+          </List>
+        </div>
+      </div>
     </div>
   )
 }
