@@ -9,7 +9,6 @@ const __dirname = path.dirname(__filename)
 
 // 🛡️ Safe load for any working directory: always loads from root
 dotenv.config({ path: path.resolve(__dirname, '../.env') })
-console.log('[AUTH CHECK]', process.env.DATAFORSEO_LOGIN, process.env.DATAFORSEO_PASSWORD)
 
 import express from 'express'
 import cors    from 'cors'
@@ -30,7 +29,7 @@ import apiDataForSEORoute from './routes/apiDataForSEO.js'
 import vectorstoreRoute from './api/vectorstore.js'
 import vectorstoreTest  from './api/vectorstore_test.js'
 import memoryRoute      from './api/memory.js'
-import locationRoutes from './routes/locations.js';
+import locationsHandler from './api/locations.js'
 
 
 // Upload modules
@@ -45,8 +44,6 @@ const app  = express()
 const PORT = process.env.PORT || 3001
 loadValidLocations()
 
-// ─── Confirm key loading ──────────────────────────────────────────────────────
-console.log('⏳ TinyPNG API key is:', process.env.TINYPNG_API_KEY || process.env.TINIFY_API_KEY)
 
 // ─── Middleware ───────────────────────────────────────────────────────────────
 app.use(cors())
@@ -73,7 +70,8 @@ app.use('/api/dataforseo', apiDataForSEORoute)
 app.use('/api/vectorstore', vectorstoreRoute)
 app.use('/api/vectorstore/test', vectorstoreTest)
 app.use('/api/memory',     memoryRoute)
-app.use('/api/locations', locationRoutes);
+app.use('/api/locations', (await import('./api/locations.js')).default)
+app.use('/api/services', (await import('./api/services.js')).default)
 
 
 // ─── Upload routes ────────────────────────────────────────────────────────────
