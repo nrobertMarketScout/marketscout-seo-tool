@@ -1,100 +1,120 @@
 // backend/api/matrix.js
-import express from 'express'
-import fs from 'fs/promises'
-import path from 'path'
-import Papa from 'papaparse'
-import { fileURLToPath } from 'url'
-import { dirname } from 'path'
-import { getKeywordStats } from '../providers/keywordStatsProvider.js'
-import { scoreKeyword } from '../utils/scoring.js'
-import { getLocationCodeByName } from '../utils/locationCodes.js'
+import express from 'express';
+import { getKeywordStats } from '../providers/keywordStatsProvider.js';
+import { getSERPEnrichment } from '../services/providers/serpEnrichmentProvider.js';
 
-const router = express.Router()
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = dirname(__filename)
-const matrixInputPath = path.resolve(__dirname, '../data/input.csv')
+const router = express.Router();
 
-const metricsCache = new Map()
+function scoreKeyword({ volume, cpc, competition, hasMapPack, mapPackOverlap, mapPackWeak }) {
+  let score = 0;
+  const breakdown = [];
 
-router.get('/', async (req, res) => {
-  try {
-    const csv = await fs.readFile(matrixInputPath, 'utf-8')
-    const { data: rows } = Papa.parse(csv, { header: true })
-
-    const enriched = await Promise.all(
-      rows.map(async row => {
-        const keyword = row.Keyword?.trim()
-        const location = row.Location?.trim()
-
-        if (!keyword || !location) {
-          console.warn('❌ Skipping invalid row in CSV:', row)
-          return null
-        }
-
-        const locationCode = getLocationCodeByName(location)
-        if (!locationCode) {
-          console.warn(`❌ Skipping row — location code not found for "${location}"`)
-          return null
-        }
-
-        const cacheKey = `${keyword.toLowerCase()}::${locationCode}`
-        const now = Date.now()
-        const ttl = 24 * 60 * 60 * 1000
-
-        console.log(`🔑 Checking cache key: ${cacheKey}`)
-
-        let metrics
-
-        if (metricsCache.has(cacheKey)) {
-          const { data, timestamp } = metricsCache.get(cacheKey)
-          if (now - timestamp < ttl) {
-            console.log(`✅ Using cached metrics for ${cacheKey}`)
-            metrics = data
-          } else {
-            metricsCache.delete(cacheKey)
-          }
-        }
-
-        if (!metrics) {
-          const [result] = await getKeywordStats([keyword], locationCode)
-          metrics = result
-          metricsCache.set(cacheKey, { data: result, timestamp: now })
-        }
-
-        const { score, breakdown } = scoreKeyword({
-          keyword,
-          location,
-          search_volume: metrics.volume,
-          cpc: metrics.cpc,
-          competition: metrics.competition,
-          hasMapPack: metrics.hasMapPack ?? false,
-          overlappingResults: metrics.overlappingResults ?? 0,
-          adCount: metrics.adCount ?? 0
-        })
-
-        return {
-          keyword,
-          location,
-          volume: metrics.volume,
-          cpc: metrics.cpc,
-          competition: metrics.competition,
-          hasMapPack: metrics.hasMapPack ?? false,
-          score,
-          score_breakdown: breakdown
-        }
-      })
-    )
-
-    const clean = enriched.filter(Boolean)
-
-    console.log('✅ Final Enriched Matrix:', clean.slice(0, 3))
-    console.log('🧠 Active cache keys this run:', Array.from(metricsCache.keys()))
-
-    res.json({ matrix: clean })
-  } catch (err) {
-    console.error('❌ Failed to generate matrix:', err)
-    res.status(500).json({ error: 'Matrix generation failed' })
+  // Search Volume
+  if (volume >= 500) {
+    score += 2;
+    breakdown.push('Search volume: +2 (≥500)');
+  } else if (volume >= 100) {
+    score += 1;
+    breakdown.push('Search volume: +1 (100–499)');
+  } else {
+    breakdown.push('Search volume: +0 (<100)');
   }
-})
 
-export default router
+  // CPC
+  if (cpc < 5) {
+    score += 2;
+    breakdown.push('CPC: +2 (<$5)');
+  } else if (cpc < 10) {
+    score += 1;
+    breakdown.push('CPC: +1 ($5–10)');
+  } else {
+    breakdown.push('CPC: +0 (>$10)');
+  }
+
+  // Competition
+  if (typeof competition === 'number') {
+    if (competition < 0.3) {
+      score += 2;
+      breakdown.push('Competition: +2 (<0.3)');
+    } else if (competition < 0.6) {
+      score += 1;
+      breakdown.push('Competition: +1 (0.3–0.6)');
+    } else {
+      breakdown.push('Competition: +0 (≥0.6)');
+    }
+  } else {
+    breakdown.push('Competition: +0 (unknown)');
+  }
+
+  // Placeholder Ads Density
+  breakdown.push('Ads density: +0 (0 or 5+ ads)');
+
+  // Map Pack & Organic Overlap
+  if (!hasMapPack) {
+    score += 2;
+    breakdown.push('Map Pack & Organic overlap: +2 (no overlap)');
+    breakdown.push('Map Pack: +2 (absent)');
+  } else if (mapPackOverlap > 1 && mapPackWeak === 0) {
+    score -= 2;
+    breakdown.push('Map Pack & Organic overlap: -2 (strong overlap)');
+  } else if (mapPackOverlap === 1 && mapPackWeak > 0) {
+    score += 1;
+    breakdown.push('Map Pack & Organic overlap: +1 (weak single overlap)');
+  } else {
+    score += 2;
+    breakdown.push('Map Pack & Organic overlap: +2 (minimal overlap)');
+  }
+
+  return { score, breakdown };
+}
+
+router.post('/', async (req, res) => {
+  const { keywords = [], locationCode, locationName = '' } = req.body;
+
+  if (!Array.isArray(keywords) || !locationCode) {
+    return res.status(400).json({ error: 'Missing keywords or locationCode' });
+  }
+
+  try {
+    const stats = await getKeywordStats(keywords, locationCode);
+    const matrix = [];
+
+    for (const row of stats) {
+      const keyword = row.keyword;
+      const serp = await getSERPEnrichment(keyword, locationCode) || {};
+
+      const hasMapPack = serp.hasMapPack ?? false;
+      const mapPackOverlap = serp.mapPackOverlap ?? 0;
+      const mapPackWeak = serp.mapPackWeak ?? 0;
+
+      const enriched = {
+        ...row,
+        hasMapPack,
+        mapPackOverlap,
+        mapPackWeak
+      };
+
+      const { score, breakdown } = scoreKeyword(enriched);
+
+      matrix.push({
+        keyword,
+        location: row.location || locationName || '',
+        volume: row.volume,
+        cpc: row.cpc,
+        competition: row.competition,
+        hasMapPack,
+        mapPackOverlap,
+        mapPackWeak,
+        score,
+        score_breakdown: breakdown
+      });
+    }
+
+    res.json({ matrix });
+  } catch (err) {
+    console.error('❌ /api/matrix error:', err);
+    res.status(500).json({ error: 'Failed to process matrix' });
+  }
+});
+
+export default router;

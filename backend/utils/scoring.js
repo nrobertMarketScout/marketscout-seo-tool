@@ -1,16 +1,18 @@
 // backend/utils/scoring.js
+
 export function scoreKeyword({
   search_volume = 0,
   cpc = 0,
   competition = 0,
   hasMapPack = false,
-  adCount = 0,
-  overlappingResults = 0
+  mapPackListings = [],
+  overlappingResults = 0,
+  adCount = 0
 }) {
   let score = 0
   const breakdown = []
 
-  // Volume
+  // 1. Search Volume
   if (search_volume >= 500) {
     score += 2
     breakdown.push('Search volume: +2 (≥500)')
@@ -21,7 +23,7 @@ export function scoreKeyword({
     breakdown.push('Search volume: +0 (<100)')
   }
 
-  // CPC
+  // 2. CPC
   if (cpc < 5) {
     score += 2
     breakdown.push('CPC: +2 (<$5)')
@@ -32,7 +34,7 @@ export function scoreKeyword({
     breakdown.push('CPC: +0 (>$10)')
   }
 
-  // Competition
+  // 3. Competition
   if (competition < 0.3) {
     score += 2
     breakdown.push('Competition: +2 (<0.3)')
@@ -43,7 +45,7 @@ export function scoreKeyword({
     breakdown.push('Competition: +0 (≥0.6)')
   }
 
-  // Ads Density
+  // 4. Ads Density
   if (adCount === 1 || adCount === 2) {
     score += 2
     breakdown.push('Ads density: +2 (1–2 ads)')
@@ -54,29 +56,58 @@ export function scoreKeyword({
     breakdown.push('Ads density: +0 (0 or 5+ ads)')
   }
 
-  // Map Pack & Organic Overlap
-  if (overlappingResults >= 2) {
-    score -= 2
-    breakdown.push('Map Pack & Organic overlap: -2 (≥2 strong overlaps)')
-  } else if (overlappingResults === 1) {
-    score += 1
-    breakdown.push('Map Pack & Organic overlap: +1 (1 overlap w/ weak signals)')
+  // 5. Map Pack & Organic Overlap
+  let overlapScore = 0
+  let overlapNote = 'none'
+  if (overlappingResults >= 2 && hasStrongSignals(mapPackListings)) {
+    overlapScore = -2
+    overlapNote = '≥2 strong overlaps'
+  } else if (overlappingResults === 1 && hasOnlyWeakSignals(mapPackListings)) {
+    overlapScore = 1
+    overlapNote = '1 overlap with weak signals'
   } else {
-    score += 2
-    breakdown.push('Map Pack & Organic overlap: +2 (no overlap)')
+    overlapScore = 2
+    overlapNote = 'no overlap'
   }
+  score += overlapScore
+  breakdown.push(`Map Pack & Organic overlap: ${overlapScore >= 0 ? '+' : ''}${overlapScore} (${overlapNote})`)
 
-  // Map Pack
+  // 6. Map Pack Opportunity
   if (!hasMapPack) {
     score += 2
     breakdown.push('Map Pack: +2 (absent)')
   } else {
-    breakdown.push('Map Pack: +0 (present)')
+    const count = mapPackListings.length
+    const hasWeakCompetition = mapPackListings.every(isWeakMapPackBusiness)
+    if (count < 3 || hasWeakCompetition) {
+      score += 1
+      breakdown.push(`Map Pack: +1 (${count} listings or weak competition)`)
+    } else {
+      breakdown.push('Map Pack: +0 (strong presence)')
+    }
   }
 
   return { score, breakdown }
 }
 
-export function fallbackScoreKeyword() {
-  return { score: 0, breakdown: ['Fallback scoring not implemented'] }
+// Heuristics
+function isWeakMapPackBusiness(biz) {
+  return (
+    (biz.reviews ?? 0) < 20 ||
+    (biz.domain_age ?? 0) < 2 ||
+    !biz.address ||
+    !biz.website
+  )
+}
+
+function hasStrongSignals(listings) {
+  return listings.filter(biz => !isWeakMapPackBusiness(biz)).length >= 2
+}
+
+function hasOnlyWeakSignals(listings) {
+  return listings.every(isWeakMapPackBusiness)
+}
+
+export function fallbackScoreKeyword(keyword) {
+  return 0
 }
