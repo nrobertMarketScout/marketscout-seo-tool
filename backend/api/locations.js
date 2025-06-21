@@ -12,6 +12,21 @@ let cachedStates = []
 let cachedCities = []
 let locationCodeMap = new Map()
 
+const STATE_ABBREVIATIONS = {
+  AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California',
+  CO: 'Colorado', CT: 'Connecticut', DE: 'Delaware', FL: 'Florida', GA: 'Georgia',
+  HI: 'Hawaii', ID: 'Idaho', IL: 'Illinois', IN: 'Indiana', IA: 'Iowa',
+  KS: 'Kansas', KY: 'Kentucky', LA: 'Louisiana', ME: 'Maine', MD: 'Maryland',
+  MA: 'Massachusetts', MI: 'Michigan', MN: 'Minnesota', MS: 'Mississippi',
+  MO: 'Missouri', MT: 'Montana', NE: 'Nebraska', NV: 'Nevada',
+  NH: 'New Hampshire', NJ: 'New Jersey', NM: 'New Mexico', NY: 'New York',
+  NC: 'North Carolina', ND: 'North Dakota', OH: 'Ohio', OK: 'Oklahoma',
+  OR: 'Oregon', PA: 'Pennsylvania', RI: 'Rhode Island', SC: 'South Carolina',
+  SD: 'South Dakota', TN: 'Tennessee', TX: 'Texas', UT: 'Utah',
+  VT: 'Vermont', VA: 'Virginia', WA: 'Washington', WV: 'West Virginia',
+  WI: 'Wisconsin', WY: 'Wyoming'
+}
+
 function loadLocationCodes () {
   return new Promise((resolve, reject) => {
     const map = new Map()
@@ -70,9 +85,22 @@ export default async function handler (req, res) {
 
     const { states: filterStates, resolve } = req.query
 
-    // Resolve API: ?resolve=City,ST
+    // Resolve API: ?resolve=City,ST or City,State
     if (resolve) {
-      const [rawCity, rawState] = resolve.split(',').map(s => s.trim())
+      const parts = resolve.split(',').map(s => s.trim())
+      if (parts.length !== 2) {
+        return res.status(400).json({ error: `Invalid format. Use: City, ST or City, State` })
+      }
+
+      const rawCity = parts[0]
+      let rawState = parts[1]
+
+      // Convert abbreviation to full state name if needed
+      if (rawState.length === 2) {
+        const full = STATE_ABBREVIATIONS[rawState.toUpperCase()]
+        if (full) rawState = full
+      }
+
       const key = `${rawCity.toLowerCase()},${rawState.toLowerCase()}`
       const locationCode = locationCodeMap.get(key)
       if (locationCode) {

@@ -72,6 +72,7 @@ app.use('/api/vectorstore/test', vectorstoreTest)
 app.use('/api/memory',     memoryRoute)
 app.use('/api/locations', (await import('./api/locations.js')).default)
 app.use('/api/services', (await import('./api/services.js')).default)
+app.use('/api/all-location-codes', (await import('./api/all-location-codes.js')).default)
 
 
 // ─── Upload routes ────────────────────────────────────────────────────────────

@@ -1,0 +1,72 @@
+{
+  "data": {
+    "volume": 880,
+    "cpc": 5.68,
+    "competition": "LOW",
+    "trend": [
+      {
+        "year": 2025,
+        "month": 5,
+        "volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "volume": 1300
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "volume": 1000
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "volume": 880
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "volume": 1000
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "volume": 390
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "volume": 880
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "volume": 260
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "volume": 880
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "volume": 590
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "volume": 590
+      }
+    ],
+    "mapPackOverlap": 0,
+    "mapPackWeak": 0
+  },
+  "timestamp": 1750520608658
+}

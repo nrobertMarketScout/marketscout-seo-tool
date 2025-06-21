@@ -1,4 +1,3 @@
-// frontend/components/Matrix.jsx
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 import Select from 'react-select'
@@ -6,6 +5,7 @@ import { FixedSizeList as List } from 'react-window'
 import AutoSizer from 'react-virtualized-auto-sizer'
 import { Tooltip } from 'react-tooltip'
 import 'react-tooltip/dist/react-tooltip.css'
+import Fuse from 'fuse.js'
 
 export default function Matrix () {
   const [rows, setRows] = useState([])
@@ -15,7 +15,6 @@ export default function Matrix () {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
 
-  // Filters
   const [filters, setFilters] = useState({
     minScore: '', maxScore: '',
     minVolume: '', maxVolume: '',
@@ -25,6 +24,7 @@ export default function Matrix () {
 
   const [allStates, setAllStates] = useState([])
   const [allCities, setAllCities] = useState([])
+  const [allLocations, setAllLocations] = useState([])
   const [filteredCities, setFilteredCities] = useState([])
   const [servicesList, setServicesList] = useState([])
   const [selectedStates, setSelectedStates] = useState([])
@@ -38,8 +38,11 @@ export default function Matrix () {
   useEffect(() => {
     async function fetchOptions () {
       try {
-        const locRes = await axios.get('/api/locations')
-        const svcRes = await axios.get('/api/services')
+        const [locRes, svcRes, allLocRes] = await Promise.all([
+          axios.get('/api/locations'),
+          axios.get('/api/services'),
+          axios.get('/api/all-location-codes')
+        ])
 
         const states = locRes.data.states.map(state => ({ label: state, value: state }))
         const cities = locRes.data.cities.map(city => ({
@@ -49,13 +52,17 @@ export default function Matrix () {
           state: city.state
         }))
         const services = svcRes.data.services.map(svc => ({ label: svc, value: svc }))
+        const allLocs = allLocRes.data.locations || []
 
         setAllStates(states)
         setAllCities(cities)
         setFilteredCities(cities)
         setServicesList(services)
+        setAllLocations(allLocs)
+
+        console.log('✅ Picklists ready — curated cities:', cities.length, 'allLocations:', allLocs.length)
       } catch (err) {
-        console.error('❌ Failed to load picklists:', err)
+        console.error('❌ Failed to load options:', err)
       }
     }
     fetchOptions()
@@ -72,44 +79,70 @@ export default function Matrix () {
 
   const handleLoad = async () => {
     setError(null)
-
-    const keywords = selectedServices.map(s => s.value)
-
-    // use location codes from city picklist
-    const picklistLocationCodes = selectedCities
-      .map(c => c.locationCode)
-      .filter(Boolean)
-
-    let payload = {}
-
-    if (keywords.length && picklistLocationCodes.length) {
-      payload = { keywords, locationCodes: picklistLocationCodes }
-    } else if (keywordInput && locationInput) {
-      try {
-        const res = await axios.get(`/api/locations?resolve=${encodeURIComponent(locationInput.trim())}`)
-        const resolvedCode = res.data.locationCode
-        if (!resolvedCode) {
-          setError('Could not resolve location input to a valid location code.')
-          return
-        }
-        payload = {
-          keywords: keywordInput.split(',').map(k => k.trim()).filter(Boolean),
-          locationCodes: [resolvedCode]
-        }
-      } catch (err) {
-        console.error('[Location Resolution Error]', err)
-        setError('Location lookup failed — check formatting or spelling (e.g. Denver, CO).')
-        return
-      }
-    } else {
-      setError('Please enter keywords and location(s).')
-      return
-    }
+    setLoading(true)
 
     try {
-      setLoading(true)
+      console.log('🚀 LOAD TRIGGERED')
+
+      const keywords =
+        selectedServices.map(service => service.value).filter(Boolean)
+          .concat(
+            keywordInput.split(',').map(k => k.trim()).filter(Boolean)
+          )
+
+      console.log('📝 Final keywords:', keywords)
+
+      const allLocationStrings = []
+      if (locationInput) {
+        allLocationStrings.push(locationInput)
+      }
+      if (selectedCities.length > 0) {
+        selectedCities.forEach(city => {
+          allLocationStrings.push(city.label)
+        })
+      }
+
+      console.log('📍 Location strings:', allLocationStrings)
+
+      const fuse = new Fuse(allLocations, {
+        keys: ['city', 'state'],
+        includeScore: true,
+        threshold: 0.4
+      })
+
+      const resolvedCodes = []
+      for (const loc of allLocationStrings) {
+        const normalized = loc.toLowerCase().replace(/\s+/g, '')
+        const match = allCities.find(c => c.label.toLowerCase().replace(/\s+/g, '') === normalized)
+        if (match && match.locationCode) {
+          resolvedCodes.push(match.locationCode)
+          console.log(`✅ Exact picklist match for "${loc}" → ${match.locationCode}`)
+        } else {
+          const [cityPart, statePart] = loc.split(',').map(s => s.trim())
+          const results = fuse.search({ city: cityPart, state: statePart })
+          if (results.length > 0) {
+            const best = results[0].item
+            resolvedCodes.push(best.location_code)
+            console.log(`🔍 Fuzzy match for "${loc}" → ${best.city}, ${best.state} (${best.location_code})`)
+          } else {
+            console.warn(`❌ No match for location:`, loc)
+          }
+        }
+      }
+
+      console.log('🏷️ Final resolved locationCodes:', resolvedCodes)
+
+      if (keywords.length === 0 || resolvedCodes.length === 0) {
+        setError('Please enter keywords and location(s).')
+        return
+      }
+
+      const payload = { keywords, locationCodes: resolvedCodes }
+      console.log('📤 Sending payload:', payload)
+
       const res = await axios.post('/api/matrix', payload)
       setRows(res.data.matrix || [])
+      console.log('✅ Response received', res.data)
     } catch (err) {
       console.error('[Matrix Load Error]', err)
       setError(`Request failed: ${err.response?.data?.error || err.message}`)
